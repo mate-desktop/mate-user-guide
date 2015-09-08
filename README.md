@@ -1,1 +1,0 @@
-# mate-user-guide-docbook

@@ -1,0 +1,19 @@
+mate-user-guide
+===============
+
+This package contains documents which will be packaged together and
+shipped as mate-user-guide in the core MATE distribution.  They should 
+be documents targeted for end-users of MATE and have general MATE
+applicability.
+
+The MATE Documentation Team is responsible for this documentation.
+
+MDT homepage: http://wiki.mate-desktop.org/dev-doc
+MDT mailing list: http://ml.mate-desktop.org/listinfo/
+
+
+Reporting Problems
+------------------
+
+If you find problems in this documentation, please report issues here:
+https://github.com/mate-desktop/mate-user-guide/issues
