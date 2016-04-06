@@ -1,7 +1,8 @@
 mate-user-guide 1.14.0
 ======================
 
-  * Sync translations of desktop file with transiflex
+  * Sync translations of desktop file from Transifex
+  * Add Changelog generation
 
 mate-user-guide 1.12.0
 ======================
