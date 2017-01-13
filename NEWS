@@ -1,21 +1,17 @@
-mate-user-guide 1.17.0
-======================
+### mate-user-guide 1.17.0
 
   * Translations update
 
-mate-user-guide 1.16.0
-======================
+### mate-user-guide 1.16.0
 
   * Translations update
 
-mate-user-guide 1.14.0
-======================
+### mate-user-guide 1.14.0
 
   * Sync translations of desktop file from Transifex
   * Add Changelog generation
 
-mate-user-guide 1.12.0
-======================
+### mate-user-guide 1.12.0
 
-  * Initial release as a separate package with docbook
-    user-guide (split from mate-desktop)
+  * Initial release as a separate package with docbook user-guide (split
+    from mate-desktop)
