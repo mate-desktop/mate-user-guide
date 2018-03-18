@@ -1,0 +1,7 @@
+#! /bin/sh
+
+PACKAGE=mate-user-guide;
+
+make -C po $PACKAGE.pot && mv po/$PACKAGE.pot .
+
+make -C $PACKAGE $PACKAGE.pot
