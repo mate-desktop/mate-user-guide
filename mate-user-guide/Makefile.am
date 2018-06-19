@@ -82,7 +82,7 @@ HELP_MEDIA =					\
 	figures/yelp_preferences.png \
 	figures/yelp_window.png
 
-HELP_LINGUAS = ar bg cs de el es eu fi fr gl hu id it ja ko oc pa pt pt_BR ru sv th uk zh_CN
+HELP_LINGUAS = af am ar as ast az be bg bn bn_IN br bs ca ca@valencia cmn crh cs cy da de dz el en_AU en_CA en_GB eo es es_CO et eu fa fi fr ga gl gu he hi hr hu hy id is it ja ka kk kn ko ku ku_IQ ky lt lv mai mg mk ml mn mr ms nb nds ne nl nn oc or pa pl ps pt pt_BR ro ru si sk sl sq sr sr@latin sv ta te th tr ug uk ur uz vi xh zh_CN zh_HK zh_TW
 
 
 @INTLTOOL_DESKTOP_RULE@
