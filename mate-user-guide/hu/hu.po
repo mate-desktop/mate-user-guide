@@ -489,7 +489,7 @@ msgstr ""
 "Free Documentation License (GFDL) 1.1-es verziója vagy a Free Software "
 "Foundation által kiadott ennél frissebb verziója alatt, a \"Nem "
 "változtatható szakaszok\", \"Címlapszövegek\" és a \"Hátlapszövegek\" "
-"kivételével. A GFDL leírása ezzel a <:_Qulink1/> érhető el, vagy a jelen "
+"kivételével. A GFDL leírása ezzel a <_:ulink-1/> érhető el, vagy a jelen "
 "dokumentációban található COPYING-DOCS fájlban."
 
 #. (itstool) path: chapter/title
@@ -1442,7 +1442,7 @@ msgstr "Billentyűzet-alapismeretek"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:543
 msgid "<primary>basic skills</primary> <secondary>keyboard skills</secondary>"
-msgstr "<primary>alapismeretek</primary> billentyűzet ismeretek</secondary>"
+msgstr "<primary>alapismeretek</primary> <secondary>billentyűzet ismeretek</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:547

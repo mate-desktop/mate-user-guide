@@ -4671,7 +4671,7 @@ msgstr ""
 "taster på det numeriske tastatur for at opnå det modsatte af den nuværende "
 "opførsel for den tast. For eksempel, når <keycap>NumLock</keycap> er "
 "deaktiveret fungerer tasten <keycap>8</keycap> som en pil op. Tryk på "
-"<keycombo><keycap>Skift</keycap> <keycap>8</keycap> for at skrive et »8«."
+"<keycombo><keycap>Skift</keycap> <keycap>8</keycap></keycombo> for at skrive et »8«."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1695
@@ -9054,7 +9054,7 @@ msgid ""
 "Columns</guisubmenu></menuchoice>"
 msgstr ""
 "For at tilføje eller fjerne kolonner fra listevisningen vælg "
-"<guimenu>Vis</guimenu><guisubmenu>Synlige kolonner</guisubmenu></menuchoice>"
+"<menuchoice><guimenu>Vis</guimenu><guisubmenu>Synlige kolonner</guisubmenu></menuchoice>"
 
 #. (itstool) path: sect3/para
 #: C/goscaja.xml:1344
@@ -9108,7 +9108,8 @@ msgid ""
 "In</guimenuitem></menuchoice>."
 msgstr ""
 "For at øge størrelsen på elementer i en visning, så vælg "
-"<menuchoice><guimenu>Vis<guimenuitem>Zoom ind</guimenuitem></guimenu>."
+"<menuchoice><guimenu>Vis</guimenu><guimenuitem>Zoom "
+"ind</guimenuitem></menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1365

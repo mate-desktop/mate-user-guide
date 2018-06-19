@@ -2472,7 +2472,7 @@ msgid ""
 " Applications</guimenuitem></menuchoice>."
 msgstr ""
 "<application>Tercih Edilen Uygulamalar</application>, "
-"menuchoice><guimenu>Sistem</guimenu><guisubmenu>Tercihler</guisubmenu><guimenuitem>Tercih"
+"<menuchoice><guimenu>Sistem</guimenu><guisubmenu>Tercihler</guisubmenu><guimenuitem>Tercih"
 " Edilen Uygulamalar</guimenuitem></menuchoice> menü yoluyla bulunabilir."
 
 #. (itstool) path: sect2/para
@@ -3074,7 +3074,7 @@ msgid ""
 msgstr ""
 "Yer girişi alanında tema arşiv dosyasının konumunu girin. Veya dosya "
 "listesinde tema arşiv dosyasını seçin. Dosyayı seçtikten sonra "
-"<guibutton>Aç</guibutton düğmesine tıklayın."
+"<guibutton>Aç</guibutton> düğmesine tıklayın."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:459
@@ -5242,7 +5242,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1655
 msgid "<guilabel>Alt/Win key behavior</guilabel>"
-msgstr "guilabel>Alt/Win davranışı</guilabel>"
+msgstr "<guilabel>Alt/Win davranışı</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1656
@@ -5283,7 +5283,7 @@ msgstr ""
 "oluşturmanıza imkân verir. Bu, klavye düzeninizde mevcut olmayan ve şapkası "
 "bulunan bir harfi oluşturmak için kullanılır. Mesela, e-acute harfini elde "
 "etmek için Compose tuşuna, sonra <keycap>'</keycap> tuşuna ardından da "
-"keycap>e</keycap> tuşuna basın."
+"<keycap>e</keycap> tuşuna basın."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1673
@@ -5503,7 +5503,7 @@ msgid ""
 msgstr ""
 "Bu bölüm, ayarlayabileceğiniz tercihlerin her birini açıklar. Klavye "
 "erişilebilirliğinin daha fazla göreve yönelik bir açıklaması için "
-"<citetitle>MATE Masaüstü Erişilebilirlik Kılavuzu/citetitle>'na bakın."
+"<citetitle>MATE Masaüstü Erişilebilirlik Kılavuzu </citetitle>'na bakın."
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:1752
@@ -5611,7 +5611,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1840
 msgid "<guilabel>Ignore fast duplicate keypresses</guilabel>"
-msgstr "<guilabel>Hızlı çoklu tuş basmalarını yoksay<guilabel>"
+msgstr "<guilabel>Hızlı çoklu tuş basmalarını yoksay</guilabel>"
 
 #. (itstool) path: entry/indexterm
 #: C/goscustdesk.xml:1843
@@ -7729,7 +7729,7 @@ msgstr ""
 "MATE'yi kullandığınız sürece, <application>Caja</application> daima çalışır."
 " Yeni bir <application>Caja</application> penceresi açmak için masaüstünde "
 "<guimenuitem>Ev</guimenuitem> veya <guimenuitem>Bilgisayar</guimenuitem> "
-"gibi uygun bir ikona çift tıklayın, ya da üst panelde link linkend=\"places-"
+"gibi uygun bir ikona çift tıklayın, ya da üst panelde <link linkend=\"places-"
 "menu\"><guimenuitem>Yerler</guimenuitem> menüsünden</link> bir unsur seçin."
 
 #. (itstool) path: sect2/para
@@ -8286,7 +8286,7 @@ msgid ""
 "Folder</guimenuitem></menuchoice>."
 msgstr ""
 "Üst menü çubuğundan "
-"menuchoice><guimenu>Yerler</guimenu><guimenuitem>Başlangıç "
+"<menuchoice><guimenu>Yerler</guimenu><guimenuitem>Başlangıç "
 "Dizini</guimenuitem></menuchoice>ni seçin."
 
 #. (itstool) path: sect2/para
@@ -9124,7 +9124,7 @@ msgid ""
 "Use the <guilabel>Tree</guilabel> in the side pane. For more information, "
 "see <xref linkend=\"goscaja-27\"/>."
 msgstr ""
-"Yan bölmedeki <guilabel>Ağacı<guilabel> kullanın. Daha fazla bilgi için "
+"Yan bölmedeki <guilabel>Ağacı</guilabel> kullanın. Daha fazla bilgi için "
 "<xref linkend=\"goscaja-27\"/> sayfasına bakın."
 
 #. (itstool) path: listitem/para
