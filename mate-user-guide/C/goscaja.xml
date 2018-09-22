@@ -634,7 +634,7 @@ and hiding</secondary>
         <para><guilabel>Search bar</guilabel></para>
         <para>By pressing <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or selecting the <guibutton>Search</guibutton> toolbar button the search bar appears. For more information on searching see <xref linkend="caja-searching" />. The search bar is excellent for locating files of folders when you are not sure of their exact location.</para>
       <figure id="goscaja-FIG-904">
-      <title>The button bar.</title>
+      <title>The search bar.</title>
         <screenshot>
           <mediaobject>
             <imageobject>
