@@ -71,7 +71,20 @@ folder. The desktop contains special icons allowing easy access to the users Hom
   <sect2 id="caja-presentation">
     <title>File Manager Presentation</title>
     <para><application>Caja</application> provides two modes in which you can interact with your filesystem: spatial and browser mode. You may decide which method you prefer and set  <application>Caja</application> to always use this by selecting (or deselecting) <guilabel>Always open in browser windows</guilabel> in the <guilabel>Behavior</guilabel> tab of the <xref linkend="caja-preferences"/>.</para>
-    <para>Spatial mode is the default in MATE, but your distributor, vendor, or system administrator may have configured <application>Caja</application> to use browser mode by default.</para>   
+    <para>Browser mode is the default in MATE, but your distributor, vendor, or system administrator may have configured <application>Caja</application> to use spatial mode by default.</para>
+    <figure id="goscaja-FIG-naut-always-use-browser">
+      <title>Dconf-Editor showing the value of always-use-browser key for gsettings org.mate.caja.preferences schema.</title>
+      <screenshot>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="figures/caja_always_use_browser.png" format="PNG"/>
+          </imageobject>
+          <textobject>
+            <phrase>Dconf-Editor showing the value of always-use-browser key for gsettings org.mate.caja.preferences schema.</phrase>
+          </textobject>
+        </mediaobject>
+      </screenshot>
+    </figure>
     <para>The following explains the difference between the two modes:</para>
       <variablelist>
         <varlistentry><!-- BROWSER -->
