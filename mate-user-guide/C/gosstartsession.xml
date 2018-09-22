@@ -17,7 +17,7 @@
       <primary>sessions</primary>
       <secondary>starting</secondary>
     </indexterm>
-    <para>A <firstterm>session</firstterm> is the period of time you spend using MATE, between logging in and logging out. During a session, you use your applications, print, browse the web, and so on.</para>
+    <para>A <firstterm>session</firstterm> is the period you spend using MATE, between logging in and logging out. During a session, you use your applications, print, browse the web, and so on.</para>
     <para>Logging in to MATE begins your session. The login screen is your gateway to the MATE Desktop: it is where you enter your username and password and select options such as the language you want MATE to use for your session.</para>
     <tip><para>
     Normally, logging out ends the session, but you can choose to save the state of your session and restore it next time you use MATE: see <xref linkend="gosstartsession-2"/>.</para></tip>
@@ -168,7 +168,7 @@ panel, click on the <guibutton>Lock Screen</guibutton> button.</para>
       </listitem>
     </itemizedlist>
     <para>To unlock the screen, move your mouse or press any key, enter your password in the locked screen dialog, then press <keycap>Return</keycap>.</para>
-    <para>If another user wants to use the computer while it is locked, they can move the mouse or press a key and then click <guibutton>Switch User</guibutton>. The login screen will be displayed and they can log in using their user account. They will not be able to access any of your applications or information. When they log out, the screen will be locked again and you can access your session by unlocking the screen.</para>
+    <para>If another user wants to use the computer while it is locked, they can move the mouse or press a key and then click <guibutton>Switch User</guibutton>. The login screen will be displayed, and they can log in using their user account. They will not be able to access any of your applications or information. When they log out, the screen will be locked again and you can access your session by unlocking the screen.</para>
   <para>You can leave a message for a user who has locked their screen. Move the mouse or press any key and then click <guibutton>Leave Message</guibutton>. Type your message into the box and press <guibutton>Save</guibutton>. Your message will be displayed when the user unlocks their screen.</para>
   </sect1>
 
@@ -316,7 +316,7 @@ panel, click on the <guibutton>Lock Screen</guibutton> button.</para>
         <para>Shut down your computer and switch off the power. To shut down, choose <menuchoice><guimenu>System</guimenu><guimenuitem>Shut Down</guimenuitem></menuchoice> and click <guibutton>Shut Down</guibutton> on the dialog that appears.</para>
       </listitem>
       <listitem>
-        <para>Depending on your computer's configuration, you can also <firstterm>Hibernate</firstterm> your computer. During hibernation, less power is used, but all of the applications and documents that you have open are preserved and will still be open when you resume from hibernation. You can resume from hibernation by moving your mouse or pressing a key.</para>
+        <para>Depending on your computer's configuration, you can also <firstterm>Hibernate</firstterm> your computer. During hibernation, less power is used, but all the applications and documents that you have open are preserved and will still be open when you resume from hibernation. You can resume from hibernation by moving your mouse or pressing a key.</para>
       </listitem>
     </itemizedlist>
     

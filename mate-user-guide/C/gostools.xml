@@ -3,7 +3,7 @@
   <title>Tools and Utilities</title>
 
   <highlights>
-    <para>This section describes some of the tools and utilities in the MATE Desktop.</para>
+    <para>This section describes some tools and utilities in the MATE Desktop.</para>
   </highlights>
 
   <section id="tools-run-app">
@@ -271,8 +271,8 @@ a screenshot of the entire screen.</para>
     Despite the different formats supported, Yelp does its best to provide a
     unified look and feel regardless of the original document format.</para>
 
-    <para><application>Yelp Help Browser</application> is internationalised, meaning that it has support
-    to view documents in different languages. The documents must be localised
+    <para><application>Yelp Help Browser</application> is internationalized, meaning that it has support
+    to view documents in different languages. The documents must be localized
     or translated for each language and installed properly for Yelp Help
     Browser to be able to view them.</para>
   </section>
@@ -889,7 +889,7 @@ a screenshot of the entire screen.</para>
     <section>
       <title>Get Help</title>
 
-      <para>To get help using <application>Yelp Help Browser</application> (and see this
+      <para>To get help to use <application>Yelp Help Browser</application> (and see this
       document):</para>
 
       <para><itemizedlist>
@@ -963,7 +963,7 @@ a screenshot of the entire screen.</para>
               <para>Use this URI when you want to access a particular man
               page. You can append the section of the man page you would like
               to view if there are multiple man pages with the same
-              name.  The section number should be enclosed in parenthesis and 
+              name.  The section number should be enclosed in parentheses and 
               therefore it may be necessary to escape the argument so that the
               shell does not interpret the parenthesis.</para>
 
@@ -1004,7 +1004,7 @@ a screenshot of the entire screen.</para>
   <section id="yelp-moreinfo">
     <title>More Information</title>
 
-    <para>This section details some of the helper applications which 
+    <para>This section details some helper applications which 
     <application>Yelp Help Browser</application> uses, and provides resources where you can get more information
     about <application>Yelp Help Browser</application>.</para>
 
@@ -1053,7 +1053,7 @@ a screenshot of the entire screen.</para>
   <section id="yelp-joininggdp">
     <title>Joining the MATE Documentation Project</title>
 
-    <para>If you are interesting in helping produce and update documentation
+    <para>If you are interested in helping produce and update documentation
     for the MATE project, please visit the Documentation Project homepage: <ulink url="http://wiki.mate-desktop.org/dev-doc:doc-team-guide?s[]=users[]=guide#mate_documentation_team"></ulink></para>
   </section>
 

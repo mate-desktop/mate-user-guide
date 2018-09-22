@@ -10,8 +10,8 @@
      If you have found a bug in a MATE application, please
    report it! Developers do read all the bug reports and try to fix
    these bugs. Please try to be as specific as possible when
-   describing the circumstances under which the bug shows (what
-   commands did you enter? which buttons did you click?). If there were any
+   describing the circumstances under which the bug shows (What
+   commands did you enter? Which buttons did you click?). If there were any
    error messages, be sure to include them, too.  
       </para> 
       <para>
@@ -30,7 +30,7 @@
 	commercial companies (these products are still free
 	software). For example, <application>blueman</application>, a
 	bluetooth application, is developed at <ulink type="http"
-    url="https://github.com/blueman-project/blueman/">GitHub</ulink>. Bugs reports and
+    url="https://github.com/blueman-project/blueman/">GitHub</ulink>. Bug reports and
 	comments about these products should be directed to the
 	respective organization or company. If you are using <application>Bug 
 	Buddy</application>, it will automatically send bug reports to

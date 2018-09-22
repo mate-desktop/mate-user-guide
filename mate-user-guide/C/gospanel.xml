@@ -106,7 +106,7 @@ these panels.</para>
       <variablelist>
       	<varlistentry>
       		<term><guibutton>Show Desktop</guibutton> button</term>
-      		<listitem><para>Click on this button to minimize all open windows and show the desktop. Click it again to restore all of the windows to their previous state.</para></listitem>
+      		<listitem><para>Click on this button to minimize all open windows and show the desktop. Click it again to restore all the windows to their previous state.</para></listitem>
       	</varlistentry>
       	<varlistentry>
       		<term><application>Window List</application> applet</term>
@@ -1282,7 +1282,7 @@ See <xref linkend="panels-addobject"/> for more on this.</para>
     <itemizedlist>
       <listitem>
         <para><guimenu>Menu Bar</guimenu>: You can access almost
-all of the standard applications, commands, and configuration options from
+all the standard applications, commands, and configuration options from
 the menus in the Menu Bar. It contains the <guimenu>Applications</guimenu>, 
 <guimenu>Places</guimenu>, and <guimenu>System</guimenu> menus.</para>
         <para>To add a <guimenu>Menu Bar</guimenu> to a panel, right-click
@@ -1577,7 +1577,7 @@ Area</application> applet. </para>
       <para>The <application>Menu Bar</application> contains the 
       <guimenu>Applications</guimenu>, <guimenu>Places</guimenu>, and 
       <guimenu>System</guimenu> menus. You can access
-  almost all of the standard applications, commands, and configuration options
+  almost all the standard applications, commands, and configuration options
   from the <application>Menu Bar</application>. For more on using the Menu Bar, see <xref linkend="menubar"/>.</para>
     </section>
 

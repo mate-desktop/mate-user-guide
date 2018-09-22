@@ -47,7 +47,7 @@ or close from a drawer icon. </para>
     <glossterm>file extension</glossterm>
     <glossdef>
       <para>The final portion of a file's name, after the last period (.) in the name. For example, the file extension of the file <filename>picture.jpeg</filename> is <filename>jpeg</filename>.</para>
-      <para>The file extension can identify the type of a file. <application>Caja</application> file manager uses this information when to determine what to do when you open a file. For more on this, see <xref linkend="caja-open-file"/>.</para>
+      <para>The file extension can identify the type of file. <application>Caja</application> file manager uses this information when to determine what to do when you open a file. For more on this, see <xref linkend="caja-open-file"/>.</para>
     </glossdef>
   </glossentry>
   <glossentry id="glossary-23">

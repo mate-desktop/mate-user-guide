@@ -57,12 +57,12 @@ action on the object over which your mouse pointer is situated, depending on whi
       <secondary>button conventions</secondary>
     </indexterm>
 
-    <para>The instructions in this manual are for three buttoned, right handed mouse devices, the most common type.
-        If you use another type of mouse or pointing device, you should take care to locate the corresponding buttons on your mouse.  If you use a left-handed mouse
+    <para>The instructions in this manual are for three buttoned, right-handed mouse devices, the most common type.
+        If you use another type of mouse or pointing device, you should take care to locate the corresponding buttons on your mouse.  If you use a left-handed mouse,
         see the paragraph on setting mouse orientation below.
     </para>
 
-        <note><para>If you set your mouse device to be left handed, you should reverse the mouse button
+        <note><para>If you set your mouse device to be left-handed, you should reverse the mouse button
         conventions used in this manual. This is normally also implied in most documentation and in many
         applications.</para></note>
 
@@ -788,7 +788,7 @@ action on the object over which your mouse pointer is situated, depending on whi
             <entry colname="colspec1" valign="top">
               <para>Resize the currently focused window.  After pressing this
               shortcut, you can resize the window using either the mouse or
-              the arrow keys.  To finish the resize, click the mouse or press
+              the arrow keys.  To finish resizing, click the mouse or press
               any key on the keyboard.</para>
             </entry>
           </row>
