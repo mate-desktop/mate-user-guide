@@ -39,7 +39,7 @@
       <secondary>Applications menu</secondary>
     </indexterm>
     <para>The <guimenu>Applications</guimenu> menu contains a hierarchy of submenus, from which you can start the applications that are installed on your system.</para>
-    <para>Each submenu correponds to a category. For example, in the <guimenu>Sound &amp; Video</guimenu> submenu, you will find applications for playing CDs and recording sound.</para>
+    <para>Each submenu corresponds to a category. For example, in the <guimenu>Sound &amp; Video</guimenu> submenu, you will find applications for playing CDs and recording sound.</para>
     <para>To launch an application, perform the following steps:</para>
     <orderedlist>
       <listitem><para>Open the <guimenu>Applications</guimenu> menu by clicking on it.</para></listitem>
@@ -112,7 +112,7 @@
     </itemizedlist>
     
     <para>To edit the items in these menus, right-click on the panel menubar, and choose <guimenuitem>Edit Menus</guimenuitem>. The <guilabel>Menu Layout</guilabel> window opens.</para>
-    <para>The <guilabel>Menu Layout</guilabel> window lists the menus in the left pane. Click on the expander arrows to show or hide submenus. Choose a menu in the left pane to see its items listed in the right pane.</para>
+    <para>The <guilabel>Menu Layout</guilabel> window lists the menus in the left pane. Click on the expand arrows to show or hide submenus. Choose a menu in the left pane to see its items listed in the right pane.</para>
     <para>To remove an item from a menu, deselect it in the list. The item can be added back to the menu by selecting it once again.</para>
 
   </section>
