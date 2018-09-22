@@ -19,7 +19,7 @@
 customize the MATE Desktop.</para>
   </highlights>
   <!-- move the following to its own section, "Using Pref Tools"? -->
-  <para>A preference tool is a small application that allows you to change settings in the MATE Desktop. Each preference tool covers a particular aspect of your computer. For example, with the <application>Mouse</application> preference tool you can set your mouse to left-handed or right-handed use, or change the speed of the pointer on the screen. With the <application>Windows</application> preference tool you can set behaviour common to all windows such as the way in which you select them with the mouse.</para>
+  <para>A preference tool is a small application that allows you to change settings in the MATE Desktop. Each preference tool covers a particular aspect of your computer. For example, with the <application>Mouse</application> preference tool you can set your mouse to left-handed or right-handed use, or change the speed of the pointer on the screen. With the <application>Windows</application> preference tool you can set behavior common to all windows such as the way in which you select them with the mouse.</para>
   <para>To open a preference tool, choose <menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice> in the top panel. Choose the tool that you require from the submenu.</para>
   <para>With a few exceptions, the changes you make to settings in a preference tool take effect immediately, without needing to close the preference tool. You can keep the preference tool window open while you try the changes, and make further changes if you wish.</para>
   <para>Some applications or system components may add their own preference tools to the menu.</para>
@@ -118,7 +118,7 @@ keys that provides an alternative to standard ways of performing an action. For 
     <para>To edit a keyboard shortcut, perform the following steps:</para>
     <orderedlist>
 	    <listitem><para>
-	    Click the action in the list. If you are using the the keyboard, use the arrow keys to select the shortcut and press <keycap>Return</keycap>.</para></listitem>
+	    Click the action in the list. If you are using the keyboard, use the arrow keys to select the shortcut and press <keycap>Return</keycap>.</para></listitem>
 	    <listitem>
 	      <para>Press the new key or key combination you want to assign to the action.</para>
 	      <para>To clear a shortcut, press <keycap>Backspace</keycap>. The action is now marked as <guilabel>Disabled</guilabel>.</para>
@@ -347,7 +347,7 @@ themes</primary><see>themes, controls options</see></indexterm><indexterm><prima
 the visual appearance of windows, panels, and applets. The controls setting
 also determines the visual appearance of the MATE-compliant interface items
 that appear on windows, panels, and applets, such as menus, icons, and buttons.
-Some of the controls setting options that are available are designed for special
+Some controls setting options that are available are designed for special
 accessibility needs. You can choose an option for the controls setting from
 the <guilabel>Controls</guilabel> tabbed section in the <guilabel>Customize Theme</guilabel> window.</para>
         </listitem>
@@ -381,7 +381,7 @@ the icon setting from the <guilabel>Icons</guilabel> tabbed section in the <guil
         <term>Pointer</term>
         <listitem>
           <para><indexterm><primary>themes</primary><secondary>pointer options</secondary><tertiary>introduction</tertiary></indexterm><indexterm><primary>pointer themes</primary><see>themes, pointer options</see></indexterm>The pointer setting for a theme determines the appearance of
-and sice of the mouse pointer. You can choose an options for the pointer setting fromthe <guilabel>Pointer</guilabel> tabbed section in the <guilabel>Customize Theme</guilabel> window.</para>
+and size of the mouse pointer. You can choose the options for setting the pointer from the <guilabel>Pointer</guilabel> tabbed section in the <guilabel>Customize Theme</guilabel> window.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -1610,7 +1610,7 @@ test area to test the effect of your settings.</para>
       <variablelist>
 	      <varlistentry>
 	        <term><guilabel>Keyboard model</guilabel></term>
-	        <listitem><para>Use the browse button (labelled with the currently selected keyboard model) to choose another keyboard make and model.</para></listitem>
+	        <listitem><para>Use the browse button (labeled with the currently selected keyboard model) to choose another keyboard make and model.</para></listitem>
 	      </varlistentry>
 	      <varlistentry>
 	        <term><guilabel>Separate layout for each window</guilabel></term>
@@ -1636,7 +1636,7 @@ test area to test the effect of your settings.</para>
       <title>Keyboard Layout Options</title>
       <!-- preserve id for backwards compatibility: 2.12 -->
       <anchor id="goscustdesk-101"/>
-      <para>The <guilabel>Keyboard Layout Options</guilabel> dialog has options for the behaviour of keyboard modifier keys and certain shortcut options.</para>
+      <para>The <guilabel>Keyboard Layout Options</guilabel> dialog has options for the behavior of keyboard modifier keys and certain shortcut options.</para>
       <para>Expand each group label to show the available options. A label in boldface indicates that the options in the group have been changed from the default setting.</para>
       <note><para>The options shown in this dialog depend on the X windowing system you are using. Not all the following options might be listed on your system, and not all the options shown might work on your system.</para></note>
 
@@ -1654,7 +1654,7 @@ test area to test the effect of your settings.</para>
         <varlistentry>
                 <term><guilabel>Alt/Win key behavior</guilabel></term>
                 <listitem><para>
-                  This group of options allows you to assign the behaviour of Unix modifier keys Super, Meta, and Hyper to the <keycap>Alt</keycap> and <keycap>Windows</keycap> keys on your keyboard.
+                  This group of options allows you to assign the behavior of Unix modifier keys Super, Meta, and Hyper to the <keycap>Alt</keycap> and <keycap>Windows</keycap> keys on your keyboard.
                 </para></listitem>
         </varlistentry>
         <varlistentry>
@@ -1690,7 +1690,7 @@ test area to test the effect of your settings.</para>
 	                    <term><guilabel>Shift with numpad keys works as in MS Windows.</guilabel></term>
                     	<listitem>
                     	  <para>With this option selected, using <keycap>Shift</keycap> with keys on the numerical pad when <keycap>NumLock</keycap> is off extends the current selection.</para>
-                    	  <para>With this option unselected, use <keycap>Shift</keycap> with keys on the numerical pad to obtain the reverse of the current behaviour for that key. For example, when <keycap>NumLock</keycap> is off, the <keycap>8</keycap> key acts as an up-arrow. Press <keycombo><keycap>Shift</keycap><keycap>8</keycap></keycombo> to type an '8'.</para></listitem>
+                    	  <para>With this option unselected, use <keycap>Shift</keycap> with keys on the numerical pad to obtain the reverse of the current behavior for that key. For example, when <keycap>NumLock</keycap> is off, the <keycap>8</keycap> key acts as an up-arrow. Press <keycombo><keycap>Shift</keycap><keycap>8</keycap></keycombo> to type an '8'.</para></listitem>
                     	</varlistentry>
                     	<varlistentry><term><guilabel>Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server.</guilabel></term>
 	<listitem><para>Select this option to have certain keyboard shortcuts passed to the X windowing system instead of being handled by MATE.</para></listitem>
@@ -1819,7 +1819,7 @@ keypresses.</para>
                   </indexterm>
                 </entry>
                 <entry valign="top">
-                <para>Select this option to control the period of time that you must press-and-hold
+                <para>Select this option to control the period that you must press-and-hold
 a key before acceptance. Alternatively, to enable the slow keys feature, press-and-hold <keycap>Shift</keycap> for eight seconds.</para>
                 </entry>
              </row>
@@ -1831,7 +1831,7 @@ a key before acceptance. Alternatively, to enable the slow keys feature, press-a
                 </entry>
                 <entry valign="top">
                   <para>Use the slider
-to specify the period of time that you must press-and-hold
+to specify the period that you must press-and-hold
 a key before acceptance.</para>
                 </entry>
              </row>
@@ -2045,7 +2045,7 @@ the screen.</para>
                 </para>
               </entry>
               <entry valign="top">
-                <para>Use the slider to specify the period of time that must pass
+                <para>Use the slider to specify the period that must pass
 after a keypress before the pointer moves.</para>
               </entry>
             </row>
@@ -2553,7 +2553,7 @@ section label.</para>
                 rate</emphasis> determines how often the computer redraws the
                 screen. A too low refresh rate (below 60) makes the monitor
                 flicker and can cause discomfort to your eyes. This is less
-                of a problem on LCD displays.
+                of a problem on LCDs.
               </para></listitem>
   </varlistentry>
 	<varlistentry>
@@ -2984,7 +2984,7 @@ preferences that you can modify.</para>
 startup applications as follows:</para>
                 <itemizedlist>
                   <listitem>
-                    <para>To add a startup application, click on the <guibutton>Add</guibutton> button. The <guilabel>New Startup Program</guilabel> dialog is displayed. Enter the name of the appplication in the <guilabel>Name</guilabel> field. Then enter the command to start the application in the <guilabel>Command</guilabel> field. you can also specify a comment in the <guilabel>Comment</guilabel> field</para>
+                    <para>To add a startup application, click on the <guibutton>Add</guibutton> button. The <guilabel>New Startup Program</guilabel> dialog is displayed. Enter the name of the application in the <guilabel>Name</guilabel> field. Then enter the command to start the application in the <guilabel>Command</guilabel> field. You can also specify a comment in the <guilabel>Comment</guilabel> field</para>
                   </listitem>
                   <listitem>
                     <para>To edit a startup application, select the startup application,

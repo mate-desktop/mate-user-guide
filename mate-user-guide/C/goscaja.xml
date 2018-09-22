@@ -62,8 +62,7 @@ file manager to do the following:</para>
     <para><application>Caja</application> also manages the desktop. The desktop
 lies behind all other visible items on your screen. The desktop
 is an active component of the way you use your computer.</para>
-    <para>Every user has a Home Folder. The Home Folder contains all of the user's files. The desktop is another 
-folder. The desktop contains special icons allowing easy access to the users Home Folder, Trash, and also removable media such as floppy disks, CDs and USB flashdrives.</para>
+    <para>Every user has a Home Folder. The Home Folder contains all user's files. The desktop is another folder. The desktop contains special icons allowing easy access to the users Home Folder, Trash, and also removable media such as floppy disks, CDs and USB flash drives.</para>
     <para><application>Caja</application> is always running while you are using MATE. To open a new <application>Caja</application> window, double-click on an appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or <guimenuitem>Computer</guimenuitem>, or choose an item from <link linkend="places-menu"><guimenuitem>Places</guimenuitem> menu</link> on the top panel.</para>
     <para>In MATE many things are files, such as word processor documents, spreadsheets, photos, movies, and music.</para>
 
@@ -143,7 +142,7 @@ folder. The desktop contains special icons allowing easy access to the users Hom
       <primary>file manager</primary>
       <secondary>navigating</secondary>
     </indexterm>
-    <para>The following section describes how to browse your system using the <application>Caja</application> file manager when configured in spatial mode. In spatial mode, each <application>Caja</application> window corresponds to a single folder. When you open a folder its window appears at the same place on the screen as the last time you looked at it. This is the default behaviour in <application>Caja</application>.</para>
+    <para>The following section describes how to browse your system using the <application>Caja</application> file manager when configured in spatial mode. In spatial mode, each <application>Caja</application> window corresponds to a single folder. When you open a folder its window appears at the same place on the screen as the last time you looked at it. This is the default behavior in <application>Caja</application>.</para>
     <para>For a comparison of browser mode and spatial mode, see <xref linkend="caja-presentation"/>.</para>    
     <sect2 id="goscaja-510">
       <title>Spatial Windows</title>
@@ -190,7 +189,7 @@ manager</primary><secondary>icon view</secondary><tertiary>illustration</tertiar
           </screenshot>
         </figure>
 <note>
-<para>Because spatial mode will fill your screen with <application>Caja</application> windows it is important to be able to reposition them effectively. By holding the <keycap>Alt</keycap> key and clicking anywhere within the bounds of a <application>Caja</application> window you may reposition it simply, instead of requiring that you reposition it by dragging its title bar.</para>
+<para>Because spatial mode will fill your screen with <application>Caja</application> windows, it is important to be able to reposition them effectively. By holding the <keycap>Alt</keycap> key and clicking anywhere within the bounds of a <application>Caja</application> window you may reposition it simply, instead of requiring that you reposition it by dragging its title bar.</para>
 </note>
   </sect2>
    <sect2 id="caja-spatial-components">
@@ -427,7 +426,7 @@ of items in the view pane.</para>
                       <para><guibutton>Back</guibutton> Returns to the previously visited location. The adjacent drop down list also contains a list of the most recently visited locations to allow you to return to them faster.</para>
                     </listitem>
                     <listitem>
-                      <para><guimenu>Forward</guimenu> Performs the opposite function to the <guibutton>Back</guibutton> toolbar item. If you have previously navigated back in time then this button returns you to the present.</para>
+                      <para><guimenu>Forward</guimenu> Performs the opposite function to the <guibutton>Back</guibutton> toolbar item. If you have previously navigated back in time, then this button returns you to the present.</para>
                     </listitem>
                     <listitem>
                       <para><guibutton>Up</guibutton> Moves up one level to the parent of the current folder.</para>
@@ -897,7 +896,7 @@ action for that file type.</para>
     <para>The file manager checks the contents of a file to determine the type
 of a file. If the first lines do not determine the type of the file, then
 the file manager checks the <glossterm>file extension</glossterm>.</para>
-    <note><para>If you open an executable text file, that is, one that Caja considers can be run as a program, then you will be asked what you want to do: run it, or display it in a text editor. You can modify this behaviour in the <link linkend="caja-preferences">File Management preferences</link>.</para></note>
+    <note><para>If you open an executable text file, that is, one that Caja considers can be run as a program, then you will be asked what you want to do: run it, or display it in a text editor. You can modify this behavior in the <link linkend="caja-preferences">File Management preferences</link>.</para></note>
     <sect2 id="goscaja-29">
       <title>Executing the Default Action</title>
       <indexterm>
@@ -1013,7 +1012,7 @@ Select the default action with the option to the left of the list.</para>
                         </mediaobject>
                       </screenshot>
                     </figure>
-<para>If you are not happy with your search you can refine it by adding addition conditions. This allows you to restrict the search to a specific file type or location. To add search conditions click the <guibutton>+</guibutton> icon. <xref linkend="goscaja-FIG-927" /> shows a search which has been restricted to the users home directory and to only search for text files.</para>
+<para>If you are not happy with your search, you can refine it by adding addition conditions. This allows you to restrict the search to a specific file type or location. To add search conditions click the <guibutton>+</guibutton> icon. <xref linkend="goscaja-FIG-927" /> shows a search which has been restricted to the users home directory and to only search for text files.</para>
                     <figure id="goscaja-FIG-927">
                     <title>Restricting a search.</title>
                       <screenshot>
@@ -1064,7 +1063,7 @@ files and folders.</para>
 
   	<sect2 id="caja-directories-file-systems" status="complete">
   			<title>Directories and File Systems</title>
-  				<para>Linux and Unix file systems are organised in a hierarchical, tree-like structure.  The highest level of the file system is the <filename>/</filename> or <emphasis>root directory</emphasis>.  In the Unix and Linux design philosophy, everything is considered a file - including hard disks, partitions and removable media. This means that all files and directories (including other disks and partitions) exist under the root directory.
+  				<para>Linux and Unix file systems are organized in a hierarchical, tree-like structure.  The highest level of the file system is the <filename>/</filename> or <emphasis>root directory</emphasis>.  In the Unix and Linux design philosophy, everything is considered a file - including hard disks, partitions and removable media. This means that all files and directories (including other disks and partitions) exist under the root directory.
   				</para>
   				<para>For example, <filename>/home/jebediah/cheeses.odt</filename> shows the correct full path to the <filename>cheeses.odt</filename> file that exists in the <filename>jebediah</filename> directory which is under the <filename>home</filename> directory, which in turn, is under the root (<filename>/</filename>) directory.
   				</para>
@@ -1162,14 +1161,14 @@ of your folders in different ways, icon view, and list view.</para>
           <para>Icon view</para>
           <para><xref linkend="goscaja-FIG-naut-icon-view"/> Shows the items in the folder as icons.
 <figure id="goscaja-FIG-naut-icon-view">
-                    <title>The Home Folder displayed in a icon view.</title>
+                    <title>The Home Folder displayed in an icon view.</title>
 <screenshot>
                   <mediaobject>
                     <imageobject>
                       <imagedata fileref="figures/caja_spatial_icon_view.png" format="PNG"/>
                     </imageobject>
                     <textobject>
-                      <phrase>Your Home Folder displayed in a icon view.</phrase>
+                      <phrase>Your Home Folder displayed in an icon view.</phrase>
                     </textobject>
                   </mediaobject>
                 </screenshot>
@@ -1258,7 +1257,7 @@ within the view pane.</para>
                 </entry>
                 <entry colname="colspec7" valign="top">
                   <para>Select this option to sort the
-items alphabetically by name. The order of the items is not case sensitive.
+items alphabetically by name. The order of the items is not case-sensitive.
 If the file manager is set to display hidden files, the hidden files are shown
 last.</para>
                 </entry>
@@ -1488,7 +1487,7 @@ to Defaults</guimenuitem></menuchoice>.</para>
         <secondary>selecting files and folders</secondary>
       </indexterm>
       <para>You can select files and folders in several
-ways in the file manager. Typically this is achieved by clicking on the files using the mouse, as explained in <xref linkend="goscaja-TBL-10"/>. In addition <xref linkend="caja-select-pattern"/> describes how to select a group of files matching a specific pattern.</para>
+ways in the file manager. Typically, this is achieved by clicking on the files using the mouse, as explained in <xref linkend="goscaja-TBL-10"/>. In addition, <xref linkend="caja-select-pattern"/> describes how to select a group of files matching a specific pattern.</para>
       <table frame="topbot" id="goscaja-TBL-10">
         <title>Selecting Items in the File Manager</title>
         <tgroup cols="2" colsep="0" rowsep="0">
@@ -2110,7 +2109,7 @@ dialog.</para>
                 <para>Volume</para>
               </entry>
               <entry valign="top">
-                <para>The volume on which a folder resides. This is the physical location of the folder, on which media it resides, for example which hard disk or CDROM drive.</para>
+                <para>The volume on which a folder resides. This is the physical location of the folder, on which media it resides, for example which hard disk or CD-ROM drive.</para>
               </entry>
             </row>
             <row>
@@ -3016,7 +3015,7 @@ for the drive disappears.</para>
     <tip><para>A simple way to check what sort of CD or DVD drive your computer has is to choose <menuchoice><guimenu>Places</guimenu><guimenuitem>Computer</guimenuitem></menuchoice> from the top panel menubar. If the icon for your CD drive has terms like "CD-RW" or "DVD(+-)R" in its label, then your computer is able to write discs.</para></tip>
     
     <para>You can start choosing files to burn to a disc at any time. The file manager provides
-a special folder for files and folders that you wish to write to a CD or DVD. From there you can easily write all of the content (which you place in this special folder) to a CD or DVD.</para>
+a special folder for files and folders that you wish to write to a CD or DVD. From there you can easily write all the content (which you place in this special folder) to a CD or DVD.</para>
 
     <sect2 id="caja-cdwriter-data">
       <title>Creating Data Discs</title>
@@ -3062,7 +3061,7 @@ dialog to specify how you want to write the CD, as follows:</para>
                 </entry>
                 <entry valign="top">
                   <para>Select the device to which you want to write the
-CD from the drop-down list. To create an CD image file, select the <guilabel>File image</guilabel> option. A CD image file is a normal file that contains all of the data in the same format as a CD, that you can write to a CD later.</para>
+CD from the drop-down list. To create an CD image file, select the <guilabel>File image</guilabel> option. A CD image file is a normal file that contains all the data in the same format as a CD, that you can write to a CD later.</para>
                 </entry>
               </row>
               <row>
@@ -3112,7 +3111,7 @@ written or when the disc image file is created, a message to indicate that the
 process is complete is displayed in the dialog.</para>
       </listitem>
     </orderedlist>
-    <tip><para>You can set the CD/DVD Creator folder to open automatically when you instert a blank disc. See <xref linkend="goscaja-61"/>.</para></tip>
+    <tip><para>You can set the CD/DVD Creator folder to open automatically when you insert a blank disc. See <xref linkend="goscaja-61"/>.</para></tip>
     <note><para>The filesystem written to the CD will be readable with long filenames on all recent operating systems. Both the Joliet and the Rock Ridge CD-ROM filesystem extensions are used.</para></note>
     </sect2>
     <sect2 id="caja-cdwriter-copy">
