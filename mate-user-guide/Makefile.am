@@ -17,6 +17,7 @@ HELP_FILES = index.docbook	\
 HELP_MEDIA =					\
 	figures/ask_pointer.png \
 	figures/busy_pointer.png \
+	figures/caja_always_use_browser.png \
 	figures/caja_browser_mode.png \
 	figures/caja_button_bar.png \
 	figures/caja_computer_launcher.png \
