@@ -1,6 +1,6 @@
 @YELP_HELP_RULES@
 
-HELP_ID = mate-user-guide
+HELP_ID = mate-user-guide-content
 HELP_FILES = index.docbook	\
 	legal.xml		\
 	gosbasic.xml		\
@@ -82,7 +82,12 @@ HELP_MEDIA =					\
 	figures/yelp_preferences.png \
 	figures/yelp_window.png
 
-HELP_LINGUAS = af am ar as ast az be bg bn bn_IN br bs ca ca@valencia cmn crh cs cy da de dz el en_AU en_CA en_GB eo es es_CO et eu fa fi fr ga gl gu he hi hr hu hy id is it ja ka kk kn ko ku ku_IQ ky lt lv mai mg mk ml mn mr ms nb nds ne nl nn oc or pa pl ps pt pt_BR ro ru si sk sl sq sr sr@latin sv ta te th tr ug uk ur uz vi xh zh_CN zh_HK zh_TW
+HELP_LINGUAS = af am ar as ast az be bg bn bn_IN br bs ca ca@valencia cmn crh \
+               cs cy da de dz el en_AU en_CA en_GB eo es es_CO et eu fa fi fr \
+               ga gl gu he hi hr hu hy id is it ja ka kk kn ko ku ku_IQ ky lt \
+               lv mai mg mk ml mn mr ms nb nds ne nl nn oc or pa pl ps pt pt_BR\
+               ro ru si sk sl sq sr sr@latin sv ta te th tr ug uk ur uz vi xh \
+               zh_CN zh_HK zh_TW
 
 
 @INTLTOOL_DESKTOP_RULE@
