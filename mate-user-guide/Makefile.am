@@ -49,7 +49,6 @@ HELP_MEDIA =					\
 	figures/link_pointer.png \
 	figures/lockscreen_icon.png \
 	figures/logout_icon.png \
-	figures/mate_panel.png \
 	figures/menu_bar_applet.png \
 	figures/menu_panel.png \
 	figures/move_panel_object_pointer.png \
