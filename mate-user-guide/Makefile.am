@@ -19,7 +19,6 @@ HELP_MEDIA =					\
 	figures/busy_pointer.png \
 	figures/caja_browser_mode.png \
 	figures/caja_button_bar.png \
-	figures/caja_computer_launcher.png \
 	figures/caja_emblem.png \
 	figures/caja_go_to_location.png \
 	figures/caja_link_emblem.png \
@@ -39,11 +38,9 @@ HELP_MEDIA =					\
 	figures/caja_spatial_list_view.png \
 	figures/caja_spatial_mode.png \
 	figures/caja_spatial_view.png \
-	figures/caja_starthere_launcher.png \
 	figures/caja_trash_launcher.png \
 	figures/caja_zoom_in_button.png \
 	figures/caja_zoom_out_button.png \
-	figures/com_file_manager_menu.png \
 	figures/copy_pointer.png \
 	figures/force_quit.png \
 	figures/four_hide_button.png \
@@ -73,7 +70,6 @@ HELP_MEDIA =					\
 	figures/show_desktop_button.png \
 	figures/titlebar_anno_window.png \
 	figures/titlebar_window.png \
-	figures/typical_menu.png \
 	figures/window_list_applet.png \
 	figures/window_list_group_applet.png \
 	figures/workspace_switcher_applet.png \
