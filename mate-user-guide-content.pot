@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-03-18 17:57+0100\n"
+"POT-Creation-Date: 2018-09-23 14:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5709,7 +5709,6 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:600
-#: C/goscaja.xml:637
 msgid "The button bar."
 msgstr ""
 
@@ -5781,6 +5780,12 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:635
 msgid "By pressing <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or selecting the <guibutton>Search</guibutton> toolbar button the search bar appears. For more information on searching see <xref linkend=\"caja-searching\"/>. The search bar is excellent for locating files of folders when you are not sure of their exact location."
+msgstr ""
+
+#. (itstool) path: figure/title
+#: C/goscaja.xml:637
+#: C/goscaja.xml:977
+msgid "The search bar."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -6232,11 +6237,6 @@ msgstr ""
 #. (itstool) path: sect1/para
 #: C/goscaja.xml:975
 msgid "The <application>Caja</application> file manager includes an easy and simple to use way search for your files and folders. To begin a search press <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or select the <guibutton>Search</guibutton> toolbar button. The search bar should appear as in <xref linkend=\"goscaja-FIG-925\"/>"
-msgstr ""
-
-#. (itstool) path: figure/title
-#: C/goscaja.xml:977
-msgid "The search bar."
 msgstr ""
 
 #. (itstool) path: sect1/para
