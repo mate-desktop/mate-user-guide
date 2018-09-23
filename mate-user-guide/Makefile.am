@@ -64,7 +64,6 @@ HELP_MEDIA =					\
 	figures/resize_pointer.png \
 	figures/run_button.png \
 	figures/sample_applet.png \
-	figures/screenshot_button.png \
 	figures/searchtool_button.png \
 	figures/show_desktop_button.png \
 	figures/titlebar_anno_window.png \
