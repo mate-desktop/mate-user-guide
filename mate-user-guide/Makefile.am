@@ -55,7 +55,6 @@ HELP_MEDIA =					\
 	figures/logout_icon.png \
 	figures/mate_panel.png \
 	figures/menu_bar_applet.png \
-	figures/menu_panel.png \
 	figures/move_panel_object_pointer.png \
 	figures/move_pointer.png \
 	figures/movewindow_pointer.png \
