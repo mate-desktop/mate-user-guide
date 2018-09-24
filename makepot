@@ -1,10 +1,9 @@
 #! /bin/sh
 
 PACKAGE=mate-user-guide;
-PACKAGE_CONTENT=mate-user-guide-content;
 
 # normal translations for the package
 make -C po $PACKAGE.pot && mv po/$PACKAGE.pot .
 
 # translations for the quide itself
-make -C $PACKAGE $PACKAGE_CONTENT.pot && mv $PACKAGE/$PACKAGE_CONTENT.pot .
+make -C $PACKAGE $PACKAGE.pot
