@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-09-23 20:43+0200\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-09-24 22:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13036,7 +13036,7 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/gospanel.xml:1570
 msgctxt "_"
-msgid "external ref='figures/menu_bar_applet.png' md5='dd0eee59732d5d03d0f90299ef9fa1bd'"
+msgid "external ref='figures/menu_bar_applet.png' md5='8f4bca946498664c1cddd238a5a23498'"
 msgstr ""
 
 #. (itstool) path: screenshot/mediaobject

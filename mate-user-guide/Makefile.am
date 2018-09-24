@@ -1,6 +1,6 @@
 @YELP_HELP_RULES@
 
-HELP_ID = mate-user-guide-content
+HELP_ID = mate-user-guide
 HELP_FILES = index.docbook	\
 	legal.xml		\
 	gosbasic.xml		\
