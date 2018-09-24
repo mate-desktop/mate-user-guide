@@ -20,7 +20,6 @@ HELP_MEDIA =					\
 	figures/caja_always_use_browser.png \
 	figures/caja_browser_mode.png \
 	figures/caja_button_bar.png \
-	figures/caja_computer_launcher.png \
 	figures/caja_emblem.png \
 	figures/caja_go_to_location.png \
 	figures/caja_link_emblem.png \
@@ -29,22 +28,15 @@ HELP_MEDIA =					\
 	figures/caja_nowrite_emblem.png \
 	figures/caja_refine_search.png \
 	figures/caja_restore_saved_search.png \
-	figures/caja_sampleemblem1_icon.png \
-	figures/caja_sampleemblem2_icon.png \
-	figures/caja_sampleemblem3_icon.png \
-	figures/caja_sampleemblem_icon.png \
-	figures/caja_samplesymlink_icon.png \
 	figures/caja_search_bar.png \
 	figures/caja_search_results.png \
 	figures/caja_spatial_icon_view.png \
 	figures/caja_spatial_list_view.png \
 	figures/caja_spatial_mode.png \
 	figures/caja_spatial_view.png \
-	figures/caja_starthere_launcher.png \
 	figures/caja_trash_launcher.png \
 	figures/caja_zoom_in_button.png \
 	figures/caja_zoom_out_button.png \
-	figures/com_file_manager_menu.png \
 	figures/copy_pointer.png \
 	figures/force_quit.png \
 	figures/four_hide_button.png \
@@ -53,7 +45,6 @@ HELP_MEDIA =					\
 	figures/link_pointer.png \
 	figures/lockscreen_icon.png \
 	figures/logout_icon.png \
-	figures/mate_panel.png \
 	figures/menu_bar_applet.png \
 	figures/menu_panel.png \
 	figures/move_panel_object_pointer.png \
@@ -65,18 +56,12 @@ HELP_MEDIA =					\
 	figures/open_drawer.png \
 	figures/openwindows_menu.png \
 	figures/panel_object_popup_menu.png \
-	figures/pluma_window.png \
 	figures/resize_pointer.png \
 	figures/run_button.png \
 	figures/sample_applet.png \
-	figures/screenshot_button.png \
 	figures/searchtool_button.png \
 	figures/show_desktop_button.png \
-	figures/titlebar_anno_window.png \
 	figures/titlebar_window.png \
-	figures/typical_menu.png \
-	figures/window_list_applet.png \
-	figures/window_list_group_applet.png \
 	figures/workspace_switcher_applet.png \
 	figures/yelp_add_bookmark.png \
 	figures/yelp_edit_bookmarks.png \
