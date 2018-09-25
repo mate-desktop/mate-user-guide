@@ -72,7 +72,7 @@ is an active component of the way you use your computer.</para>
     <para><application>Caja</application> provides two modes in which you can interact with your filesystem: spatial and browser mode. You may decide which method you prefer and set  <application>Caja</application> to always use this by selecting (or deselecting) <guilabel>Always open in browser windows</guilabel> in the <guilabel>Behavior</guilabel> tab of the <xref linkend="caja-preferences"/>.</para>
     <para>Browser mode is the default in MATE, but your distributor, vendor, or system administrator may have configured <application>Caja</application> to use spatial mode by default.</para>
     <figure id="goscaja-FIG-naut-always-use-browser">
-      <title>Dconf-Editor showing the value of always-use-browser key for gsettings org.mate.caja.preferences schema.</title>
+      <title>Dconf-Editor showing the value of always-use-browser key for gsettings org.mate.caja.preferences schema</title>
       <screenshot>
         <mediaobject>
           <imageobject>
@@ -93,7 +93,7 @@ is an active component of the way you use your computer.</para>
             <para>As well as the folder contents, the browser window displays a toolbar with common actions and locations, a location bar that shows the current location in the hierarchy of folders, and a sidebar that can hold different kinds of information.</para>
              <para>In Browser Mode, you typically have fewer file manager windows open at a time. For more information on using browser mode see <xref linkend="caja-browser-mode"/>.</para>
           <figure id="goscaja-FIG-naut-browser-mode">
-            <title><application>Caja</application> in browser mode.</title>
+            <title><application>Caja</application> in browser mode</title>
             <screenshot>
               <mediaobject>
                 <imageobject>
@@ -114,7 +114,7 @@ is an active component of the way you use your computer.</para>
             <para>Using spatial mode may lead to more open file manager windows on the screen. On the other hand, some users find that representing files and folders as though they were real physical objects with particular locations makes it easier to work with them. For more information on using spatial mode see <xref linkend="caja-spatial-mode" /></para>
         
             <figure id="goscaja-FIG-naut-spatial-mode">
-              <title>Three Folders Opened in Spatial Mode.</title>
+              <title>Three Folders Opened in Spatial Mode</title>
               <screenshot>
                 <mediaobject>
                   <imageobject>
@@ -176,7 +176,7 @@ manager</primary><secondary>icon view</secondary><tertiary>illustration</tertiar
     <para>In spatial mode each open <application>Caja</application> windows shows only one location. Selecting a second location will open a second <application>Caja</application> window. Because each location remembers the previous position on screen in which it was opened it allows you to easily recognize folders when many of them are open at once.</para>
     <para>Some people consider spatial mode better, particularly for moving files or folders to different location, others find the number of open windows daunting. <xref linkend="goscaja-FIG-naut-spatial-many-open" /> shows an example of spatial browsing with many open locations.</para>
         <figure id="goscaja-FIG-naut-spatial-many-open">
-          <title>Three Folders Opened in Spatial Mode.</title>
+          <title>Three Folders Opened in Spatial Mode</title>
           <screenshot>
             <mediaobject>
               <imageobject>
@@ -609,7 +609,7 @@ and hiding</secondary>
         <para>By default the button bar is shown. This shows a row of buttons representing the current location's hierarchy, with a button for each containing folder. Click on the button to jump between folders in the hierarchy. You can return to the original folder, which is shown as the last button in the row.</para>
         <para>You can also drag buttons, for example to another location, in order to copy a folder.</para>
       <figure id="goscaja-FIG-903">
-      <title>The button bar.</title>
+      <title>The button bar</title>
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -629,7 +629,7 @@ and hiding</secondary>
       <para>To always use the text location bar, click on the toggle button at the left of the location bar.</para>
       <para>To quickly switch to the text location bar while using the button bar, press <keycombo><keycap>Ctrl</keycap><keycap>L</keycap></keycombo>, choose <menuchoice><guimenu>Go</guimenu><guimenuitem>Location</guimenuitem></menuchoice>, or press <keycap>Leading Slash (/)</keycap> to type a path from the root directory. The location bar shows the location buttons again after you press <keycap>Enter</keycap> or cancel with <keycap>Escape</keycap>.</para>
       <figure id="goscaja-FIG-902">
-      <title>The location bar.</title>
+      <title>The location bar</title>
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -646,7 +646,7 @@ and hiding</secondary>
         <para><guilabel>Search bar</guilabel></para>
         <para>By pressing <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or selecting the <guibutton>Search</guibutton> toolbar button the search bar appears. For more information on searching see <xref linkend="caja-searching" />. The search bar is excellent for locating files of folders when you are not sure of their exact location.</para>
       <figure id="goscaja-FIG-904">
-      <title>The search bar.</title>
+      <title>The search bar</title>
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -986,7 +986,7 @@ Select the default action with the option to the left of the list.</para>
     </indexterm>
     <para>The <application>Caja</application> file manager includes an easy and simple to use way search for your files and folders. To begin a search press <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or select the <guibutton>Search</guibutton> toolbar button. The search bar should appear as in <xref linkend="goscaja-FIG-925" /></para>
                     <figure id="goscaja-FIG-925">
-                    <title>The search bar.</title>
+                    <title>The search bar</title>
                       <screenshot>
                         <mediaobject>
                           <imageobject>
@@ -1000,7 +1000,7 @@ Select the default action with the option to the left of the list.</para>
                     </figure>
 <para>Enter characters present in the name or contents of the file or folder you wish to find and press <keycap>Enter</keycap>. The results of your search should appear in the view pane as illustrated in <xref linkend="goscaja-FIG-926" /></para>
                     <figure id="goscaja-FIG-926">
-                    <title>The result of a search.</title>
+                    <title>The result of a search</title>
                       <screenshot>
                         <mediaobject>
                           <imageobject>
@@ -1014,7 +1014,7 @@ Select the default action with the option to the left of the list.</para>
                     </figure>
 <para>If you are not happy with your search, you can refine it by adding addition conditions. This allows you to restrict the search to a specific file type or location. To add search conditions click the <guibutton>+</guibutton> icon. <xref linkend="goscaja-FIG-927" /> shows a search which has been restricted to the users home directory and to only search for text files.</para>
                     <figure id="goscaja-FIG-927">
-                    <title>Restricting a search.</title>
+                    <title>Restricting a search</title>
                       <screenshot>
                         <mediaobject>
                           <imageobject>
@@ -1035,7 +1035,7 @@ for files</secondary>
       </indexterm>
       <para>Caja searches can also be saved for future use. Once saved, searches may be reopened later. <xref linkend="goscaja-FIG-935" /> shows a user with three saved searches, browsing one of them.</para>
                     <figure id="goscaja-FIG-935">
-                    <title>Browsing the results of a saved search.</title>
+                    <title>Browsing the results of a saved search</title>
                       <screenshot>
                         <mediaobject>
                           <imageobject>
@@ -1161,7 +1161,7 @@ of your folders in different ways, icon view, and list view.</para>
           <para>Icon view</para>
           <para><xref linkend="goscaja-FIG-naut-icon-view"/> Shows the items in the folder as icons.
 <figure id="goscaja-FIG-naut-icon-view">
-                    <title>The Home Folder displayed in an icon view.</title>
+                    <title>The Home Folder displayed in an icon view</title>
 <screenshot>
                   <mediaobject>
                     <imageobject>
@@ -1178,7 +1178,7 @@ of your folders in different ways, icon view, and list view.</para>
           <para>List view</para>
           <para><xref linkend="goscaja-FIG-naut-list-view"/> Shows the items in the folder as a list.
 <figure id="goscaja-FIG-naut-list-view">
-                    <title>The Home Folder displayed in a list view.</title>
+                    <title>The Home Folder displayed in a list view</title>
 <screenshot>
                   <mediaobject>
                     <imageobject>
