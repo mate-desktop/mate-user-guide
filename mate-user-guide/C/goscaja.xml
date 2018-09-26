@@ -1064,15 +1064,15 @@ files and folders.</para>
 
   	<sect2 id="caja-directories-file-systems" status="complete">
   			<title>Directories and File Systems</title>
-  				<para>Linux and Unix file systems are organised in a hierarchical, tree-like structure.  The highest level of the file system is the <filename>/</filename> or <emphasis>root directory</emphasis>.  In the Unix and Linux design philosophy, everything is considered a file - including hard disks, partitions and removable media. This means that all files and directories (including other disks and partitions) exist under the root directory.
+  				<para>In Unix-like operating systems, the filesystem is organised in a hierarchical, tree-like structure.  The highest level of the filesystem is the <filename>/</filename> or <emphasis>root directory</emphasis>.  These operating systems create a virtual file system, in which a filesystem object, such as a file or a directory, is represented by an inode. Each inode stores information about its parent and children, as well as is own attributes, among others, the owner, the permissions, the last change/access/modification of the filesystem object.
   				</para>
   				<para>For example, <filename>/home/jebediah/cheeses.odt</filename> shows the correct full path to the <filename>cheeses.odt</filename> file that exists in the <filename>jebediah</filename> directory which is under the <filename>home</filename> directory, which in turn, is under the root (<filename>/</filename>) directory.
   				</para>
-  				<para>Underneath the root (<filename>/</filename>) directory, there is a set of important system directories that are commonly used across most Linux distributions.  The following is a listing of common directories that are directly under the root (<filename>/</filename>) directory:
+  				<para>Underneath the root (<filename>/</filename>) directory, there is a set of important directories, or symbolic links to directories:
   				</para>
   					<itemizedlist>
   						<listitem>
-  							<para><filename>/bin</filename> - important <emphasis>bin</emphasis>ary applications
+  							<para><filename>/bin</filename> - important <emphasis>bin</emphasis>ary applications.
   							</para>
   						</listitem>
   						<listitem>
@@ -1088,7 +1088,7 @@ files and folders.</para>
   							</para>
   						</listitem>
   						<listitem>
-  							<para><filename>/home</filename> - local users' <emphasis>home</emphasis> directories
+  							<para><filename>/home</filename> - local users' <emphasis>home</emphasis> directories.
   							</para>
   						</listitem>
   						<listitem>
@@ -1127,7 +1127,7 @@ files and folders.</para>
   							<para><filename>/srv</filename> - provides a location for data used by <emphasis>s</emphasis>e<emphasis>rv</emphasis>ers</para>
   						</listitem>
   						<listitem>
-  							<para><filename>/sys</filename> - contains information about the <emphasis>sys</emphasis>tem
+  							<para><filename>/sys</filename> - contains information about the <emphasis>sys</emphasis>tem.
   							</para>
   						</listitem>
   						<listitem>
@@ -1143,6 +1143,7 @@ files and folders.</para>
   							</para>
   						</listitem> 
   					</itemizedlist>
+				<note><para>More detailed information on UNIX-like filesystem hierarchy is available at Filesystem Hierarchy Standard 3.0 <ulink url="http://refspecs.linuxfoundation.org/fhs.shtml">http://refspecs.linuxfoundation.org/fhs.shtml</ulink>.</para></note>
   	</sect2>
 
     <sect2 id="goscaja-7">
