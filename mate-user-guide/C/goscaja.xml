@@ -1063,7 +1063,7 @@ files and folders.</para>
 
   	<sect2 id="caja-directories-file-systems" status="complete">
   			<title>Directories and File Systems</title>
-				<para>In Unix-like operating systems, the filesystem is organised in a hierarchical, tree-like structure.  The highest level of the filesystem is the <filename>/</filename> or <emphasis>root directory</emphasis>.  These operating systems create a virtual file system, in which a filesystem object, such as a file or a directory, is represented by an inode. Each inode stores information about its parent and children, as well as its own attributes, among others, the owner, the permissions, the last change/access/modification of the filesystem object.
+				<para>In Linux and other Unix-like operating systems, the filesystem is organised in a hierarchical, tree-like structure.  The highest level of the filesystem is the <filename>/</filename> or <emphasis>root directory</emphasis>.  These operating systems create a virtual file system, in which a filesystem object, such as a file or a directory, is represented by an inode. Each inode stores information about its parent and children, as well as its own attributes, among others, the owner, the permissions, the last change, access or modification of the filesystem object.
   				</para>
   				<para>For example, <filename>/home/jebediah/cheeses.odt</filename> shows the correct full path to the <filename>cheeses.odt</filename> file that exists in the <filename>jebediah</filename> directory which is under the <filename>home</filename> directory, which in turn, is under the root (<filename>/</filename>) directory.
   				</para>
