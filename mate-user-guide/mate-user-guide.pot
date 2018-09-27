@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-09-25 12:54+0200\n"
+"POT-Creation-Date: 2018-09-27 18:40+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5006,7 +5006,7 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:75
-msgid "Dconf-Editor showing the value of always-use-browser key for gsettings org.mate.caja.preferences schema."
+msgid "Dconf-Editor showing the value of always-use-browser key for gsettings org.mate.caja.preferences schema"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -5051,7 +5051,7 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:96
-msgid "<application>Caja</application> in browser mode."
+msgid "<application>Caja</application> in browser mode"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -5088,7 +5088,7 @@ msgstr ""
 #. (itstool) path: figure/title
 #: C/goscaja.xml:117
 #: C/goscaja.xml:179
-msgid "Three Folders Opened in Spatial Mode."
+msgid "Three Folders Opened in Spatial Mode"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -5729,7 +5729,7 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:612
-msgid "The button bar."
+msgid "The button bar"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -5774,7 +5774,7 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:632
-msgid "The location bar."
+msgid "The location bar"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -5805,7 +5805,7 @@ msgstr ""
 #. (itstool) path: figure/title
 #: C/goscaja.xml:649
 #: C/goscaja.xml:989
-msgid "The search bar."
+msgid "The search bar"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -6266,7 +6266,7 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:1003
-msgid "The result of a search."
+msgid "The result of a search"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -6291,7 +6291,7 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:1017
-msgid "Restricting a search."
+msgid "Restricting a search"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -6321,7 +6321,7 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:1038
-msgid "Browsing the results of a saved search."
+msgid "Browsing the results of a saved search"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -6496,7 +6496,7 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:1164
-msgid "The Home Folder displayed in an icon view."
+msgid "The Home Folder displayed in an icon view"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
@@ -6526,7 +6526,7 @@ msgstr ""
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:1181
-msgid "The Home Folder displayed in a list view."
+msgid "The Home Folder displayed in a list view"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata
