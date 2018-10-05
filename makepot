@@ -6,4 +6,5 @@ PACKAGE=mate-user-guide;
 make -C po $PACKAGE.pot && mv po/$PACKAGE.pot .
 
 # translations for the quide itself
+rm -f $PACKAGE/$PACKAGE.pot &&
 make -C $PACKAGE $PACKAGE.pot
