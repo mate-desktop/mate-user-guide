@@ -2828,12 +2828,6 @@ sound output preferences that you can modify.</para>
 <sect1 id="prefs-system">
 	<title>System</title>
 
-
-  <sect2 id="prefs-multimedia">
-    <title>Multimedia Systems Selector</title>
-    <para>See the GStreamer Properties Manual.</para>
-  </sect2>
-
   <sect2 id="prefs-sessions">
     <title>Sessions Preferences</title>
     
