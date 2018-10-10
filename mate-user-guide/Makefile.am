@@ -11,6 +11,8 @@ HELP_FILES = index.docbook	\
 	gospanel.xml		\
 	gosstartsession.xml	\
 	gostools.xml		\
+	gosdconf.xml		\
+	gosdconfkeys.xml	\
 	gosfeedback.xml		\
 	glossary.xml
 
@@ -54,7 +56,11 @@ HELP_MEDIA =					\
 	figures/notification_area_icon.png \
 	figures/open_drawer.png \
 	figures/openwindows_menu.png \
+	figures/org_mate_desktop_background_logical_view.png \
+	figures/org_mate_desktop_background_only_logical_view.png \
 	figures/panel_object_popup_menu.png \
+	figures/picture_filename_dconf_key_edit.png \
+	figures/picture_filename_dconf_key_view.png \
 	figures/resize_pointer.png \
 	figures/run_button.png \
 	figures/sample_applet.png \
