@@ -1,0 +1,1553 @@
+<?xml version="1.0"?>
+<sect1 id="mate-dconf-list">
+  <title>List of Dconf Keys of MATE Desktop</title>
+  <sect2 id="org.mate.accessibility-keyboard">
+    <title>Dconf Directory: /org/mate/desktop/accessibility/keyboard/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/accessibility/keyboard/
+$ gsettings list-keys org.mate.accessibility-keyboard</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>enable</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/enable
+$ gsettings get org.mate.accessibility-keyboard enable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>feature-state-change-beep</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/feature-state-change-beep
+$ gsettings get org.mate.accessibility-keyboard feature-state-change-beep</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>timeout-enable</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/timeout-enable
+$ gsettings get org.mate.accessibility-keyboard timeout-enable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>timeout</term>
+        <listitem>
+          <para>(i) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/timeout
+$ gsettings get org.mate.accessibility-keyboard timeout</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>bouncekeys-enable</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/bouncekeys-enable
+$ gsettings get org.mate.accessibility-keyboard bouncekeys-enable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>bouncekeys-delay</term>
+        <listitem>
+          <para>(i) Ignore multiple presses of the _same_ key within @delay milliseconds.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/bouncekeys-delay
+$ gsettings get org.mate.accessibility-keyboard bouncekeys-delay</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>bouncekeys-beep-reject</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/bouncekeys-beep-reject
+$ gsettings get org.mate.accessibility-keyboard bouncekeys-beep-reject</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>mousekeys-enable</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-enable
+$ gsettings get org.mate.accessibility-keyboard mousekeys-enable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>mousekeys-max-speed</term>
+        <listitem>
+          <para>(i) How many pixels per second to move at the maximum speed.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-max-speed
+$ gsettings get org.mate.accessibility-keyboard mousekeys-max-speed</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>mousekeys-accel-time</term>
+        <listitem>
+          <para>(i) How many milliseconds it takes to go from 0 to maximum speed.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-accel-time
+$ gsettings get org.mate.accessibility-keyboard mousekeys-accel-time</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>mousekeys-init-delay</term>
+        <listitem>
+          <para>(i) How many milliseconds to wait before mouse movement keys start to operate.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-init-delay
+$ gsettings get org.mate.accessibility-keyboard mousekeys-init-delay</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>slowkeys-enable</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-enable
+$ gsettings get org.mate.accessibility-keyboard slowkeys-enable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>slowkeys-delay</term>
+        <listitem>
+          <para>(i) Do not accept a key as being pressed unless held for @delay milliseconds.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-delay
+$ gsettings get org.mate.accessibility-keyboard slowkeys-delay</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>slowkeys-beep-press</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-beep-press
+$ gsettings get org.mate.accessibility-keyboard slowkeys-beep-press</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>slowkeys-beep-accept</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-beep-accept
+$ gsettings get org.mate.accessibility-keyboard slowkeys-beep-accept</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>slowkeys-beep-reject</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-beep-reject
+$ gsettings get org.mate.accessibility-keyboard slowkeys-beep-reject</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>stickykeys-enable</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-enable
+$ gsettings get org.mate.accessibility-keyboard stickykeys-enable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>stickykeys-latch-to-lock</term>
+        <listitem>
+          <para>(b) Latch modifiers when pressed twice in a row until the same modifier is pressed again.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-latch-to-lock
+$ gsettings get org.mate.accessibility-keyboard stickykeys-latch-to-lock</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>stickykeys-two-key-off</term>
+        <listitem>
+          <para>(b) Disable if two keys are pressed at the same time.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-two-key-off
+$ gsettings get org.mate.accessibility-keyboard stickykeys-two-key-off</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>stickykeys-modifier-beep</term>
+        <listitem>
+          <para>(b) Beep when a modifier is pressed.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-modifier-beep
+$ gsettings get org.mate.accessibility-keyboard stickykeys-modifier-beep</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>togglekeys-enable</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/keyboard/togglekeys-enable
+$ gsettings get org.mate.accessibility-keyboard togglekeys-enable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.accessibility-startup">
+    <title>Dconf Directory: /org/mate/desktop/accessibility/startup/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/accessibility/startup/
+$ gsettings list-keys org.mate.accessibility-startup</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>exec-ats</term>
+        <listitem>
+          <para>(as) List of assistive technology applications to start when logging into the MATE desktop.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/accessibility/startup/exec-ats
+$ gsettings get org.mate.accessibility-startup exec-ats</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.applications-at-mobility">
+    <title>Dconf Directory: /org/mate/desktop/applications/at/mobility/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/applications/at/mobility/
+$ gsettings list-keys org.mate.applications-at-mobility</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>exec</term>
+        <listitem>
+          <para>(s) Preferred Mobility assistive technology application to be used for login, menu, or command line.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/at/mobility/exec
+$ gsettings get org.mate.applications-at-mobility exec</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>startup</term>
+        <listitem>
+          <para>(b) MATE to start preferred Mobility assistive technology application during login.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/at/mobility/startup
+$ gsettings get org.mate.applications-at-mobility startup</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.applications-at-visual">
+    <title>Dconf Directory: /org/mate/desktop/applications/at/visual/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/applications/at/visual/
+$ gsettings list-keys org.mate.applications-at-visual</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>exec</term>
+        <listitem>
+          <para>(s) Preferred Visual assistive technology application to be used for login, menu, or command line.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/at/visual/exec
+$ gsettings get org.mate.applications-at-visual exec</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>startup</term>
+        <listitem>
+          <para>(b) MATE to start preferred Visual assistive technology application during login.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/at/visual/startup
+$ gsettings get org.mate.applications-at-visual startup</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.applications-browser">
+    <title>Dconf Directory: /org/mate/desktop/applications/browser/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/applications/browser/
+$ gsettings list-keys org.mate.applications-browser</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>exec</term>
+        <listitem>
+          <para>(s) Default browser for all URLs.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/browser/exec
+$ gsettings get org.mate.applications-browser exec</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>needs-term</term>
+        <listitem>
+          <para>(b) Whether the default browser needs a terminal to run.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/browser/needs-term
+$ gsettings get org.mate.applications-browser needs-term</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>nremote</term>
+        <listitem>
+          <para>(b) Whether the default browser understands netscape remote.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/browser/nremote
+$ gsettings get org.mate.applications-browser nremote</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.applications-office.calendar">
+    <title>Dconf Directory: /org/mate/desktop/applications/calendar/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/applications/calendar/
+$ gsettings list-keys org.mate.applications-office.calendar</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>exec</term>
+        <listitem>
+          <para>(s) Default calendar application</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/calendar/exec
+$ gsettings get org.mate.applications-office.calendar exec</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>needs-term</term>
+        <listitem>
+          <para>(b) Whether the default calendar application needs a terminal to run</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/calendar/needs-term
+$ gsettings get org.mate.applications-office.calendar needs-term</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.applications-office.tasks">
+    <title>Dconf Directory: /org/mate/desktop/applications/tasks/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/applications/tasks/
+$ gsettings list-keys org.mate.applications-office.tasks</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>exec</term>
+        <listitem>
+          <para>(s) Default tasks application</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/tasks/exec
+$ gsettings get org.mate.applications-office.tasks exec</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>needs-term</term>
+        <listitem>
+          <para>(b) Whether the default tasks application needs a terminal to run</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/tasks/needs-term
+$ gsettings get org.mate.applications-office.tasks needs-term</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.applications-terminal">
+    <title>Dconf Directory: /org/mate/desktop/applications/terminal/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/applications/terminal/
+$ gsettings list-keys org.mate.applications-terminal</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>exec</term>
+        <listitem>
+          <para>(s) Terminal program to use when starting applications that require one.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/terminal/exec
+$ gsettings get org.mate.applications-terminal exec</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>exec-arg</term>
+        <listitem>
+          <para>(s) Argument used to execute programs in the terminal defined by the 'exec' key.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/applications/terminal/exec-arg
+$ gsettings get org.mate.applications-terminal exec-arg</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.background">
+    <title>Dconf Directory: /org/mate/desktop/background/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/background/
+$ gsettings list-keys org.mate.background</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>draw-background</term>
+        <listitem>
+          <para>(b) Have MATE draw the desktop background.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/background/draw-background
+$ gsettings get org.mate.background draw-background</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>show-desktop-icons</term>
+        <listitem>
+          <para>(b) Have MATE file manager (Caja) draw the desktop icons.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/background/show-desktop-icons
+$ gsettings get org.mate.background show-desktop-icons</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>background-fade</term>
+        <listitem>
+          <para>(b) If set to true, then MATE will change the desktop background with a fading effect.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/background/background-fade
+$ gsettings get org.mate.background background-fade</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>picture-options</term>
+        <listitem>
+          <para>() Determines how the image set by wallpaper_filename is rendered.  Possible values are "wallpaper", "centered", "scaled", "stretched", "zoom", "spanned".</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/background/picture-options
+$ gsettings get org.mate.background picture-options</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>picture-filename</term>
+        <listitem>
+          <para>(s) File to use for the background image.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/background/picture-filename
+$ gsettings get org.mate.background picture-filename</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>picture-opacity</term>
+        <listitem>
+          <para>(i) Opacity with which to draw the background picture.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/background/picture-opacity
+$ gsettings get org.mate.background picture-opacity</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>primary-color</term>
+        <listitem>
+          <para>(s) Left or Top color when drawing gradients, or the solid color.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/background/primary-color
+$ gsettings get org.mate.background primary-color</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>secondary-color</term>
+        <listitem>
+          <para>(s) Right or Bottom color when drawing gradients, not used for solid color.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/background/secondary-color
+$ gsettings get org.mate.background secondary-color</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>color-shading-type</term>
+        <listitem>
+          <para>() How to shade the background color. Possible values are "horizontal-gradient", "vertical-gradient", and "solid".</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/background/color-shading-type
+$ gsettings get org.mate.background color-shading-type</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.debug">
+    <title>Dconf Directory: /org/mate/debug/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/debug/
+$ gsettings list-keys org.mate.debug</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>caja</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/debug/caja
+$ gsettings get org.mate.debug caja</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>marco</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/debug/marco
+$ gsettings get org.mate.debug marco</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>mate-session</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/debug/mate-session
+$ gsettings get org.mate.debug mate-session</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>mate-settings-daemon</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/debug/mate-settings-daemon
+$ gsettings get org.mate.debug mate-settings-daemon</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>mate-panel</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/debug/mate-panel
+$ gsettings get org.mate.debug mate-panel</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.file-views">
+    <title>Dconf Directory: /org/mate/desktop/file-views/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/file-views/
+$ gsettings list-keys org.mate.file-views</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>icon-theme</term>
+        <listitem>
+          <para>(s) Theme used for displaying file icons.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/file-views/icon-theme
+$ gsettings get org.mate.file-views icon-theme</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.interface">
+    <title>Dconf Directory: /org/mate/desktop/interface/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/interface/
+$ gsettings list-keys org.mate.interface</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>accessibility</term>
+        <listitem>
+          <para>(b) Whether Applications should have accessibility support.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/accessibility
+$ gsettings get org.mate.interface accessibility</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>enable-animations</term>
+        <listitem>
+          <para>(b) Whether animations should be displayed. Note: This is a global key, it changes the behaviour of the window manager, the panel etc.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/enable-animations
+$ gsettings get org.mate.interface enable-animations</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>menus-have-tearoff</term>
+        <listitem>
+          <para>(b) Whether menus should have a tearoff.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/menus-have-tearoff
+$ gsettings get org.mate.interface menus-have-tearoff</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>toolbar-style</term>
+        <listitem>
+          <para>(s) Toolbar Style. Valid values are "both", "both-horiz", "icons", and "text".</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/toolbar-style
+$ gsettings get org.mate.interface toolbar-style</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>menus-have-icons</term>
+        <listitem>
+          <para>(b) Whether menus may display an icon next to a menu entry.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/menus-have-icons
+$ gsettings get org.mate.interface menus-have-icons</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>buttons-have-icons</term>
+        <listitem>
+          <para>(b) Whether buttons may display an icon in addition to the button text.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/buttons-have-icons
+$ gsettings get org.mate.interface buttons-have-icons</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>menubar-detachable</term>
+        <listitem>
+          <para>(b) Whether the user can detach menubars and move them around.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/menubar-detachable
+$ gsettings get org.mate.interface menubar-detachable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>toolbar-detachable</term>
+        <listitem>
+          <para>(b) Whether the user can detach toolbars and move them around.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/toolbar-detachable
+$ gsettings get org.mate.interface toolbar-detachable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>toolbar-icons-size</term>
+        <listitem>
+          <para>(s) Size of icons in toolbars, either "small-toolbar" or "large-toolbar".</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/toolbar-icons-size
+$ gsettings get org.mate.interface toolbar-icons-size</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>cursor-blink</term>
+        <listitem>
+          <para>(b) Whether the cursor should blink.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/cursor-blink
+$ gsettings get org.mate.interface cursor-blink</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>cursor-blink-time</term>
+        <listitem>
+          <para>(i) Length of the cursor blink cycle, in milliseconds.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/cursor-blink-time
+$ gsettings get org.mate.interface cursor-blink-time</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>icon-theme</term>
+        <listitem>
+          <para>(s) Icon theme to use for the panel, Caja etc.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/icon-theme
+$ gsettings get org.mate.interface icon-theme</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-theme</term>
+        <listitem>
+          <para>(s) Basename of the default theme used by gtk+.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-theme
+$ gsettings get org.mate.interface gtk-theme</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-key-theme</term>
+        <listitem>
+          <para>(s) Basename of the default theme used by gtk+.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-key-theme
+$ gsettings get org.mate.interface gtk-key-theme</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-color-scheme</term>
+        <listitem>
+          <para>(s) A '\n' separated list of "name:color" as defined by the 'gtk-color-scheme' setting</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-color-scheme
+$ gsettings get org.mate.interface gtk-color-scheme</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>font-name</term>
+        <listitem>
+          <para>(s) Name of the default font used by gtk+.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/font-name
+$ gsettings get org.mate.interface font-name</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-im-preedit-style</term>
+        <listitem>
+          <para>(s) Name of the GTK+ input method Preedit Style used by gtk+.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-im-preedit-style
+$ gsettings get org.mate.interface gtk-im-preedit-style</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-im-status-style</term>
+        <listitem>
+          <para>(s) Name of the GTK+ input method Status Style used by gtk+.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-im-status-style
+$ gsettings get org.mate.interface gtk-im-status-style</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-im-module</term>
+        <listitem>
+          <para>(s) Name of the input method module used by GTK+.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-im-module
+$ gsettings get org.mate.interface gtk-im-module</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-dialogs-use-header</term>
+        <listitem>
+          <para>(b) Whether builtin GTK+ dialogs such as the file chooser, the color chooser or the font chooser will use a header bar at the top to show action widgets, or an action area at the bottom. This setting does not affect custom dialogs using GtkDialog directly, or message dialogs.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-dialogs-use-header
+$ gsettings get org.mate.interface gtk-dialogs-use-header</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-overlay-scrolling</term>
+        <listitem>
+          <para>(b) Whether built-in GTK+ scrolled windows will use overlay scrolling. Overlay scrolling hides and reduces the size of the scrollbar until it gets focus.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-overlay-scrolling
+$ gsettings get org.mate.interface gtk-overlay-scrolling</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-enable-animations</term>
+        <listitem>
+          <para>(b) Whether to enable toolkit-wide animations.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-enable-animations
+$ gsettings get org.mate.interface gtk-enable-animations</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>document-font-name</term>
+        <listitem>
+          <para>(s) Name of the default font used for reading documents.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/document-font-name
+$ gsettings get org.mate.interface document-font-name</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>monospace-font-name</term>
+        <listitem>
+          <para>(s) Name of a monospaced (fixed-width) font for use in locations like terminals.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/monospace-font-name
+$ gsettings get org.mate.interface monospace-font-name</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>use-custom-font</term>
+        <listitem>
+          <para>(b) Whether to use a custom font in gtk+ applications.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/use-custom-font
+$ gsettings get org.mate.interface use-custom-font</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>status-bar-meter-on-right</term>
+        <listitem>
+          <para>(b) Whether to display a status bar meter on the right.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/status-bar-meter-on-right
+$ gsettings get org.mate.interface status-bar-meter-on-right</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>file-chooser-backend</term>
+        <listitem>
+          <para>(s) Module to use as the filesystem model for the GtkFileChooser widget.  Possible values are "gio" and "gtk+".</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/file-chooser-backend
+$ gsettings get org.mate.interface file-chooser-backend</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>menubar-accel</term>
+        <listitem>
+          <para>(s) Keyboard shortcut to open the menu bars.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/menubar-accel
+$ gsettings get org.mate.interface menubar-accel</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>show-input-method-menu</term>
+        <listitem>
+          <para>(b) Whether the context menus of entries and text views  should offer to change the input method.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/show-input-method-menu
+$ gsettings get org.mate.interface show-input-method-menu</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>show-unicode-menu</term>
+        <listitem>
+          <para>(b) Whether the context menus of entries and text views  should offer to insert control characters.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/show-unicode-menu
+$ gsettings get org.mate.interface show-unicode-menu</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-decoration-layout</term>
+        <listitem>
+          <para>(s) This setting determines which buttons should be put in the titlebar of client-side decorated windows, and whether they should be placed at the left of right. See https://developer.gnome.org/gtk3/stable/GtkSettings.html#GtkSettings--gtk-decoration-layout.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-decoration-layout
+$ gsettings get org.mate.interface gtk-decoration-layout</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-shell-shows-app-menu</term>
+        <listitem>
+          <para>(b)  This setting determines where application menu will be displayed - in a window or on a panel with MenuModel protocol. See https://developer.gnome.org/gtk3/stable/GtkSettings.html#GtkSettings--gtk-shell-shows-app-menu.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-shell-shows-app-menu
+$ gsettings get org.mate.interface gtk-shell-shows-app-menu</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-shell-shows-menubar</term>
+        <listitem>
+          <para>(b)  This setting determines where window menubars will be displayed - in a window or on a panel with MenuModel protocol. See https://developer.gnome.org/gtk3/stable/GtkSettings.html#GtkSettings--gtk-shell-shows-menubar.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-shell-shows-menubar
+$ gsettings get org.mate.interface gtk-shell-shows-menubar</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>automatic-mnemonics</term>
+        <listitem>
+          <para>(b) Whether mnemonics should be automatically shown and hidden when the user presses the Alt key.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/automatic-mnemonics
+$ gsettings get org.mate.interface automatic-mnemonics</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>window-scaling-factor</term>
+        <listitem>
+          <para>(i) This controls the GTK scale factor that maps from window coordinates to the actual device pixels. On traditional systems this is 1, but on very high density displays (e.g. HiDPI, Retina) this can be a higher value (often 2). Set to 0 to auto-detect.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/window-scaling-factor
+$ gsettings get org.mate.interface window-scaling-factor</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>window-scaling-factor-qt-sync</term>
+        <listitem>
+          <para>(b) This setting determines whether MATE controls the scale factor for QT applications. Enable to synchronize with the GTK scale factor when initializing the session, disable to control this value elsewhere. Requires restarting your session.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/window-scaling-factor-qt-sync
+$ gsettings get org.mate.interface window-scaling-factor-qt-sync</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>gtk-enable-primary-paste</term>
+        <listitem>
+          <para>(b) 
+        If true, gtk+ uses the primary paste selection, usually triggered by a middle mouse button click.
+      </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/interface/gtk-enable-primary-paste
+$ gsettings get org.mate.interface gtk-enable-primary-paste</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.lockdown">
+    <title>Dconf Directory: /org/mate/desktop/lockdown/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/lockdown/
+$ gsettings list-keys org.mate.lockdown</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>disable-command-line</term>
+        <listitem>
+          <para>(b) Prevent the user from accessing the terminal or specifying a command line to be executed. For example, this would disable access to the panel's "Run Application" dialog.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/lockdown/disable-command-line
+$ gsettings get org.mate.lockdown disable-command-line</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>disable-save-to-disk</term>
+        <listitem>
+          <para>(b) Prevent the user from saving files to disk. For example, this would disable access to all applications' "Save as" dialogs.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/lockdown/disable-save-to-disk
+$ gsettings get org.mate.lockdown disable-save-to-disk</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>disable-printing</term>
+        <listitem>
+          <para>(b) Prevent the user from printing. For example, this would disable access to all applications' "Print" dialogs.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/lockdown/disable-printing
+$ gsettings get org.mate.lockdown disable-printing</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>disable-print-setup</term>
+        <listitem>
+          <para>(b) Prevent the user from modifying print settings. For example, this would disable access to all applications' "Print Setup" dialogs.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/lockdown/disable-print-setup
+$ gsettings get org.mate.lockdown disable-print-setup</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>disable-user-switching</term>
+        <listitem>
+          <para>(b) Prevent the user from switching to another account while his session is active.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/lockdown/disable-user-switching
+$ gsettings get org.mate.lockdown disable-user-switching</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>disable-lock-screen</term>
+        <listitem>
+          <para>(b) Prevent the user from locking the screen.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/lockdown/disable-lock-screen
+$ gsettings get org.mate.lockdown disable-lock-screen</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>disable-application-handlers</term>
+        <listitem>
+          <para>(b) Prevent running any URL or MIME type handler applications.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/lockdown/disable-application-handlers
+$ gsettings get org.mate.lockdown disable-application-handlers</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>disable-theme-settings</term>
+        <listitem>
+          <para>(b) Prevent the user from changing theme settings.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/lockdown/disable-theme-settings
+$ gsettings get org.mate.lockdown disable-theme-settings</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>disable-log-out</term>
+        <listitem>
+          <para>(b) Prevent the user from logging out.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/lockdown/disable-log-out
+$ gsettings get org.mate.lockdown disable-log-out</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.peripherals-keyboard">
+    <title>Dconf Directory: /org/mate/desktop/peripherals/keyboard/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/peripherals/keyboard/
+$ gsettings list-keys org.mate.peripherals-keyboard</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>repeat</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/repeat
+$ gsettings get org.mate.peripherals-keyboard repeat</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>click</term>
+        <listitem>
+          <para>(b) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/click
+$ gsettings get org.mate.peripherals-keyboard click</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>rate</term>
+        <listitem>
+          <para>(i) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/rate
+$ gsettings get org.mate.peripherals-keyboard rate</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>delay</term>
+        <listitem>
+          <para>(i) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/delay
+$ gsettings get org.mate.peripherals-keyboard delay</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>click-volume</term>
+        <listitem>
+          <para>(i) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/click-volume
+$ gsettings get org.mate.peripherals-keyboard click-volume</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>bell-mode</term>
+        <listitem>
+          <para>(s) possible values are "on", "off", and "custom".</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/bell-mode
+$ gsettings get org.mate.peripherals-keyboard bell-mode</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>bell-pitch</term>
+        <listitem>
+          <para>(i) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/bell-pitch
+$ gsettings get org.mate.peripherals-keyboard bell-pitch</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>bell-duration</term>
+        <listitem>
+          <para>(i) </para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/bell-duration
+$ gsettings get org.mate.peripherals-keyboard bell-duration</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>bell-custom-file</term>
+        <listitem>
+          <para>(s) File name of the bell sound to be played.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/bell-custom-file
+$ gsettings get org.mate.peripherals-keyboard bell-custom-file</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>remember-numlock-state</term>
+        <listitem>
+          <para>(b) When set to true, MATE will remember the state of the NumLock LED between sessions.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/remember-numlock-state
+$ gsettings get org.mate.peripherals-keyboard remember-numlock-state</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>numlock-state</term>
+        <listitem>
+          <para>() The remembered state of the NumLock LED.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/keyboard/numlock-state
+$ gsettings get org.mate.peripherals-keyboard numlock-state</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.peripherals-mouse">
+    <title>Dconf Directory: /org/mate/desktop/peripherals/mouse/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/peripherals/mouse/
+$ gsettings list-keys org.mate.peripherals-mouse</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>left-handed</term>
+        <listitem>
+          <para>(b) Swap left and right mouse buttons for left-handed mice.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/mouse/left-handed
+$ gsettings get org.mate.peripherals-mouse left-handed</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>motion-acceleration</term>
+        <listitem>
+          <para>(d) Acceleration multiplier for mouse motion.  A value of -1 is the system default.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/mouse/motion-acceleration
+$ gsettings get org.mate.peripherals-mouse motion-acceleration</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>motion-threshold</term>
+        <listitem>
+          <para>(i) Distance in pixels the pointer must move before accelerated mouse motion is activated.  A value of -1 is the system default.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/mouse/motion-threshold
+$ gsettings get org.mate.peripherals-mouse motion-threshold</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>drag-threshold</term>
+        <listitem>
+          <para>(i) Distance before a drag is started.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/mouse/drag-threshold
+$ gsettings get org.mate.peripherals-mouse drag-threshold</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>double-click</term>
+        <listitem>
+          <para>(i) Length of a double click.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/mouse/double-click
+$ gsettings get org.mate.peripherals-mouse double-click</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>middle-button-enabled</term>
+        <listitem>
+          <para>(b) Enables middle mouse button emulation through simultaneous left and right button click.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/mouse/middle-button-enabled
+$ gsettings get org.mate.peripherals-mouse middle-button-enabled</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>locate-pointer</term>
+        <listitem>
+          <para>(b) Highlights the current location of the pointer when the Control key is pressed and released.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/mouse/locate-pointer
+$ gsettings get org.mate.peripherals-mouse locate-pointer</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>cursor-theme</term>
+        <listitem>
+          <para>(s) Cursor theme name.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/mouse/cursor-theme
+$ gsettings get org.mate.peripherals-mouse cursor-theme</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>cursor-size</term>
+        <listitem>
+          <para>(i) Size of the cursor referenced by cursor_theme.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/peripherals/mouse/cursor-size
+$ gsettings get org.mate.peripherals-mouse cursor-size</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.sound">
+    <title>Dconf Directory: /org/mate/desktop/sound/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/sound/
+$ gsettings list-keys org.mate.sound</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>default-mixer-device</term>
+        <listitem>
+          <para>(s) The default mixer device used by the multimedia key bindings.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/sound/default-mixer-device
+$ gsettings get org.mate.sound default-mixer-device</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>default-mixer-tracks</term>
+        <listitem>
+          <para>(as) The default mixer tracks used by the multimedia key bindings.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/sound/default-mixer-tracks
+$ gsettings get org.mate.sound default-mixer-tracks</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>enable-esd</term>
+        <listitem>
+          <para>(b) Enable sound server startup.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/sound/enable-esd
+$ gsettings get org.mate.sound enable-esd</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>event-sounds</term>
+        <listitem>
+          <para>(b) Whether to play sounds on user events.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/sound/event-sounds
+$ gsettings get org.mate.sound event-sounds</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>theme-name</term>
+        <listitem>
+          <para>(s) The XDG sound theme to use for event sounds.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/sound/theme-name
+$ gsettings get org.mate.sound theme-name</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>input-feedback-sounds</term>
+        <listitem>
+          <para>(b) Whether to play sounds on input events.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/sound/input-feedback-sounds
+$ gsettings get org.mate.sound input-feedback-sounds</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.thumbnail-cache">
+    <title>Dconf Directory: /org/mate/desktop/thumbnail-cache/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/thumbnail-cache/
+$ gsettings list-keys org.mate.thumbnail-cache</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>maximum-age</term>
+        <listitem>
+          <para>(i) Maximum age for thumbnails in the cache, in days. Set to -1 to disable cleaning.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/thumbnail-cache/maximum-age
+$ gsettings get org.mate.thumbnail-cache maximum-age</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>maximum-size</term>
+        <listitem>
+          <para>(i) Maximum size of the thumbnail cache, in megabytes. Set to -1 to disable cleaning.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/thumbnail-cache/maximum-size
+$ gsettings get org.mate.thumbnail-cache maximum-size</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.thumbnailers">
+    <title>Dconf Directory: /org/mate/desktop/thumbnailers/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/thumbnailers/
+$ gsettings list-keys org.mate.thumbnailers</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>disable-all</term>
+        <listitem>
+          <para>(b) Set to true to disable all external thumbnailer programs, independent on whether they are independently disabled/enabled.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/thumbnailers/disable-all
+$ gsettings get org.mate.thumbnailers disable-all</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>disable</term>
+        <listitem>
+          <para>(as) Thumbnails will not be created for files whose mime-type is contained in the list.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/thumbnailers/disable
+$ gsettings get org.mate.thumbnailers disable</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+  <sect2 id="org.mate.typing-break">
+    <title>Dconf Directory: /org/mate/desktop/typing-break/</title>
+    <para>To obtain the list of dconf keys, run one of the following commands:</para>
+    <para>
+      <screen>$ dconf list /org/mate/desktop/typing-break/
+$ gsettings list-keys org.mate.typing-break</screen>
+    </para>
+    <para>In the following list of dconf keys, the data type of the dconf key is shown in parentheses, next to its description, if available.
+           The list also contains an example to read the value of the key using the <command>dconf</command> or <command>gsettings</command> commands.</para>
+    <variablelist>
+      <title>List of dconf keys</title>
+      <varlistentry>
+        <term>type-time</term>
+        <listitem>
+          <para>(i) Number of minutes of typing time before break mode starts.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/typing-break/type-time
+$ gsettings get org.mate.typing-break type-time</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>break-time</term>
+        <listitem>
+          <para>(i) Number of minutes that the typing break should last.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/typing-break/break-time
+$ gsettings get org.mate.typing-break break-time</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>allow-postpone</term>
+        <listitem>
+          <para>(b) Whether or not the typing break screen can be postponed.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/typing-break/allow-postpone
+$ gsettings get org.mate.typing-break allow-postpone</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>enabled</term>
+        <listitem>
+          <para>(b) Whether or not keyboard locking is enabled.</para>
+          <para>
+            <screen>$ dconf read /org/mate/desktop/typing-break/enabled
+$ gsettings get org.mate.typing-break enabled</screen>
+          </para>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </sect2>
+</sect1>

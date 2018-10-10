@@ -1,0 +1,313 @@
+<chapter id="mate-dconf">
+
+  <title>Desktop Settings Storage</title>
+
+  <highlights>
+    <para>
+      This chapter describes how are your MATE desktop settings stored,
+      and how to retrieve or modify them using the <command>dconf</command>
+      or <command>gsettings</command> command line tools, or the
+      <application>Dconf Editor</application> GUI application.
+    </para>
+  </highlights>
+
+  <sect1 id="mate-dconf-intro">
+    <title>Introduction</title>
+
+    <para>
+      The settings of your MATE desktop are managed and stored by
+      <application>dconf</application>, which is a key-based configuration system
+      for hardware and software configurations.
+    </para>
+
+    <para>
+      <application>dconf</application> uses several database files in GVDB binary format, one database per file.
+      A dconf profile consists of a single file, in plain text format, which contains a list of database files in GVDB format.
+      All dconf profiles are stored in the <filename class='directory'>/etc/dconf/profile</filename> folder.
+      Example of content for the user profile (/etc/dconf/profile/user file):
+    </para>
+
+<literallayout>user-db: user
+system-db: local
+system-db: site
+system-db: distro</literallayout>
+
+    <para>
+      The previous dconf profile contains 4 GVDB files, one per line.
+    </para>
+
+    <itemizedlist>
+      <listitem>
+        <para><database class='name'>user</database> is the name of the user's databases. They are usually located in the <filename class='directory'>~/.config/dconf</filename> folder</para>
+      </listitem>
+      <listitem>
+        <para><database class='name'>local</database>, <database class='name'>site</database> and <database class='name'>distro</database> are system databases. They are usually located in the <filename class='directory'>/etc/dconf/db</filename> folder</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>
+      Each one of these databases store key-value pairs using a hash map data structure, which can map string keys to GVariant values in a way that is extremely efficient for lookups.
+      The lookup preference is determined by the order of appearance in the dconf profile file, user's databases have the highest preference in the previous dconf profile example.
+      The keys from multiple configuration sources coexist in a logical tree structure. MATE Desktop key-value hashmap entries are under the /org/mate logical node, which are usually stored in user's databases.
+    </para>
+
+    <note>
+      <para>Refer to the <ulink url="man:dconf(7)" type="man"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>7</manvolnum></citerefentry></ulink> for more information about the dconf configuration system.</para>
+    </note>
+
+  <sect2 id="mate-dconf-one-read">
+    <title>To read the value of a dconf key</title>
+
+    <para>
+      The value of a dconf key can be read using the <command>dconf</command> or <command>gsettings</command> command line tools, or the <application>Dconf Editor</application> GUI application.
+    </para>
+
+    <para>
+      This section shows how to read the background picture of your MATE desktop, this values is stored in the dconf key:
+    </para>
+    <itemizedlist>
+      <listitem>
+        <para>/org/mate/desktop/background/picture-filename</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>
+      The following figure displays the full path to this dconf key. Note that the other directories have not been expanded, or they have been removed, and only are showed the keys for dconf directory:
+    </para>
+
+    <itemizedlist>
+      <listitem>
+        <para>/org/mate/desktop/background/</para>
+      </listitem>
+    </itemizedlist>
+
+    <figure id="dconf-logical-full-bakgroud-keys-fig">
+      <title>/org/mate/desktop/background/ dconf directory</title> 
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="figures/org_mate_desktop_background_logical_view.png" format="PNG"/>
+        </imageobject>
+        <textobject>
+          <phrase>Figure showing the contents of /org/mate/desktop/background/ dconf directory.</phrase>
+        </textobject>
+      </mediaobject>
+    </figure>
+
+    <para>
+      You can read the value of a dconf key:
+    </para>
+
+    <sect3 id="read-key-dconf-using-dconf-editor">
+      <title>Using the dconf-editor GUI application</title>
+      <para>
+        To show the value of a dconf key using the <application>Dconf Editor</application> application, perform the following steps:
+      </para>
+      <orderedlist>
+        <listitem>
+          <para>Choose <menuchoice><guimenu>Applications</guimenu><guimenuitem>System Tools</guimenuitem><guimenuitem>dconf Editor</guimenuitem></menuchoice> from the top panel.</para>
+        </listitem>
+        <listitem>
+          <para>Click on the folders to get the full path to the dconf directory.</para>
+        </listitem>
+      </orderedlist>
+
+      <figure>
+        <title>Dconf-Editor showing the value of /org/mate/desktop/background/picture-filename key</title>
+        <screenshot>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="figures/picture_filename_dconf_key_view.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+              <phrase>Dconf-Editor showing the value of /org/mate/desktop/background/picture-filename key</phrase>
+            </textobject>
+          </mediaobject>
+        </screenshot>
+      </figure>
+    </sect3>
+
+    <sect3 id="read-key-dconf-using-dconf">
+      <title>Using the dconf command line tool</title>
+      <para>
+        To read the value of a dconf key using the <command>dconf</command> command line tool, run the following command:
+      </para>
+      <screen>$ dconf read /org/mate/desktop/background/picture-filename
+'/usr/share/backgrounds/mate/desktop/MATE-Stripes-Dark.png'</screen>
+      <para>
+        Synopsis:
+      </para>
+      <synopsis>dconf read [-d] KEY</synopsis>
+      <para>
+        Refer to the <ulink url="man:dconf" type="man"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>dconf</command> command line tool.
+      </para>
+      <tip><para>You can use the <keycap>Tab</keycap> key to auto complete the path to the dconf key. </para></tip>
+    </sect3>
+
+    <sect3 id="read-key-dconf-using-gsettings">
+      <title>Using the gsettings command line tool</title>
+      <para>
+        To read the value of a dconf key using the <command>gsettings</command> command line tool, run the following command:
+      </para>
+      <screen>$ gsettings get org.mate.background picture-filename
+'/usr/share/backgrounds/mate/desktop/MATE-Stripes-Dark.png'</screen>
+      <para>
+        Synopsis:
+      </para>
+      <synopsis>gsettings [--schemadir SCHEMADIR] get SCHEMA[:PATH] KEY</synopsis>
+      <para>
+        Refer to the <ulink url="man:gsettings" type="man"><citerefentry><refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>gsettings</command> command line tool.
+      </para>
+    </sect3>
+  </sect2>
+
+  <sect2 id="mate-dconf-one-change">
+    <title>To change the value of a dconf key</title>
+
+    <para>
+      The value of a dconf key can be modified using the <command>dconf</command> command or the <application>Dconf Editor</application> application.
+    </para>
+    <para>
+      This section shows how to change the background picture of your MATE desktop, this values is stored in the dconf key:
+    </para>
+    <itemizedlist>
+      <listitem>
+        <para>/org/mate/desktop/background/picture-filename</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>
+      The following figure displays the full path to this dconf key. Note that the other directories have not been expanded, or they have been removed, and only are showed the keys for dconf directory:
+    </para>
+    <itemizedlist>
+      <listitem>
+        <para>/org/mate/desktop/background/</para>
+      </listitem>
+    </itemizedlist>
+
+    <figure id="dconf-logical-short-bakgroud-keys-fig">
+      <title>/org/mate/desktop/background/ dconf directory</title>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="figures/org_mate_desktop_background_only_logical_view.png" format="PNG"/>
+        </imageobject>
+        <textobject>
+          <phrase>Figure showing the contents of /org/mate/desktop/background/ dconf directory.</phrase>
+        </textobject>
+      </mediaobject>
+    </figure>
+
+    <para>
+      You can mofify the value of a dconf key:
+    </para>
+
+    <sect3 id="modify-key-dconf-using-dconf-editor">
+      <title>Using the dconf-editor GUI application</title>
+      <para>
+        To edit the background picture of your MATE desktop in <application>Dconf Editor</application>, perform the following steps:
+      </para>
+
+      <orderedlist>
+        <listitem>
+            <para>Choose <menuchoice><guimenu>Applications</guimenu><guimenuitem>System Tools</guimenuitem><guimenuitem>dconf Editor</guimenuitem></menuchoice> from the top panel.</para>
+        </listitem>
+        <listitem>
+          <para>Click on the folders to get the full path to the dconf directory, and then click on the dconf key to edit its value.</para>
+        </listitem>
+        <listitem>
+           <para>Enter the new value in <guilabel>Custom value</guilabel> text box.</para>
+        </listitem>
+        <listitem>
+           <para>Click on the Check mark button to apply the change.</para>
+        </listitem>
+      </orderedlist>
+
+      <figure>
+        <title>Editing the value of /org/mate/desktop/background/picture-filename key in Dconf-Editor dialog</title>
+        <screenshot>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="figures/picture_filename_dconf_key_edit.png" format="PNG"/>
+            </imageobject>
+            <textobject>
+              <phrase>Editing the value of /org/mate/desktop/background/picture-filename key in Dconf-Editor dialog</phrase>
+            </textobject>
+          </mediaobject>
+        </screenshot>
+      </figure>
+    </sect3>
+
+    <sect3 id="modify-key-dconf-using-dconf">
+      <title>Using the dconf command line tool</title>
+      <para>
+        To change the background picture of your MATE desktop, run the following command:
+      </para>
+      <screen>$ dconf write /org/mate/desktop/background/picture-filename \
+"'/usr/share/backgrounds/mate/desktop/MATE-Stripes-Light.png'"</screen>
+      <para>
+        Synopsis:
+      </para>
+      <synopsis>dconf write KEY VALUE</synopsis>
+      <para>
+        Refer to the <ulink url="man:dconf" type="man"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>dconf</command>.
+      </para>
+    </sect3>
+
+    <sect3 id="modify-key-dconf-using-gsettings">
+      <title>Using the gsettings command line tool</title>
+      <para>
+        To change the background picture of your MATE desktop, run the following command:
+      </para>
+      <screen>$ gsettings set org.mate.background picture-filename \
+"'/usr/share/backgrounds/mate/desktop/MATE-Stripes-Light.png'"</screen>
+      <para>
+        Synopsis:
+      </para>
+      <synopsis>gsettings [--schemadir SCHEMADIR] set SCHEMA[:PATH] KEY VALUE</synopsis>
+      <para>
+        Refer to the <ulink url="man:gsettings" type="man"><citerefentry><refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>dconf</command>.
+      </para>
+    </sect3>
+  </sect2>
+
+  <sect2 id="mate-dconf-some-changes">
+    <title>To change the value of several dconf keys</title>
+
+    <para>
+      To change the value of several dconf keys at the same time, perform the following steps:
+    </para>
+    <orderedlist>
+      <listitem>
+        <para>Dump the contents of a dconf directory to a new plain text file:</para>
+        <screen>$ dconf dump /org/mate/desktop/background/ &gt; file.dconf</screen>
+      </listitem>
+      <listitem>
+        <para>Make changes in the plain text file</para>
+<literallayout>[/]
+color-shading-type='vertical-gradient'
+primary-color='rgb(88,145,188)'
+picture-options='zoom'
+picture-filename='/usr/share/backgrounds/mate/desktop/MATE-Stripes-Light.png'
+secondary-color='rgb(60,143,37)'
+</literallayout>
+      </listitem>
+      <listitem>
+        <para>Load the contents of the plain text file to a dconf directory</para>
+        <screen>$ dconf load /org/mate/desktop/background/ &lt; file.dconf</screen>
+      </listitem>
+    </orderedlist>
+    <tip><para>You can also dump/load several directories at once, e.g. to back up and restore all configurations of your MATE desktop:</para>
+        <screen>$ dconf dump /org/mate/ &gt; backup.dconf
+$ dconf load /org/mate/ &lt; backup.dconf</screen>
+    </tip>
+
+    <para>
+      Refer to the <ulink url="man:dconf" type="man"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>dconf</command> command line tool.
+    </para>
+
+  </sect2>
+
+  </sect1>
+
+  <include href="gosdconfkeys.xml" xmlns="http://www.w3.org/2001/XInclude" />   <!-- List of dconf keys -->
+
+</chapter>
