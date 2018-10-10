@@ -263,6 +263,7 @@
   <include href="goscaja.xml" xmlns="http://www.w3.org/2001/XInclude" />    <!-- Caja -->
   <include href="gostools.xml" xmlns="http://www.w3.org/2001/XInclude" />       <!-- Tools & utilities -->
   <include href="goscustdesk.xml" xmlns="http://www.w3.org/2001/XInclude" />    <!-- Preferences -->
+  <include href="gosdconf.xml" xmlns="http://www.w3.org/2001/XInclude" />	<!-- dconf -->
   <include href="glossary.xml" xmlns="http://www.w3.org/2001/XInclude" />       <!-- Glossary -->
   <include href="gosfeedback.xml" xmlns="http://www.w3.org/2001/XInclude" />    <!-- Feedback -->
     
