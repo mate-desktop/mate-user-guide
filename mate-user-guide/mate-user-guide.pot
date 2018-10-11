@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-10-05 18:13+0200\n"
+"POT-Creation-Date: 2018-10-12 00:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1404,8 +1404,8 @@ msgstr ""
 #: C/goscustdesk.xml:2625
 #: C/goscustdesk.xml:2695
 #: C/goscustdesk.xml:2757
-#: C/goscustdesk.xml:2893
-#: C/goscustdesk.xml:2968
+#: C/goscustdesk.xml:2887
+#: C/goscustdesk.xml:2962
 #: C/goscaja.xml:2417
 #: C/goscaja.xml:3049
 #: C/goscaja.xml:3171
@@ -1434,8 +1434,8 @@ msgstr ""
 #: C/goscustdesk.xml:2628
 #: C/goscustdesk.xml:2698
 #: C/goscustdesk.xml:2760
-#: C/goscustdesk.xml:2896
-#: C/goscustdesk.xml:2971
+#: C/goscustdesk.xml:2890
+#: C/goscustdesk.xml:2965
 #: C/goscaja.xml:210
 #: C/goscaja.xml:399
 #: C/goscaja.xml:1236
@@ -4488,160 +4488,150 @@ msgid "System"
 msgstr ""
 
 #. (itstool) path: sect2/title
-#: C/goscustdesk.xml:2833
-msgid "Multimedia Systems Selector"
-msgstr ""
-
-#. (itstool) path: sect2/para
-#: C/goscustdesk.xml:2834
-msgid "See the GStreamer Properties Manual."
-msgstr ""
-
-#. (itstool) path: sect2/title
-#: C/goscustdesk.xml:2838
+#: C/goscustdesk.xml:2832
 msgid "Sessions Preferences"
 msgstr ""
 
 #. (itstool) path: sect2/indexterm
 #. (itstool) path: sect1/indexterm
-#: C/goscustdesk.xml:2843
+#: C/goscustdesk.xml:2837
 #: C/gosstartsession.xml:177
 msgid "<primary>preference tools</primary> <secondary>Sessions</secondary>"
 msgstr ""
 
 #. (itstool) path: sect2/indexterm
-#: C/goscustdesk.xml:2847
+#: C/goscustdesk.xml:2841
 msgid "<primary>sessions</primary> <secondary>preferences</secondary>"
 msgstr ""
 
 #. (itstool) path: sect2/indexterm
-#: C/goscustdesk.xml:2851
+#: C/goscustdesk.xml:2845
 msgid "<primary>startup applications</primary> <secondary>customizing</secondary>"
 msgstr ""
 
 #. (itstool) path: sect2/para
-#: C/goscustdesk.xml:2855
+#: C/goscustdesk.xml:2849
 msgid "The <application>Sessions</application> preference tool enables you to manage your sessions. You can set session preferences, and specify which applications to start when you start a session. You can configure sessions to save the state of applications in the MATE Desktop, and to restore the state when you start another session. You can also use this preference tool to manage multiple MATE sessions."
 msgstr ""
 
 #. (itstool) path: sect2/para
-#: C/goscustdesk.xml:2861
+#: C/goscustdesk.xml:2855
 msgid "You can customize the settings for sessions and startup applications in the following functional areas:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2865
+#: C/goscustdesk.xml:2859
 msgid "<guilabel>Session Options</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2870
+#: C/goscustdesk.xml:2864
 msgid "<guilabel>Startup Programs</guilabel>"
 msgstr ""
 
 #. (itstool) path: sect3/title
-#: C/goscustdesk.xml:2876
+#: C/goscustdesk.xml:2870
 msgid "Setting Session Preferences"
 msgstr ""
 
 #. (itstool) path: sect3/indexterm
-#: C/goscustdesk.xml:2877
+#: C/goscustdesk.xml:2871
 msgid "<primary>sessions</primary> <secondary>setting options</secondary>"
 msgstr ""
 
 #. (itstool) path: sect3/para
-#: C/goscustdesk.xml:2881
+#: C/goscustdesk.xml:2875
 msgid "Use the <guilabel>Session Options</guilabel> tabbed section to manage multiple sessions, and to set preferences for the current session."
 msgstr ""
 
 #. (itstool) path: sect3/para
-#: C/goscustdesk.xml:2883
+#: C/goscustdesk.xml:2877
 msgid "<xref linkend=\"goscustsession-TBL-11\"/> lists the session options that you can modify."
 msgstr ""
 
 #. (itstool) path: table/title
-#: C/goscustdesk.xml:2886
+#: C/goscustdesk.xml:2880
 msgid "Session Options"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2903
+#: C/goscustdesk.xml:2897
 msgid "<guilabel>Automatically remember running applications when logging out</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/indexterm
-#: C/goscustdesk.xml:2908
-#: C/goscustdesk.xml:2927
+#: C/goscustdesk.xml:2902
+#: C/goscustdesk.xml:2921
 msgid "<primary>startup applications</primary> <secondary>session-managed</secondary>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2912
+#: C/goscustdesk.xml:2906
 msgid "Select this option if you want the session manager to save the state of your session when logging out. The session manager saves the session-managed applications that are open, and the settings associated with the session-managed applications when you log out. The next time that you start a session, the applications start automatically, with the saved settings."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2922
+#: C/goscustdesk.xml:2916
 msgid "<guilabel>Remember currently running applications</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2931
+#: C/goscustdesk.xml:2925
 msgid "Select this option if you want the session manager to save the current state of your session. The session manager saves the session-managed applications that are open, and the settings associated with the session-managed applications. The next time that you start a session, the applications start automatically, with the saved settings."
 msgstr ""
 
 #. (itstool) path: sect3/title
-#: C/goscustdesk.xml:2944
+#: C/goscustdesk.xml:2938
 msgid "Configuring Startup Applications"
 msgstr ""
 
 #. (itstool) path: sect3/indexterm
-#: C/goscustdesk.xml:2945
+#: C/goscustdesk.xml:2939
 msgid "<primary>startup applications</primary> <secondary>non-session-managed</secondary>"
 msgstr ""
 
 #. (itstool) path: sect3/para
-#: C/goscustdesk.xml:2949
+#: C/goscustdesk.xml:2943
 msgid "Use the <guilabel>Startup Programs</guilabel> tabbed section of the <application>Sessions</application> preference tool to specify non-session-managed <firstterm>startup applications</firstterm>. Startup applications are applications that start automatically when you start a session. You specify the commands that run the non-session-managed applications in the <guilabel>Startup Programs</guilabel> tabbed section. The commands execute automatically when you log in."
 msgstr ""
 
 #. (itstool) path: sect3/para
-#: C/goscustdesk.xml:2956
+#: C/goscustdesk.xml:2950
 msgid "You can also start session-managed applications automatically. For more information, see <xref linkend=\"goscustsession-16\"/>."
 msgstr ""
 
 #. (itstool) path: sect3/para
-#: C/goscustdesk.xml:2958
+#: C/goscustdesk.xml:2952
 msgid "<xref linkend=\"goscustsession-TBL-19\"/> lists the startup applications preferences that you can modify."
 msgstr ""
 
 #. (itstool) path: table/title
-#: C/goscustdesk.xml:2961
+#: C/goscustdesk.xml:2955
 msgid "Startup Programs Preferences"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2978
+#: C/goscustdesk.xml:2972
 msgid "<guilabel> Additional startup programs</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2983
+#: C/goscustdesk.xml:2977
 msgid "Use this table to manage non-session-managed startup applications as follows:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2987
+#: C/goscustdesk.xml:2981
 msgid "To add a startup application, click on the <guibutton>Add</guibutton> button. The <guilabel>New Startup Program</guilabel> dialog is displayed. Enter the name of the application in the <guilabel>Name</guilabel> field. Then enter the command to start the application in the <guilabel>Command</guilabel> field. You can also specify a comment in the <guilabel>Comment</guilabel> field"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2990
+#: C/goscustdesk.xml:2984
 msgid "To edit a startup application, select the startup application, then click on the <guibutton>Edit</guibutton> button. The <guilabel>Edit Startup Program</guilabel> dialog is displayed. Use the dialog to modify the command and the startup order for the startup application."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2996
+#: C/goscustdesk.xml:2990
 msgid "To delete a startup application, select the startup application, then click on the <guilabel>Remove</guilabel> button."
 msgstr ""
 
@@ -4682,7 +4672,7 @@ msgstr ""
 
 #. (itstool) path: tip/para
 #: C/goseditmainmenu.xml:31
-msgid "By default, the panel menubar is on the <xref linkend=\"top-panel\"/>&gt;. But like any other panel object, you can move the menubar to another panel, or have more than one instance of the menubar in your panels. For more on this, see <xref linkend=\"panel-menus\"/>."
+msgid "By default, the panel menubar is on the <xref linkend=\"top-panel\"/>. But like any other panel object, you can move the menubar to another panel, or have more than one instance of the menubar in your panels. For more on this, see <xref linkend=\"panel-menus\"/>."
 msgstr ""
 
 #. (itstool) path: section/title
