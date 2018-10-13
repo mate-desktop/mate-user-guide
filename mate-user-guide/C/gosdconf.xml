@@ -24,6 +24,11 @@
       <application>dconf</application> uses several database files in GVDB binary format, one database per file.
       A dconf profile consists of a single file, in plain text format, which contains a list of database files in GVDB format.
       All dconf profiles are stored in the <filename class='directory'>/etc/dconf/profile</filename> folder.
+    </para>
+    <para>
+      In most systems, there is no dconf profile file since they only use the default database, user.db which is stored in ~/.config/dconf/user. In such case, there is no system-wide setting, i.e. users just have their own settings.
+    </para>
+    <para>
       Example of content for the user profile (/etc/dconf/profile/user file):
     </para>
 
