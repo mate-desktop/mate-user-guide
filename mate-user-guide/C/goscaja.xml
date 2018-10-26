@@ -2555,7 +2555,7 @@ you no longer need.
         <listitem><para>Files that are listed in a particular folder's <filename>.hidden</filename> file.</para></listitem>
       </itemizedlist>
       
-      <para>You may hide or show hidden files in a particular folder by selecting <menuchoice><guimenu>View</guimenu><guimenuitem>Show Hidden Files</guimenuitem></menuchoice>.</para>
+      <para>You may hide or show hidden files in a particular folder by selecting <menuchoice><guimenu>View</guimenu><guimenuitem>Show Hidden Files</guimenuitem></menuchoice>, or by pressing <keycombo><keycap>Ctrl</keycap><keycap>H</keycap></keycombo>.</para>
       
       <para>To set <application>Caja</application> to always show hidden files, see  <xref linkend="caja-preferences"/>.</para>
 
