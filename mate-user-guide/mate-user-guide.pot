@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-10-21 11:14+0200\n"
+"POT-Creation-Date: 2018-10-27 18:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8286,7 +8286,7 @@ msgstr ""
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:2558
-msgid "You may hide or show hidden files in a particular folder by selecting <menuchoice><guimenu>View</guimenu><guimenuitem>Show Hidden Files</guimenuitem></menuchoice>."
+msgid "You may hide or show hidden files in a particular folder by selecting <menuchoice><guimenu>View</guimenu><guimenuitem>Show Hidden Files</guimenuitem></menuchoice>, or by pressing <keycombo><keycap>Ctrl</keycap><keycap>H</keycap></keycombo>."
 msgstr ""
 
 #. (itstool) path: sect2/para
