@@ -118,7 +118,7 @@ keys that provides an alternative to standard ways of performing an action. For 
     <para>To edit a keyboard shortcut, perform the following steps:</para>
     <orderedlist>
 	    <listitem><para>
-	    Click the action in the list. If you are using the keyboard, use the arrow keys to select the shortcut and press <keycap>Return</keycap>.</para></listitem>
+	    Double-click on the shortcut that you want to edit. If you are using the keyboard, use the arrow keys to select the shortcut and press <keycap>Return</keycap>.</para></listitem>
 	    <listitem>
 	      <para>Press the new key or key combination you want to assign to the action.</para>
 	      <para>To clear a shortcut, press <keycap>Backspace</keycap>. The action is now marked as <guilabel>Disabled</guilabel>.</para>
