@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-10-27 18:54+0200\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1513,7 +1513,7 @@ msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:120
-msgid "Click the action in the list. If you are using the keyboard, use the arrow keys to select the shortcut and press <keycap>Return</keycap>."
+msgid "Double-click on the shortcut that you want to edit. If you are using the keyboard, use the arrow keys to select the shortcut and press <keycap>Return</keycap>."
 msgstr ""
 
 #. (itstool) path: listitem/para
