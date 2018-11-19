@@ -7,6 +7,9 @@ desktop_DATA = $(desktop_in_files:.desktop.in=.desktop)
 
 CLEANFILES = $(desktop_DATA)
 
+EXTRA_DIST = \
+    autogen.sh
+
 # Build ChangeLog from GIT  history
 ChangeLog:
 	$(AM_V_GEN) if test -d $(top_srcdir)/.git; then \
