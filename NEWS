@@ -1,5 +1,38 @@
 ### mate-user-guide 1.21.1
 
+  * update translations
+  * Use make functions for HELP_LINGUAS
+  * tx: fix source file header
+  * tx: update sources for transifex
+  * update instructions for editing keyboard shortcuts
+  * tx: update translation source
+  * added keyboard shortcut for showing hidden files
+  * tx: update translation source
+  * Systems without dconf profiles
+  * dconf settings storage system
+  * transifex: /mate-user-guide/mate-user-guide.pot updated
+  * Remove extra char
+  * GNOME Media is deprecated: remove gstreamer-properties
+  * tx: update translation source
+  * tx: improve makepot
+  * Replace -Dokumentationsprojekt with Documentation Project
+  * tx: update help source file
+  * Virtual filesystem in Unix-like operating systems
+  * tx: update transifex source
+  * Remove full stop (period) in title ending
+  * Remove unused screenshots
+  * Add Catalan screenshot - caja_restore_saved_search
+  * Add Catalan screenshot - caja_always_use_browser.png
+  * tx: update transifex source file
+  * Fix spelling and grammar mistakes
+  * Remove menu_panel.png
+  * Show MATE logo in menu panel
+  * tx: update source for transifex
+  * Resize screenshot
+  * Browser mode is the default in MATE
+  * tx: simplify source (.pot) file generation
+  * Add Catalan screenshots
+  * Fix figure title - search bar
 
 ### mate-user-guide 1.21.0
 
