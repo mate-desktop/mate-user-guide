@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-10-27 18:54+0200\n"
+"POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: Микола Ткач <znadibnyk@gmail.com>, 2018\n"
 "Language-Team: Ukrainian (https://www.transifex.com/mate/teams/13566/uk/)\n"
@@ -1799,7 +1799,7 @@ msgid ""
 "<keycap>Arrow keys</keycap> </keycombo>"
 msgstr ""
 "<keycombo> <keycap>Shift</keycap><keycap>Ctrl</keycap><keycap>Alt</keycap> "
-"<keycap>Клавіші зі стрілками </keycap>"
+"<keycap>Клавіші зі стрілками </keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:835
@@ -2313,8 +2313,9 @@ msgstr "Щоб змінити комбінацію клавіш, виконай�
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:120
 msgid ""
-"Click the action in the list. If you are using the keyboard, use the arrow "
-"keys to select the shortcut and press <keycap>Return</keycap>."
+"Double-click on the shortcut that you want to edit. If you are using the "
+"keyboard, use the arrow keys to select the shortcut and press "
+"<keycap>Return</keycap>."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -3145,7 +3146,7 @@ msgid ""
 "<primary>MATE Desktop preference tools</primary> <see>preference tools</see>"
 msgstr ""
 "<primary>Знаряддя налаштування середовища MATE</primary> <see>знадоби "
-"налаштування"
+"налаштування</see>"
 
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:542
@@ -17811,7 +17812,7 @@ msgstr ""
 #: C/gospanel.xml:96
 msgid ""
 "<primary>bottom edge panel</primary> <secondary>introduction</secondary>"
-msgstr "<primary>долішня панель<secondary>введення</secondary>"
+msgstr "<primary>долішня панель</primary> <secondary>введення</secondary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:100
@@ -20921,7 +20922,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1699
 msgid "<guilabel>Restore to native workspace</guilabel>"
-msgstr "Відновити на початковий робочий простір</guilabel>"
+msgstr "<guilabel>Відновити на початковий робочий простір</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1700
@@ -22392,8 +22393,8 @@ msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Close "
 "Window</guimenuitem> </menuchoice>"
 msgstr ""
-"Натисніть <menuchoice> <guimenu>Файл</guimenu> <guimenuitem>Закрити вікно "
-"</guimenuitem>"
+"Натисніть <menuchoice> <guimenu>Файл</guimenu> <guimenuitem>Закрити "
+"вікно</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:562

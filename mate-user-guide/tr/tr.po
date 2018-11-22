@@ -4,12 +4,13 @@
 # Butterfly <gokhanlnx@gmail.com>, 2018
 # tarakbumba <tarakbumba@gmail.com>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
+# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # mauron, 2018
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-10-27 18:54+0200\n"
+"POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: mauron, 2018\n"
 "Language-Team: Turkish (https://www.transifex.com/mate/teams/13566/tr/)\n"
@@ -2321,8 +2322,9 @@ msgstr "Klavye kısayollarını düzenlemek için şu adımları atın:"
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:120
 msgid ""
-"Click the action in the list. If you are using the keyboard, use the arrow "
-"keys to select the shortcut and press <keycap>Return</keycap>."
+"Double-click on the shortcut that you want to edit. If you are using the "
+"keyboard, use the arrow keys to select the shortcut and press "
+"<keycap>Return</keycap>."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -2499,7 +2501,7 @@ msgid ""
 " Applications</guimenuitem></menuchoice>."
 msgstr ""
 "<application>Tercih Edilen Uygulamalar</application>, "
-"menuchoice><guimenu>Sistem</guimenu><guisubmenu>Tercihler</guisubmenu><guimenuitem>Tercih"
+"<menuchoice><guimenu>Sistem</guimenu><guisubmenu>Tercihler</guisubmenu><guimenuitem>Tercih"
 " Edilen Uygulamalar</guimenuitem></menuchoice> menü yoluyla bulunabilir."
 
 #. (itstool) path: sect2/para
@@ -3089,7 +3091,7 @@ msgid ""
 msgstr ""
 "Yer girişi alanında tema arşiv dosyasının konumunu girin. Veya dosya "
 "listesinde tema arşiv dosyasını seçin. Dosyayı seçtikten sonra "
-"<guibutton>Aç</guibutton düğmesine tıklayın."
+"<guibutton>Aç</guibutton> düğmesine tıklayın."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:459
@@ -5254,7 +5256,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1655
 msgid "<guilabel>Alt/Win key behavior</guilabel>"
-msgstr "guilabel>Alt/Win davranışı</guilabel>"
+msgstr "<guilabel>Alt/Win davranışı</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1656
@@ -5292,7 +5294,7 @@ msgstr ""
 "oluşturmanıza imkân verir. Bu, klavye düzeninizde mevcut olmayan ve şapkası "
 "bulunan bir harfi oluşturmak için kullanılır. Mesela, e-acute harfini elde "
 "etmek için Compose tuşuna, sonra <keycap>'</keycap> tuşuna ardından da "
-"keycap>e</keycap> tuşuna basın."
+"<keycap>e</keycap> tuşuna basın."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1673
@@ -5506,7 +5508,7 @@ msgid ""
 msgstr ""
 "Bu bölüm, ayarlayabileceğiniz tercihlerin her birini açıklar. Klavye "
 "erişilebilirliğinin daha fazla göreve yönelik bir açıklaması için "
-"<citetitle>MATE Masaüstü Erişilebilirlik Kılavuzu/citetitle>'na bakın."
+"<citetitle>MATE Masaüstü Erişilebilirlik Kılavuzu </citetitle>'na bakın."
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:1752
@@ -5609,7 +5611,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1840
 msgid "<guilabel>Ignore fast duplicate keypresses</guilabel>"
-msgstr "<guilabel>Hızlı çoklu tuş basmalarını yoksay<guilabel>"
+msgstr "<guilabel>Hızlı çoklu tuş basmalarını yoksay</guilabel>"
 
 #. (itstool) path: entry/indexterm
 #: C/goscustdesk.xml:1843
@@ -7690,8 +7692,9 @@ msgstr ""
 "MATE'yi kullandığınız sürece, <application>Caja</application> daima çalışır."
 " Yeni bir <application>Caja</application> penceresi açmak için masaüstünde "
 "<guimenuitem>Ev</guimenuitem> veya <guimenuitem>Bilgisayar</guimenuitem> "
-"gibi uygun bir ikona çift tıklayın, ya da üst panelde link linkend=\"places-"
-"menu\"><guimenuitem>Yerler</guimenuitem> menüsünden</link> bir unsur seçin."
+"gibi uygun bir ikona çift tıklayın, ya da üst panelde link <link linkend"
+"=\"places-menu\"><guimenuitem>Yerler</guimenuitem> menüsünden</link> bir "
+"unsur seçin."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:67
@@ -8260,7 +8263,7 @@ msgid ""
 "Folder</guimenuitem></menuchoice>."
 msgstr ""
 "Üst menü çubuğundan "
-"menuchoice><guimenu>Yerler</guimenu><guimenuitem>Başlangıç "
+"<menuchoice><guimenu>Yerler</guimenu><guimenuitem>Başlangıç "
 "Dizini</guimenuitem></menuchoice>ni seçin."
 
 #. (itstool) path: sect2/para
@@ -9100,7 +9103,7 @@ msgid ""
 "Use the <guilabel>Tree</guilabel> in the side pane. For more information, "
 "see <xref linkend=\"goscaja-27\"/>."
 msgstr ""
-"Yan bölmedeki <guilabel>Ağacı<guilabel> kullanın. Daha fazla bilgi için "
+"Yan bölmedeki <guilabel>Ağacı</guilabel> kullanın. Daha fazla bilgi için "
 "<xref linkend=\"goscaja-27\"/> sayfasına bakın."
 
 #. (itstool) path: listitem/para
@@ -9719,8 +9722,8 @@ msgid ""
 msgstr ""
 "<application>Caja</application> dosya yöneticisi dosya ve klasörleri aramak "
 "için kolay ve sade bir yol içerir. Bir arama başlatmak için "
-"keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> tuşlarına basın "
-"veya <guibutton>Ara</guibutton> araç çubuğu düğmesini seçin. Arama çubuğu "
+"<keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> tuşlarına basın"
+" veya <guibutton>Ara</guibutton> araç çubuğu düğmesini seçin. Arama çubuğu "
 "<xref linkend=\"goscaja-FIG-925\"/> resminde gösterildiği gibi "
 "görüntülenmelidir."
 
@@ -10352,11 +10355,11 @@ msgid ""
 "attached to an email."
 msgstr ""
 "Unsurları alfabetik olarak nesne türüne göre sıralamak için bu şıkkı seçin. "
-"Unsurlar alfabetik olarak firstterm>MIME türlerinin</firstterm> açıklamasına"
-" göre sıralanırlar. MIME türü dosyaların biçimini tanımlar ve uygulamaların "
-"dosyaları okumalarına imkân verir. Mesela bir e-posta uygulaması, "
-"<literal>image/png</literal> MIME türünü bir e-postaya PNG resminin "
-"eklendiğini tespit etmek için kullanabilir."
+"Unsurlar alfabetik olarak <firstterm>MIME türlerinin</firstterm> "
+"açıklamasına göre sıralanırlar. MIME türü dosyaların biçimini tanımlar ve "
+"uygulamaların dosyaları okumalarına imkân verir. Mesela bir e-posta "
+"uygulaması, <literal>image/png</literal> MIME türünü bir e-postaya PNG "
+"resminin eklendiğini tespit etmek için kullanabilir."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1296
@@ -13084,7 +13087,7 @@ msgid ""
 msgstr ""
 "<imageobject> <imagedata fileref=\"figures/caja_emblem.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Önemli amblemi taşıyan "
-"bir dosya ikonu> </textobject>"
+"bir dosya ikonu</phrase> </textobject>"
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:2655
@@ -14703,7 +14706,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3516
 msgid "<guilabel>Show only folders</guilabel>"
-msgstr "<guilabel>Sadece dizinleri göster>"
+msgstr "<guilabel>Sadece dizinleri göster</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3521
@@ -16518,7 +16521,7 @@ msgid ""
 msgstr ""
 "Tercih ederseniz, çift tıklama eylemini pencereyi "
 "<firstterm>sarmaya</firstterm> atayabilirsiniz: daha fazla bilgi için <xref "
-"linkend=\"prefs-windows\"/ sayfasına bakın."
+"linkend=\"prefs-windows\"/> sayfasına bakın."
 
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:275
@@ -17851,7 +17854,9 @@ msgstr "Varsayılan değer olarak, alt kenar paneli aşağıdaki nesneleri içer
 #: C/gospanel.xml:102
 msgid ""
 "<primary>bottom edge panel</primary> <secondary>default contents</secondary>"
-msgstr "<primary>alt kenar paneli</primary> <secondary>varsayılan içerikler>"
+msgstr ""
+"<primary>alt kenar paneli</primary> <secondary>varsayılan "
+"içerikler</secondary>"
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:108
@@ -26256,7 +26261,7 @@ msgid ""
 "were doing when the crash took place."
 msgstr ""
 "Hata bildirmenin en kolay yolu, MATE'nin yerleşik hata raporlama aracı olan "
-"<_: application-1 /> uygulamasını kullanmaktır. Bu, bir uygulamanın çökmesi "
+"<_:application-1/> uygulamasını kullanmaktır. Bu, bir uygulamanın çökmesi "
 "durumunda bu otomatik olarak başlayacaktır. MATE geliştiricilerinin ihtiyacı"
 " olan bilgiler otomatik olarak toplanır, ancak çökme sırasında ne yaptığınız"
 " hakkında bilgi vererek daha fazla yardımcı olabilirsiniz."
@@ -26426,7 +26431,7 @@ msgid ""
 "suggestions, and corrections to documentation, see <_:xref-1/>."
 msgstr ""
 "MATE hakkında hata raporları, öneriler ve belgelendirme için düzelmeler gibi"
-" geri bildirimde bulunmak hakkında daha fazla bilgi için <_:ulink-1/> "
+" geri bildirimde bulunmak hakkında daha fazla bilgi için <_:xref-1/> "
 "sayfasına bakın."
 
 #. (itstool) path: glossary/title

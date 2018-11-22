@@ -1,12 +1,13 @@
 # Translators:
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
+# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Joe Hansen <joedalton2@yahoo.dk>, 2018
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-10-27 18:54+0200\n"
+"POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>, 2018\n"
 "Language-Team: Danish (https://www.transifex.com/mate/teams/13566/da/)\n"
@@ -1270,9 +1271,9 @@ msgid ""
 "Symbolic link pointer"
 msgstr ""
 "<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
-"fileref=\"figures/link_pointer.png\"/> </imageobject> <textobject> Symbolsk "
-"henvisning-markør.</phrase> </textobject> </inlinemediaobject> Symbolsk "
-"henvisning-markør"
+"fileref=\"figures/link_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Symbolsk henvisning-markør.</phrase> </textobject> "
+"</inlinemediaobject> Symbolsk henvisning-markør"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:459
@@ -1447,7 +1448,8 @@ msgstr "Tastaturet"
 #: C/gosbasic.xml:543
 msgid "<primary>basic skills</primary> <secondary>keyboard skills</secondary>"
 msgstr ""
-"grundlæggende viden</primary> <secondary>tastaturbeskrivelse</secondary>"
+"<primary>grundlæggende viden</primary> "
+"<secondary>tastaturbeskrivelse</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:547
@@ -2320,11 +2322,12 @@ msgstr "Udfør de følgende trin for at redigere en genvejstast:"
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:120
 msgid ""
-"Click the action in the list. If you are using the keyboard, use the arrow "
-"keys to select the shortcut and press <keycap>Return</keycap>."
+"Double-click on the shortcut that you want to edit. If you are using the "
+"keyboard, use the arrow keys to select the shortcut and press "
+"<keycap>Return</keycap>."
 msgstr ""
-"Klik på handlingen i listen. Hvis du bruger tastaturet, så brug piletasterne"
-" til at vælge genvejen og tryk <keycap>Retur</keycap>."
+"Dobbeltklik på genvejen du ønsker at redigere. Hvis du bruger tastaturet, "
+"brug piletasterne til at vælge genvejen og tryk <keycap>Retur</keycap>."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:123
@@ -3447,6 +3450,9 @@ msgid ""
 "<guilabel>Pick a Color</guilabel> dialog. Choose the color that you want to "
 "appear at the top edge."
 msgstr ""
+"Klik på knappen <guibutton>Øverste farve</guibutton> for at vise dialogen "
+"<guilabel>Vælg en farve</guilabel>. Vælg farven du ønsker skal fremgå ved "
+"den øverste kant."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:687
@@ -3454,6 +3460,8 @@ msgid ""
 "Click on the <guibutton>Bottom Color</guibutton> button. Choose the color "
 "that you want to appear at the bottom edge."
 msgstr ""
+"Klik på knappen <guibutton>Nederste farve</guibutton>. Vælg farven du ønsker"
+" skal fremgå ved den nederste kant."
 
 #. (itstool) path: sect3/title
 #: C/goscustdesk.xml:699
@@ -3650,6 +3658,8 @@ msgid ""
 "<guilabel>Best shapes</guilabel>: Antialiases fonts where possible. Use this"
 " option for standard Cathode Ray Tube (CRT) monitors."
 msgstr ""
+"<guilabel>Bedste udseende</guilabel>: Kantudjævn skrifttyper hvor muligt. "
+"Brug denne indstilling for Cathode Ray Tube-skærme (CRT)."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:795
@@ -3671,6 +3681,10 @@ msgid ""
 " the shape of individual Liquid Crystal Display (LCD) pixels to render fonts"
 " smoothly. Use this option for LCD or flat-screen displays."
 msgstr ""
+"<guilabel>Subpixel smoothing (LCD'er)</guilabel>: Bruger teknikker som "
+"udnytter udseendet i individuelle Liquid Crystal Display-billedpunkter (LCD)"
+" til at optegne bløde skrifttyper. Brug denne indstilling for LCD- eller "
+"fladskærme."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:809
@@ -4794,7 +4808,7 @@ msgstr "Eksterne skrivebordspræferencer"
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:1359
 msgid "<primary>setting session sharing preferences</primary>"
-msgstr ""
+msgstr "<primary>angive præferencer for sessionsdeling</primary>"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:1362
@@ -4979,7 +4993,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1531
 msgid "<guilabel>Key presses repeat when key is held down</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tastetrykgentagelse når tast holdes nede</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1537
@@ -4989,6 +5003,10 @@ msgid ""
 "performed repeatedly. For example, if you press-and-hold a character key, "
 "the character is typed repeatedly."
 msgstr ""
+"Vælg denne indstilling for at aktivere tastaturgentagelse. Hvis "
+"tastaturgentagelse er aktiveret vil handlingen associeret med tasten udføres"
+" gentagende gange, når du trykker og holder en tast nede. For eksempel, hvis"
+" du trykker og holder en tegntast nede, så skrives tegnet gentagende gange."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1545 C/goscustdesk.xml:1828 C/goscustdesk.xml:1855
@@ -5087,6 +5105,8 @@ msgid ""
 "Use the browse button (labeled with the currently selected keyboard model) "
 "to choose another keyboard make and model."
 msgstr ""
+"Brug gennemseknappen (navngivet med den aktuelt valgte tastaturmodel) for at"
+" vælge en anden tastaturproducent og model."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1616
@@ -5181,6 +5201,9 @@ msgid ""
 "The <guilabel>Keyboard Layout Options</guilabel> dialog has options for the "
 "behavior of keyboard modifier keys and certain shortcut options."
 msgstr ""
+"Dialogen <guilabel>Indstillinger for tastaturlayout</guilabel> har "
+"indstillinger for opførelsen hos modifikationstasterne og bestemte "
+"genvejsindstillinger."
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:1640
@@ -5426,7 +5449,7 @@ msgid ""
 "<primary>preference tools</primary> <secondary>Keyboard "
 "Accessibility</secondary>"
 msgstr ""
-"</primary>præferenceværktøjer</primary> "
+"<primary>præferenceværktøjer</primary> "
 "<secondary>Tastaturtilgængelighed</secondary>"
 
 #. (itstool) path: sect3/para
@@ -5493,7 +5516,8 @@ msgstr "<guilabel>Simuler samtidige tastetryk</guilabel>"
 #. (itstool) path: entry/indexterm
 #: C/goscustdesk.xml:1788
 msgid "<primary>accessibility</primary> <secondary>sticky keys</secondary>"
-msgstr "<primary>tilgængelighed</primary> blivende taster</secondary>"
+msgstr ""
+"<primary>tilgængelighed</primary> <secondary>blivende taster</secondary>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1794
@@ -6619,7 +6643,7 @@ msgstr ""
 #. (itstool) path: table/title
 #: C/goscustdesk.xml:2682 C/goscustdesk.xml:2688
 msgid "Sound Input Preferences"
-msgstr ""
+msgstr "Indstillinger for lydindgangen"
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:2683
@@ -6627,6 +6651,8 @@ msgid ""
 "Use the <guilabel>Input</guilabel> tabbed section to set your preferences "
 "for sound input."
 msgstr ""
+"Brug fanebladet <guilabel>Indgang</guilabel> for at angive dine præferencer "
+"for lydindgangen."
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:2685
@@ -6634,11 +6660,13 @@ msgid ""
 "<xref linkend=\"goscustdesk-TBL-1\"/> lists the sound input preferences that"
 " you can modify."
 msgstr ""
+"<xref linkend=\"goscustdesk-TBL-1\"/> viser de præferencer for lydindgangen,"
+" som du kan ændre."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2705
 msgid "<guilabel>Input volume </guilabel> slider"
-msgstr ""
+msgstr "<guilabel>Lydstyrke for indgang</guilabel>-skyder"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2710
@@ -6674,12 +6702,12 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2727
 msgid "<guilabel>Choose a device for sound input </guilabel> list"
-msgstr ""
+msgstr "<guilabel>Vælg en enhed for lydindgang</guilabel>-liste"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2732
 msgid "Choose the device that you want to receive sound input from."
-msgstr ""
+msgstr "Vælg enheden som du ønsker at modtage lydindgangen fra."
 
 #. (itstool) path: note/para
 #: C/goscustdesk.xml:2739
@@ -6696,7 +6724,7 @@ msgstr ""
 #. (itstool) path: table/title
 #: C/goscustdesk.xml:2744 C/goscustdesk.xml:2750
 msgid "Sound Output Preferences"
-msgstr ""
+msgstr "Indstillinger for lydudgangen"
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:2745
@@ -6704,6 +6732,8 @@ msgid ""
 "Use the <guilabel>Output</guilabel> tabbed section to set your preferences "
 "for sound output."
 msgstr ""
+"Brug fanebladet <guilabel>Udgang</guilabel> for at angive dine præferencer "
+"for lydudgangen."
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:2747
@@ -6711,6 +6741,8 @@ msgid ""
 "<xref linkend=\"goscustdesk-TBL-2\"/> lists the sound output preferences "
 "that you can modify."
 msgstr ""
+"<xref linkend=\"goscustdesk-TBL-2\"/> viser de præferencer for lydudgangen, "
+"som du kan ændre."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2767
@@ -6745,17 +6777,17 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2780
 msgid "<guilabel>Choose a device for sound output </guilabel> list"
-msgstr ""
+msgstr "<guilabel>Vælg en enhed for lydudgang</guilabel>-liste"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2785
 msgid "Choose the device that you want to hear sound output from."
-msgstr ""
+msgstr "Vælg enheden som du ønsker at høre lydudgangen fra."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2791
 msgid "<guilabel>Balance </guilabel> slider"
-msgstr ""
+msgstr "<guilabel>Balance</guilabel>-skyder"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2796
@@ -6777,7 +6809,7 @@ msgstr ""
 #. (itstool) path: sect3/title
 #: C/goscustdesk.xml:2808
 msgid "Application Sound Preferences"
-msgstr ""
+msgstr "Indstillinger for programlyd"
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:2809
@@ -6785,6 +6817,8 @@ msgid ""
 "Use the <guilabel>Applications</guilabel> tabbed section to control the "
 "volume of sound played by individual applications."
 msgstr ""
+"Brug fanebladet <guilabel>Programmer</guilabel> til at kontrollere "
+"lydstyrken brugt af individuelle programmer."
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:2811
@@ -6792,6 +6826,8 @@ msgid ""
 "Each application that is currently playing sound is identified by its name "
 "and icon."
 msgstr ""
+"Hvert program som i øjeblikket afspiller lyd identificeres via dets navn og "
+"ikon."
 
 #. (itstool) path: sect1/title
 #: C/goscustdesk.xml:2829
@@ -7363,12 +7399,12 @@ msgstr ""
 #: C/goseditmainmenu.xml:89
 msgid ""
 "For more on logging out and shutting down, see <xref linkend=\"shutdown\"/>."
-msgstr ""
+msgstr "For mere om at logge ud og lukke ned, se <xref linkend=\"shutdown\"/>."
 
 #. (itstool) path: section/title
 #: C/goseditmainmenu.xml:93
 msgid "Customizing the Panel Menubar"
-msgstr ""
+msgstr "Tilpasse panelets menulinje"
 
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:96
@@ -7420,6 +7456,9 @@ msgid ""
 "pane. Click on the expand arrows to show or hide submenus. Choose a menu in "
 "the left pane to see its items listed in the right pane."
 msgstr ""
+"Vindueslisten <guilabel>Menulayout</guilabel> viser menuerne i det venstre "
+"panel. Klik på udvidelsespilene for at vise eller skjule undermenuer. Vælg "
+"en menu i det venstre panel for at se dets elementer vist i det højre panel."
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:116
@@ -7427,6 +7466,8 @@ msgid ""
 "To remove an item from a menu, deselect it in the list. The item can be "
 "added back to the menu by selecting it once again."
 msgstr ""
+"For at fjerne et element fra en menu, fravælg den i listen. Elementet kan "
+"tilføjes igen ved at vælge det igen."
 
 #. (itstool) path: chapter/title
 #: C/goscaja.xml:2
@@ -7540,6 +7581,10 @@ msgid ""
 " access to the users Home Folder, Trash, and also removable media such as "
 "floppy disks, CDs and USB flash drives."
 msgstr ""
+"Hver bruger har en hjemmemappe. Hjemmemappen består af brugerens filer. "
+"Skrivebordet er en anden mappe. Skrivebordet indeholder specielle ikoner, "
+"der giver nem adgang til brugerens hjemmemappe, papirkurv og også eksterne "
+"medier såsom diskettedrev, cd'er og USB-drev."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:66
@@ -7582,6 +7627,12 @@ msgid ""
 "windows</guilabel> in the <guilabel>Behavior</guilabel> tab of the <xref "
 "linkend=\"caja-preferences\"/>."
 msgstr ""
+"<application>Caja</application> tilbyder to tilstande hvormed du kan "
+"interagere med dit filsystem: delvis eller browsertilstand. Du kan beslutte "
+"hvilken metode du foretrækker og indstille at Caja</application> altid "
+"bruger denne indstilling ved at vælge (eller fravælge) <guilabel>Åbn altid i"
+" browservinduer</guilabel> i fanebladet <guilabel>Opførsel</guilabel> i "
+"<xref linkend=\"caja-preferences\"/>."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:73
@@ -7612,6 +7663,8 @@ msgid ""
 "external ref='figures/caja_always_use_browser.png' "
 "md5='19e041314b3a9c8844180f7bf0ef6282'"
 msgstr ""
+"external ref='figures/caja_always_use_browser.png' "
+"md5='19e041314b3a9c8844180f7bf0ef6282'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:77
@@ -7670,7 +7723,7 @@ msgstr ""
 #. (itstool) path: figure/title
 #: C/goscaja.xml:96
 msgid "<application>Caja</application> in browser mode"
-msgstr ""
+msgstr "<application>Caja</application> i browsertilstand"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -7779,7 +7832,7 @@ msgstr "Delvis tilstand"
 #. (itstool) path: sect1/indexterm
 #: C/goscaja.xml:141
 msgid "<primary>file manager</primary> <secondary>navigating</secondary>"
-msgstr ""
+msgstr "<primary>filhåndtering</primary> <secondary>navigation</secondary>"
 
 #. (itstool) path: sect1/para
 #: C/goscaja.xml:145
@@ -7967,7 +8020,7 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:196
 msgid "Spatial Window Components"
-msgstr ""
+msgstr "Komponenter for delvise vinduer"
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:197
@@ -7975,11 +8028,13 @@ msgid ""
 "<xref linkend=\"goscaja-TBL-85\"/> describes the components of file object "
 "windows."
 msgstr ""
+"<xref linkend=\"goscaja-TBL-85\"/> beskriver komponenterne i "
+"filobjektvinduerne."
 
 #. (itstool) path: table/title
 #: C/goscaja.xml:200
 msgid "The Spatial Window Components"
-msgstr ""
+msgstr "Komponenterne for delvise vinduer"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:207 C/goscaja.xml:396
@@ -7995,6 +8050,7 @@ msgstr "Menulinje"
 #: C/goscaja.xml:220 C/goscaja.xml:409
 msgid "Contains menus that you use to perform tasks in the file manager."
 msgstr ""
+"Indeholder menuer som du bruger til at udføre opgaver i filhåndteringen."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:221 C/goscaja.xml:410
@@ -8015,7 +8071,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:235 C/goscaja.xml:536
 msgid "Shows the contents of the following:"
-msgstr ""
+msgstr "Viser indholdet af følgende:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:238 C/goscaja.xml:539 C/goscaja.xml:2485
@@ -8025,12 +8081,12 @@ msgstr "Mapper"
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:241 C/goscaja.xml:542
 msgid "FTP sites"
-msgstr ""
+msgstr "FTP-sider"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:244 C/goscaja.xml:545
 msgid "Windows shares"
-msgstr ""
+msgstr "Vinduesdelinger"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:247 C/goscaja.xml:548
@@ -8078,7 +8134,7 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:277
 msgid "Displaying Your Home Folder in a Spatial Window"
-msgstr ""
+msgstr "Vis din hjemmemappe i et delvist vindue"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:278 C/goscaja.xml:670
@@ -8086,21 +8142,23 @@ msgid ""
 "<primary>file manager</primary> <secondary>Home location</secondary> "
 "<see>Home location</see>"
 msgstr ""
+"<primary>filhåndtering</primary> <secondary>Hjemmeplacering</secondary> "
+"<see>Hjemmeplacering</see>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:283 C/goscaja.xml:675
 msgid "<primary>Home location</primary> <secondary>displaying</secondary>"
-msgstr ""
+msgstr "<primary>Hjemmeplacering</primary> <secondary>viser</secondary>"
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:287
 msgid "To display your Home Folder, perform one of the following actions:"
-msgstr ""
+msgstr "For at vise din hjemmemappe, udfør en af de følgende handlinger:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:291
 msgid "Double-click on the <guilabel>Home</guilabel> object on the desktop."
-msgstr ""
+msgstr "Dobbeltklik på objektet <guilabel>Hjem</guilabel> på skrivebordet."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:295
@@ -8109,6 +8167,8 @@ msgid ""
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Home "
 "Folder</guimenuitem></menuchoice>."
 msgstr ""
+"Fra et mappevindues menulinje, vælg "
+"<menuchoice><guimenu>Steder</guimenu><guimenuitem>Hjemmemappe</guimenuitem></menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:297
@@ -8117,11 +8177,13 @@ msgid ""
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Home "
 "Folder</guimenuitem></menuchoice>."
 msgstr ""
+"Fra toppanelets menulinje, vælg "
+"<menuchoice><guimenu>Steder</guimenu><guimenuitem>Hjemmemappe</guimenuitem></menuchoice>."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:299
 msgid "The spatial window displays the contents of your Home Folder."
-msgstr ""
+msgstr "Det delvise vinduer viser indholdet af din hjemmemappe."
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:302 C/goscaja.xml:726
@@ -9520,7 +9582,7 @@ msgstr ""
 #. (itstool) path: figure/title
 #: C/goscaja.xml:1003
 msgid "The result of a search"
-msgstr ""
+msgstr "Resultatet af en søgning"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9556,6 +9618,12 @@ msgid ""
 "icon. <xref linkend=\"goscaja-FIG-927\"/> shows a search which has been "
 "restricted to the users home directory and to only search for text files."
 msgstr ""
+"Hvis du ikke er tilfreds med sin søgning kan du raffinere den ved at tilføje"
+" yderligere betingelser. Dette gør, at du kan afgrænse søgningen til en "
+"specifik filtype eller placering. For at tilføje søgebetingelser klikkes på "
+"<guibutton>+</guibutton>-ikonet. <xref linkend=\"goscaja-FIG-927\"/> viser "
+"en søgning, som er blevet begrænset til brugerens hjemmemappe og kun søger "
+"efter tekstfiler."
 
 #. (itstool) path: figure/title
 #: C/goscaja.xml:1017
@@ -9678,6 +9746,13 @@ msgid ""
 "attributes, among others, the owner, the permissions, the last change, "
 "access or modification of the filesystem object."
 msgstr ""
+"I Linux- og andre Unix-lignende operativsystemer er filsystemet organiseret "
+"i en hierarkisk, trælignende struktur. Det højeste niveau for filsystemet er"
+" <filename>/</filename> eller <emphasis>rodmappen</emphasis>. Disse "
+"operativsystemer opretter et virtuelt filsystem, hvori et filsystemobjekt "
+"lagrer information om over- og undermappe, samt dets egne attributter, "
+"blandt andet, ejeren, rettigheder, sidste ændring, adgang eller ændring af "
+"filsystemobjektet."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:1068
@@ -9700,6 +9775,8 @@ msgid ""
 "Underneath the root (<filename>/</filename>) directory, there is a set of "
 "important directories, or symbolic links to directories:"
 msgstr ""
+"Under rodmappen (<filename>/</filename>) er der et sæt af vigtige mapper "
+"eller symbolske henvisninger til mapper:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1074
@@ -9932,6 +10009,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Your Home Folder "
 "displayed in an icon view.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/caja_spatial_icon_view.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Din hjemmemappe vist i "
+"en ikonvisning.</phrase> </textobject>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1163
@@ -9950,7 +10030,7 @@ msgstr "Listevisning"
 #. (itstool) path: figure/title
 #: C/goscaja.xml:1182
 msgid "The Home Folder displayed in a list view"
-msgstr ""
+msgstr "Hjemmemappen vist i en listevisning"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9995,6 +10075,11 @@ msgid ""
 "size of the items in the view pane. The following sections describe how to "
 "work with icon view and list view."
 msgstr ""
+"Du kan bruge menuen <guilabel>Vis</guilabel>, eller rullegardinet "
+"<guilabel>Vis som</guilabel> til at vælge mellem ikon- eller listevisning. "
+"Du kan angive hvordan du ønsker at arrangere eller sortere elementer i "
+"mappen og ændre størrelsen på elementerne i visningspanelet. De følgende "
+"afsnit beskriver hvordan du arbejder med ikonvisning og listevisning."
 
 #. (itstool) path: sect3/title
 #: C/goscaja.xml:1199
@@ -10091,6 +10176,10 @@ msgid ""
 "the items is not case-sensitive. If the file manager is set to display "
 "hidden files, the hidden files are shown last."
 msgstr ""
+"Vælg denne indstilling for at sortere elementerne alfabetisk efter navn. "
+"Rækkefølgen på elementerne tager ikke højde for  store/små bogstaver. Hvis "
+"filhåndteringen er angivet til at vise skjulte filer, så vises de skjulte "
+"filer sidst."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1268
@@ -10231,7 +10320,8 @@ msgid ""
 "Columns</guisubmenu></menuchoice>"
 msgstr ""
 "For at tilføje eller fjerne kolonner fra listevisningen vælg "
-"<guimenu>Vis</guimenu><guisubmenu>Synlige kolonner</guisubmenu></menuchoice>"
+"<menuchoice><guimenu>Vis</guimenu><guisubmenu>Synlige "
+"kolonner</guisubmenu></menuchoice>"
 
 #. (itstool) path: sect3/para
 #: C/goscaja.xml:1357
@@ -10486,6 +10576,11 @@ msgid ""
 "=\"caja-select-pattern\"/> describes how to select a group of files matching"
 " a specific pattern."
 msgstr ""
+"Du kan vælge filer og mapper på flere måder i filhåndteringen. Typisk opnås "
+"det via at klikke på filerne via musen, som forklaret i <xref linkend"
+"=\"goscaja-TBL-10\"/>. Derudover beskriver <xref linkend=\"caja-select-"
+"pattern\"/> hvordan en gruppe af filer, der matcher et specifikt mønster, "
+"vælges."
 
 #. (itstool) path: table/title
 #: C/goscaja.xml:1493 C/goscaja.xml:1557
@@ -10759,7 +10854,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1701
 msgid "Ask what to do with the item you drag"
-msgstr ""
+msgstr "Spørg hvad der skal ske med elementet du trækker"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1705
@@ -10769,6 +10864,10 @@ msgid ""
 "location where you want the item to reside. Release the mouse button. A "
 "popup menu appears. Choose one of the following items from the popup menu:"
 msgstr ""
+"Tag fat i elementet, tryk og hold <keycap>Alt</keycap>. Du kan også bruge "
+"midterste museknap for at udføre den samme operation. Træk elementet til "
+"placeringen hvor du ønsker elementet skal befinde sig. Frigiv museknappen. "
+"En pop op-menu vises. Vælg en af de følgende elementer fra pop op-menuen:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1710
@@ -10793,12 +10892,12 @@ msgstr "Kopier elementet til placeringen."
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1722
 msgid "<guimenuitem>Link here</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>Henvis hertil</guimenuitem>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1725
 msgid "Creates a symbolic link to the item at the location."
-msgstr ""
+msgstr "Opretter en symbolsk henvisning til elementer på placeringen."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1728
@@ -10833,6 +10932,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Ask pointer.</phrase> "
 "</textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/ask_pointer.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Spørg-markør.</phrase> "
+"</textobject>"
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:1761
@@ -11501,6 +11603,10 @@ msgid ""
 "and-hold <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap></keycombo>. "
 "Drag the item to the location where you want to place the link."
 msgstr ""
+"Alternativt, tag fat i elementet du ønsker at lave at lave en henvisning "
+"til, tryk og hold "
+"<keycombo><keycap>Ctrl</keycap><keycap>Skift</keycap></keycombo>. Træk "
+"elementet til placeringen hvor du ønsker at placere henvisningen."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:2036
@@ -11632,6 +11738,9 @@ msgid ""
 "folder, on which media it resides, for example which hard disk or CD-ROM "
 "drive."
 msgstr ""
+"Diskenheden hvor mappen befinder sig. Dette er den fysiske placering af "
+"mappen, hvorpå mediet befinder sig, for eksempel hvilken harddisk eller cd-"
+"rom-drev."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2118
@@ -11644,6 +11753,8 @@ msgid ""
 "The amount of free space on the media upon which a folder resides. This "
 "represents the maximum amount of data you can copy to this folder."
 msgstr ""
+"Mængden af ledig plads på mediet hvor en mappe befinder sig. Dette "
+"repræsenterer den maksimale mængde af data, du kan kopiere til denne mappe."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2126
@@ -12128,6 +12239,9 @@ msgid ""
 "<menuchoice><guimenu>View</guimenu><guimenuitem>Side "
 "Pane</guimenuitem></menuchoice>."
 msgstr ""
+"Vælg <guilabel>Noter</guilabel> fra rullegardinet øverst i sidepanelet. For "
+"at vise sidepanelet, vælg "
+"<menuchoice><guimenu>Vis</guimenu><guimenuitem>Sidepanel</guimenuitem></menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2364
@@ -12136,6 +12250,9 @@ msgid ""
 " in the view pane, and a note icon is added to the side pane. You can click "
 "on this icon to display the note."
 msgstr ""
+"Tast noten i sidepanelet. Et noteemblem tilføjes til filen eller mappen i "
+"visningspanelet og et noteikon tilføjes til sidepanelet. Du kan klikke på "
+"dette ikon for at vise noten."
 
 #. (itstool) path: sect3/para
 #: C/goscaja.xml:2369
@@ -12143,6 +12260,8 @@ msgid ""
 "To delete a note, delete the note text from <guilabel>Notes</guilabel> in "
 "the side pane."
 msgstr ""
+"For at slette en note, slet noteteksten fra <guilabel>Noter</guilabel> i "
+"sidepanelet."
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:2374
@@ -12551,6 +12670,10 @@ msgid ""
 "Files</guimenuitem></menuchoice>, or by pressing "
 "<keycombo><keycap>Ctrl</keycap><keycap>H</keycap></keycombo>."
 msgstr ""
+"Du kan skjule eller vise i en bestemt mappe ved at vælge "
+"<menuchoice><guimenu>Vis</guimenu><guimenuitem>Vis skjulte "
+"filer</guimenuitem></menuchoice>, eller ved at trykke "
+"<keycombo><keycap>Ctrl</keycap><keycap>H</keycap></keycombo>."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:2560
@@ -12989,6 +13112,9 @@ msgid ""
 "<guibutton>Icon</guibutton>. A <guilabel>Select custom icon</guilabel> "
 "dialog is displayed."
 msgstr ""
+"I fanebladet <guilabel>Grundlæggende</guilabel>, klik på det nuværende "
+"<guibutton>Ikon</guibutton>. Dialogen <guilabel>Vælg tilpasset "
+"ikon</guilabel> vises."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2767
@@ -13008,6 +13134,11 @@ msgid ""
 " click on the <guibutton>Icon</guibutton> button, in the <guilabel>Select "
 "custom icon</guilabel> dialog click <guibutton>Revert</guibutton>."
 msgstr ""
+"For at gendanne et ikon fra et tilpasset ikon til standardikonet, vælg filen"
+" eller mappen som du ønsker at vælge, vælg "
+"<menuchoice><guimenu>Fil</guimenu><guimenuitem>Egenskaber</guimenuitem></menuchoice>."
+" Klik på knappen <guibutton>Ikon</guibutton>, i dialogen <guilabel>Vælg "
+"tilpasset ikon</guilabel>, klik <guibutton>Gendan</guibutton>."
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:2781
@@ -13533,6 +13664,10 @@ msgid ""
 " CD or DVD. From there you can easily write all the content (which you place"
 " in this special folder) to a CD or DVD."
 msgstr ""
+"Du kan vælge filer, du ønsker at brænde til en disk, på ethvert tidspunkt. "
+"Filhåndteringen tilbyder en speciel mappe for filer og mapper, som du ønsker"
+" at skrive til en cd eller dvd. Derfra kan du nemt skrive al indholdet (som "
+"du placerer i denne specielle mappe) til en cd eller dvd."
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:3022
@@ -13614,6 +13749,10 @@ msgid ""
 "option. A CD image file is a normal file that contains all the data in the "
 "same format as a CD, that you can write to a CD later."
 msgstr ""
+"Vælg enheden hvor du ønsker at skrive cd'en til fra rullegardinet. For at "
+"oprette en cd-aftryksfil, vælg indstillingen <guilabel>Filaftryk</guilabel>."
+" En cd-aftryksfil er en normal fil, som indeholder alle dataene i det samme "
+"format som en cd, som du så senere kan skrive til en cd."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3070
@@ -13665,6 +13804,11 @@ msgid ""
 "to specify the location where you want to save the disc image file. By "
 "default, disc image files have a <filename>.iso</filename> file extension."
 msgstr ""
+"Hvis du valgte indstillingen <guilabel>Filaftryk</guilabel> fra "
+"rullegardinet <guilabel>Mål at skrive til</guilabel>, vises dialogen "
+"<guilabel>Vælg et filnavn for diskaftrykket</guilabel>. Brug dialogen til at"
+" angive placeringen, hvor du ønsker at gemme diskaftryksfilen. Som standard "
+"har diskaftryksfiler filendelsen <filename>.iso</filename>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3110
@@ -13674,6 +13818,9 @@ msgid ""
 "a message to indicate that the process is complete is displayed in the "
 "dialog."
 msgstr ""
+"Dialogen <guilabel>Skriver disk</guilabel> vises. Denne proces tager lidt "
+"tid. Når disken er skrevet eller når diskaftryksfilen er oprettet, vises en "
+"besked om at processen er fuldført."
 
 #. (itstool) path: tip/para
 #: C/goscaja.xml:3115
@@ -13681,6 +13828,8 @@ msgid ""
 "You can set the CD/DVD Creator folder to open automatically when you insert "
 "a blank disc. See <xref linkend=\"goscaja-61\"/>."
 msgstr ""
+"Du kan indstille at cd/dvd creator-mappen åbnes automatisk, når du indsætter"
+" en tom disk. Se <xref linkend=\"goscaja-61\"/>."
 
 #. (itstool) path: note/para
 #: C/goscaja.xml:3116
@@ -13689,6 +13838,9 @@ msgid ""
 " recent operating systems. Both the Joliet and the Rock Ridge CD-ROM "
 "filesystem extensions are used."
 msgstr ""
+"Filsystemet skrevet til cd'en vil være læsbar med lange filnavne på alle de "
+"seneste operativsystemer. Både Joliet- og Rock Ridge cd-rom-"
+"filsystemendelserne anvendes."
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:3119
@@ -13940,6 +14092,9 @@ msgid ""
 " specialized connection, choose <menuchoice><guimenuitem>Custom "
 "Location</guimenuitem></menuchoice> as the service type."
 msgstr ""
+"Hvis serverinformationen leveres i form af en URI, eller du kræver en "
+"speciel forbindelse, så vælg <menuchoice><guimenuitem>Tilpasset "
+"sted</guimenuitem></menuchoice> som tjenestetype."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:3246
@@ -13949,6 +14104,10 @@ msgid ""
 "contents of the site are displayed and you may drag and drop files to and "
 "from the remote server."
 msgstr ""
+"Når du har udfyldt informationen, klik på knappen "
+"<guibutton>Forbind</guibutton>. Når forbindelsen er oprettet vises "
+"sideindholdet og du kan trække og slippe filer til og fra den eksterne "
+"server."
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:3250
@@ -14005,6 +14164,9 @@ msgid ""
 "Network (NFS) </guilabel> object. A list of the UNIX shares available to you"
 " is displayed in the file manager window."
 msgstr ""
+"<_:indexterm-1/>For at tilgå UNIX-delinger, dobbeltklik på objektet "
+"<guilabel>Unix Network (NFS) </guilabel>. En liste over UNIX-delinger er "
+"tilgængelige for dig i filhåndteringsvinduet."
 
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:3274
@@ -14025,24 +14187,25 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:3280
 msgid "Accessing Special URI Locations"
-msgstr ""
+msgstr "Tilgå specielle URI-steder"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:3281
 msgid ""
 "<primary>special URI locations</primary> <secondary>accessing</secondary>"
-msgstr ""
+msgstr "<primary>specielle URI-steder</primary> <secondary>tilgå</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:3285
 msgid ""
 "<primary>file manager</primary> <secondary>special URI locations</secondary>"
 msgstr ""
+"<primary>filhåndtering</primary> <secondary>specielle URI-steder</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:3290
 msgid "<primary>URI, special</primary> <see>special URI locations</see>"
-msgstr ""
+msgstr "<primary>URI, speciel</primary> <see>specielle URI-steder</see>"
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:3294
@@ -14424,7 +14587,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3541
 msgid "<guilabel>Single click to open items</guilabel>"
-msgstr ""
+msgstr "<guilabel>Enkelt klik for at åbne elementer</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3543
@@ -14433,11 +14596,14 @@ msgid ""
 "on the item. When this option is selected, and you point to an item, the "
 "title of the item is underlined."
 msgstr ""
+"Vælg denne indstilling for at udføre standardhandlingen for et element, når "
+"du klikker på elementet. Når denne indstilling er valgt, og du peger på et "
+"element, så understreges elementets titel."
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3549
 msgid "<guilabel>Double click to open items</guilabel>"
-msgstr ""
+msgstr "<guilabel>Dobbeltklik for at åbne elementer</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3551
@@ -14445,6 +14611,8 @@ msgid ""
 "Select this option to perform the default action for an item when you "
 "double-click on the item."
 msgstr ""
+"Vælg denne indstilling for at udføre standardhandlingen for et element, når "
+"du dobbeltklikker på elementet."
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3556
@@ -14467,7 +14635,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3563
 msgid "<guilabel>Run executable text files when they are opened</guilabel>"
-msgstr ""
+msgstr "<guilabel>Kør eksekverbare tekstfiler når de åbnes</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3565
@@ -14476,11 +14644,14 @@ msgid ""
 "An executable text file is a text file that can execute, that is, a shell "
 "script."
 msgstr ""
+"Vælg denne indstilling for at afvikle en kørbar fil i tekstformat, når du "
+"vælger filen. En kørbar tekstfil er en tekstfil, som kan afvikles, det vil "
+"sige, et skalskript."
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3571
 msgid "<guilabel>View executable text files when they are opened</guilabel>"
-msgstr ""
+msgstr "<guilabel>Vis eksekverbare tekstfiler når de åbnes</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3573
@@ -14488,6 +14659,8 @@ msgid ""
 "Select this option to display the contents of an executable text file when "
 "you choose the executable text file."
 msgstr ""
+"Vælg denne indstilling for at vise indholdet af en kørbar tekstfil, når du "
+"vælger den kørbare tekstfil."
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3578
@@ -14501,11 +14674,15 @@ msgid ""
 "file. The dialog asks whether you want to execute the file or display the "
 "file."
 msgstr ""
+"Vælg denne indstilling for at vise en dialog når du vælger en kørbar "
+"tekstfil. Dialogen spørger om du ønsker at afvikle filen eller vise filen."
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3586
 msgid "<guilabel>Ask before emptying the Trash or deleting files</guilabel>"
 msgstr ""
+"<guilabel>Spørg før tømning af papirkurven eller sletning af "
+"filer</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3588
@@ -14514,11 +14691,14 @@ msgid ""
 "<guilabel>Trash</guilabel> is emptied, or files are deleted. Leave this "
 "selected unless you have good reason not to."
 msgstr ""
+"Vælg denne indstilling for at vise en bekræftelsesbesked før "
+"<guilabel>Papirkurven</guilabel> tømmes, eller filer slettes. Efterlad denne"
+" valgt med mindre du har grund til andet."
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3592
 msgid "<guilabel>Include a Delete command that bypasses Trash</guilabel>"
-msgstr ""
+msgstr "<guilabel>Inkluder en Slet-kommando som omgår Papirkurven</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3594
@@ -14526,6 +14706,8 @@ msgid ""
 "Select this option to add a <guimenuitem>Delete</guimenuitem> menu item to "
 "the following menus:"
 msgstr ""
+"Vælg denne indstilling for at tilføj et menupunkt "
+"<guimenuitem>Slet</guimenuitem> til de følgende menuer:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3598
@@ -16021,6 +16203,9 @@ msgid ""
 "<keycap>Alt</keycap><keycap>F10</keycap></keycombo>, or double-click any "
 "part of the titlebar except the buttons at either end."
 msgstr ""
+"Du kan også vælge maksimer fra vinduesmenuen, eller trykke <keycombo> "
+"<keycap>Alt</keycap><keycap>F10</keycap></keycombo> eller dobbeltklikke på "
+"enhver del af titellinjen undtagen knapperne i begge ender."
 
 #. (itstool) path: tip/para
 #: C/gosoverview.xml:270
@@ -17114,7 +17299,7 @@ msgstr "Din distribution af MATE kan have ændret denne standardopsætning."
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:49
 msgid "<application>Menu Bar</application> applet"
-msgstr ""
+msgstr "<application>Menulinje</application>-panelprogram"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:50
@@ -17123,6 +17308,9 @@ msgid ""
 "<guimenu>Places</guimenu>, and <guimenu>System</guimenu> menus. For more on "
 "the menu bar, see <xref linkend=\"menubar\"/>."
 msgstr ""
+"Menulinjen indeholder menuerne <guimenu>Programmer</guimenu>, "
+"<guimenu>Steder</guimenu> og <guimenu>System</guimenu>. For yderligere om "
+"menulinjen, se <xref linkend=\"menubar\"/>."
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:53
@@ -17215,7 +17403,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:75
 msgid "<_:indexterm-1/> <application>Window Selector</application> icon"
-msgstr ""
+msgstr "<_:indexterm-1/> <application>Vinduesvælger</application>-ikon"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:81
@@ -17225,6 +17413,10 @@ msgid ""
 " extreme right of the top edge panel, then select the window. For more on "
 "this, see <xref linkend=\"windows-focus\"/>."
 msgstr ""
+"<application>Vinduesvælgeren</application> viser alle dine åbne vinduer. For"
+" at give fokus på et vindue, klik på vinduesvælgerikonet yderst til højre "
+"øverst i toppanelet, vælg så vinduet. For yderligere om dette, se <xref "
+"linkend=\"windows-focus\"/>."
 
 #. (itstool) path: section/title
 #: C/gospanel.xml:88
@@ -17237,23 +17429,26 @@ msgid ""
 "<primary>panels</primary> <secondary>bottom edge panel</secondary> "
 "<see>bottom edge panel</see>"
 msgstr ""
+"<primary>paneler</primary> <secondary>nederste kantpanel</secondary> "
+"<see>nederstge kantpanel</see>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:96
 msgid ""
 "<primary>bottom edge panel</primary> <secondary>introduction</secondary>"
 msgstr ""
+"<primary>nederste kantpanel</primary> <secondary>introduktion</secondary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:100
 msgid "By default, the bottom edge panel contains the following objects:"
-msgstr ""
+msgstr "Som standard indeholder det nederste kantpanel de følgende objekter:"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:102
 msgid ""
 "<primary>bottom edge panel</primary> <secondary>default contents</secondary>"
-msgstr ""
+msgstr "<primary>nederste kantpanel</primary> <secondary>indhold</secondary>"
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:108
@@ -17266,6 +17461,8 @@ msgid ""
 "Click on this button to minimize all open windows and show the desktop. "
 "Click it again to restore all the windows to their previous state."
 msgstr ""
+"Klik på denne knap for at minimere alle åbne vinduer og vise skrivebordet. "
+"Klik igen for at gendanne alle vinduerne til deres tidligere tilstand."
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:112
@@ -17364,6 +17561,7 @@ msgstr "Indstillinger for panel"
 #: C/gospanel.xml:147
 msgid "<primary>panels</primary> <secondary>modifying properties</secondary>"
 msgstr ""
+"<primary>paneler</primary> <secondary>ændring af egenskaber</secondary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:151
@@ -17371,6 +17569,8 @@ msgid ""
 "You can change the properties of each panel, such as the position of the "
 "panel, the hide behavior, and the visual appearance."
 msgstr ""
+"Du kan ændre egenskaberne for hvert panel, såsom placeringen af panelet, "
+"opførsel for skjul og det visuelle udseende."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:154
@@ -17380,11 +17580,15 @@ msgid ""
 "<guilabel>Panel Properties</guilabel> dialog contains two tabbed sections, "
 "<guilabel>General</guilabel> and <guilabel>Background</guilabel>."
 msgstr ""
+"For at ændre egenskaber for et panel, højreklik på en ledig plads på "
+"panelet, vælg <guimenuitem>Egenskaber</guimenuitem>. Dialogen "
+"<guilabel>Panelegenskaber</guilabel> indeholder to faneblade, "
+"<guilabel>Generelt</guilabel> og <guilabel>Baggrund</guilabel>."
 
 #. (itstool) path: section/title
 #: C/gospanel.xml:157
 msgid "General Properties Tab"
-msgstr ""
+msgstr "Faneblad for generelle egenskaber"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:158
@@ -17397,7 +17601,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:177
 msgid "<guilabel>Orientation</guilabel>"
-msgstr ""
+msgstr "<guilabel>Retning</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:182
@@ -17405,6 +17609,8 @@ msgid ""
 "Select the position of the panel on your screen. Click on the required "
 "position for the panel."
 msgstr ""
+"Vælg retningen for panelet på din skærm. Klik på den ønskede placering for "
+"panelet."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:193
@@ -17414,7 +17620,7 @@ msgstr "Brug rulleboksen til at angive størrelsen på panelet."
 #. (itstool) path: entry/para
 #: C/gospanel.xml:198
 msgid "<guilabel>Expand</guilabel>"
-msgstr ""
+msgstr "<guilabel>Udvid</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:203
@@ -17423,6 +17629,9 @@ msgid ""
 "where it is located. A panel that does not expand can be moved away from the"
 " screen edges to any part of the screen."
 msgstr ""
+"Som standard udvides et panel til den fulde længde på skærmen, hvor den er "
+"placeret. Et panel som ikke udvides kan flyttes væk fra skærmkanterne til "
+"enhver del af skærmen."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:208
@@ -18101,17 +18310,17 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:615
 msgid "<keycap>Shift</keycap> key"
-msgstr ""
+msgstr "<keycap>Skift</keycap>-tast"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:618
 msgid "Push movement"
-msgstr ""
+msgstr "Skub-bevægelse"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:621
 msgid "The object pushes other panel objects further along the panel."
-msgstr ""
+msgstr "Objektet skubber andre panelobjekter videre langs panelet."
 
 #. (itstool) path: section/title
 #: C/gospanel.xml:630
@@ -18146,11 +18355,15 @@ msgid ""
 "object to open the panel object popup menu, then select <guimenuitem>Lock To"
 " Panel</guimenuitem>. Deselect this to unlock the object."
 msgstr ""
+"For at låse et objekt til dets nuværende placering i panelet, højreklik på "
+"objektet for at åbne pop op-menuen for panelobjektet, vælg så "
+"<guimenuitem>Lås til panel</guimenuitem>. Fravælg for at fjerne låsen på "
+"objektet."
 
 #. (itstool) path: section/title
 #: C/gospanel.xml:645
 msgid "Removing a Panel Object"
-msgstr ""
+msgstr "Fjernelse af et panelobjekt"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:646
@@ -18247,11 +18460,14 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Sample applets. The "
 "context describes the graphic.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/sample_applet.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Prøvepanelprogrammer. "
+"Konteksten beskriver grafikken.</phrase> </textobject>"
 
 #. (itstool) path: section/title
 #: C/gospanel.xml:701
 msgid "Launchers"
-msgstr ""
+msgstr "Genveje"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:704
@@ -18259,6 +18475,8 @@ msgid ""
 "<primary>panel objects</primary> <secondary>launchers</secondary> "
 "<see>launchers</see>"
 msgstr ""
+"<primary>panelobjekter</primary> <secondary>genveje</secondary> "
+"<see>genveje</see>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:709
@@ -18266,6 +18484,8 @@ msgid ""
 "A <firstterm>launcher</firstterm> is an object that performs a specific "
 "action when you open it."
 msgstr ""
+"En <firstterm>genvej</firstterm> er et objekt, som udfører en specifik "
+"handling, når du åbnet objektet."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:710
@@ -18273,11 +18493,13 @@ msgid ""
 "You can find launchers in the panels, in the panel menubar, and on the "
 "desktop. A launcher is represented by an icon in all of these locations."
 msgstr ""
+"Du kan finde genveje i panelerne, i panelmenulinjen og på skrivebordet. En "
+"genvej repræsenteres af et ikon alle disse steder."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:711
 msgid "You might use a launcher to do any of the following:"
-msgstr ""
+msgstr "Du kan bruge en genvej til at udføre følgende:"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:714
@@ -19372,6 +19594,10 @@ msgid ""
 "<guimenu>Games</guimenu> submenu of the <guimenu>Applications</guimenu> menu"
 " to the panel."
 msgstr ""
+"<guimenu>Undermenuer</guimenu>: Du kan tilføj en undermenu fra menulinjen "
+"eller hovedmenuen direkte til panelet. For eksempel kan du tilføje "
+"undermenuen <guimenu>Spil</guimenu> fra menuen <guimenu>Programmer</guimenu>"
+" til panelet."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1306
@@ -19936,7 +20162,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1628
 msgid "To give focus to a window"
-msgstr ""
+msgstr "For at give fokus til et vindue"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1629
@@ -21702,6 +21928,8 @@ msgid ""
 "Use the <guibutton>Forward</guibutton> button in the "
 "<interface>Toolbar</interface>"
 msgstr ""
+"Brug tasten <guibutton>Fremad</guibutton> i "
+"<interface>Værktøjslinjen</interface>"
 
 #. (itstool) path: section/title
 #: C/gostools.xml:699
@@ -21884,6 +22112,10 @@ msgid ""
 "<guibutton>Add</guibutton> to add the bookmark, or click "
 "<guibutton>Cancel</guibutton> to cancel the request."
 msgstr ""
+"<_:figure-1/>Indtast din ønskede bogmærketitel i indtastningsfeltet "
+"<guilabel>Titel</guilabel>. Klik så <guibutton>Tilføj</guibutton> for at "
+"tilføje bogmærket, eller klik på <guibutton>Annuller</guibutton> for at "
+"afbryde forespørgslen."
 
 #. (itstool) path: section/title
 #: C/gostools.xml:827
@@ -22388,6 +22620,9 @@ msgid ""
 "<command>gsettings</command> command line tools, or the <application>Dconf "
 "Editor</application> GUI application."
 msgstr ""
+"Værdien af en dconf-nøgle kan læses via kommandolinjeværktøjerne "
+"<command>dconf</command> eller  <command>gsettings</command>, eller det "
+"grafiske program <application>Dconf Editor</application>."
 
 #. (itstool) path: sect2/para
 #: C/gosdconf.xml:70
@@ -22395,11 +22630,13 @@ msgid ""
 "This section shows how to read the background picture of your MATE desktop, "
 "this values is stored in the dconf key:"
 msgstr ""
+"Dette afsnit viser hvordan du læser baggrundsbilledet på dit MATE-"
+"skrivebord, denne værdi lagres i dconf-nøglen:"
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:75 C/gosdconf.xml:179
 msgid "/org/mate/desktop/background/picture-filename"
-msgstr ""
+msgstr "/org/mate/desktop/background/picture-filename"
 
 #. (itstool) path: sect2/para
 #: C/gosdconf.xml:79 C/gosdconf.xml:183
@@ -25806,6 +26043,9 @@ msgid ""
 "the <_:ulink-1/>. You will need to register before you can submit any bugs "
 "this way."
 msgstr ""
+"Du kan også indsende fejlrapporter og gennemse listen over kendte fejl ved "
+"at forbinde til <_:ulink-1/>. Du skal registrere dig, før du kan indsende "
+"fejlrapporter via denne metode."
 
 #. (itstool) path: para/application
 #: C/gosfeedback.xml:31
@@ -25938,6 +26178,8 @@ msgid ""
 "For more information on giving feedback on MATE, such as bug reports, "
 "suggestions, and corrections to documentation, see <_:xref-1/>."
 msgstr ""
+"For yderligere information om tilbagemelding til MATE, såsom fejlrapporter, "
+"forslag og rettelser til dokumentationen, se <_:xref-1/>."
 
 #. (itstool) path: glossary/title
 #: C/glossary.xml:2
@@ -25961,6 +26203,9 @@ msgid ""
 "for example the <_:application-1/>. Each applet has a simple user interface "
 "that you can operate with the mouse or keyboard."
 msgstr ""
+"Et panelprogram er et lille, interaktivt program, som befinder sig i et "
+"panel, for eksempel <_:application-1/>. Hvert panelprogram har en simpel "
+"brugerflade, som du kan betjene med musen eller tastaturet."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:13
@@ -26010,7 +26255,7 @@ msgstr "DNS-navn"
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:36
 msgid "A unique alphabetic identifier for a computer on a network."
-msgstr ""
+msgstr "En unik alfabetisk identifikation for en computer på et netværk."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:40
@@ -26064,6 +26309,9 @@ msgid ""
 "manager uses this information when to determine what to do when you open a "
 "file. For more on this, see <_:xref-2/>."
 msgstr ""
+"Filendelsen kan identificere filtypen. <_:application-1/>-filhåndteringen "
+"bruger denne information til at bestemme hvad der skal ske, når du åbner en "
+"fil. For yderligere information om dette, se  <_:xref-2/>."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:54
@@ -26163,7 +26411,7 @@ msgstr "MIME-type"
 #. (itstool) path: para/literal
 #: C/glossary.xml:101
 msgid "image/png"
-msgstr ""
+msgstr "image/png"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:99
