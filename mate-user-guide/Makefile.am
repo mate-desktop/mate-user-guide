@@ -74,7 +74,7 @@ HELP_MEDIA =					\
 	figures/yelp_window.png
 
 # Add linguas to be ignored, e.g. IGNORE_HELP_LINGUAS = ca de es fr
-IGNORE_HELP_LINGUAS = tr
+IGNORE_HELP_LINGUAS =
 HELP_LINGUAS = $(if $(IGNORE_HELP_LINGUAS), \
 	$(filter-out $(IGNORE_HELP_LINGUAS),$(subst /,,$(dir $(wildcard */*.po)))), \
 	$(subst /,,$(dir $(wildcard */*.po))) )
