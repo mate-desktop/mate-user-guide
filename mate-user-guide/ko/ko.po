@@ -5,13 +5,14 @@
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
+# HanSol Park <totron114@gmail.com>, 2018
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-10-27 18:54+0200\n"
+"POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2018\n"
+"Last-Translator: HanSol Park <totron114@gmail.com>, 2018\n"
 "Language-Team: Korean (https://www.transifex.com/mate/teams/13566/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -279,7 +280,7 @@ msgstr "Karderio"
 #: C/index.docbook:211 C/index.docbook:219 C/index.docbook:227
 #: C/index.docbook:235 C/index.docbook:243
 msgid "GNOME Documentation Project"
-msgstr ""
+msgstr "그놈 문서 프로젝트"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:159
@@ -2012,8 +2013,9 @@ msgstr "키보드 바로 가기를 편집하려면, 다음 순서대로 하십�
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:120
 msgid ""
-"Click the action in the list. If you are using the keyboard, use the arrow "
-"keys to select the shortcut and press <keycap>Return</keycap>."
+"Double-click on the shortcut that you want to edit. If you are using the "
+"keyboard, use the arrow keys to select the shortcut and press "
+"<keycap>Return</keycap>."
 msgstr ""
 
 #. (itstool) path: listitem/para

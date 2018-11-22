@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-10-27 18:54+0200\n"
+"POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: abuyop <abuyop@gmail.com>, 2018\n"
 "Language-Team: Malay (https://www.transifex.com/mate/teams/13566/ms/)\n"
@@ -1640,7 +1640,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:940
 msgid "<keycap>F1</keycap>"
-msgstr ""
+msgstr "<keycap>F1</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:943
@@ -1982,8 +1982,9 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:120
 msgid ""
-"Click the action in the list. If you are using the keyboard, use the arrow "
-"keys to select the shortcut and press <keycap>Return</keycap>."
+"Double-click on the shortcut that you want to edit. If you are using the "
+"keyboard, use the arrow keys to select the shortcut and press "
+"<keycap>Return</keycap>."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -6732,7 +6733,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:217 C/goscaja.xml:406
 msgid "Menubar"
-msgstr ""
+msgstr "Palang Menu"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:220 C/goscaja.xml:409
@@ -7058,7 +7059,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:420
 msgid "Toolbar"
-msgstr ""
+msgstr "Palang Alat"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:423
@@ -10368,7 +10369,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2438
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>Lokasi</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2443
@@ -12328,7 +12329,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3664 C/goscaja.xml:3823
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Jenis</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3669

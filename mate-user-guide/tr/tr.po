@@ -4,12 +4,13 @@
 # Butterfly <gokhanlnx@gmail.com>, 2018
 # tarakbumba <tarakbumba@gmail.com>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
+# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # mauron, 2018
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2018-10-27 18:54+0200\n"
+"POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: mauron, 2018\n"
 "Language-Team: Turkish (https://www.transifex.com/mate/teams/13566/tr/)\n"
@@ -2321,8 +2322,9 @@ msgstr "Klavye kısayollarını düzenlemek için şu adımları atın:"
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:120
 msgid ""
-"Click the action in the list. If you are using the keyboard, use the arrow "
-"keys to select the shortcut and press <keycap>Return</keycap>."
+"Double-click on the shortcut that you want to edit. If you are using the "
+"keyboard, use the arrow keys to select the shortcut and press "
+"<keycap>Return</keycap>."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -7690,8 +7692,9 @@ msgstr ""
 "MATE'yi kullandığınız sürece, <application>Caja</application> daima çalışır."
 " Yeni bir <application>Caja</application> penceresi açmak için masaüstünde "
 "<guimenuitem>Ev</guimenuitem> veya <guimenuitem>Bilgisayar</guimenuitem> "
-"gibi uygun bir ikona çift tıklayın, ya da üst panelde <link linkend=\"places-"
-"menu\"><guimenuitem>Yerler</guimenuitem> menüsünden</link> bir unsur seçin."
+"gibi uygun bir ikona çift tıklayın, ya da üst panelde link <link linkend"
+"=\"places-menu\"><guimenuitem>Yerler</guimenuitem> menüsünden</link> bir "
+"unsur seçin."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:67
@@ -9638,8 +9641,8 @@ msgid ""
 msgstr ""
 "<application>Caja</application> dosya yöneticisi dosya ve klasörleri aramak "
 "için kolay ve sade bir yol içerir. Bir arama başlatmak için "
-"<keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> tuşlarına basın "
-"veya <guibutton>Ara</guibutton> araç çubuğu düğmesini seçin. Arama çubuğu "
+"<keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> tuşlarına basın"
+" veya <guibutton>Ara</guibutton> araç çubuğu düğmesini seçin. Arama çubuğu "
 "<xref linkend=\"goscaja-FIG-925\"/> resminde gösterildiği gibi "
 "görüntülenmelidir."
 
@@ -10200,11 +10203,11 @@ msgid ""
 "attached to an email."
 msgstr ""
 "Unsurları alfabetik olarak nesne türüne göre sıralamak için bu şıkkı seçin. "
-"Unsurlar alfabetik olarak <firstterm>MIME türlerinin</firstterm> açıklamasına"
-" göre sıralanırlar. MIME türü dosyaların biçimini tanımlar ve uygulamaların "
-"dosyaları okumalarına imkân verir. Mesela bir e-posta uygulaması, "
-"<literal>image/png</literal> MIME türünü bir e-postaya PNG resminin "
-"eklendiğini tespit etmek için kullanabilir."
+"Unsurlar alfabetik olarak <firstterm>MIME türlerinin</firstterm> "
+"açıklamasına göre sıralanırlar. MIME türü dosyaların biçimini tanımlar ve "
+"uygulamaların dosyaları okumalarına imkân verir. Mesela bir e-posta "
+"uygulaması, <literal>image/png</literal> MIME türünü bir e-postaya PNG "
+"resminin eklendiğini tespit etmek için kullanabilir."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1296
@@ -17699,7 +17702,9 @@ msgstr "Varsayılan değer olarak, alt kenar paneli aşağıdaki nesneleri içer
 #: C/gospanel.xml:102
 msgid ""
 "<primary>bottom edge panel</primary> <secondary>default contents</secondary>"
-msgstr "<primary>alt kenar paneli</primary> <secondary>varsayılan içerikler</secondary>"
+msgstr ""
+"<primary>alt kenar paneli</primary> <secondary>varsayılan "
+"içerikler</secondary>"
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:108
