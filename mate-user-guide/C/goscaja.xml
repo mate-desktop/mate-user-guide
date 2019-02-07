@@ -1,50 +1,54 @@
-<chapter id="caja">
-  <title>Working with Files</title>
-
+<?xml version="1.0" encoding="utf-8"?>
+<?db.chunk.max_depth 3?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:db="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         version="5.0" xml:id="caja" xml:lang="en">
+    <info><title>Working with Files</title></info>
+  
   <!-- ID tag preserved for 2.8 compatibility -->
-  <anchor id="goscaja-1"/>
+  <anchor xml:id="goscaja-1"/>
 
   <!-- Desktop Overview / File Manager -->
-  <anchor id="gosoverview-56"/>
+  <anchor xml:id="gosoverview-56"/>
 
   <!-- MOVE THIS ANCHOR -->
   <!-- Desktop Overview / File Manager / To Open Files -->
-  <anchor id="gosoverview-58"/>
+  <anchor xml:id="gosoverview-58"/>
 
   <!-- MOVE THIS ANCHOR -->
   <!-- Desktop Overview / File Manager / To Move Files -->
-  <anchor id="gosoverview-57"/>
+  <anchor xml:id="gosoverview-57"/>
 
   <!-- MOVE THESE ANCHORS -->
   <!-- Desktop Overview / Desktop -->
-  <anchor id="gosgetstarted-11"/>
+  <anchor xml:id="gosgetstarted-11"/>
   <!-- Desktop Overview / Desktop / To Open Desktop Objects -->
-  <anchor id="gosoverview-29"/>
+  <anchor xml:id="gosoverview-29"/>
   <!-- Desktop Overview / Desktop / To Add Objects-->
-  <anchor id="gosoverview-19"/>
+  <anchor xml:id="gosoverview-19"/>
   <!-- Using the Start Here Location -->
-  <anchor id="goscaja-445"/>
+  <anchor xml:id="goscaja-445"/>
   <!-- To Choose a View in Which to Display a File or Folder - (image/text view) -->
-  <anchor id="goscaja-100"/>
+  <anchor xml:id="goscaja-100"/>
   <!-- To Modify the Behavior of a View -->
-  <anchor id="goscaja-111"/>
+  <anchor xml:id="goscaja-111"/>
   <!-- To Resize an Icon in Icon View - (This can only be done on desktop now) -->
-  <anchor id="goscaja-103"/>
+  <anchor xml:id="goscaja-103"/>
   <!-- To Execute Other Actions When Displaying a File -->
-  <anchor id="goscaja-73"/>
+  <anchor xml:id="goscaja-73"/>
 
   <highlights>
     <para>This chapter describes how to use the <application>Caja</application> file manager.</para>
   </highlights>
 
-  <sect1 id="goscaja-21">
-    <title>Introduction</title>
+  <section xml:id="goscaja-21"><info><title>Introduction</title></info>
     <indexterm>
       <primary>file manager</primary>
       <secondary>introduction</secondary>
     </indexterm>
-    <sect2 id="goscaja-22">
-    <title>File Manager Functionality</title>
+
+    <section xml:id="goscaja-22"><info><title>File Manager Functionality</title></info>
     <para>The <application>Caja</application> file manager provides
 a simple and integrated way to manage your files and applications. You can use the
 file manager to do the following:</para>
@@ -65,14 +69,13 @@ is an active component of the way you use your computer.</para>
     <para>Every user has a Home Folder. The Home Folder contains all user's files. The desktop is another folder. The desktop contains special icons allowing easy access to the users Home Folder, Trash, and also removable media such as floppy disks, CDs and USB flash drives.</para>
     <para><application>Caja</application> is always running while you are using MATE. To open a new <application>Caja</application> window, double-click on an appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or <guimenuitem>Computer</guimenuitem>, or choose an item from <link linkend="places-menu"><guimenuitem>Places</guimenuitem> menu</link> on the top panel.</para>
     <para>In MATE many things are files, such as word processor documents, spreadsheets, photos, movies, and music.</para>
+  </section>
 
-  </sect2>
-  <sect2 id="caja-presentation">
-    <title>File Manager Presentation</title>
+  <section xml:id="caja-presentation"><info><title>File Manager Presentation</title></info>
+    
     <para><application>Caja</application> provides two modes in which you can interact with your filesystem: spatial and browser mode. You may decide which method you prefer and set  <application>Caja</application> to always use this by selecting (or deselecting) <guilabel>Always open in browser windows</guilabel> in the <guilabel>Behavior</guilabel> tab of the <xref linkend="caja-preferences"/>.</para>
     <para>Browser mode is the default in MATE, but your distributor, vendor, or system administrator may have configured <application>Caja</application> to use spatial mode by default.</para>
-    <figure id="goscaja-FIG-naut-always-use-browser">
-      <title>Dconf-Editor showing the value of always-use-browser key for gsettings org.mate.caja.preferences schema</title>
+    <figure xml:id="goscaja-FIG-naut-always-use-browser"><info><title>Dconf-Editor showing the value of always-use-browser key for gsettings org.mate.caja.preferences schema</title></info>
       <screenshot>
         <mediaobject>
           <imageobject>
@@ -92,8 +95,7 @@ is an active component of the way you use your computer.</para>
             <para>The file manager window represents a browser, which can display any location. Opening a folder updates the current file manager window to show the contents of the new folder.</para>
             <para>As well as the folder contents, the browser window displays a toolbar with common actions and locations, a location bar that shows the current location in the hierarchy of folders, and a sidebar that can hold different kinds of information.</para>
              <para>In Browser Mode, you typically have fewer file manager windows open at a time. For more information on using browser mode see <xref linkend="caja-browser-mode"/>.</para>
-          <figure id="goscaja-FIG-naut-browser-mode">
-            <title><application>Caja</application> in browser mode</title>
+          <figure xml:id="goscaja-FIG-naut-browser-mode"><info><title><application>Caja</application> in browser mode</title></info>
             <screenshot>
               <mediaobject>
                 <imageobject>
@@ -111,10 +113,9 @@ is an active component of the way you use your computer.</para>
           <term>Spatial mode: navigate your files and folders as objects </term>
           <listitem>
             <para>The file manager window represents a particular folder. Opening a folder opens the new window for that folder. Each time you open a particular folder, you will find its window displayed in the same place on the screen and the same size as the last time you viewed it (this is the reason for the name 'spatial mode').</para>
-            <para>Using spatial mode may lead to more open file manager windows on the screen. On the other hand, some users find that representing files and folders as though they were real physical objects with particular locations makes it easier to work with them. For more information on using spatial mode see <xref linkend="caja-spatial-mode" /></para>
+            <para>Using spatial mode may lead to more open file manager windows on the screen. On the other hand, some users find that representing files and folders as though they were real physical objects with particular locations makes it easier to work with them. For more information on using spatial mode see <xref linkend="caja-spatial-mode"/></para>
         
-            <figure id="goscaja-FIG-naut-spatial-mode">
-              <title>Three Folders Opened in Spatial Mode</title>
+            <figure xml:id="goscaja-FIG-naut-spatial-mode"><info><title>Three Folders Opened in Spatial Mode</title></info>
               <screenshot>
                 <mediaobject>
                   <imageobject>
@@ -132,22 +133,23 @@ is an active component of the way you use your computer.</para>
           </listitem>             
         </varlistentry>
      </variablelist>   
-  </sect2>
-  </sect1>
+  </section>
+  </section>
+
   <!-- ====================================================== Spatial mode -->  
-  <sect1 id="caja-spatial-mode">
-    <title>Spatial Mode</title>
-    <anchor id="goscaja-24"/>       
+  <section xml:id="caja-spatial-mode"><info><title>Spatial Mode</title></info>
+    <anchor xml:id="goscaja-24"/>
+
     <indexterm>
       <primary>file manager</primary>
       <secondary>navigating</secondary>
     </indexterm>
     <para>The following section describes how to browse your system using the <application>Caja</application> file manager when configured in spatial mode. In spatial mode, each <application>Caja</application> window corresponds to a single folder. When you open a folder its window appears at the same place on the screen as the last time you looked at it. This is the default behavior in <application>Caja</application>.</para>
-    <para>For a comparison of browser mode and spatial mode, see <xref linkend="caja-presentation"/>.</para>    
-    <sect2 id="goscaja-510">
-      <title>Spatial Windows</title>
+    <para>For a comparison of browser mode and spatial mode, see <xref linkend="caja-presentation"/>.</para>
+
+    <section xml:id="goscaja-510"><info><title>Spatial Windows</title></info>
       <para>A new spatial window opens each time you open a folder. To open a folder, do one of the following:</para>
-      <anchor id="goscaja-25"/><!-- removed id: Displaying Folder Contents -->
+      <anchor xml:id="goscaja-25"/><!-- removed id: Displaying Folder Contents -->
       <itemizedlist>
         <listitem><para>Double-click the folder's icon on the desktop or an existing window</para></listitem>
         <listitem><para>Select the folder, and press <keycombo><keycap>Ctrl</keycap><keycap>O</keycap></keycombo>.</para></listitem>
@@ -159,9 +161,8 @@ is an active component of the way you use your computer.</para>
 
       <para><xref linkend="goscaja-FIG-504"/> shows a spatial mode window
 that displays the contents of the Computer folder.</para>
-      <figure id="goscaja-FIG-504">
-        <title>Contents of a folder in a spatial mode.<indexterm><primary>file
-manager</primary><secondary>icon view</secondary><tertiary>illustration</tertiary></indexterm></title>
+      <figure xml:id="goscaja-FIG-504"><info><title>Contents of a folder in a spatial mode.<indexterm><primary>file
+manager</primary><secondary>icon view</secondary><tertiary>illustration</tertiary></indexterm></title></info>
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -174,9 +175,8 @@ manager</primary><secondary>icon view</secondary><tertiary>illustration</tertiar
         </screenshot>
       </figure>
     <para>In spatial mode each open <application>Caja</application> windows shows only one location. Selecting a second location will open a second <application>Caja</application> window. Because each location remembers the previous position on screen in which it was opened it allows you to easily recognize folders when many of them are open at once.</para>
-    <para>Some people consider spatial mode better, particularly for moving files or folders to different location, others find the number of open windows daunting. <xref linkend="goscaja-FIG-naut-spatial-many-open" /> shows an example of spatial browsing with many open locations.</para>
-        <figure id="goscaja-FIG-naut-spatial-many-open">
-          <title>Three Folders Opened in Spatial Mode</title>
+    <para>Some people consider spatial mode better, particularly for moving files or folders to different location, others find the number of open windows daunting. <xref linkend="goscaja-FIG-naut-spatial-many-open"/> shows an example of spatial browsing with many open locations.</para>
+        <figure xml:id="goscaja-FIG-naut-spatial-many-open"><info><title>Three Folders Opened in Spatial Mode</title></info>
           <screenshot>
             <mediaobject>
               <imageobject>
@@ -191,13 +191,12 @@ manager</primary><secondary>icon view</secondary><tertiary>illustration</tertiar
 <note>
 <para>Because spatial mode will fill your screen with <application>Caja</application> windows, it is important to be able to reposition them effectively. By holding the <keycap>Alt</keycap> key and clicking anywhere within the bounds of a <application>Caja</application> window you may reposition it simply, instead of requiring that you reposition it by dragging its title bar.</para>
 </note>
-  </sect2>
-   <sect2 id="caja-spatial-components">
-      <title>Spatial Window Components</title>
+  </section>
+
+   <section xml:id="caja-spatial-components"><info><title>Spatial Window Components</title></info>
       <para><xref linkend="goscaja-TBL-85"/> describes the components of file
 object windows.</para>
-      <table frame="topbot" id="goscaja-TBL-85">
-        <title>The Spatial Window Components</title>
+      <table frame="topbot" xml:id="goscaja-TBL-85"><info><title>The Spatial Window Components</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="29.39*"/>
           <colspec colname="colspec1" colwidth="70.61*"/>
@@ -228,7 +227,7 @@ of items in the view pane.</para>
             </row>
             <row>
               <entry valign="top">
-		<anchor id="goscaja-components-view"/>
+		<anchor xml:id="goscaja-components-view"/>
                 <para>View pane</para>
               </entry>
               <entry valign="top">
@@ -272,9 +271,9 @@ of items in the view pane.</para>
           </tbody>
         </tgroup>
       </table>
-    </sect2>
-    <sect2 id="goscaja-4">
-      <title>Displaying Your Home Folder in a Spatial Window</title>
+    </section>
+
+    <section xml:id="goscaja-4"><info><title>Displaying Your Home Folder in a Spatial Window</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>Home location</secondary>
@@ -297,9 +296,9 @@ desktop.</para>
         <listitem><para>From the top panel menubar, choose <menuchoice><guimenu>Places</guimenu><guimenuitem>Home Folder</guimenuitem></menuchoice>. </para></listitem>
       </itemizedlist>
       <para>The spatial window displays the contents of your Home Folder.</para>
-    </sect2>
-    <sect2 id="goscaja-511">
-      <title>Displaying a Parent Folder</title>
+    </section>
+
+    <section xml:id="goscaja-511"><info><title>Displaying a Parent Folder</title></info>
       <para>A parent folder is the folder that contains the current folder. To display the contents of your current folder's parent, do one of the following:</para>
       <itemizedlist>
         <listitem>
@@ -311,15 +310,15 @@ desktop.</para>
         <listitem><para>Choose from the parent folder selector at the bottom left of the window.</para></listitem>
       </itemizedlist>
       <para>To close the current folder while opening the parent, hold down <keycap>Shift</keycap> while choosing from the parent folder selector, or press <keycombo><keycap>Shift</keycap><keycap>Alt</keycap><keycap>up arrow</keycap></keycombo>.</para>
-    </sect2>
-    <sect2 id="goscaja-512">
-      <title>Closing Folders</title>
+    </section>
+
+    <section xml:id="goscaja-512"><info><title>Closing Folders</title></info>
       <para>To close folders you may simply click on the close window button, this however may not be the most efficient way to close many windows.
 If you would like to view only the current folder, and not the folders you opened to reach the current folder, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Close Parent Folders</guimenuitem></menuchoice>.
 If want to close all folders on the screen, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Close All Folders</guimenuitem></menuchoice>.</para>
-      </sect2>
-    <sect2 id="goscaja-501">
-      <title>Displaying a Folder in a Browser Window</title>
+    </section>
+
+    <section xml:id="goscaja-501"><info><title>Displaying a Folder in a Browser Window</title></info>
       <para>If you wish to display a single folder in browser mode, while otherwise continuing to work in spatial mode, perform the following steps:</para>
       <orderedlist>
         <listitem>
@@ -329,9 +328,9 @@ If want to close all folders on the screen, choose <menuchoice><guimenu>File</gu
           <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Browse Folder</guimenuitem></menuchoice>. </para>
         </listitem>
       </orderedlist>
-    </sect2>
-    <sect2 id="caja-open-location">
-      <title>Opening a Location</title>
+    </section>
+
+    <section xml:id="caja-open-location"><info><title>Opening a Location</title></info>
       <para>You can open a folder or other location in spatial mode by typing its name.</para>
       <para>Choose <menuchoice>
 	<shortcut>
@@ -341,32 +340,30 @@ If want to close all folders on the screen, choose <menuchoice><guimenu>File</gu
 	<guimenuitem>Open Location</guimenuitem>
 </menuchoice>, and type the path or URI of the location you wish to open.
 </para>
-  
-    </sect2>
-  </sect1>
+    </section>
+  </section>
 
   <!-- ====================================================== Browser mode -->
-  <sect1 id="caja-browser-mode">
-    <title>Browser Mode</title>
+  <section xml:id="caja-browser-mode"><info><title>Browser Mode</title></info>
     <!-- Viewing Files in a File Browser Window -->
-    <anchor id="goscaja-210"/>   
-    <anchor id="goscaja-447"/>
+    <anchor xml:id="goscaja-210"/>   
+    <anchor xml:id="goscaja-447"/>
+
     <indexterm>
       <primary>file manager</primary>
       <secondary>windows</secondary>
     </indexterm>
     <para>The following section describes how to browse your system using the <application>Caja</application> file manager when configured in browser mode. In browser mode, opening a folder updates the current file manager to show the contents of the new folder.</para>
     <para>For a comparison of browser mode and spatial mode, see <xref linkend="caja-presentation"/>.</para>
-    <sect2 id="goscaja-492">
-      <title>The File Browser Window</title>
+
+    <section xml:id="goscaja-492"><info><title>The File Browser Window</title></info>
       <para>You can access the file browser in the following ways:
       <itemizedlist>
         <listitem><para>Choose <menuchoice><guimenu>Applications</guimenu><guimenuitem>System Tools</guimenuitem><guimenuitem>File Browser</guimenuitem></menuchoice>.</para></listitem>
         <listitem><para>While in spatial mode you may open a folder in browser mode by right clicking on that folder and choosing <guimenuitem>Browse Folder</guimenuitem>. A new file browser window will then open and display the contents of the selected folder.</para></listitem>
         <listitem><para>If <application>Caja</application> is set to always open browser windows, double clicking any folder will open a browser window, see <xref linkend="goscaja-56"/>.</para></listitem>
       </itemizedlist></para>
-      <figure id="goscaja-FIG-naut-home-browser-mode">
-        <title>Contents of a Folder in a File Browser Window</title>
+      <figure xml:id="goscaja-FIG-naut-home-browser-mode"><info><title>Contents of a Folder in a File Browser Window</title></info>
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -381,12 +378,11 @@ If want to close all folders on the screen, choose <menuchoice><guimenu>File</gu
       <note>
         <para>In some distributions of the MATE Desktop, the <guibutton>Home</guibutton> toolbar button might have another designation, for example, <guibutton>Documents</guibutton>.</para>
       </note>
-      <sect3 id="goscaja-493">
-        <title>The File Browser Window Components</title>
+
+      <section xml:id="goscaja-493"><info><title>The File Browser Window Components</title></info>
         <para><xref linkend="goscaja-TBL-83"/> describes the components of a file
 browser window.</para>
-        <table frame="topbot" id="goscaja-TBL-83">
-          <title>File Browser Window Components</title>
+        <table frame="topbot" xml:id="goscaja-TBL-83"><info><title>File Browser Window Components</title></info>
           <tgroup cols="2" colsep="0" rowsep="0">
             <colspec colname="colspec0" colwidth="29.39*"/>
             <colspec colname="colspec1" colwidth="70.61*"/>
@@ -451,7 +447,7 @@ of items in the view pane.</para>
                   <para>Location bar</para>
                 </entry>
                 <entry colname="colspec1" valign="top">
-                  <para>The location bar is a very powerful tool for navigating your computer. It can appear in three different ways depending on your selection. For more on using the location bar see <xref linkend="caja-location-bar" />. In all three configurations the location bar always contains the following items.</para>
+                  <para>The location bar is a very powerful tool for navigating your computer. It can appear in three different ways depending on your selection. For more on using the location bar see <xref linkend="caja-location-bar"/>. In all three configurations the location bar always contains the following items.</para>
                   <itemizedlist>
                     <listitem>
                       <para><guimenu>Zoom</guimenu> buttons: Enable you to change the
@@ -466,7 +462,7 @@ choose how to show items in your view pane.</para>
               </row>
               <row>
                 <entry valign="top">
-              		<anchor id="goscaja-540"/>
+              		<anchor xml:id="goscaja-540"/>
                   <para>Side pane</para>
                 </entry>
                 <entry valign="top">
@@ -529,7 +525,7 @@ at the top right of the side pane.</para>
             </row>
             <row>
               <entry valign="top">
-		<anchor id="goscaja-53"/>
+		<anchor xml:id="goscaja-53"/>
                 <para>View pane</para>
               </entry>
               <entry valign="top">
@@ -564,16 +560,16 @@ at the top right of the side pane.</para>
           </tbody>
         </tgroup>
       </table>
-    </sect3>
-    </sect2>
-    <sect2 id="goscaja-18">
-      <title>Showing and Hiding File Browser Window Components</title>
+    </section>
+    </section>
+
+    <section xml:id="goscaja-18"><info><title>Showing and Hiding File Browser Window Components</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>window components, showing
 and hiding</secondary>
       </indexterm>
-      <para>To show or hide any of the components of the file browser described in <xref linkend="goscaja-TBL-83" /> select any of the following items from the menu:<!-- TODO clean this up, it's too robotic! --></para>
+      <para>To show or hide any of the components of the file browser described in <xref linkend="goscaja-TBL-83"/> select any of the following items from the menu:<!-- TODO clean this up, it's too robotic! --></para>
       <itemizedlist>
         <listitem>
           <para>To hide the side pane, choose <menuchoice><guimenu>View</guimenu><guimenuitem>Side Pane</guimenuitem></menuchoice>. To display the
@@ -592,9 +588,9 @@ the location bar again, choose <menuchoice><guimenu>View</guimenu><guimenuitem>L
 statusbar again, choose <menuchoice><guimenu>View</guimenu><guimenuitem>Statusbar</guimenuitem></menuchoice> again. </para>
         </listitem>
       </itemizedlist>
-    </sect2>
-    <sect2 id="caja-location-bar">
-      <title>Using the Location Bar</title>
+    </section>
+
+    <section xml:id="caja-location-bar"><info><title>Using the Location Bar</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>window components, showing
@@ -608,8 +604,7 @@ and hiding</secondary>
         <para><guilabel>Button bar</guilabel></para>
         <para>By default the button bar is shown. This shows a row of buttons representing the current location's hierarchy, with a button for each containing folder. Click on the button to jump between folders in the hierarchy. You can return to the original folder, which is shown as the last button in the row.</para>
         <para>You can also drag buttons, for example to another location, in order to copy a folder.</para>
-      <figure id="goscaja-FIG-903">
-      <title>The button bar</title>
+      <figure xml:id="goscaja-FIG-903"><info><title>The button bar</title></info>
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -628,8 +623,7 @@ and hiding</secondary>
         <para>To go to a new location, type a new path or edit the current one, then press <keycap>Enter</keycap>. The path field automatically completes what you are typing when there is only one possibility. To accept the suggested completion, press <keycap>Tab</keycap>.</para>
       <para>To always use the text location bar, click on the toggle button at the left of the location bar.</para>
       <para>To quickly switch to the text location bar while using the button bar, press <keycombo><keycap>Ctrl</keycap><keycap>L</keycap></keycombo>, choose <menuchoice><guimenu>Go</guimenu><guimenuitem>Location</guimenuitem></menuchoice>, or press <keycap>Leading Slash (/)</keycap> to type a path from the root directory. The location bar shows the location buttons again after you press <keycap>Enter</keycap> or cancel with <keycap>Escape</keycap>.</para>
-      <figure id="goscaja-FIG-902">
-      <title>The location bar</title>
+      <figure xml:id="goscaja-FIG-902"><info><title>The location bar</title></info>
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -644,9 +638,8 @@ and hiding</secondary>
       </listitem>
       <listitem>
         <para><guilabel>Search bar</guilabel></para>
-        <para>By pressing <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or selecting the <guibutton>Search</guibutton> toolbar button the search bar appears. For more information on searching see <xref linkend="caja-searching" />. The search bar is excellent for locating files of folders when you are not sure of their exact location.</para>
-      <figure id="goscaja-FIG-904">
-      <title>The search bar</title>
+        <para>By pressing <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or selecting the <guibutton>Search</guibutton> toolbar button the search bar appears. For more information on searching see <xref linkend="caja-searching"/>. The search bar is excellent for locating files of folders when you are not sure of their exact location.</para>
+      <figure xml:id="goscaja-FIG-904"><info><title>The search bar</title></info>
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -660,9 +653,9 @@ and hiding</secondary>
       </figure>
       </listitem>
 </itemizedlist>
-    </sect2>
-    <sect2 id="goscaja-499">
-      <title>Displaying Your Home Folder</title>
+    </section>
+
+    <section xml:id="goscaja-499"><info><title>Displaying Your Home Folder</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>Home folder</secondary>
@@ -690,10 +683,10 @@ perform one of the following actions from a file browser window:</para>
         </listitem>
       </itemizedlist>
       <para>The file browser window displays the contents of your Home Folder.</para>
-    </sect2>
-    <sect2 id="goscaja-500">
-      <title>Displaying a Folder</title>
-      <para>The contents of a folder can be displayed in either list or icon view by selecting the appropriate item in the location bar <guilabel>View as</guilabel> menu. For more information on the list and icon view see <xref linkend="goscaja-7" /></para>
+    </section>
+
+    <section xml:id="goscaja-500"><info><title>Displaying a Folder</title></info>
+      <para>The contents of a folder can be displayed in either list or icon view by selecting the appropriate item in the location bar <guilabel>View as</guilabel> menu. For more information on the list and icon view see <xref linkend="goscaja-7"/></para>
       <itemizedlist>
         <listitem>
           <para>Double-click on the folder in the view pane.</para>
@@ -721,9 +714,9 @@ the name of the directory in the <guilabel>Location</guilabel> field.</para>
       <para>To change to the folder that is one level above the current folder,
 choose <menuchoice><guimenu>Go</guimenu><guimenuitem>Up</guimenuitem></menuchoice>. Alternatively, click on the <guibutton>Up</guibutton> toolbar
 button.</para>
-    </sect2>
-    <sect2 id="goscaja-26">
-      <title>Displaying a Parent Folder</title>
+    </section>
+
+    <section xml:id="goscaja-26"><info><title>Displaying a Parent Folder</title></info>
       <para>The parent folder of the current folder which you are browsing is the one which exists, in a hierarchical representation, one level above the current. To display the contents of  parent folder, perform one of the
 following steps:</para>
       <itemizedlist>
@@ -737,9 +730,9 @@ following steps:</para>
           <para>Press the <keycap>Backspace</keycap> key.</para>
         </listitem>
       </itemizedlist>
-    </sect2>
-    <sect2 id="goscaja-27">
-      <title>Using the Tree From the Side Pane</title>
+    </section>
+
+    <section xml:id="goscaja-27"><info><title>Using the Tree From the Side Pane</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>Tree, using </secondary>
@@ -753,8 +746,7 @@ your file system. To display the <guilabel>Tree</guilabel> in the side pane, cho
       
       <para><xref linkend="goscaja-TBL-34"/> describes tasks you can
 perform with the <guilabel>Tree</guilabel>, and how to do so.</para>
-      <table frame="topbot" id="goscaja-TBL-34">
-        <title>Tree Tasks</title>
+      <table frame="topbot" xml:id="goscaja-TBL-34"><info><title>Tree Tasks</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="50*"/>
           <colspec colname="colspec1" colwidth="50*"/>
@@ -825,9 +817,9 @@ a folder in the view pane.</para>
       </table>
       <para>You can set your preferences so that the <guilabel>Tree</guilabel> does
 not display files. For more information, see <xref linkend="goscaja-438"/>. </para>
-    </sect2>
-    <sect2 id="goscaja-5">
-      <title>Using Your Navigation History</title>
+    </section>
+
+    <section xml:id="goscaja-5"><info><title>Using Your Navigation History</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>navigating history list</secondary>
@@ -837,12 +829,12 @@ list of files, folders, FTP sites, and URI locations you have recently visited. 
 list to navigate to quickly return to these places. Your history list contains the last ten items that
 you viewed.</para>
       <para>To clear your history list choose <menuchoice><guimenu>Go</guimenu><guimenuitem>Clear History</guimenuitem></menuchoice>.</para>
-      <sect3 id="goscaja-77">
-        <title>Navigating Your History List Using the Go Menu</title>
+
+      <section xml:id="goscaja-77"><info><title>Navigating Your History List Using the Go Menu</title></info>
         <para>To display a list of previously-viewed items, choose the <guimenu>Go</guimenu> menu. Your history list is displayed in the lower part of the <guimenu>Go</guimenu> menu. To open an item in your history list, simply click on the item.</para>
-      </sect3>
-      <sect3 id="goscaja-78">
-        <title>Navigating Your History List Using the Toolbar</title>
+      </section>
+
+      <section xml:id="goscaja-78"><info><title>Navigating Your History List Using the Toolbar</title></info>
         <para>To use the toolbar to navigate your history list, perform one of the
 following actions:</para>
         <itemizedlist>
@@ -865,9 +857,9 @@ the current item, click on the down arrow to the right of the <guibutton>Forward
 on the item.</para>
           </listitem>
         </itemizedlist>
-      </sect3>
-      <sect3 id="goscaja-80">
-        <title>Navigating Your History List Using History in the Side Pane</title>
+      </section>
+
+      <section xml:id="goscaja-80"><info><title>Navigating Your History List Using History in the Side Pane</title></info>
         <indexterm>
           <primary>file manager</primary>
           <secondary>History</secondary>
@@ -876,16 +868,15 @@ on the item.</para>
 items.</para>
         <para>To display an item from your history list in the view pane, double-click on
 the item in the <guilabel>History</guilabel> list.</para>
-
-      </sect3>
-    </sect2>
-  </sect1>  
+      </section>
+    </section>
+  </section>  
   
-	<!-- ======================================================== Opening -->
-  <sect1 id="caja-open-file">
-    <title>Opening Files</title>
+  <!-- ======================================================== Opening -->
+  <section xml:id="caja-open-file"><info><title>Opening Files</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscaja-28"/>       
+    <anchor xml:id="goscaja-28"/>
+
     <indexterm>
       <primary>file manager</primary>
       <secondary>opening files</secondary>
@@ -897,8 +888,8 @@ action for that file type.</para>
 of a file. If the first lines do not determine the type of the file, then
 the file manager checks the <glossterm>file extension</glossterm>.</para>
     <note><para>If you open an executable text file, that is, one that Caja considers can be run as a program, then you will be asked what you want to do: run it, or display it in a text editor. You can modify this behavior in the <link linkend="caja-preferences">File Management preferences</link>.</para></note>
-    <sect2 id="goscaja-29">
-      <title>Executing the Default Action</title>
+
+    <section xml:id="goscaja-29"><info><title>Executing the Default Action</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>executing default actions
@@ -910,9 +901,9 @@ text documents is to display the file in a text viewer. In this case, you
 can double-click on the file to  display the file in a text viewer.</para>
       <para>You can set your file manager preferences so that you click once on
 a file to execute the default action. For more information, see <xref linkend="goscaja-56"/>.</para>
-    </sect2>
-    <sect2 id="goscaja-30">
-      <title>Executing Non-Default Actions</title>
+    </section>
+
+    <section xml:id="goscaja-30"><info><title>Executing Non-Default Actions</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>executing non-default
@@ -922,11 +913,12 @@ actions for files</secondary>
 the default action for a file,  select the file that you want to perform
 an action on. In the <menuchoice><guimenu>File</guimenu></menuchoice> menu you will either have "Open with" choices, or an 
 <menuchoice><guimenuitem>Open With</guimenuitem></menuchoice> submenu. Select the desired option from this list.</para>
-    </sect2>
-    <sect2 id="goscaja-add-actions">
-      <title>Adding Actions</title>
-	    <!-- preserve id for backwards compatibility: 2.12 -->
-	    <anchor id="goscaja-204"/><!-- Assigning Actions to Files -->
+    </section>
+
+    <section xml:id="goscaja-add-actions"><info><title>Adding Actions</title></info>
+      <!-- preserve id for backwards compatibility: 2.12 -->
+      <anchor xml:id="goscaja-204"/><!-- Assigning Actions to Files -->
+
       <indexterm>
         <primary>file manager</primary>
         <secondary>adding actions</secondary>
@@ -949,9 +941,9 @@ which you wish to open this type.</para>
        <para>The action you have chosen is now added to the list of actions for that particular file type. If there was 
 no prior action associated with the type, the newly added action is the default.</para>
        <para>You may also add actions in the <guilabel>Open With</guilabel> tabbed section under <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>.</para>
-   </sect2>
-    <sect2 id="goscaja-75">
-      <title>Modifying Actions</title>
+   </section>
+
+    <section xml:id="goscaja-75"><info><title>Modifying Actions</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>modifying actions</secondary>
@@ -974,19 +966,18 @@ a file of the type to which you want to modify the action.</para>
 Select the default action with the option to the left of the list.</para>
         </listitem>
       </orderedlist>
-    </sect2>    
+    </section>    
    
-	<!-- =========================================== Searching -->    
-  </sect1>
-  <sect1 id="caja-searching">
-    <title>Searching For Files</title>
+  <!-- =========================================== Searching -->    
+  </section>
+
+  <section xml:id="caja-searching"><info><title>Searching For Files</title></info>
     <indexterm>
       <primary>file manager</primary>
       <secondary>searching files</secondary>
     </indexterm>
-    <para>The <application>Caja</application> file manager includes an easy and simple to use way search for your files and folders. To begin a search press <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or select the <guibutton>Search</guibutton> toolbar button. The search bar should appear as in <xref linkend="goscaja-FIG-925" /></para>
-                    <figure id="goscaja-FIG-925">
-                    <title>The search bar</title>
+    <para>The <application>Caja</application> file manager includes an easy and simple to use way search for your files and folders. To begin a search press <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or select the <guibutton>Search</guibutton> toolbar button. The search bar should appear as in <xref linkend="goscaja-FIG-925"/></para>
+                    <figure xml:id="goscaja-FIG-925"><info><title>The search bar</title></info>
                       <screenshot>
                         <mediaobject>
                           <imageobject>
@@ -998,9 +989,8 @@ Select the default action with the option to the left of the list.</para>
                         </mediaobject>
                       </screenshot>
                     </figure>
-<para>Enter characters present in the name or contents of the file or folder you wish to find and press <keycap>Enter</keycap>. The results of your search should appear in the view pane as illustrated in <xref linkend="goscaja-FIG-926" /></para>
-                    <figure id="goscaja-FIG-926">
-                    <title>The result of a search</title>
+<para>Enter characters present in the name or contents of the file or folder you wish to find and press <keycap>Enter</keycap>. The results of your search should appear in the view pane as illustrated in <xref linkend="goscaja-FIG-926"/></para>
+                    <figure xml:id="goscaja-FIG-926"><info><title>The result of a search</title></info>
                       <screenshot>
                         <mediaobject>
                           <imageobject>
@@ -1012,9 +1002,8 @@ Select the default action with the option to the left of the list.</para>
                         </mediaobject>
                       </screenshot>
                     </figure>
-<para>If you are not happy with your search, you can refine it by adding addition conditions. This allows you to restrict the search to a specific file type or location. To add search conditions click the <guibutton>+</guibutton> icon. <xref linkend="goscaja-FIG-927" /> shows a search which has been restricted to the users home directory and to only search for text files.</para>
-                    <figure id="goscaja-FIG-927">
-                    <title>Restricting a search</title>
+<para>If you are not happy with your search, you can refine it by adding addition conditions. This allows you to restrict the search to a specific file type or location. To add search conditions click the <guibutton>+</guibutton> icon. <xref linkend="goscaja-FIG-927"/> shows a search which has been restricted to the users home directory and to only search for text files.</para>
+                    <figure xml:id="goscaja-FIG-927"><info><title>Restricting a search</title></info>
                       <screenshot>
                         <mediaobject>
                           <imageobject>
@@ -1026,16 +1015,15 @@ Select the default action with the option to the left of the list.</para>
                         </mediaobject>
                       </screenshot>
                     </figure>
-    <sect2 id="caja-saving-searches">
-      <title>Saving Searches</title>
+
+    <section xml:id="caja-saving-searches"><info><title>Saving Searches</title></info>
       <indexterm>
         <primary>file manager</primary>
-        <secondary>executing default actions
-for files</secondary>
+        <secondary>executing default actions for files</secondary>
       </indexterm>
-      <para>Caja searches can also be saved for future use. Once saved, searches may be reopened later. <xref linkend="goscaja-FIG-935" /> shows a user with three saved searches, browsing one of them.</para>
-                    <figure id="goscaja-FIG-935">
-                    <title>Browsing the results of a saved search</title>
+      <para>Caja searches can also be saved for future use. Once saved, searches may be reopened later. <xref linkend="goscaja-FIG-935"/> shows a user with three saved searches, browsing one of them.</para>
+                    <figure xml:id="goscaja-FIG-935"><info><title>Browsing the results of a saved search</title></info>
+                    
                       <screenshot>
                         <mediaobject>
                           <imageobject>
@@ -1048,12 +1036,11 @@ for files</secondary>
                       </screenshot>
                     </figure>
 <para>Saved searches behave exactly like regular folders, for example you can open, move or delete files from within a saved search.</para>
-    </sect2>
-  </sect1>
+    </section>
+  </section>
 
-	<!-- =========================================== Managing -->
-  <sect1 id="goscaja-8">
-    <title>Managing Your Files and Folders</title>
+  <!-- =========================================== Managing -->
+  <section xml:id="goscaja-8"><info><title>Managing Your Files and Folders</title></info>
     <indexterm>
       <primary>file manager</primary>
       <secondary>managing files and folders</secondary>
@@ -1061,8 +1048,7 @@ for files</secondary>
     <para>This section describes how to work with your
 files and folders.</para>
 
-  	<sect2 id="caja-directories-file-systems" status="complete">
-  			<title>Directories and File Systems</title>
+  	<section xml:id="caja-directories-file-systems" status="complete"><info><title>Directories and File Systems</title></info>
 				<para>In Linux and other Unix-like operating systems, the filesystem is organised in a hierarchical, tree-like structure.  The highest level of the filesystem is the <filename>/</filename> or <emphasis>root directory</emphasis>.  These operating systems create a virtual file system, in which a filesystem object, such as a file or a directory, is represented by an inode. Each inode stores information about its parent and children, as well as its own attributes, among others, the owner, the permissions, the last change, access or modification of the filesystem object.
   				</para>
   				<para>For example, <filename>/home/jebediah/cheeses.odt</filename> shows the correct full path to the <filename>cheeses.odt</filename> file that exists in the <filename>jebediah</filename> directory which is under the <filename>home</filename> directory, which in turn, is under the root (<filename>/</filename>) directory.
@@ -1115,7 +1101,7 @@ files and folders.</para>
   							</para>
   						</listitem>
   						<listitem>
-  							<para><filename>/root</filename> - <emphasis>root</emphasis> user home directory, pronounced &apos;slash-root&apos;
+  							<para><filename>/root</filename> - <emphasis>root</emphasis> user home directory, pronounced 'slash-root'
   							</para>
   						</listitem>
   						<listitem>
@@ -1142,11 +1128,10 @@ files and folders.</para>
   							</para>
   						</listitem> 
   					</itemizedlist>
-				<note><para>More detailed information on the UNIX-like filesystem hierarchy is available at Filesystem Hierarchy Standard 3.0 <ulink url="http://refspecs.linuxfoundation.org/fhs.shtml">http://refspecs.linuxfoundation.org/fhs.shtml</ulink>.</para></note>
-  	</sect2>
+				<note><para>More detailed information on the UNIX-like filesystem hierarchy is available at Filesystem Hierarchy Standard 3.0 <link xlink:href="http://refspecs.linuxfoundation.org/fhs.shtml">http://refspecs.linuxfoundation.org/fhs.shtml</link>.</para></note>
+  	</section>
 
-    <sect2 id="goscaja-7">
-      <title>Using Views to Display Your Files and Folders</title>
+    <section xml:id="goscaja-7"><info><title>Using Views to Display Your Files and Folders</title></info>
       <indexterm>
         <primary>viewer components</primary>
       </indexterm>
@@ -1161,9 +1146,8 @@ of your folders in different ways, icon view, and list view.</para>
         <listitem>
           <para>Icon view</para>
           <para><xref linkend="goscaja-FIG-naut-icon-view"/> Shows the items in the folder as icons.
-<figure id="goscaja-FIG-naut-icon-view">
-                    <title>The Home Folder displayed in an icon view</title>
-<screenshot>
+          <figure xml:id="goscaja-FIG-naut-icon-view"><info><title>The Home Folder displayed in an icon view</title></info>
+                <screenshot>
                   <mediaobject>
                     <imageobject>
                       <imagedata fileref="figures/caja_spatial_icon_view.png" format="PNG"/>
@@ -1173,14 +1157,13 @@ of your folders in different ways, icon view, and list view.</para>
                     </textobject>
                   </mediaobject>
                 </screenshot>
-</figure></para>
+          </figure></para>
         </listitem>
         <listitem>
           <para>List view</para>
           <para><xref linkend="goscaja-FIG-naut-list-view"/> Shows the items in the folder as a list.
-<figure id="goscaja-FIG-naut-list-view">
-                    <title>The Home Folder displayed in a list view</title>
-<screenshot>
+          <figure xml:id="goscaja-FIG-naut-list-view"><info><title>The Home Folder displayed in a list view</title></info>
+                <screenshot>
                   <mediaobject>
                     <imageobject>
                       <imagedata fileref="figures/caja_spatial_list_view.png" format="PNG"/>
@@ -1190,13 +1173,13 @@ of your folders in different ways, icon view, and list view.</para>
                     </textobject>
                   </mediaobject>
                 </screenshot>
-</figure>
-</para>
+          </figure>
+          </para>
         </listitem>
       </itemizedlist>
       <para>You may use the <guilabel>View</guilabel> menu, or the <guilabel>View as</guilabel> drop-down list to choose between icon or list view. You can specify how you want to arrange or sort items in the folder and modify the size of the items in the view pane. The following sections describe how to work with icon view and list view.</para>
-      <sect3 id="goscaja-101">
-        <title>To Arrange Your Files in Icon View</title>
+
+      <section xml:id="goscaja-101"><info><title>To Arrange Your Files in Icon View</title></info>
         <indexterm>
           <primary>file manager</primary>
           <secondary>icon view</secondary>
@@ -1294,8 +1277,7 @@ detect that a PNG file is attached to an email.</para>
               <row>
                 <entry colname="colspec6" valign="top">
                   <para>
-                    <guilabel>By Modification
-Date</guilabel>
+                    <guilabel>By Modification Date</guilabel>
                   </para>
                 </entry>
                 <entry colname="colspec7" valign="top">
@@ -1342,9 +1324,9 @@ alphabetical order.</para>
             </tbody>
           </tgroup>
         </informaltable>
-      </sect3>
-      <sect3 id="goscaja-listview-arrange">
-        <title>To Arrange Your Files in List View</title>
+      </section>
+
+      <section xml:id="goscaja-listview-arrange"><info><title>To Arrange Your Files in List View</title></info>
         <indexterm>
           <primary>file manager</primary>
           <secondary>list view</secondary>
@@ -1360,9 +1342,9 @@ in the way that you selected.  In other words, when you specify how to arrange
 the items in a folder, you customize the folder to display the items in that
 way. To return the arrangement settings of the folder to the default arrangement
 settings specified in your preferences, choose <menuchoice><guimenu>View</guimenu><guimenuitem>Reset View to Defaults</guimenuitem></menuchoice>.</para>
-      </sect3>
-<sect3 id="goscaja-102">
-      <title>To Change the Size of Items in a View</title>
+      </section>
+
+<section xml:id="goscaja-102"><info><title>To Change the Size of Items in a View</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>zooming in and out</secondary>
@@ -1384,8 +1366,7 @@ of items in a view in the following ways:</para>
       <para>You can also use the zoom buttons on the location bar in a browser window to change the
 size of items in a view. <xref linkend="goscaja-TBL-42"/> describes how
 to use the zoom buttons.</para>
-      <table frame="topbot" id="goscaja-TBL-42">
-        <title>Zoom Buttons</title>
+      <table frame="topbot" xml:id="goscaja-TBL-42"><info><title>Zoom Buttons</title></info>
         <tgroup cols="3" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="21.98*"/>
           <colspec colname="colspec1" colwidth="32.86*"/>
@@ -1476,21 +1457,20 @@ in a folder, you customize the folder to display the items at that size. To
 return the size of the items to the default size specified in your preferences,
 choose <menuchoice><guimenu>View</guimenu><guimenuitem>Reset View
 to Defaults</guimenuitem></menuchoice>.</para>
-    </sect3>
-    </sect2>
+    </section>
+    </section>
 
-    <sect2 id="caja-select">
-      <title>Selecting Files and Folders</title>
+    <section xml:id="caja-select"><info><title>Selecting Files and Folders</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscaja-202"/>         
+      <anchor xml:id="goscaja-202"/>
+
       <indexterm>
         <primary>file manager</primary>
         <secondary>selecting files and folders</secondary>
       </indexterm>
       <para>You can select files and folders in several
 ways in the file manager. Typically, this is achieved by clicking on the files using the mouse, as explained in <xref linkend="goscaja-TBL-10"/>. In addition, <xref linkend="caja-select-pattern"/> describes how to select a group of files matching a specific pattern.</para>
-      <table frame="topbot" id="goscaja-TBL-10">
-        <title>Selecting Items in the File Manager</title>
+      <table frame="topbot" xml:id="goscaja-TBL-10"><info><title>Selecting Items in the File Manager</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="36.36*"/>
           <colspec colname="colspec2" colwidth="63.64*"/>
@@ -1515,12 +1495,10 @@ ways in the file manager. Typically, this is achieved by clicking on the files u
             </row>
             <row>
               <entry colname="colspec0" valign="top">
-                <para>Select a group of contiguous
-items</para>
+                <para>Select a group of contiguous items</para>
               </entry>
               <entry colname="colspec2" valign="top">
-                <para>In icon view,
-drag around the files that you want to select.</para>
+                <para>In icon view, drag around the files that you want to select.</para>
                 <para>In list view, click
 on the first item in the group. Press-and-hold <keycap>Shift</keycap>, then
 click on the last item in the group.</para>
@@ -1550,11 +1528,10 @@ Click on the items that you want to select.</para>
       <para>To perform the default action on an item, double-click on the item.
 You can set your file manager preferences so that you click once on a file
 to execute the default action. For more information, see <xref linkend="goscaja-56"/>.</para>
-<sect3 id="caja-select-pattern">
-<title>Selecting Files Matching a Specific Pattern</title>
+
+<section xml:id="caja-select-pattern"><info><title>Selecting Files Matching a Specific Pattern</title></info>
 <para><application>Caja</application> allows you to select all files matching a pattern based upon their filename and an optional number of wildcards. This can be useful if, for example, you wish to select all files which contain the phrase "memo" in their filename. <xref linkend="goscaja-TBL-select-pattern"/> gives some examples of possible patterns and the resulting files they would match.</para>
-<table frame="topbot" id="goscaja-TBL-select-pattern">
-        <title>Selecting Items in the File Manager</title>
+<table frame="topbot" xml:id="goscaja-TBL-select-pattern"><info><title>Selecting Items in the File Manager</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="36.36*"/>
           <colspec colname="colspec2" colwidth="63.64*"/>
@@ -1597,13 +1574,13 @@ to execute the default action. For more information, see <xref linkend="goscaja-
         </tgroup>
       </table>
       <para>To perform the Select Pattern command Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Select Patterns</guimenuitem></menuchoice> from the menu. After entering the desired pattern you are left with those files or folders which matched the pattern selected. You may then do with the selected files or folders what you choose.</para>
-      </sect3>
-    </sect2>
+      </section>
+    </section>
 
-    <sect2 id="caja-dragndrop">
-      <title>Drag-and-Drop in the File Manager</title>
+    <section xml:id="caja-dragndrop"><info><title>Drag-and-Drop in the File Manager</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscaja-201"/>       
+      <anchor xml:id="goscaja-201"/>
+
       <indexterm>
         <primary>file manager</primary>
         <secondary>drag-and-drop</secondary>
@@ -1613,8 +1590,7 @@ file manager. When you drag-and-drop, the mouse pointer provides feedback
 about the task that you perform. <xref linkend="goscaja-TBL-11"/> describes
 the tasks that you can perform with drag-and-drop. The table also shows the
 mouse pointers that appear when you drag-and-drop.</para>
-      <table frame="topbot" id="goscaja-TBL-11">
-        <title>Drag-and-Drop in the File Manager</title>
+      <table frame="topbot" xml:id="goscaja-TBL-11"><info><title>Drag-and-Drop in the File Manager</title></info>
         <tgroup cols="3" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="36.36*"/>
           <colspec colname="colspec2" colwidth="98.56*"/>
@@ -1675,8 +1651,7 @@ mouse pointers that appear when you drag-and-drop.</para>
             </row>
             <row>
               <entry colname="colspec0" valign="top">
-                <para>Create a symbolic link to
-an item</para>
+                <para>Create a symbolic link to an item</para>
               </entry>
               <entry colname="colspec2" valign="top">
                 <para>Grab the
@@ -1698,8 +1673,7 @@ Drag the item to the location where you want the symbolic link to reside.</para>
             </row>
             <row>
               <entry colname="colspec0" valign="top">
-                <para>Ask what to do with the
-item you drag</para>
+                <para>Ask what to do with the item you drag</para>
               </entry>
               <entry colname="colspec2" valign="top">
                 <para>Grab the item, then press-and-hold <keycap>Alt</keycap>. You may also use the middle mouse button to perform the same operation.
@@ -1716,7 +1690,7 @@ A popup menu appears. Choose one of the following items from the popup menu:</pa
                     <para>
                       <guimenuitem>Copy here</guimenuitem>
                     </para>
-                    <para>Copies the item to the  location. </para>
+                    <para>Copies the item to the  location.</para>
                   </listitem>
                   <listitem>
                     <para>
@@ -1755,17 +1729,16 @@ A popup menu appears. Choose one of the following items from the popup menu:</pa
           </tbody>
         </tgroup>
       </table>
-    </sect2>
+    </section>
 
-    <sect2 id="goscaja-9">
-      <title>Moving a File or Folder</title>
+    <section xml:id="goscaja-9"><info><title>Moving a File or Folder</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>moving files and folders</secondary>
       </indexterm>
       <para>You can move a file or folder by dragging it with the mouse, or with the cut and paste commands. The following sections describe these two methods.</para>
-      <sect3 id="goscaja-537">
-        <title>Drag to the New Location</title>
+
+      <section xml:id="goscaja-537"><info><title>Drag to the New Location</title></info>
         <para>To drag a file or folder to a new location, perform the following steps:</para>
         <orderedlist>
           <listitem>
@@ -1783,9 +1756,9 @@ A popup menu appears. Choose one of the following items from the popup menu:</pa
 location, do not open a new window. Instead, drag the file or folder to the
 new location in the same window.</para>
         <tip><para>For more on dragging items, see <xref linkend="caja-dragndrop"/>.</para></tip>
-      </sect3>
-      <sect3 id="goscaja-538">
-        <title>Cut and Paste to the New Location</title>
+      </section>
+
+      <section xml:id="goscaja-538"><info><title>Cut and Paste to the New Location</title></info>
         <para>You can cut a file or folder and paste the file or folder into another
 folder, as follows:</para>
         <orderedlist>
@@ -1798,17 +1771,17 @@ then choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste
 </guimenuitem></menuchoice>.</para>
           </listitem>
         </orderedlist>
-      </sect3>
-    </sect2>
-    <sect2 id="goscaja-10">
-      <title>Copying a File or Folder</title>
+      </section>
+    </section>
+
+    <section xml:id="goscaja-10"><info><title>Copying a File or Folder</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>copying files and folders</secondary>
       </indexterm>
       <para>You can copy a file or folder by dragging it with the mouse, or with the copy and paste commands. The following sections describe these two methods.</para>
-      <sect3 id="goscaja-640">
-        <title>Drag to the New Location</title>
+
+      <section xml:id="goscaja-640"><info><title>Drag to the New Location</title></info>
         <para>To copy a file or folder, perform the following steps:</para>
         <orderedlist>
           <listitem>
@@ -1827,9 +1800,10 @@ location, do not open a new window. Instead, grab the file or folder, then
 press-and-hold <keycap>Ctrl</keycap>. Drag the file or folder to the new location
 in the same window.</para>
         <tip><para>For more on dragging items, see <xref linkend="caja-dragndrop"/>.</para></tip>
-      </sect3>
-      <sect3 id="goscaja-441">
-        <title>Copy and Paste to the New Location</title>
+      </section>
+
+      <section xml:id="goscaja-441"><info><title>Copy and Paste to the New Location</title></info>
+        
         <para>You can copy a file or folder and paste the file or folder into another
 folder, as follows:</para>
         <orderedlist>
@@ -1842,10 +1816,10 @@ then choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste
 </guimenuitem></menuchoice>.</para>
           </listitem>
         </orderedlist>
-      </sect3>
-    </sect2>
-    <sect2 id="goscaja-82">
-      <title>Duplicating a File or Folder</title>
+      </section>
+    </section>
+
+    <section xml:id="goscaja-82"><info><title>Duplicating a File or Folder</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>duplicating files and
@@ -1862,9 +1836,9 @@ in the current folder, perform the following steps:</para>
           <para>A copy of the file or folder appears in the current folder.</para>
         </listitem>
       </orderedlist>
-    </sect2>
-    <sect2 id="goscaja-11">
-      <title>Creating a Folder</title>
+    </section>
+
+    <section xml:id="goscaja-11"><info><title>Creating a Folder</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>creating folders</secondary>
@@ -1884,9 +1858,9 @@ name of the folder is selected.</para>
           <para>Type a name for the folder, then press <keycap>Return</keycap>. </para>
         </listitem>
       </orderedlist>
-    </sect2>
-    <sect2 id="goscaja-templates-docs">
-      <title>Templates and Documents</title>
+    </section>
+
+    <section xml:id="goscaja-templates-docs"><info><title>Templates and Documents</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>creating documents</secondary>
@@ -1903,8 +1877,8 @@ Document</guilabel> menu.</para>
 as submenus in the menu. </para>
       <para>You can also share templates. Create a symbolic link from the template
 folder to the folder containing the shared templates. </para>
-      <sect3 id="goscaja-514">
-        <title>To Create a Document</title>
+
+      <section xml:id="goscaja-514"><info><title>To Create a Document</title></info>
         <para>If you have document templates, you can choose to create a document
 from one of the installed templates. </para>
         <para>To create a document perform the following steps:</para>
@@ -1926,10 +1900,10 @@ want to create. </para>
             <para>Rename the document before saving to the appropriate folder.</para>
           </listitem>
         </orderedlist>
-      </sect3>
-    </sect2>
-    <sect2 id="goscaja-12">
-      <title>Renaming a File or Folder</title>
+      </section>
+    </section>
+
+    <section xml:id="goscaja-12"><info><title>Renaming a File or Folder</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>renaming folders</secondary>
@@ -1948,9 +1922,9 @@ or folder, then choose <guimenuitem>Rename</guimenuitem>.</para>
           <para>Type a new name for the file or folder, then press <keycap>Return</keycap>.</para>
         </listitem>
       </orderedlist>
-    </sect2>
-    <sect2 id="goscaja-13">
-      <title>Moving a File or Folder to Trash</title>
+    </section>
+
+    <section xml:id="goscaja-13"><info><title>Moving a File or Folder to Trash</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>Trash</secondary>
@@ -1958,8 +1932,7 @@ or folder, then choose <guimenuitem>Rename</guimenuitem>.</para>
       </indexterm>
       <indexterm>
         <primary>Trash</primary>
-        <secondary>moving
-files or folders to</secondary>
+        <secondary>moving files or folders to</secondary>
       </indexterm>
       <para>To move a file or folder
 to <guilabel>Trash</guilabel> perform the following steps:</para>
@@ -1978,9 +1951,9 @@ file or folder, then choose <guimenuitem>Move to Trash</guimenuitem>.</para>
 location on the removable media. To remove the file or folder permanently
 from the removable media, you must empty <guilabel>Trash</guilabel>.</para>
       </note>
-    </sect2>
-    <sect2 id="goscaja-443">
-      <title>Deleting a File or Folder</title>
+    </section>
+
+    <section xml:id="goscaja-443"><info><title>Deleting a File or Folder</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>deleting files or folders</secondary>
@@ -2009,11 +1982,11 @@ or folder, then choose <guimenuitem>Delete</guimenuitem>.</para>
 	  </para>
 	</note>
       </para>
-    </sect2>
-    <sect2 id="caja-symlink">
-      <title>Creating a Symbolic Link to a File or Folder</title>
+    </section>
+    <section xml:id="caja-symlink"><info><title>Creating a Symbolic Link to a File or Folder</title></info>
+      
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscaja-14"/>        
+      <anchor xml:id="goscaja-14"/>        
       <indexterm>
         <primary>file manager</primary>
         <secondary>creating symbolic link</secondary>
@@ -2039,29 +2012,26 @@ to the location where you want to place the link.</para>
 or folder to which a symbolic link points.</para>
       </note>
       <tip><para>For more on dragging items, see <xref linkend="caja-dragndrop"/>.</para></tip>      
-    </sect2>
-    <sect2 id="goscaja-476">
-      <title>Viewing the Properties of a File or Folder</title>
+    </section>
+
+    <section xml:id="goscaja-476"><info><title>Viewing the Properties of a File or Folder</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>viewing properties</secondary>
       </indexterm>
-      <para>To view the properties of a file or folder, perform the
-following steps:</para>
+      <para>To view the properties of a file or folder, perform the following steps:</para>
       <orderedlist>
         <listitem>
-          <para>Select the file or folder whose properties you want to view. </para>
+          <para>Select the file or folder whose properties you want to view.</para>
         </listitem>
         <listitem>
           <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>. A properties dialog is displayed.</para>
         </listitem>
         <listitem>
-          <para>Use the properties dialog to view the properties of the file
-or folder. </para>
+          <para>Use the properties dialog to view the properties of the file or folder. </para>
         </listitem>
         <listitem>
-          <para>Click <guibutton>Close</guibutton> to close the properties
-dialog.</para>
+          <para>Click <guibutton>Close</guibutton> to close the properties dialog.</para>
         </listitem>
       </orderedlist>
 
@@ -2148,10 +2118,9 @@ dialog.</para>
           </tbody>
         </tgroup>
       </informaltable>
-    </sect2>
-    
-  	<sect2 id="caja-permissions-overview" status="review">
-			<title>File Permissions</title>
+    </section>
+
+    <section xml:id="caja-permissions-overview" status="review"><info><title>File Permissions</title></info>
         <para>Permissions are settings assigned to each file and folder
   that determine what type of access users can have to the file or folder. For example, you can determine whether other users can read and edit a file that belongs to you, or only have access to read it but not make changes to it.</para>
         <para>Each file belongs to a particular user, and is associated with a group that the owner belongs to. The super user "root" has the ability to access any file on the system.</para>
@@ -2196,17 +2165,14 @@ dialog.</para>
           </varlistentry>
         </variablelist>        
 
-        <para>For more on changing the permissions for a file or folder, see <xref linkend="caja-permissions" />.</para>
-    </sect2>
+        <para>For more on changing the permissions for a file or folder, see <xref linkend="caja-permissions"/>.</para>
+    </section>
 
-    <sect2 id="caja-permissions">
-      <title>Changing Permissions</title>
+    <section xml:id="caja-permissions"><info><title>Changing Permissions</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscaja-430"/>
+      <anchor xml:id="goscaja-430"/>
       
-      <sect3 id="caja-permissions-file">    
-        <title>Changing Permissions for a File</title>
-
+      <section xml:id="caja-permissions-file"><info><title>Changing Permissions for a File</title></info>    
         <indexterm>
           <primary>file manager</primary>
           <secondary>changing permissions</secondary>
@@ -2253,10 +2219,10 @@ dialog.</para>
             <para>To allow a file to be run as a program, select <guilabel>Execute</guilabel></para>
           </listitem>
         </orderedlist>   
-      </sect3>    
+      </section>    
 
-      <sect3 id="caja-permissions-folder">    
-        <title>Changing Permissions for a Folder</title>
+      <section xml:id="caja-permissions-folder"><info><title>Changing Permissions for a Folder</title></info>    
+        
         
         <para>To change the permissions of a folder, perform the following steps:</para>
         <orderedlist>
@@ -2300,12 +2266,11 @@ dialog.</para>
         </orderedlist>  
        
         <para>To set permissions for all the items contained in a folder, set the <guilabel>File Access</guilabel> and <guilabel>Execute</guilabel> properties and click on <guibutton>Apply permissions to enclosed files</guibutton>.</para>
-      </sect3>           
+      </section>           
 
-    </sect2>
+    </section>
     
-    <sect2 id="goscaja-200">
-      <title>Adding Notes to Files and Folders</title>
+    <section xml:id="goscaja-200"><info><title>Adding Notes to Files and Folders</title></info>
       <para>You can add notes to files or folders. You can add notes to files or
 folders in the following ways:</para>
       <itemizedlist>
@@ -2316,10 +2281,10 @@ folders in the following ways:</para>
           <para>From <guilabel>Notes</guilabel> in the side pane</para>
         </listitem>
       </itemizedlist>
-      <sect3 id="caja-notes">
-        <title>To Add a Note Using the Properties Dialog</title>
+
+      <section xml:id="caja-notes"><info><title>To Add a Note Using the Properties Dialog</title></info>
         <!-- preserve id for backwards compatibility: 2.12 -->
-        <anchor id="goscaja-472"/>           
+        <anchor xml:id="goscaja-472"/>           
         <indexterm>
           <primary>notes</primary>
           <secondary>adding to files and folders</secondary>
@@ -2347,9 +2312,9 @@ dialog. A note emblem is added to the file or folder.</para>
           </listitem>
         </orderedlist>
         <para><indexterm><primary>notes</primary><secondary>deleting</secondary></indexterm><indexterm><primary>file manager</primary><secondary>notes</secondary><tertiary>deleting</tertiary></indexterm>To delete a note, delete the note text from the <guilabel>Notes</guilabel> tabbed section.</para>
-      </sect3>
-      <sect3 id="goscaja-473">
-        <title>To Add a Note Using Notes in the Side Pane</title>
+      </section>
+      <section xml:id="goscaja-473"><info><title>To Add a Note Using Notes in the Side Pane</title></info>
+        
         <para>To add a note to a file or folder, perform the following steps:</para>
         <orderedlist>
           <listitem>
@@ -2368,12 +2333,13 @@ pane. You can click on this icon to display the note.</para>
         </orderedlist>
         <para>To delete a note, delete the note text from <guilabel>Notes</guilabel>
 in the side pane.</para>
-      </sect3>
-    </sect2>
-    <sect2 id="caja-bookmarks">
-      <title>Using Bookmarks For Your Favorite Locations</title>
+      </section>
+    </section>
+
+    <section xml:id="caja-bookmarks"><info><title>Using Bookmarks For Your Favorite Locations</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscaja-36"/>         
+      <anchor xml:id="goscaja-36"/>
+
       <indexterm>
         <primary>file manager</primary>
         <secondary>bookmarks</secondary>
@@ -2390,13 +2356,12 @@ in the side pane.</para>
       
       <para>To open an item that is in your bookmarks, choose the item from a menu.</para>
 
-      <sect3 id="goscaja-40">
-        <title>Adding a Bookmark</title>
+      <section xml:id="goscaja-40"><info><title>Adding a Bookmark</title></info>
         <para>To add a bookmark, open the folder or location that you want to bookmark, then choose <menuchoice><guimenu>Places</guimenu><guimenuitem>Add Bookmark</guimenuitem></menuchoice>.</para>
         <para>If you are using a <application>Caja</application> browser window, choose <menuchoice><guimenu>Bookmarks</guimenu><guimenuitem>Add Bookmark</guimenuitem></menuchoice>.</para>
-      </sect3>
-      <sect3 id="goscaja-41">
-        <title>To Edit a Bookmark</title>
+      </section>
+
+      <section xml:id="goscaja-41"><info><title>To Edit a Bookmark</title></info>
         <para>To edit your bookmarks perform the following steps:</para>
         <orderedlist>
           <listitem>
@@ -2453,12 +2418,12 @@ bookmark in the menus.</para>
 of the dialog. Click <guilabel>Delete</guilabel>. </para>
           </listitem>
         </orderedlist>
-      </sect3>
-    </sect2>
-    <sect2 id="caja-trash">
-      <title>Using Trash</title>
+      </section>
+    </section>
+
+    <section xml:id="caja-trash"><info><title>Using Trash</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscaja-44"/>         
+      <anchor xml:id="goscaja-44"/>         
       <screenshot>
         <mediaobject>
           <imageobject>
@@ -2491,8 +2456,8 @@ case you change your mind, or accidentally remove the wrong file.</para>
       <para>If you need to retrieve a file from <guilabel>Trash</guilabel>, you
 can display <guilabel>Trash</guilabel> and move the file out of <guilabel>Trash</guilabel>. When you empty <guilabel>Trash</guilabel>, you delete the
 contents of <guilabel>Trash</guilabel> permanently. </para>
-      <sect3 id="goscaja-107">
-        <title>To Display Trash</title>
+
+      <section xml:id="goscaja-107"><info><title>To Display Trash</title></info>
         <indexterm>
           <primary>Trash</primary>
           <secondary>displaying</secondary>
@@ -2515,9 +2480,9 @@ displayed in the window.</para>
             <para>Double-click on the <guilabel>Trash</guilabel> object on the desktop.</para>
           </listitem>
         </itemizedlist>
-      </sect3>
-      <sect3 id="goscaja-108">
-        <title>To Empty Trash</title>
+      </section>
+      <section xml:id="goscaja-108"><info><title>To Empty Trash</title></info>
+        
         <indexterm>
           <primary>Trash</primary>
           <secondary>emptying</secondary>
@@ -2540,10 +2505,10 @@ Trash</guimenuitem></menuchoice>.</para>
 you no longer need.
     </para>
    </caution>
-      </sect3>
-    </sect2>
-    <sect2 id="caja-hidden-files">
-      <title>Hidden Files</title>
+      </section>
+    </section>
+
+    <section xml:id="caja-hidden-files"><info><title>Hidden Files</title></info>
       <indexterm>
         <primary>hidden</primary>
         <secondary>files</secondary>
@@ -2559,8 +2524,7 @@ you no longer need.
       
       <para>To set <application>Caja</application> to always show hidden files, see  <xref linkend="caja-preferences"/>.</para>
 
-      <sect3 id="caja-managing-hidden-files">
-        <title>Hiding a File or Folder</title>
+      <section xml:id="caja-managing-hidden-files"><info><title>Hiding a File or Folder</title></info>
         <indexterm>
           <primary>create</primary>
           <secondary>hidden</secondary>
@@ -2569,15 +2533,15 @@ you no longer need.
         <programlisting>filename
 foldername</programlisting>
         <para>You may need to refresh the relevant <application>Caja</application> window to see the change: press <keycombo><keycap>Ctrl</keycap><keycap>R</keycap></keycombo>.</para>
-      </sect3>
-  </sect2>
-  </sect1>
+      </section>
+  </section>
+  </section>
   <!-- ====================================================== File properties -->    
 
-  <sect1 id="caja-properties">
-    <title>Item Properties</title>
+  <section xml:id="caja-properties"><info><title>Item Properties</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscaja-51"/><!-- was: changing icon, but linked to from the GUI -->
+    <anchor xml:id="goscaja-51"/><!-- was: changing icon, but linked to from the GUI -->
+
     <indexterm>
       <primary>file manager</primary>
       <secondary>properties</secondary>
@@ -2608,24 +2572,17 @@ foldername</programlisting>
           </itemizedlist>
 	    </listitem>
     </orderedlist>
-      
- 
-
-  </sect1>  
-
-  
+  </section>  
   
   <!-- ====================================================== Appearance -->  
-  <sect1 id="goscaja-203">
-    <title>Modifying the Appearance of Files and Folders</title>
+  <section xml:id="goscaja-203"><info><title>Modifying the Appearance of Files and Folders</title></info>
     <indexterm>
       <primary>file manager</primary>
-      <secondary>modifying appearance
-of files and folders</secondary>
+      <secondary>modifying appearance of files and folders</secondary>
     </indexterm>
     <para>The <application>Caja</application> file manager enables you to modify the appearance of your files and folders in several ways. You may customize the way files or folders look by attaching emblems or backgrounds to them. You can also change format in which <application>Caja</application> displays these items to you. The following sections describe how to do so.</para>
-    <sect2 id="goscaja-550">
-      <title>Icons and Emblems</title>
+
+    <section xml:id="goscaja-550"><info><title>Icons and Emblems</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>icons</secondary>
@@ -2641,7 +2598,7 @@ of files and folders</secondary>
         <secondary>introduction</secondary>
       </indexterm>
       <para>The file manager displays your files and folders as icons. Depending on the type of the file the icon may be a image representative of the file type, a small thumbnail or preview showing the files contents. You can also add emblems to your file and folder icons. Such emblems appear in addition to the file icon and provide another means to manage your files. For example you can mark a file as important by adding an <guilabel>Important</guilabel> emblem to it, creating the following visual effect: </para>
-<screenshot>
+      <screenshot>
         <mediaobject>
           <imageobject>
             <imagedata fileref="figures/caja_emblem.png" format="PNG"/>
@@ -2700,8 +2657,7 @@ of files and folders</secondary>
                 </screenshot>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para><indexterm><primary>symbolic links</primary><secondary>and emblems</secondary></indexterm>Symbolic
-link</para>
+                <para><indexterm><primary>symbolic links</primary><secondary>and emblems</secondary></indexterm>Symbolic link</para>
               </entry>
             </row>
             <row>
@@ -2741,9 +2697,9 @@ link</para>
           </tbody>
         </tgroup>
       </informaltable>
-    </sect2>
-    <sect2 id="caja-icon">
-      <title>Changing the Icon for a File or Folder</title> 
+    </section>
+    <section xml:id="caja-icon"><info><title>Changing the Icon for a File or Folder</title></info>
+       
       <indexterm>
         <primary>file manager</primary>
         <secondary>icons</secondary>
@@ -2768,19 +2724,18 @@ icon</guilabel> dialog is displayed. </para>
 the icon to represent the file or folder. </para>
         </listitem>
         <listitem>
-          <para>Click <guibutton>Close</guibutton> to close the properties
-dialog.</para>
+          <para>Click <guibutton>Close</guibutton> to close the properties dialog.</para>
         </listitem>
       </orderedlist>
       <para>To restore an icon from a custom icon to the default icon,
 Select the file or folder that you want to change, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>.
 click on the <guibutton>Icon</guibutton> button, in the <guilabel>Select custom 
 icon</guilabel> dialog click <guibutton>Revert</guibutton>.</para>
-    </sect2>
-    <sect2 id="caja-emblems">
-      <title>Adding an Emblem to a File or Folder</title>
+    </section>
+
+    <section xml:id="caja-emblems"><info><title>Adding an Emblem to a File or Folder</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscaja-112"/>       
+      <anchor xml:id="goscaja-112"/>       
       <indexterm>
         <primary>emblems</primary>
         <secondary>adding to file</secondary>
@@ -2789,8 +2744,7 @@ icon</guilabel> dialog click <guibutton>Revert</guibutton>.</para>
         <primary>emblems</primary>
         <secondary>adding to folder</secondary>
       </indexterm>
-      <para>To add an emblem to an item perform the following
-steps: </para>
+      <para>To add an emblem to an item perform the following steps: </para>
       <orderedlist>
         <listitem>
           <para>Select the item to which you want to add an emblem.</para>
@@ -2805,14 +2759,14 @@ steps: </para>
           <para>Select the emblem to add to the item.</para>
         </listitem>
         <listitem>
-          <para>Click <guibutton>Close</guibutton> to close the properties
-dialog.</para>
+          <para>Click <guibutton>Close</guibutton> to close the properties dialog.</para>
         </listitem>
       </orderedlist>
       <para>In browser windows you may also add emblems to items by dragging them from the emblem side pane.</para>
-    </sect2>
-    <sect2 id="goscaja-471">
-      <title>Creating a New Emblem</title>
+    </section>
+
+    <section xml:id="goscaja-471"><info><title>Creating a New Emblem</title></info>
+      
       <indexterm>
         <primary>emblems</primary>
         <secondary>adding new</secondary>
@@ -2828,8 +2782,7 @@ on the <guibutton>Add a New Emblem</guibutton> button. A <guilabel>Create
 a New Emblem</guilabel> dialog is displayed.</para>
         </listitem>
         <listitem>
-          <para>Type a name for the emblem in the <guilabel>Keyword</guilabel>
-text box.</para>
+          <para>Type a name for the emblem in the <guilabel>Keyword</guilabel> text box.</para>
         </listitem>
         <listitem>
           <para>Click on the <guilabel>Image</guilabel> button. A dialog is
@@ -2841,13 +2794,13 @@ click <guibutton>OK</guibutton>. </para>
 New Emblem</guilabel> dialog.</para>
         </listitem>
       </orderedlist>
-    </sect2>
-    <sect2 id="caja-backgrounds-and-emblems">
-      <title>Changing Backgrounds</title>
+    </section>
+
+    <section xml:id="caja-backgrounds-and-emblems"><info><title>Changing Backgrounds</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscaja-50"/>         
-      <anchor id="goscaja-63"/>
-      <anchor id="goscaja-64"/>
+      <anchor xml:id="goscaja-50"/>         
+      <anchor xml:id="goscaja-63"/>
+      <anchor xml:id="goscaja-64"/>
       <indexterm>
         <primary>file manager</primary>
         <secondary>changing backgrounds</secondary>
@@ -2889,14 +2842,14 @@ New Emblem</guilabel> dialog.</para>
       <para>You can add a new color to the list by clicking the <guibutton>Add a New Color</guibutton>
       button when the colors are selected.  Select a color in the color chooser dialog and click
       <guibutton>OK</guibutton>.  The color will appear in the list of colors you can use.</para>
-    </sect2>    
-  </sect1>  
+    </section>    
+  </section>  
   
   <!-- ====================================================== Removable media -->    
-  <sect1 id="goscaja-460">
-    <title>Using Removable Media</title>
+  <section xml:id="goscaja-460"><info><title>Using Removable Media</title></info>
     <!-- compatibility -->
-    <anchor id="goscaja-469"/>
+    <anchor xml:id="goscaja-469"/>
+
     <indexterm>
       <primary>removable media</primary>
       <secondary>introduction</secondary>
@@ -2908,8 +2861,8 @@ New Emblem</guilabel> dialog.</para>
       player for an audio CD). See <xref linkend="goscaja-61"/> for how to
       configure these actions for different media formats.
     </para>
-    <sect2 id="goscaja-462">
-      <title>To Mount Media</title>
+
+    <section xml:id="goscaja-462"><info><title>To Mount Media</title></info>
       <indexterm>
         <primary>removable media</primary>
         <secondary>mounting</secondary>
@@ -2929,19 +2882,17 @@ icon. An icon that represents the media is added to the desktop. </para>
       <note>
         <para>You cannot change the name of a removable media icon.</para>
       </note>
-    </sect2>
-    <sect2 id="goscaja-461">
-      <title>To Display Media Contents</title>
+    </section>
+
+    <section xml:id="goscaja-461"><info><title>To Display Media Contents</title></info>
       <indexterm>
         <primary>removable media</primary>
         <secondary>displaying media contents</secondary>
       </indexterm>
-      <para>You can display media contents in any of the
-following ways: </para>
+      <para>You can display media contents in any of the following ways: </para>
       <itemizedlist>
         <listitem>
-          <para>Double-click on the icon that represents the media on the
-desktop. </para>
+          <para>Double-click on the icon that represents the media on the desktop.</para>
         </listitem>
         <listitem>
           <para>Right-click on the icon that represents the media on the
@@ -2950,9 +2901,9 @@ desktop, then choose <guimenuitem>Open</guimenuitem>. </para>
       </itemizedlist>
       <para>A file manager window displays the contents of the media. To reload
 the display, click on the <guibutton>Reload</guibutton> button.</para>
-    </sect2>
-    <sect2 id="goscaja-463">
-      <title>To Display Media Properties</title>
+    </section>
+
+    <section xml:id="goscaja-463"><info><title>To Display Media Properties</title></info>
       <indexterm>
         <primary>removable media</primary>
         <secondary>displaying media properties</secondary>
@@ -2960,9 +2911,9 @@ the display, click on the <guibutton>Reload</guibutton> button.</para>
       <para>To display the properties of removable media,
 right-click on the icon that represents the media on the desktop, then choose <guimenuitem>Properties</guimenuitem>. A dialog displays the properties of the media.</para>
       <para>To close the properties dialog, click <guibutton>Close</guibutton>.</para>
-    </sect2>
-    <sect2 id="goscaja-464">
-      <title>To Eject Media</title>
+    </section>
+
+    <section xml:id="goscaja-464"><info><title>To Eject Media</title></info>
       <indexterm>
         <primary>removable media</primary>
         <secondary>ejecting</secondary>
@@ -2991,12 +2942,13 @@ for the drive disappears.</para>
           <caution>
             <para>You must unmount removable media before ejecting. Do not remove a USB flash drive before you unmount the flash drive. If you do not unmount the media first you might lose data.</para>
           </caution>
-    </sect2>
-  </sect1>
-  <sect1 id="caja-cdwriter">
-    <title>Writing CDs or DVDs</title>
+    </section>
+  </section>
+
+  <section xml:id="caja-cdwriter"><info><title>Writing CDs or DVDs</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscaja-475"/>
+    <anchor xml:id="goscaja-475"/>
+
     <indexterm>
       <primary>file manager</primary>
       <secondary>writing CDs</secondary>
@@ -3018,8 +2970,8 @@ for the drive disappears.</para>
     <para>You can start choosing files to burn to a disc at any time. The file manager provides
 a special folder for files and folders that you wish to write to a CD or DVD. From there you can easily write all the content (which you place in this special folder) to a CD or DVD.</para>
 
-    <sect2 id="caja-cdwriter-data">
-      <title>Creating Data Discs</title>
+    <section xml:id="caja-cdwriter-data"><info><title>Creating Data Discs</title></info>
+      
     <para>To write a CD or DVD, perform the following steps:</para>
     <orderedlist>
       <listitem>
@@ -3114,9 +3066,9 @@ process is complete is displayed in the dialog.</para>
     </orderedlist>
     <tip><para>You can set the CD/DVD Creator folder to open automatically when you insert a blank disc. See <xref linkend="goscaja-61"/>.</para></tip>
     <note><para>The filesystem written to the CD will be readable with long filenames on all recent operating systems. Both the Joliet and the Rock Ridge CD-ROM filesystem extensions are used.</para></note>
-    </sect2>
-    <sect2 id="caja-cdwriter-copy">
-      <title>Copying CDs or DVDs</title>
+    </section>
+
+    <section xml:id="caja-cdwriter-copy"><info><title>Copying CDs or DVDs</title></info>
         <para>You can create a copy of a CD or DVD, either to another disc or to an image file stored on your computer. To create a copy, perform the following steps:</para>
         <orderedlist>
           <listitem><para>Insert the disc you want to copy.</para></listitem>               
@@ -3126,26 +3078,25 @@ process is complete is displayed in the dialog.</para>
         </orderedlist>
         <para>If you have only one drive with write capabilities, the process will first create a disc image file on your computer. It will then eject the original disk, and ask you to change it for a blank disk on which to write the copy.</para>
         <tip><para>If you want to create more than one copy, choose the Image File option on the <guilabel>Write to Disc</guilabel> and then write the disc image: see <xref linkend="caja-cdwriter-writeimage"/>.</para></tip>
+    </section>
 
-    </sect2>    
-    <sect2 id="caja-cdwriter-writeimage">
-      <title>Creating a Disc from an Image File</title>
+    <section xml:id="caja-cdwriter-writeimage"><info><title>Creating a Disc from an Image File</title></info>
       <para>You can write a disc image to a CD or DVD. For example, you may have downloaded a disc image from the internet, or previously created one yourself. Disc images usually have a <filename>.iso</filename> file extension and are sometimes called iso files.</para>
         <para>To write a disc image, right-click on the disc image file, then choose <guimenuitem>Write to Disc</guimenuitem> from the popup menu.</para>      
-    </sect2>
-  </sect1>
+    </section>
+  </section>
 
-  <sect1 id="goscaja-515">
-    <title>Navigating Remote Servers</title>
+  <section xml:id="goscaja-515"><info><title>Navigating Remote Servers</title></info>
     <para>The <application>Caja</application> file manager provides an integrated
-access point to your files, applications, FTP sites, Windows shares, WebDav servers and SSH servers.</para>  
-    <sect2 id="caja-server-connect">
-      <title>To Access a remote server</title>
+access point to your files, applications, FTP sites, Windows shares, WebDav servers and SSH servers.</para>
+
+    <section xml:id="caja-server-connect"><info><title>To Access a remote server</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscaja-37"/>      
+      <anchor xml:id="goscaja-37"/>      
       <!-- MOVE THIS ANCHOR -->
       <!-- To Add a Network Server -->
-      <anchor id="goscaja-466"/>
+      <anchor xml:id="goscaja-466"/>
+
       <indexterm>
         <primary>FTP sites</primary>
         <secondary>accessing</secondary>
@@ -3245,14 +3196,15 @@ The user name information is not appropriate for a public FTP connection.</para>
 <para>If the server information is provided in the form of a URI, or you require a specialized connection, choose <menuchoice><guimenuitem>Custom Location</guimenuitem></menuchoice> as the service type.</para>
 <para>Once you have filled in the information, click on
 the <guibutton>Connect</guibutton> button. When the connection succeeds, the contents of the site are displayed and you may drag and drop files to and from the remote server.</para>
-    </sect2>
-    <sect2 id="caja-accessnetwork">
-      <title>To Access Network Places</title>
+    </section>
+
+    <section xml:id="caja-accessnetwork"><info><title>To Access Network Places</title></info>
       <!-- MOVE THIS ANCHOR -->
       <!-- To Add a Network Server -->
-      <anchor id="goscaja-508"/>
-      <anchor id="goscaja-509"/>
-      <anchor id="goscaja-465"/>      
+      <anchor xml:id="goscaja-508"/>
+      <anchor xml:id="goscaja-509"/>
+      <anchor xml:id="goscaja-465"/>
+
       <indexterm>
         <primary>network places</primary>
         <secondary>accessing</secondary>
@@ -3274,18 +3226,17 @@ manager window.</para>
       <para><indexterm><primary>Samba servers</primary><see>Windows network</see></indexterm>To access Windows shares, double-click on the <guilabel>Windows
 Network (SMB) </guilabel> object. A list of the Windows shares available to
 you is displayed in the file manager window.</para>
-    </sect2>
+    </section>
+
     <!-- special URIs by and large obsolete or at least arcane -->
-    <sect2 id="goscaja-467">
-      <title>Accessing Special URI Locations</title>
+    <section xml:id="goscaja-467"><info><title>Accessing Special URI Locations</title></info>
       <indexterm>
         <primary>special URI locations</primary>
         <secondary>accessing</secondary>
       </indexterm>
       <indexterm>
         <primary>file manager</primary>
-        <secondary>special URI
-locations</secondary>
+        <secondary>special URI locations</secondary>
       </indexterm>
       <indexterm>
         <primary>URI, special</primary>
@@ -3295,8 +3246,7 @@ locations</secondary>
       <para>These are intended for advanced users: in most cases, an easier method of accessing the function or location exists.</para>
       <para><xref linkend="goscaja-TBL-479"/> lists the special URI locations that you can
 use with the file manager.</para>
-      <table frame="topbot" id="goscaja-TBL-479">
-        <title>Special URI Locations</title>
+      <table frame="topbot" xml:id="goscaja-TBL-479"><info><title>Special URI Locations</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="33.94*"/>
           <colspec colname="colspec1" colwidth="66.06*"/>
@@ -3338,20 +3288,18 @@ You can also use this URI to add network locations to your system. See also <xre
           </tbody>
         </tgroup>
       </table>
-    </sect2>
-  </sect1>
+    </section>
+  </section>
 
-
-	<!-- ============================================== prefs -->
-  <sect1 id="caja-preferences">
-
-    <title>Caja Preferences</title>
+  <!-- ============================================== prefs -->
+  <section xml:id="caja-preferences"><info><title>Caja Preferences</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscaja-15"/>
-    <anchor id="goscaja-17"/>
+    <anchor xml:id="goscaja-15"/>
+    <anchor xml:id="goscaja-17"/>
     <!-- preserve id for backwards compatibility: 2.16 -->    
-    <anchor id="prefs-filemanager"/>
-    <anchor id="goscustdesk-84"/>        
+    <anchor xml:id="prefs-filemanager"/>
+    <anchor xml:id="goscustdesk-84"/>
+
     <indexterm>
       <primary>file manager</primary>
       <secondary>customizing</secondary>
@@ -3362,13 +3310,12 @@ You can also use this URI to add network locations to your system. See also <xre
       <tertiary>introduction</tertiary>
     </indexterm>
     <indexterm>
-      <primary>preferences,
-file manager</primary>
+      <primary>preferences, file manager</primary>
       <see>file manager preferences</see>
     </indexterm>
     <para>Use the <guilabel>File Management Preferences</guilabel> dialog to customize the file manager to suit your requirements
 and preferences.</para>
-		<para>To display the <guilabel>File Management Preferences</guilabel> dialog, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>. You can also access this dialog directly from the top panel Menubar
+    <para>To display the <guilabel>File Management Preferences</guilabel> dialog, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>. You can also access this dialog directly from the top panel Menubar
 by choosing <menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guimenuitem>File Management</guimenuitem></menuchoice>.</para>
     <para>You can set preferences in the following categories: </para>
     <itemizedlist>
@@ -3376,8 +3323,7 @@ by choosing <menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisub
         <para>The default settings for views.</para>
       </listitem>
       <listitem>
-        <para>The behavior of files and folders, executable text files,
-and Trash.</para>
+        <para>The behavior of files and folders, executable text files, and Trash.</para>
       </listitem>
       <listitem>
         <para>The information that is displayed in icon captions and the date format.</para>
@@ -3392,8 +3338,8 @@ and Trash.</para>
         <para>How removable media and connected devices are handled.</para>
       </listitem>
     </itemizedlist>
-    <sect2 id="goscaja-438">
-      <title>Views Preferences</title>
+
+    <section xml:id="goscaja-438"><info><title>Views Preferences</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>preferences</secondary>
@@ -3407,8 +3353,7 @@ choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem>
 display the <guilabel>Views</guilabel> tabbed section.</para>
       <para><xref linkend="goscaja-TBL-30"/> lists the views preferences that
 you can modify. </para>
-      <table frame="topbot" id="goscaja-TBL-30">
-        <title>Views Preferences</title>
+      <table frame="topbot" xml:id="goscaja-TBL-30"><info><title>Views Preferences</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="35.09*"/>
           <colspec colname="colspec1" colwidth="64.91*"/>
@@ -3459,8 +3404,7 @@ files when you sort a folder.</para>
             <row>
               <entry colname="colspec0" valign="top">
                 <para>
-                  <guilabel>Show hidden and
-backup files</guilabel>
+                  <guilabel>Show hidden and backup files</guilabel>
                 </para>
               </entry>
               <entry colname="colspec1">
@@ -3524,9 +3468,9 @@ for items beside the icon rather than under the icon.</para>
           </tbody>
         </tgroup>
       </table>
-    </sect2>
-    <sect2 id="goscaja-56">
-      <title>Behavior Preferences</title>
+    </section>
+
+    <section xml:id="goscaja-56"><info><title>Behavior Preferences</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>preferences</secondary>
@@ -3607,9 +3551,9 @@ tab to display the <guilabel>Behavior</guilabel> tabbed section. You can set the
       	  </listitem>
       	</varlistentry>
       </variablelist>
-    </sect2>
-    <sect2 id="goscaja-439">
-      <title>Display Preferences</title>
+    </section>
+
+    <section xml:id="goscaja-439"><info><title>Display Preferences</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>icons</secondary>
@@ -3655,8 +3599,7 @@ select:</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose this option to display
-the size of the item.</para>
+                <para>Choose this option to display the size of the item.</para>
               </entry>
             </row>
             <row>
@@ -3666,8 +3609,7 @@ the size of the item.</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose this option to display
-the description of the MIME type of the item.</para>
+                <para>Choose this option to display the description of the MIME type of the item.</para>
               </entry>
             </row>
             <row>
@@ -3677,8 +3619,7 @@ the description of the MIME type of the item.</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose
-this option to display the last modification date of  the item.</para>
+                <para>Choose this option to display the last modification date of the item.</para>
               </entry>
             </row>
             <row>
@@ -3688,8 +3629,7 @@ this option to display the last modification date of  the item.</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose
-this option to display the date that the item was last accessed.</para>
+                <para>Choose this option to display the date that the item was last accessed.</para>
               </entry>
             </row>
             <row>
@@ -3699,8 +3639,7 @@ this option to display the date that the item was last accessed.</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose this option to display
-the owner of the item.</para>
+                <para>Choose this option to display the owner of the item.</para>
               </entry>
             </row>
             <row>
@@ -3710,8 +3649,7 @@ the owner of the item.</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose this option to display
-the group to which the item belongs.</para>
+                <para>Choose this option to display the group to which the item belongs.</para>
               </entry>
             </row>
             <row>
@@ -3744,8 +3682,7 @@ notation, for example <computeroutput>764</computeroutput>. </para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose this option to display
-the MIME type of the item.</para>
+                <para>Choose this option to display the MIME type of the item.</para>
               </entry>
             </row>
             <row>
@@ -3755,8 +3692,7 @@ the MIME type of the item.</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose this option to display
-no information for the item.</para>
+                <para>Choose this option to display no information for the item.</para>
               </entry>
             </row>
           </tbody>
@@ -3765,9 +3701,9 @@ no information for the item.</para>
       <para>
       The date <guilabel>Format</guilabel> option lets you choose how the date is displayed throughout Caja.
       </para>
-    </sect2>
-    <sect2 id="goscaja-490">
-      <title>List Columns Preferences</title>
+    </section>
+
+    <section xml:id="goscaja-490"><info><title>List Columns Preferences</title></info>
       <para>You can specify what information is displayed in list view in file manager
 windows. You can specify which columns are displayed in list view, and the
 order in which the columns are displayed.</para>
@@ -3791,7 +3727,7 @@ buttons to specify the position of columns in list view.</para>
                 <para>Information</para>
               </entry>
               <entry>
-                <para>Description </para>
+                <para>Description</para>
               </entry>
             </row>
           </thead>
@@ -3803,8 +3739,7 @@ buttons to specify the position of columns in list view.</para>
                 </para>
               </entry>
               <entry colname="colspec1">
-                <para>Choose this option to display the name of
-the item.</para>
+                <para>Choose this option to display the name of the item.</para>
               </entry>
             </row>
             <row>
@@ -3814,8 +3749,7 @@ the item.</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose this option to display
-the size of the item.</para>
+                <para>Choose this option to display the size of the item.</para>
               </entry>
             </row>
             <row>
@@ -3837,8 +3771,7 @@ and Programs</application> preference tool.</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose
-this option to display the last modification date of the item.</para>
+                <para>Choose this option to display the last modification date of the item.</para>
               </entry>
             </row>
             <row>
@@ -3848,8 +3781,7 @@ this option to display the last modification date of the item.</para>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose
-this option to display the date that the item was last accessed.</para>
+                <para>Choose this option to display the date that the item was last accessed.</para>
               </entry>
             </row>
             <row>
@@ -3859,8 +3791,7 @@ this option to display the date that the item was last accessed.</para>
                 </para>
               </entry>
               <entry colname="colspec1">
-                <para>Choose this option to display the group to
-which the item belongs.</para>
+                <para>Choose this option to display the group to which the item belongs.</para>
               </entry>
             </row>
             <row>
@@ -3870,8 +3801,7 @@ which the item belongs.</para>
                 </para>
               </entry>
               <entry colname="colspec1">
-                <para>Choose this option to display the MIME type
-of the item.</para>
+                <para>Choose this option to display the MIME type of the item.</para>
               </entry>
             </row>
             <row>
@@ -3892,8 +3822,7 @@ option to display the permissions of the item in octal notation, for example <co
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
-                <para>Choose this option to display
-the owner of the item.</para>
+                <para>Choose this option to display the owner of the item.</para>
               </entry>
             </row>
             <row>
@@ -3911,9 +3840,9 @@ characters, for example <computeroutput>-rwxrw-r--</computeroutput>.</para>
           </tbody>
         </tgroup>
       </informaltable>
-    </sect2>
-    <sect2 id="goscaja-60">
-      <title>Preview Preferences</title>
+    </section>
+
+    <section xml:id="goscaja-60"><info><title>Preview Preferences</title></info>
       <indexterm>
         <primary>file manager</primary>
         <secondary>preferences</secondary>
@@ -3978,8 +3907,7 @@ on other file systems.</para>
 tabbed section. </para>
       <para><xref linkend="goscaja-TBL-41"/> lists the preview preferences that
 you can modify.</para>
-      <table frame="topbot" id="goscaja-TBL-41">
-        <title>Preview Preferences</title>
+      <table frame="topbot" xml:id="goscaja-TBL-41"><info><title>Preview Preferences</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="35.09*"/>
           <colspec colname="colspec1" colwidth="64.91*"/>
@@ -4032,8 +3960,7 @@ file size for files for which the file manager creates a thumbnail.</para>
             <row>
               <entry colname="colspec0" valign="top">
                 <para>
-                  <guilabel>Preview sound
-files</guilabel>
+                  <guilabel>Preview sound files</guilabel>
                 </para>
               </entry>
               <entry colname="colspec1" valign="top">
@@ -4055,9 +3982,9 @@ need to increase your zoom level to see the number of items in each folder.</par
           </tbody>
         </tgroup>
       </table>
-    </sect2>
-    <sect2 id="goscaja-61">
-      <title>Media Preferences</title>
+    </section>
+
+    <section xml:id="goscaja-61"><info><title>Media Preferences</title></info>
       <para>
         You can configure how <application>Caja</application> handles
         removable media and devices that are connected to the computer, such
@@ -4131,10 +4058,8 @@ need to increase your zoom level to see the number of items in each folder.</par
       </informaltable>
       <para>The most common media formats can be configured in the <guilabel>Media Handling</guilabel> section: audio CDs, video DVDs, music players, cameras, and software cds.</para>
       <para>To configure the handling for other media formats, first select the format in the <guilabel>Type</guilabel> drop-down list, then select the desired handling for this format in the <guilabel>Action</guilabel> drop-down list.</para>
-      <para><xref linkend="goscaja-TBL-43"/> lists other media handling preferences that
-you can modify.</para>
-      <table frame="topbot" id="goscaja-TBL-43">
-        <title>Preview Preferences</title>
+      <para><xref linkend="goscaja-TBL-43"/> lists other media handling preferences that you can modify.</para>
+      <table frame="topbot" xml:id="goscaja-TBL-43"><info><title>Preview Preferences</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="35.09*"/>
           <colspec colname="colspec1" colwidth="64.91*"/>
@@ -4178,12 +4103,11 @@ you can modify.</para>
          </tbody>
        </tgroup>
       </table>
-    </sect2>
+    </section>
 
-  </sect1>
+  </section>
   
-  <sect1 id="goscaja-440">
-    <title>Extending Caja</title>
+  <section xml:id="goscaja-440"><info><title>Extending Caja</title></info>
     <indexterm>
       <primary>file manager</primary>
       <secondary>running scripts</secondary>
@@ -4191,9 +4115,9 @@ you can modify.</para>
     <indexterm>
       <primary>scripts, running from file manager</primary>
     </indexterm>
-<para>Caja can be extended in two main ways. Through <application>Caja</application> extensions, and through scripts. This section explains the difference between the two and how to install.</para>
-    <sect2 id="goscaja-444">
-      <title>Caja Scripts</title>
+    <para>Caja can be extended in two main ways. Through <application>Caja</application> extensions, and through scripts. This section explains the difference between the two and how to install.</para>
+
+    <section xml:id="goscaja-444"><info><title>Caja Scripts</title></info>
       <para>Caja can run scripts. Scripts are typically simpler in operation than full <application>Caja</application> extensions and can be written in any scripted language capable of being executed on your computer. To run a script choose <menuchoice><guimenu>File</guimenu><guimenuitem>Scripts</guimenuitem></menuchoice>, then choose the script that you want to run from the submenu.</para>
       <para>To run a script on a particular file, select the file in the view pane.
 Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Scripts</guimenuitem></menuchoice>, then choose the script that you want to run on the file from
@@ -4202,18 +4126,18 @@ the submenu. You can also select multiple files to run your scripts on.</para>
       <note>
         <para>If you do not have any scripts installed, the script menu will not appear.</para>
       </note>
-      <sect3 id="goscaja-install-scripts">
-      <title>Installing File Manager Scripts</title>
+
+      <section xml:id="goscaja-install-scripts"><info><title>Installing File Manager Scripts</title></info>
         <para>The file manager includes a special folder where you can
 store your scripts. All executable files in this folder will appear in the Scripts menu. The script folder 
 is located at $HOME/.config/caja/scripts.</para>
         <para>To install a script, simply copy the script to the script folder and give it the user executable permission.</para>
       <para>To view the contents of your scripts folder, if you already have scripts installed, choose <menuchoice><guimenu>File</guimenu><guisubmenu>Scripts</guisubmenu><guimenuitem>Open Scripts Folder</guimenuitem></menuchoice>.
 You will have to navigate to the scripts folder with the file manager if you do not yet have any scripts. You may need to show hidden files for this, use <menuchoice><guimenu>View</guimenu><guimenuitem>Show Hidden Files</guimenuitem></menuchoice></para>
-<para>A good source to download <application>Caja</application> scripts is from the <ulink url="http://g-scripts.sourceforge.net"><citetitle>G-Scripts website</citetitle></ulink>.</para>
-    </sect3>
-    <sect3 id="goscaja-write-scripts">
-      <title>Writing File Manager Scripts</title>
+<para>A good source to download <application>Caja</application> scripts is from the <link xlink:href="http://g-scripts.sourceforge.net"><citetitle>G-Scripts website</citetitle></link>.</para>
+    </section>
+
+    <section xml:id="goscaja-write-scripts"><info><title>Writing File Manager Scripts</title></info>
        <para>When executed from a local folder, scripts will be passed the selected file names. When 
 executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parameters.</para>
        <para>The following table shows variables passed to the script :</para>
@@ -4275,13 +4199,13 @@ executed from a remote folder (e.g. a folder showing web or ftp content), script
             </tbody>
           </tgroup>
         </informaltable>
-    </sect3>
-  </sect2>
-  <sect2 id="caja-extensions">
-    <title>Caja Extensions</title>
+    </section>
+  </section>
+
+  <section xml:id="caja-extensions"><info><title>Caja Extensions</title></info>
     <para><application>Caja</application> extensions are far more powerful than <application>Caja</application> scripts, allowing more freedom where and how they extend <application>Caja</application>. <application>Caja</application> extensions are typically installed by your system administrator.</para>
-<para>Some popular <application>Caja</application> extensions include:
-<orderedlist>
+    <para>Some popular <application>Caja</application> extensions include:
+      <orderedlist>
         <listitem>
           <para>caja-actions</para>
           <para>This extension allows you to easily assign actions based on file type</para>
@@ -4295,10 +4219,10 @@ executed from a remote folder (e.g. a folder showing web or ftp content), script
           <para>This extension provides an easy way to open a terminal at the selected starting location.</para>
         </listitem>
       </orderedlist>
-</para>
-<note>
+    </para>
+    <note>
         <para>If you are looking for the <guilabel>Open Terminal</guilabel> command which used to exist in the <application>Caja</application> right click menu by default then you should install the <application>caja-open-terminal</application> extension.</para>
-      </note>
-  </sect2>
-  </sect1>
+    </note>
+  </section>
+  </section>
 </chapter>

@@ -1,6 +1,11 @@
-<chapter id="mate-dconf">
-
-  <title>Desktop Settings Storage</title>
+<?xml version="1.0" encoding="utf-8"?>
+<?db.chunk.max_depth 3?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:db="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         version="5.0" xml:id="mate-dconf" xml:lang="en">
+    <info><title>Desktop Settings Storage</title></info>
 
   <highlights>
     <para>
@@ -11,9 +16,7 @@
     </para>
   </highlights>
 
-  <sect1 id="mate-dconf-intro">
-    <title>Introduction</title>
-
+  <section xml:id="mate-dconf-intro"><info><title>Introduction</title></info>
     <para>
       The settings of your MATE desktop are managed and stored by
       <application>dconf</application>, which is a key-based configuration system
@@ -23,7 +26,7 @@
     <para>
       <application>dconf</application> uses several database files in GVDB binary format, one database per file.
       A dconf profile consists of a single file, in plain text format, which contains a list of database files in GVDB format.
-      All dconf profiles are stored in the <filename class='directory'>/etc/dconf/profile</filename> folder.
+      All dconf profiles are stored in the <filename class="directory">/etc/dconf/profile</filename> folder.
     </para>
     <para>
       In most systems, there is no dconf profile file since they only use the default database, user.db which is stored in ~/.config/dconf/user. In such case, there is no system-wide setting, i.e. users just have their own settings.
@@ -43,10 +46,10 @@ system-db: distro</literallayout>
 
     <itemizedlist>
       <listitem>
-        <para><database class='name'>user</database> is the name of the user's databases. They are usually located in the <filename class='directory'>~/.config/dconf</filename> folder</para>
+        <para><database class="name">user</database> is the name of the user's databases. They are usually located in the <filename class="directory">~/.config/dconf</filename> folder</para>
       </listitem>
       <listitem>
-        <para><database class='name'>local</database>, <database class='name'>site</database> and <database class='name'>distro</database> are system databases. They are usually located in the <filename class='directory'>/etc/dconf/db</filename> folder</para>
+        <para><database class="name">local</database>, <database class="name">site</database> and <database class="name">distro</database> are system databases. They are usually located in the <filename class="directory">/etc/dconf/db</filename> folder</para>
       </listitem>
     </itemizedlist>
 
@@ -57,11 +60,11 @@ system-db: distro</literallayout>
     </para>
 
     <note>
-      <para>Refer to the <ulink url="man:dconf(7)" type="man"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>7</manvolnum></citerefentry></ulink> for more information about the dconf configuration system.</para>
+      <para>Refer to the <link xlink:href="man:dconf(7)"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>7</manvolnum></citerefentry></link> for more information about the dconf configuration system.</para>
     </note>
 
-  <sect2 id="mate-dconf-one-read">
-    <title>To read the value of a dconf key</title>
+  <section xml:id="mate-dconf-one-read"><info><title>To read the value of a dconf key</title></info>
+    
 
     <para>
       The value of a dconf key can be read using the <command>dconf</command> or <command>gsettings</command> command line tools, or the <application>Dconf Editor</application> GUI application.
@@ -86,8 +89,8 @@ system-db: distro</literallayout>
       </listitem>
     </itemizedlist>
 
-    <figure id="dconf-logical-full-bakgroud-keys-fig">
-      <title>/org/mate/desktop/background/ dconf directory</title> 
+    <figure xml:id="dconf-logical-full-bakgroud-keys-fig"><info><title>/org/mate/desktop/background/ dconf directory</title></info>
+       
       <mediaobject>
         <imageobject>
           <imagedata fileref="figures/org_mate_desktop_background_logical_view.png" format="PNG"/>
@@ -102,8 +105,8 @@ system-db: distro</literallayout>
       You can read the value of a dconf key:
     </para>
 
-    <sect3 id="read-key-dconf-using-dconf-editor">
-      <title>Using the dconf-editor GUI application</title>
+    <section xml:id="read-key-dconf-using-dconf-editor"><info><title>Using the dconf-editor GUI application</title></info>
+      
       <para>
         To show the value of a dconf key using the <application>Dconf Editor</application> application, perform the following steps:
       </para>
@@ -116,8 +119,8 @@ system-db: distro</literallayout>
         </listitem>
       </orderedlist>
 
-      <figure>
-        <title>Dconf-Editor showing the value of /org/mate/desktop/background/picture-filename key</title>
+      <figure><info><title>Dconf-Editor showing the value of /org/mate/desktop/background/picture-filename key</title></info>
+        
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -129,10 +132,10 @@ system-db: distro</literallayout>
           </mediaobject>
         </screenshot>
       </figure>
-    </sect3>
+    </section>
 
-    <sect3 id="read-key-dconf-using-dconf">
-      <title>Using the dconf command line tool</title>
+    <section xml:id="read-key-dconf-using-dconf"><info><title>Using the dconf command line tool</title></info>
+      
       <para>
         To read the value of a dconf key using the <command>dconf</command> command line tool, run the following command:
       </para>
@@ -143,13 +146,13 @@ system-db: distro</literallayout>
       </para>
       <synopsis>dconf read [-d] KEY</synopsis>
       <para>
-        Refer to the <ulink url="man:dconf" type="man"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>dconf</command> command line tool.
+        Refer to the <link xlink:href="man:dconf"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></link> for more information on how to use <command>dconf</command> command line tool.
       </para>
       <tip><para>You can use the <keycap>Tab</keycap> key to auto complete the path to the dconf key. </para></tip>
-    </sect3>
+    </section>
 
-    <sect3 id="read-key-dconf-using-gsettings">
-      <title>Using the gsettings command line tool</title>
+    <section xml:id="read-key-dconf-using-gsettings"><info><title>Using the gsettings command line tool</title></info>
+      
       <para>
         To read the value of a dconf key using the <command>gsettings</command> command line tool, run the following command:
       </para>
@@ -160,13 +163,13 @@ system-db: distro</literallayout>
       </para>
       <synopsis>gsettings [--schemadir SCHEMADIR] get SCHEMA[:PATH] KEY</synopsis>
       <para>
-        Refer to the <ulink url="man:gsettings" type="man"><citerefentry><refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>gsettings</command> command line tool.
+        Refer to the <link xlink:href="man:gsettings"><citerefentry><refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></link> for more information on how to use <command>gsettings</command> command line tool.
       </para>
-    </sect3>
-  </sect2>
+    </section>
+  </section>
 
-  <sect2 id="mate-dconf-one-change">
-    <title>To change the value of a dconf key</title>
+  <section xml:id="mate-dconf-one-change"><info><title>To change the value of a dconf key</title></info>
+    
 
     <para>
       The value of a dconf key can be modified using the <command>dconf</command> command or the <application>Dconf Editor</application> application.
@@ -189,8 +192,8 @@ system-db: distro</literallayout>
       </listitem>
     </itemizedlist>
 
-    <figure id="dconf-logical-short-bakgroud-keys-fig">
-      <title>/org/mate/desktop/background/ dconf directory</title>
+    <figure xml:id="dconf-logical-short-bakgroud-keys-fig"><info><title>/org/mate/desktop/background/ dconf directory</title></info>
+      
       <mediaobject>
         <imageobject>
           <imagedata fileref="figures/org_mate_desktop_background_only_logical_view.png" format="PNG"/>
@@ -205,8 +208,8 @@ system-db: distro</literallayout>
       You can mofify the value of a dconf key:
     </para>
 
-    <sect3 id="modify-key-dconf-using-dconf-editor">
-      <title>Using the dconf-editor GUI application</title>
+    <section xml:id="modify-key-dconf-using-dconf-editor"><info><title>Using the dconf-editor GUI application</title></info>
+      
       <para>
         To edit the background picture of your MATE desktop in <application>Dconf Editor</application>, perform the following steps:
       </para>
@@ -226,8 +229,8 @@ system-db: distro</literallayout>
         </listitem>
       </orderedlist>
 
-      <figure>
-        <title>Editing the value of /org/mate/desktop/background/picture-filename key in Dconf-Editor dialog</title>
+      <figure><info><title>Editing the value of /org/mate/desktop/background/picture-filename key in Dconf-Editor dialog</title></info>
+        
         <screenshot>
           <mediaobject>
             <imageobject>
@@ -239,10 +242,10 @@ system-db: distro</literallayout>
           </mediaobject>
         </screenshot>
       </figure>
-    </sect3>
+    </section>
 
-    <sect3 id="modify-key-dconf-using-dconf">
-      <title>Using the dconf command line tool</title>
+    <section xml:id="modify-key-dconf-using-dconf"><info><title>Using the dconf command line tool</title></info>
+      
       <para>
         To change the background picture of your MATE desktop, run the following command:
       </para>
@@ -253,12 +256,12 @@ system-db: distro</literallayout>
       </para>
       <synopsis>dconf write KEY VALUE</synopsis>
       <para>
-        Refer to the <ulink url="man:dconf" type="man"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>dconf</command>.
+        Refer to the <link xlink:href="man:dconf"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></link> for more information on how to use <command>dconf</command>.
       </para>
-    </sect3>
+    </section>
 
-    <sect3 id="modify-key-dconf-using-gsettings">
-      <title>Using the gsettings command line tool</title>
+    <section xml:id="modify-key-dconf-using-gsettings"><info><title>Using the gsettings command line tool</title></info>
+      
       <para>
         To change the background picture of your MATE desktop, run the following command:
       </para>
@@ -269,13 +272,13 @@ system-db: distro</literallayout>
       </para>
       <synopsis>gsettings [--schemadir SCHEMADIR] set SCHEMA[:PATH] KEY VALUE</synopsis>
       <para>
-        Refer to the <ulink url="man:gsettings" type="man"><citerefentry><refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>dconf</command>.
+        Refer to the <link xlink:href="man:gsettings"><citerefentry><refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></link> for more information on how to use <command>dconf</command>.
       </para>
-    </sect3>
-  </sect2>
+    </section>
+  </section>
 
-  <sect2 id="mate-dconf-some-changes">
-    <title>To change the value of several dconf keys</title>
+  <section xml:id="mate-dconf-some-changes"><info><title>To change the value of several dconf keys</title></info>
+    
 
     <para>
       To change the value of several dconf keys at the same time, perform the following steps:
@@ -306,13 +309,13 @@ $ dconf load /org/mate/ &lt; backup.dconf</screen>
     </tip>
 
     <para>
-      Refer to the <ulink url="man:dconf" type="man"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink> for more information on how to use <command>dconf</command> command line tool.
+      Refer to the <link xlink:href="man:dconf"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></link> for more information on how to use <command>dconf</command> command line tool.
     </para>
 
-  </sect2>
+  </section>
 
-  </sect1>
+  </section>
 
-  <include href="gosdconfkeys.xml" xmlns="http://www.w3.org/2001/XInclude" />   <!-- List of dconf keys -->
+  <xi:include href="gosdconfkeys.xml"/>   <!-- List of dconf keys -->
 
 </chapter>

@@ -1,15 +1,18 @@
-<!-- -*- indent-tabs-mode: nil -*- -->
-<chapter id="tools">
-  <title>Tools and Utilities</title>
+<?xml version="1.0" encoding="utf-8"?>
+<?db.chunk.max_depth 3?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:db="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         version="5.0" xml:id="tools" xml:lang="en">
+    <info><title>Tools and Utilities</title></info>
 
   <highlights>
     <para>This section describes some tools and utilities in the MATE Desktop.</para>
   </highlights>
 
-  <section id="tools-run-app">
-    <title>Running Applications</title>
+  <section xml:id="tools-run-app"><info><title>Running Applications</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="gospanel-23"/>
+    <anchor xml:id="gospanel-23"/>
     <indexterm>
       <primary>Run Application dialog, using</primary>
     </indexterm>
@@ -64,12 +67,11 @@
       <para>Click on the <guibutton>Run</guibutton> button on the <guilabel>Run Application</guilabel> dialog. </para>
     </listitem>
       </orderedlist>
-    </section>
+  </section>
 
-<section id="tools-screenshot">
-  <title>Taking Screenshots</title>
+<section xml:id="tools-screenshot"><info><title>Taking Screenshots</title></info>
   <!-- preserve id for backwards compatibility: 2.12 -->
-  <anchor id="goseditmainmenu-53"/>   
+  <anchor xml:id="goseditmainmenu-53"/>
   <indexterm>
     <primary>screenshots, taking</primary>
   </indexterm>
@@ -254,16 +256,13 @@ a screenshot of the entire screen.</para>
 </section>
 
 <!-- ============= Yelp ============================= -->
-<section id="yelp">
-  <title>Yelp Help Browser</title>
+<section xml:id="yelp"><info><title>Yelp Help Browser</title></info>
   <indexterm>
     <primary>Yelp</primary>
   </indexterm>
   <!-- ============= Introduction ============================== -->
 
-  <section id="yelp-introduction">
-    <title>Introduction</title>
-
+  <section xml:id="yelp-introduction"><info><title>Introduction</title></info>
     <para>The <application>Yelp Help Browser</application> application allows you to view documentation
     regarding MATE and other components through a variety of formats. These
     formats include docbook files, HTML help pages, man pages and info pages
@@ -279,12 +278,9 @@ a screenshot of the entire screen.</para>
 
   <!-- ============= Getting Started  ================================ -->
 
-  <section id="yelp-getting-started">
-    <title>Starting Yelp</title>
-
-    <section>
-      <title>To Start <application>Yelp Help Browser</application></title>
-
+  <section xml:id="yelp-getting-started"><info><title>Starting Yelp</title></info>
+  
+    <section><info><title>To Start <application>Yelp Help Browser</application></title></info>
       <para>You can start <application>Yelp Help Browser</application> in the following ways:</para>
 
       <para><variablelist>
@@ -307,22 +303,17 @@ a screenshot of the entire screen.</para>
         </variablelist></para>
     </section>
 
-    <section>
-      <title>Interface</title>
-
+    <section><info><title>Interface</title></info>
       <para>When you start <application>Yelp Help Browser</application>, you will see the following
       window appear.</para>
 
-      <para><figure id="fig-yelp-window">
-          <title><application>Yelp Help Browser</application> Window</title>
-
+      <para><figure xml:id="fig-yelp-window"><info><title><application>Yelp Help Browser</application> Window</title></info>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="figures/yelp_window.png" />
+              <imagedata fileref="figures/yelp_window.png"/>
             </imageobject>
           </mediaobject>
-        </figure><application>Yelp Help Browser</application> contains the following elements in <xref
-      linkend="fig-yelp-window" /></para>
+        </figure><application>Yelp Help Browser</application> contains the following elements in <xref linkend="fig-yelp-window"/></para>
 
       <variablelist>
         <varlistentry>
@@ -412,14 +403,14 @@ a screenshot of the entire screen.</para>
 
                   <listitem>
                     <para>Use this button to return to the main table of
-                    contents (shown in <xref linkend="fig-yelp-window" />).</para>
+                    contents (shown in <xref linkend="fig-yelp-window"/>).</para>
                   </listitem>
                 </varlistentry>
               </variablelist></para>
           </listitem>
         </varlistentry>
 
-        <varlistentry id="yelp-browser-pane" xreflabel="Yelp Browser Pane">
+        <varlistentry xml:id="yelp-browser-pane" xreflabel="Yelp Browser Pane">
           <term><interface>Browser Pane</interface></term>
 
           <listitem>
@@ -434,12 +425,9 @@ a screenshot of the entire screen.</para>
 
   <!--===================== Usage ========================-->
 
-  <section id="yelp-usage">
-    <title>Using Yelp</title>
+  <section xml:id="yelp-usage"><info><title>Using Yelp</title></info>
 
-    <section>
-      <title>Open a Document</title>
-
+    <section><info><title>Open a Document</title></info>
       <para>To open a document in <application>Yelp Help Browser</application>:
 	  
 	  <itemizedlist>
@@ -464,13 +452,10 @@ a screenshot of the entire screen.</para>
 	  </itemizedlist></para>
 	  
       <para>Alternatively, you may view a particular document by invoking Yelp
-      Help Browser from the command line or dragging files to Yelp. See <xref
-      linkend="yelp-open-specific" /> for more on this.</para>
+      Help Browser from the command line or dragging files to Yelp. See <xref linkend="yelp-open-specific"/> for more on this.</para>
     </section>
 
-    <section>
-      <title>Open a New Window</title>
-
+    <section><info><title>Open a New Window</title></info>
       <para>To open a new window:</para>
 	  
       <para><itemizedlist>
@@ -489,9 +474,7 @@ a screenshot of the entire screen.</para>
         </itemizedlist></para>
     </section>
 
-    <section>
-      <title>About This Document</title>
-
+    <section><info><title>About This Document</title></info>
       <para>To view information about the currently open document:</para>
 
       <para><itemizedlist>
@@ -509,9 +492,7 @@ a screenshot of the entire screen.</para>
         </note></para>
     </section>
 
-    <section>
-      <title>Print a Page</title>
-
+    <section><info><title>Print a Page</title></info>
       <para>To print any page that you are able to view in <application>Yelp Help Browser</application>:</para>
 
       <para><itemizedlist>
@@ -525,9 +506,7 @@ a screenshot of the entire screen.</para>
         </itemizedlist></para>
     </section>
 
-    <section>
-      <title>Print a Document</title>
-
+    <section><info><title>Print a Document</title></info>
       <para>To print an entire document:</para>
 
       <para><itemizedlist>
@@ -544,9 +523,7 @@ a screenshot of the entire screen.</para>
         </note></para>
     </section>
 
-    <section>
-      <title>Close a Window</title>
-
+    <section><info><title>Close a Window</title></info>
       <para>To close a window in <application>Yelp Help Browser</application>, do the following:</para>
 
       <para><itemizedlist>
@@ -565,9 +542,7 @@ a screenshot of the entire screen.</para>
         </itemizedlist></para>
     </section>
 
-    <section>
-      <title>Set Preferences</title>
-
+    <section><info><title>Set Preferences</title></info>
       <para>To set your preferences in <application>Yelp Help Browser</application>:</para>
 
       <para><itemizedlist>
@@ -578,15 +553,12 @@ a screenshot of the entire screen.</para>
                 <guimenuitem>Preferences</guimenuitem>
               </menuchoice></para>
           </listitem>
-        </itemizedlist>A window will appear that looks like <xref
-      linkend="yelp-preferences" />:</para>
+        </itemizedlist>A window will appear that looks like <xref linkend="yelp-preferences"/>:</para>
 
-      <para><figure id="yelp-preferences">
-          <title><application>Yelp Help Browser</application> Preferences Window</title>
-
+      <para><figure xml:id="yelp-preferences"><info><title><application>Yelp Help Browser</application> Preferences Window</title></info>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="figures/yelp_preferences.png" />
+              <imagedata fileref="figures/yelp_preferences.png"/>
             </imageobject>
           </mediaobject>
         </figure>The options that are available in this dialog have the
@@ -635,7 +607,7 @@ a screenshot of the entire screen.</para>
 
             <listitem>
               <para>Click this option if you would like see a caret or cursor
-              in the <xref linkend="yelp-browser-pane" />. This allows you to
+              in the <xref linkend="yelp-browser-pane"/>. This allows you to
               browse the document more easily by showing where the cursor is
               located in the document.</para>
             </listitem>
@@ -643,9 +615,7 @@ a screenshot of the entire screen.</para>
         </variablelist></para>
     </section>
 
-    <section>
-      <title>Go Back in Document History</title>
-
+    <section><info><title>Go Back in Document History</title></info>
       <para>To go back in the document history:</para>
 
       <para><itemizedlist>
@@ -669,9 +639,7 @@ a screenshot of the entire screen.</para>
         </itemizedlist></para>
     </section>
 
-    <section>
-      <title>Go Forward in Document History</title>
-
+    <section><info><title>Go Forward in Document History</title></info>
       <para>To go forward in the document history:</para>
 
       <para><itemizedlist>
@@ -695,9 +663,7 @@ a screenshot of the entire screen.</para>
         </itemizedlist></para>
     </section>
 
-    <section>
-      <title>Go to Help Topics</title>
-
+    <section><info><title>Go to Help Topics</title></info>
       <para>To go to the Help Topics:</para>
 
       <para><itemizedlist>
@@ -721,9 +687,7 @@ a screenshot of the entire screen.</para>
         </itemizedlist></para>
     </section>
 
-    <section>
-      <title>Go to Previous Section</title>
-
+    <section><info><title>Go to Previous Section</title></info>
       <para>To go to the previous section:</para>
 
       <para><itemizedlist>
@@ -745,8 +709,8 @@ a screenshot of the entire screen.</para>
         </note></para>
     </section>
 
-    <section>
-      <title>Go to Next Section</title>
+    <section><info><title>Go to Next Section</title></info>
+      
 
       <para>To go to the next section:</para>
 
@@ -769,8 +733,8 @@ a screenshot of the entire screen.</para>
         </note></para>
     </section>
 
-    <section>
-      <title>Go to Contents</title>
+    <section><info><title>Go to Contents</title></info>
+      
 
       <para>To go to the contents for a document:</para>
 
@@ -788,8 +752,8 @@ a screenshot of the entire screen.</para>
         </note></para>
     </section>
 
-    <section>
-      <title>Add a Bookmark</title>
+    <section><info><title>Add a Bookmark</title></info>
+      
 
       <para>To add a bookmark for a particular document:</para>
 
@@ -806,15 +770,12 @@ a screenshot of the entire screen.</para>
             <para>Use the key combination
             <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo></para>
           </listitem>
-        </itemizedlist>A window will appear that looks like <xref
-      linkend="yelp-add-bookmark" />.</para>
+        </itemizedlist>A window will appear that looks like <xref linkend="yelp-add-bookmark"/>.</para>
 
-      <para><figure id="yelp-add-bookmark">
-          <title>Add Bookmark Window</title>
-
+      <para><figure xml:id="yelp-add-bookmark"><info><title>Add Bookmark Window</title></info>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="figures/yelp_add_bookmark.png" />
+              <imagedata fileref="figures/yelp_add_bookmark.png"/>
             </imageobject>
           </mediaobject>
         </figure>Enter your desired bookmark title in to the
@@ -823,9 +784,7 @@ a screenshot of the entire screen.</para>
       <guibutton>Cancel</guibutton> to cancel the request.</para>
     </section>
 
-    <section>
-      <title>Edit Bookmarks</title>
-
+    <section><info><title>Edit Bookmarks</title></info>
       <para>To edit your collection of bookmarks:</para>
 
       <para><itemizedlist>
@@ -840,15 +799,12 @@ a screenshot of the entire screen.</para>
             <para>Use the key combination
             <keycombo><keycap>Ctrl</keycap><keycap>B</keycap></keycombo></para>
           </listitem>
-        </itemizedlist>A window will appear that looks like <xref
-      linkend="yelp-edit-bookmarks" />.</para>
+        </itemizedlist>A window will appear that looks like <xref linkend="yelp-edit-bookmarks"/>.</para>
 
-      <para><figure id="yelp-edit-bookmarks">
-          <title>Edit Bookmarks Window</title>
-
+      <para><figure xml:id="yelp-edit-bookmarks"><info><title>Edit Bookmarks Window</title></info>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="figures/yelp_edit_bookmarks.png" />
+              <imagedata fileref="figures/yelp_edit_bookmarks.png"/>
             </imageobject>
           </mediaobject>
         </figure>You can manage your bookmarks using this window in the
@@ -886,9 +842,7 @@ a screenshot of the entire screen.</para>
       Bookmarks Window</interface>.</para>
     </section>
 
-    <section>
-      <title>Get Help</title>
-
+    <section><info><title>Get Help</title></info>
       <para>To get help to use <application>Yelp Help Browser</application> (and see this
       document):</para>
 
@@ -906,23 +860,16 @@ a screenshot of the entire screen.</para>
 
   <!--=============== Advanced Features ====================-->
 
-  <section id="yelp-advanced">
-    <title>Advanced Features</title>
+  <section xml:id="yelp-advanced"><info><title>Advanced Features</title></info>
 
-   <section id="yelp-open-specific"
-        xreflabel="Opening Specific Documents">
-    <title>Opening Specific Documents</title>
+   <section xml:id="yelp-open-specific" xreflabel="Opening Specific Documents"><info><title>Opening Specific Documents</title></info>
 
-    <section id="yelp-open-drag">
-      <title>Opening Documents from the File Manager</title>
+    <section xml:id="yelp-open-drag"><info><title>Opening Documents from the File Manager</title></info>
         <para>To open a document, such as an XML file, from the file manager, open the document in <application>Caja</application> File Manager, or drag the icon from <application>Caja</application> to the <application>Yelp</application> document pane
         or launcher.</para>
     </section>
 
-    <section id="yelp-advanced-cmdline"
-           xreflabel="Using the Command Line to Open Documents">
-      <title>Using the Command Line to Open Documents</title>
-
+    <section xml:id="yelp-advanced-cmdline" xreflabel="Using the Command Line to Open Documents"><info><title>Using the Command Line to Open Documents</title></info>
       <para>Yelp Help Browser supports opening documents from the command
       line. There are a number of URIs (Uniform Resource Identifiers) that can
       be used. These include:</para>
@@ -988,12 +935,9 @@ a screenshot of the entire screen.</para>
           </varlistentry>
         </variablelist>
     </section>
-
    </section>
 
-    <section>
-      <title>Refreshing Content on Demand</title>
-
+    <section><info><title>Refreshing Content on Demand</title></info>
       <para><application>Yelp Help Browser</application> supports the
       <keycombo><keycap>Ctrl</keycap><keycap>R</keycap></keycombo> shortcut keys, which will reload the DocBook
       document that is currently open. This allows developers to view changes
@@ -1001,24 +945,18 @@ a screenshot of the entire screen.</para>
     </section>
   </section>
 
-  <section id="yelp-moreinfo">
-    <title>More Information</title>
-
+  <section xml:id="yelp-moreinfo"><info><title>More Information</title></info>
     <para>This section details some helper applications which 
     <application>Yelp Help Browser</application> uses, and provides resources where you can get more information
     about <application>Yelp Help Browser</application>.</para>
 
-    <section>
-      <title>Scrollkeeper</title>
-
+    <section><info><title>Scrollkeeper</title></info>
       <para><application>Yelp Help Browser</application> uses scrollkeeper to generate the table of
       contents for DocBook and HTML documentation, and also keep track of
       translations for each document.</para>
     </section>
 
-    <section>
-      <title>MATE Documentation Utilites</title>
-
+    <section><info><title>MATE Documentation Utilites</title></info>
       <para>The documentation distributed with MATE uses this set of
       utilities for a variety of things:</para>
 
@@ -1037,26 +975,20 @@ a screenshot of the entire screen.</para>
             <para>Perform conversion from DocBook format to a format suitable
             for display.</para>
           </listitem>
-        </itemizedlist><application>Yelp Help Browser</application> relies on <ulink url="help:mate-doc-xslt">MATE XSLT
-      Stylesheets</ulink> to perform conversion from DocBook to HTML.  <ulink url="help:mate-doc-make">MATE Documentation
-      Build Utilities</ulink> are relied upon by application authors to install and register documentation within the help system.</para>
+        </itemizedlist><application>Yelp Help Browser</application> relies on <link xlink:href="help:mate-doc-xslt">MATE XSLT
+      Stylesheets</link> to perform conversion from DocBook to HTML.  <link xlink:href="help:mate-doc-make">MATE Documentation
+      Build Utilities</link> are relied upon by application authors to install and register documentation within the help system.</para>
     </section>
 
-    <section>
-      <title>Homepage and Mailing List</title>
-
-      <para>For further information on <application>Yelp Help Browser</application>, please visit the Documentation Project homepage, <ulink url="http://mate-desktop.org"></ulink>, or subscribe to
-      the mailing list, <ulink type="http" url="http://ml.mate-desktop.org/listinfo/mate-dev"></ulink>.</para>
+    <section><info><title>Homepage and Mailing List</title></info>
+      <para>For further information on <application>Yelp Help Browser</application>, please visit the Documentation Project homepage, <uri xlink:href="http://mate-desktop.org">http://mate-desktop.org</uri>, or subscribe to
+      the mailing list, <uri xlink:href="http://ml.mate-desktop.org/listinfo/mate-dev">http://ml.mate-desktop.org/listinfo/mate-dev</uri>.</para>
     </section>
   </section>
 
-  <section id="yelp-joininggdp">
-    <title>Joining the MATE Documentation Project</title>
-
+  <section xml:id="yelp-joininggdp"><info><title>Joining the MATE Documentation Project</title></info>
     <para>If you are interested in helping produce and update documentation
-    for the MATE project, please visit the Documentation Project homepage: <ulink url="http://wiki.mate-desktop.org/dev-doc:doc-team-guide?s[]=users[]=guide#mate_documentation_team"></ulink></para>
+    for the MATE project, please visit the Documentation Project homepage: <uri xlink:href="http://wiki.mate-desktop.org/dev-doc:doc-team-guide?s[]=users[]=guide#mate_documentation_team">http://wiki.mate-desktop.org/dev-doc:doc-team-guide?s[]=users[]=guide#mate_documentation_team</uri></para>
   </section>
-
 </section>
-
 </chapter>

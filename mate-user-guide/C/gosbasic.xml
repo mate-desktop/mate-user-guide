@@ -1,22 +1,24 @@
-<!-- -*- indent-tabs-mode: nil -*- -->
-<chapter id="basic-skills">
-<title>Basic Skills</title>
+<?xml version="1.0" encoding="utf-8"?>
+<?db.chunk.max_depth 3?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:db="http://docbook.org/ns/docbook"
+         version="5.0" xml:id="basic-skills" xml:lang="en">
+    <info><title>Basic Skills</title></info>
 
 <!-- Maintained for 2.8 compatibility -->
-<anchor id="part1-1"/>
-<anchor id="gosbasic-1"/>
-<anchor id="gosbasic-46"/> <!-- was Using Windows -->
+<anchor xml:id="part1-1"/>
+<anchor xml:id="gosbasic-1"/>
+<anchor xml:id="gosbasic-46"/> <!-- was Using Windows -->
 
 <highlights>
   <para>This chapter introduces you to the basic skills that you
   need to work with the MATE Desktop.</para>
 </highlights>
 
-<section id="mouse-skills">
-  <title>Mouse Skills</title>
-
+<section xml:id="mouse-skills"><info><title>Mouse Skills</title></info>
+  
   <!-- Maintained for 2.8 compatibility -->
-  <anchor id="gosbasic-2"/>
+  <anchor xml:id="gosbasic-2"/>
 
   <indexterm>
     <primary>basic skills</primary>
@@ -45,12 +47,10 @@ a small arrow with which you point to objects on your screen. Pressing a mouse b
 action on the object over which your mouse pointer is situated, depending on which button you press.
     </para>
 
-  <section id="mouse-conventions">
-    <title>Mouse Button Conventions</title>
-    <titleabbrev>Buttons</titleabbrev>
-
+  <section xml:id="mouse-conventions"><info><title>Mouse Button Conventions</title><titleabbrev>Buttons</titleabbrev></info>
+    
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="gosgetstarted-44"/>
+    <anchor xml:id="gosgetstarted-44"/>
 
     <indexterm>
       <primary>mouse</primary>
@@ -100,13 +100,11 @@ action on the object over which your mouse pointer is situated, depending on whi
 
   </section>
 
-  <section id="mouse-actions">
-    <title>Mouse Actions</title>
-    <titleabbrev>Actions</titleabbrev>
-
+  <section xml:id="mouse-actions"><info><title>Mouse Actions</title><titleabbrev>Actions</titleabbrev></info>
+    
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="gosgetstarted-45"/>
-    <anchor id="gosbasic-6"/>
+    <anchor xml:id="gosgetstarted-45"/>
+    <anchor xml:id="gosbasic-6"/>
     
     <indexterm>
       <primary>mouse</primary>
@@ -293,12 +291,10 @@ action on the object over which your mouse pointer is situated, depending on whi
 
   </section>
 
-  <section id="mouse-pointers">
-    <title>Mouse Pointers</title>
-    <titleabbrev>Pointers</titleabbrev>
-
+  <section xml:id="mouse-pointers"><info><title>Mouse Pointers</title><titleabbrev>Pointers</titleabbrev></info>
+    
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="gosbasic-7"/>
+    <anchor xml:id="gosbasic-7"/>
 
     <indexterm>
       <primary>mouse</primary>
@@ -323,8 +319,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/normal_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/normal_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Normal pointer.</phrase>
@@ -339,8 +334,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/busy_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/busy_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Busy pointer.</phrase>
@@ -354,8 +348,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/resize_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/resize_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Resize pointer.</phrase>
@@ -372,8 +365,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/hyperlink_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/hyperlink_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Hand pointer</phrase>
@@ -390,8 +382,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/ibeam_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/ibeam_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>I-beam pointer</phrase>
@@ -413,8 +404,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/move_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/move_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Move pointer.</phrase>
@@ -430,8 +420,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/copy_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/copy_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Copy pointer.</phrase>
@@ -447,8 +436,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/link_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/link_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Symbolic link pointer.</phrase>
@@ -466,8 +454,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/ask_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/ask_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Ask pointer.</phrase>
@@ -484,8 +471,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/not_available_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/not_available_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Not available pointer.</phrase>
@@ -500,8 +486,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/move_panel_object_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/move_panel_object_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Move panel object pointer.</phrase>
@@ -517,8 +502,7 @@ action on the object over which your mouse pointer is situated, depending on whi
         <term>
           <inlinemediaobject>
             <imageobject>
-              <imagedata format="PNG"
-                         fileref="figures/movewindow_pointer.png"/>
+              <imagedata format="PNG" fileref="figures/movewindow_pointer.png"/>
             </imageobject>
             <textobject>
               <phrase>Move window pointer.</phrase>
@@ -534,11 +518,11 @@ action on the object over which your mouse pointer is situated, depending on whi
   </section>
 </section>
 
-<section id="keyboard-skills">
-  <title>Keyboard Skills</title>
+<section xml:id="keyboard-skills"><info><title>Keyboard Skills</title></info>
+  
 
   <!-- Maintained for 2.8 compatibility -->
-  <anchor id="gosbasic-51"/>
+  <anchor xml:id="gosbasic-51"/>
 
   <indexterm>
     <primary>basic skills</primary>
@@ -574,11 +558,11 @@ action on the object over which your mouse pointer is situated, depending on whi
   <para>The following sections describe the shortcut keys that you can use
   throughout the desktop and applications.</para>
 
-  <section id="shortcuts-global">
-    <title>Global Shortcut Keys</title>
+  <section xml:id="shortcuts-global"><info><title>Global Shortcut Keys</title></info>
+    
 
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="gosbasic-62"/>
+    <anchor xml:id="gosbasic-62"/>
 
     <indexterm>
       <primary>shortcut keys</primary>
@@ -703,11 +687,10 @@ action on the object over which your mouse pointer is situated, depending on whi
     </informaltable>
   </section>
 
-  <section id="shortcuts-window">
-    <title>Window Shortcut Keys</title>
-
+  <section xml:id="shortcuts-window"><info><title>Window Shortcut Keys</title></info>
+    
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="gosbasic-58"/>
+    <anchor xml:id="gosbasic-58"/>
 
     <indexterm>
       <primary>shortcut keys</primary>
@@ -842,12 +825,12 @@ action on the object over which your mouse pointer is situated, depending on whi
     </informaltable>
   </section>
 
-  <section id="shortcuts-apps">
-    <title>Application Keys</title>
+  <section xml:id="shortcuts-apps"><info><title>Application Keys</title></info>
+    
 
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="gosbasic-59"/>
-    <anchor id="gosbasic-61"/> <!-- was Panel Shortcut Keys -->
+    <anchor xml:id="gosbasic-59"/>
+    <anchor xml:id="gosbasic-61"/> <!-- was Panel Shortcut Keys -->
 
     <indexterm>
       <primary>shortcut keys</primary>
@@ -1016,11 +999,11 @@ action on the object over which your mouse pointer is situated, depending on whi
     </informaltable>
   </section>
 
-  <section id="shortcuts-access">
-    <title>Access Keys</title>
+  <section xml:id="shortcuts-access"><info><title>Access Keys</title></info>
+    
 
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="gosbasic-63"/>
+    <anchor xml:id="gosbasic-63"/>
 
     <indexterm>
       <primary>access keys</primary>

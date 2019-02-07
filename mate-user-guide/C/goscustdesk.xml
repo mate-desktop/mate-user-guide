@@ -1,18 +1,22 @@
-<chapter id="prefs">
-  <title>Configuring Your Desktop</title>
+<?xml version="1.0" encoding="utf-8"?>
+<?db.chunk.max_depth 3?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:db="http://docbook.org/ns/docbook"
+         version="5.0" xml:id="prefs" xml:lang="en">
+    <info><title>Configuring Your Desktop</title></info>
   
   <!-- ids in this section are gradually being converted 
   to something like 'prefs-mouse'.
   remember to add an anchor for the old id in the right place -->
 
   <!-- Maintained for 2.8 compatibility -->
-  <anchor id="goscustdesk-6"/>
+  <anchor xml:id="goscustdesk-6"/>
 
   <!-- Desktop Overview / Desktop Preferences -->
-  <anchor id="gosoverview-55"/>
+  <anchor xml:id="gosoverview-55"/>
   
   <!-- ids of sections removed from this document for 2.14 -->
-  <anchor id="goscustdesk-10"/><!-- Customizing Your Panels -->
+  <anchor xml:id="goscustdesk-10"/><!-- Customizing Your Panels -->
 
   <highlights>
     <para>This chapter describes how to use the preference tools to
@@ -25,14 +29,12 @@ customize the MATE Desktop.</para>
   <para>Some applications or system components may add their own preference tools to the menu.</para>
   <note><para>Some preference tools let you modify essential parts of your system, and therefore require administrative access. When you open the preference tool, a dialog box will prompt you for your password. These are in the <menuchoice><guimenu>System</guimenu><guisubmenu>Administration</guisubmenu></menuchoice> submenu. This menu also contains more complex utility applications for managing and updating your system.</para></note>
 
-
-<sect1 id="prefs-personal">
-  <title>Personal</title>
+<section xml:id="prefs-personal"><info><title>Personal</title></info>
+  
   <!-- Was Login Photo prefs, could go to About Me if that was enabled by default -->
-  <anchor id="goscustdesk-95"/>
+  <anchor xml:id="goscustdesk-95"/>
 
-  <sect2 id="goscustaccess-11">
-    <title>Assistive Technologies Preferences</title>
+  <section xml:id="goscustaccess-11"><info><title>Assistive Technologies Preferences</title></info>
     <indexterm>
       <primary>accessibility</primary>
       <secondary>setting assistive technology
@@ -58,8 +60,7 @@ in the MATE Desktop. You can also use the <application>Assistive Technology</app
     </itemizedlist>
     <para><xref linkend="goscustaccess-TBL-14"/> lists the assistive technology
 preferences that you can modify.</para>
-    <table frame="topbot" id="goscustaccess-TBL-14">
-      <title>Assistive Technology Preferences</title>
+    <table frame="topbot" xml:id="goscustaccess-TBL-14"><info><title>Assistive Technology Preferences</title></info>
       <tgroup cols="2" colsep="0" rowsep="0">
         <colspec colwidth="50*"/>
         <colspec colwidth="50*"/>
@@ -90,20 +91,17 @@ again after enabling this option for it to be fully effective.</para>
         </tbody>
       </tgroup>
     </table>
-  </sect2>
+  </section>
 
-  <sect2 id="prefs-keyboard-shortcuts">
-    <title>Keyboard Shortcuts Preferences</title>
-
+  <section xml:id="prefs-keyboard-shortcuts"><info><title>Keyboard Shortcuts Preferences</title></info>
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="goscustdesk-39"/>
+    <anchor xml:id="goscustdesk-39"/>
     <indexterm>
       <primary>preference tools</primary>
       <secondary>Keyboard Shortcuts</secondary>
     </indexterm>
     <indexterm>
-      <primary>shortcut
-keys</primary>
+      <primary>shortcut keys</primary>
       <secondary>configuring</secondary>
     </indexterm>
     <indexterm>
@@ -153,12 +151,11 @@ keys that provides an alternative to standard ways of performing an action. For 
     <para>
       To remove a custom shortcut, use the <guilabel>Remove</guilabel> button.
     </para>
-  </sect2>  
+  </section>  
 
-  <sect2 id="prefs-preferredapps">
-    <title>Preferred Applications</title>
+  <section xml:id="prefs-preferredapps"><info><title>Preferred Applications</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscustdoc-2"/>       
+    <anchor xml:id="goscustdoc-2"/>       
     <indexterm>
       <primary>preference tools</primary>
       <secondary>Preferred Applications</secondary>
@@ -204,16 +201,14 @@ email clients or document viewers.</para>
     <para>For each preferred application category, a drop-down menu contains a list of possible applications you can choose from. The list depends on the applications installed on your computer.</para>
     <para>In each category, the last item in the menu (<guimenuitem>Custom</guimenuitem>) permits you to customize the command used by the system when the specific launch action occurs.</para>
     
-    <sect3 id="goscustlookandfeel-32">
-      <title>Custom Command Options</title>
+    <section xml:id="goscustlookandfeel-32"><info><title>Custom Command Options</title></info>
       <indexterm>
         <primary>preferred applications</primary>
         <secondary>custom command</secondary>
       </indexterm>
       <para>The following table summarizes the various options you can choose from when you select
 <guimenuitem>Custom</guimenuitem> in the drop-down application menu.</para>
-      <table frame="topbot" id="goscustlookandfeel-TBL-37">
-        <title>Custom command options</title>
+      <table frame="topbot" xml:id="goscustlookandfeel-TBL-37"><info><title>Custom command options</title></info>
         <tgroup cols="2" colsep="1" rowsep="1">
           <colspec colname="colspec0" colwidth="18.86*"/>
           <colspec colname="colspec1" colwidth="47.14*"/>
@@ -277,16 +272,13 @@ commands to run (<option>-x</option> for <application>mate-terminal</application
           </tbody>
         </tgroup>
       </table>
-    </sect3>
-  </sect2>
+    </section>
+  </section>
+</section>
 
-</sect1>
+<section xml:id="prefs-look-and-feel"><info><title>Look and Feel</title></info>
 
-<sect1 id="prefs-look-and-feel">
-	<title>Look and Feel</title>
-
-  <sect2 id="prefs-appearance">
-    <title>Appearance Preferences</title>
+  <section xml:id="prefs-appearance"><info><title>Appearance Preferences</title></info>
     <para>The <application>Appearance</application> preference tool lets
     you configure various aspects of how your desktop looks:</para>
     <itemizedlist>
@@ -302,12 +294,12 @@ commands to run (<option>-x</option> for <application>mate-terminal</application
       <listitem>
         <para>User Interface.</para>
       </listitem>
-     </itemizedlist> 
-  <sect3 id="prefs-theme">
-    <title>Theme Preferences</title>
-    <anchor id="goscustdesk-12"/>
-    <anchor id="goscustdesk-54"/>
-    <anchor id="goscustdesk-82"/>
+     </itemizedlist>
+
+  <section xml:id="prefs-theme"><info><title>Theme Preferences</title></info>
+    <anchor xml:id="goscustdesk-12"/>
+    <anchor xml:id="goscustdesk-54"/>
+    <anchor xml:id="goscustdesk-82"/>
   
     <indexterm>
       <primary>themes</primary>
@@ -315,8 +307,7 @@ commands to run (<option>-x</option> for <application>mate-terminal</application
     </indexterm>
     <indexterm>
       <primary>themes</primary>
-      <secondary>setting window
-frame options</secondary>
+      <secondary>setting window frame options</secondary>
     </indexterm>
     <indexterm>
       <primary>themes</primary>
@@ -336,8 +327,7 @@ the visual appearance of a part of the MATE Desktop. You can choose themes
 to change the appearance of the MATE Desktop. Use the <application>Theme</application> tabbed section to select a theme. You can choose from a list
 of available themes. The list of available themes includes several themes
 for users with accessibility requirements. </para>
-    <para>A theme contains settings that affect different parts of the MATE Desktop,
-as follows:</para>
+    <para>A theme contains settings that affect different parts of the MATE Desktop, as follows:</para>
     <variablelist>
       <varlistentry>
         <term>Controls</term>
@@ -385,8 +375,8 @@ and size of the mouse pointer. You can choose the options for setting the pointe
         </listitem>
       </varlistentry>
     </variablelist>
-    <sect4 id="goscustdesk-61">
-      <title>To Create a Custom Theme</title>
+    <section xml:id="goscustdesk-61"><info><title>To Create a Custom Theme</title></info>
+      
       <para>The themes that are listed in the <guilabel>Theme</guilabel>
 tabbed section are different combinations of controls options, window frame options,
 and icon options. You can create a custom theme that uses different combinations
@@ -435,9 +425,9 @@ the dialog, then click <guibutton>Save</guibutton>. The custom theme now appears
 in your list of available themes.</para>
         </listitem>
       </orderedlist>
-    </sect4>
-    <sect4 id="goscustdesk-62">
-      <title>To Install a New Theme</title>
+    </section>
+
+    <section xml:id="goscustdesk-62"><info><title>To Install a New Theme</title></info>
       <para>You can add a theme to the list of available themes. The new theme must
 be an archive file that is tarred and zipped. That is, the new theme must
 be a <filename>.tar.gz</filename> file.</para>
@@ -460,7 +450,7 @@ entry. Alternatively, select the theme archive file in the file list. When you h
 the new theme. </para>
         </listitem>
       </orderedlist>
-    </sect4>
+    </section>
 
 <!--How does this work nowadays ?
     <sect4 id="goscustdesk-80">
@@ -498,8 +488,8 @@ the new option. </para>
       </orderedlist>
     </sect4>
 -->
-    <sect4 id="goscustdesk-81">
-      <title>To Delete a Theme Option</title>
+
+    <section xml:id="goscustdesk-81"><info><title>To Delete a Theme Option</title></info>
       <para>You can delete controls options, window frame options, or icons options.</para>
       <para>To delete a controls option, window frame option, or icons option, perform
 the following steps:</para>
@@ -524,13 +514,12 @@ A <guilabel>Customize Theme</guilabel> dialog is displayed.</para>
           options.</para>
         </listitem>
       </orderedlist>
-    </sect4>
-  </sect3>
+    </section>
+  </section>
 
-  <sect3 id="prefs-desktopbackground">
-    <title>Desktop Background Preferences</title>
+  <section xml:id="prefs-desktopbackground"><info><title>Desktop Background Preferences</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscustdesk-7"/>       
+    <anchor xml:id="goscustdesk-7"/>       
     <indexterm>
       <primary>desktop</primary>
       <secondary>customizing background</secondary>
@@ -567,8 +556,7 @@ is a visual effect where one color blends gradually into another color. </para>
 and Emblems</guilabel> dialog</link> in the <application>Caja</application> file manager.</para></tip>
     <para><xref linkend="goscustdesk-TBL-14"/> lists the background preferences
 that you can modify.</para>
-    <table frame="topbot" id="goscustdesk-TBL-14">
-      <title>Desktop Background Preferences</title>
+    <table frame="topbot" xml:id="goscustdesk-TBL-14"><info><title>Desktop Background Preferences</title></info>
       <tgroup cols="2" colsep="1" rowsep="1">
         <colspec colname="colspec0" colwidth="18.86*"/>
         <colspec colname="colspec1" colwidth="47.14*"/>
@@ -648,8 +636,7 @@ the image you want and click <guibutton>Open</guibutton>.</para>
             </entry>
             <entry colname="colspec1" colsep="0" rowsep="0">
               <para>Choose the image that you want to remove,
-then click <guilabel>Remove</guilabel>.  This removes the image from the list of available wallpapers; however, it does not delete the image from your computer.
-</para>
+then click <guilabel>Remove</guilabel>.  This removes the image from the list of available wallpapers; however, it does not delete the image from your computer.</para>
             </entry>
           </row>
           <row>
@@ -693,14 +680,13 @@ color that you want to appear at the bottom edge.</para>
         </tbody>
       </tgroup>
     </table>
-  </sect3>
+  </section>
 
-  <sect3 id="prefs-font">
-    <title>Font Preferences</title>
+  <section xml:id="prefs-font"><info><title>Font Preferences</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscustdesk-38"/>
-    <anchor id="goscustdesk-83"/>
-    <anchor id="goscustdesk-94"/>
+    <anchor xml:id="goscustdesk-38"/>
+    <anchor xml:id="goscustdesk-83"/>
+    <anchor xml:id="goscustdesk-94"/>
     <indexterm>
       <primary>preference tools</primary>
       <secondary>Font</secondary>
@@ -728,8 +714,7 @@ color that you want to appear at the bottom edge.</para>
     <para>Use the <guilabel>Fonts</guilabel> tabbed section in the <application>Appearance</application> preference tool
 to choose which fonts are used in different parts of the desktop, and the way in which fonts are displayed on the screen.</para>
 
-    <sect4 id="prefs-font-choose">
-      <title>Choosing Fonts</title>
+    <section xml:id="prefs-font-choose"><info><title>Choosing Fonts</title></info>
       <para>The font selector button shows the name of the font and its point size. The name is also shown in bold, italic, or regular type.</para>
       <para>To change the font, click the font selector button. The font picker dialog opens. Select the font family, style, and point size from the lists. The preview area shows your current choice. Click <guibutton>OK</guibutton> to accept the change and update the desktop.</para>
       <para>You can choose fonts for the following parts of the desktop:</para>
@@ -767,10 +752,9 @@ to choose which fonts are used in different parts of the desktop, and the way in
       	  </listitem>
       	</varlistentry>
       	</variablelist>
-  	</sect4>
+  	</section>
 	
-  	<sect4 id="prefs-font-rendering">
-      <title>Font Rendering</title>
+  	<section xml:id="prefs-font-rendering"><info><title>Font Rendering</title></info>
       <para>You can set the following options relating to how fonts are displayed on the screen:</para>
 	
     	<variablelist>
@@ -835,7 +819,8 @@ to choose which fonts are used in different parts of the desktop, and the way in
     	</varlistentry>
     </variablelist>
    
-    </sect4>
+    </section>
+
 <!-- go to fonts folder no longer exists
     <sect4 id="goscustdesk-83">
       <title>Previewing a Font</title>
@@ -880,12 +865,11 @@ you want to add.</para>
       <tip><para>You can also open the <guilabel>Fonts</guilabel> folder by typing the following URI into <application>Caja</application> file manager's <link linkend="caja-open-location">Open Location dialog</link>: <command>fonts:///</command>.</para></tip>
     </sect4>
 -->
-  </sect3>
+  </section>
 
-  <sect3 id="prefs-menustoolbars">
-    <title>Interface Preferences</title>
+  <section xml:id="prefs-menustoolbars"><info><title>Interface Preferences</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscustuserinter-2"/>    
+    <anchor xml:id="goscustuserinter-2"/>    
     <indexterm>
       <primary>toolbars, customizing appearance</primary>
     </indexterm>
@@ -895,8 +879,7 @@ you want to add.</para>
     </indexterm>
     <indexterm>
       <primary>menus</primary>
-      <secondary>in applications,
-customizing appearance</secondary>
+      <secondary>in applications, customizing appearance</secondary>
     </indexterm>
     <para>You can use the <guilabel>Interface</guilabel> tabbed section in the <application>Appearance</application> preference tool to customize the appearance
 of menus, menubars, and toolbars for applications that are part of MATE.</para>
@@ -947,14 +930,12 @@ of menus, menubars, and toolbars for applications that are part of MATE.</para>
     	  </listitem>
     	</varlistentry>
     </variablelist>
-  </sect3>
-  </sect2>
+  </section>
+  </section>
 
-  <sect2 id="prefs-windows">
-    <title>Windows Preferences</title>
-
+  <section xml:id="prefs-windows"><info><title>Windows Preferences</title></info>
     <!-- preserve for backwards compatibility: 2.12 -->
-    <anchor id="goscustdesk-58"/>    
+    <anchor xml:id="goscustdesk-58"/>    
 
     <indexterm>
       <primary>window manager</primary>
@@ -968,8 +949,7 @@ of menus, menubars, and toolbars for applications that are part of MATE.</para>
 preference tool to customize window behavior for the MATE Desktop.</para>
     <para><xref linkend="goscustwindows-TBL-14"/> lists the windows preferences
 that you can modify.</para>
-    <table frame="topbot" id="goscustwindows-TBL-14">
-      <title>Windows Preferences</title>
+    <table frame="topbot" xml:id="goscustwindows-TBL-14"><info><title>Windows Preferences</title></info>
       <tgroup cols="2" colsep="1" rowsep="1">
         <colspec colname="colspec0" colwidth="18.86*"/>
         <colspec colname="colspec1" colwidth="47.14*"/>
@@ -1071,10 +1051,9 @@ the key to press-and-hold when you drag a window to move the window.</para>
       Keyboard Layout Options dialog, see <xref linkend="prefs-keyboard-layoutoptions"/>. 
       </para>
     </note>
-  </sect2>
+  </section>
 
-  <sect2 id="prefs-screensaver">
-    <title>Screensaver Preferences</title>
+  <section xml:id="prefs-screensaver"><info><title>Screensaver Preferences</title></info>
     <indexterm>
       <primary>preference tools</primary>
       <secondary>screensaver</secondary>
@@ -1105,26 +1084,17 @@ the key to press-and-hold when you drag a window to move the window.</para>
     	  <listitem><para>When this option is selected, the screensaver will prompt you for your password when you try to return to the desktop. For more on locking your screen, see <xref linkend="lock-screen"/>.</para></listitem>  	
     	</varlistentry>
   </variablelist>
-  </sect2>
+  </section>
+</section>
 
-</sect1>
+<section xml:id="prefs-internet-and-network"><info><title>Internet and Network</title></info>
 
-<sect1 id="prefs-internet-and-network">
-	<title>Internet and Network</title>
-
-  <sect2 id="prefs-network-admin">
- 	<title>Network Settings</title>
-
+  <section xml:id="prefs-network-admin"><info><title>Network Settings</title></info>
     <para>The <application>Network Settings</application> allows you to specify the way your system connects to other computers and to internet.</para>
     <para>You will be prompted for the administrator password when you start <application>Network Settings</application>. This is because the changes done with this tool will affect the whole system.</para>
 
-  <sect3 id="prefs-network-admin-getting-started">
-    <title>Getting started</title>
-
-
-
+  <section xml:id="prefs-network-admin-getting-started"><info><title>Getting started</title></info>
     <para>The <application>Network Settings</application> main window contains four tabbed sections:</para>
-
     <variablelist>
 	 <varlistentry>
 	   <term><guilabel>Connections</guilabel></term>
@@ -1147,20 +1117,18 @@ the key to press-and-hold when you drag a window to move the window.</para>
 	   </listitem>
 	 </varlistentry>
 
-      <varlistentry>
+	 <varlistentry>
 	   <term><guilabel>Hosts</guilabel></term>
 	   <listitem>
 		<para>Shows the list of aliases for accessing other computers.</para>
 	   </listitem>
 	 </varlistentry>
     </variablelist>
-  </sect3>
+  </section>
 
-  <sect3 id="prefs-network-admin-usage">
-    <title>Usage</title>
+  <section xml:id="prefs-network-admin-usage"><info><title>Usage</title></info>
 
-    <sect4 id="tool-modify-connection">
-	 <title>To modify a connection settings</title>
+    <section xml:id="tool-modify-connection"><info><title>To modify a connection settings</title></info>
 	 <para>In the <guilabel>Connections</guilabel> section, select the interface you want to modify and press the <guilabel>Properties</guilabel> button, depending on the interface type you will be able to modify different data.</para>
 
 	 <variablelist>
@@ -1192,78 +1160,64 @@ the key to press-and-hold when you drag a window to move the window.</para>
 		</listitem>
 	   </varlistentry>
 	 </variablelist>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To activate or deactivate an interface</title>
+    <section><info><title>To activate or deactivate an interface</title></info>
 	 <para>In the <guilabel>Connections</guilabel> section, enable or disable the checkbox beside the interface.</para>
-    </sect4>
+    </section>
     
-    <sect4>
-	 <title>To change your host name and domain name</title>
+    <section><info><title>To change your host name and domain name</title></info>
 	 <para>In the <guilabel>General</guilabel> section, change the hostname or domain name text boxes.</para>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To add a new domain name server</title>
+    <section><info><title>To add a new domain name server</title></info>
 	 <para>In the <guilabel>DNS Servers</guilabel> section, press the <guilabel>Add</guilabel> button and fill in the new list row with the new domain name server.</para>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To delete a domain name server</title>
+    <section><info><title>To delete a domain name server</title></info>
 	 <para>In the <guilabel>DNS Servers</guilabel> section, select a DNS IP address from the list and press the <guilabel>Delete</guilabel> button.</para>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To add a new search domain</title>
+    <section><info><title>To add a new search domain</title></info>
 	 <para>In the <guilabel>Search Domains</guilabel> section, press the <guilabel>Add</guilabel> button and fill in the new list row with the new search domain.</para>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To delete a search domain</title>
+    <section><info><title>To delete a search domain</title></info>
 	 <para>In the <guilabel>Search Domains</guilabel> section, select a search domain from the list and press the <guilabel>Delete</guilabel> button.</para>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To add a new host alias</title>
+    <section><info><title>To add a new host alias</title></info>
 	 <para>In the <guilabel>Hosts</guilabel> section, press the <guilabel>Add</guilabel> button and type an IP address and the aliases that will point to in the window that pops up.</para>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To modify a host alias</title>
+    <section><info><title>To modify a host alias</title></info>
 	 <para>In the <guilabel>Hosts</guilabel> section, select an alias, press the <guilabel>Properties</guilabel> button from the list and modify the alias settings in the window that pops up.</para>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To delete a host alias</title>
+    <section><info><title>To delete a host alias</title></info>
 	 <para>In the <guilabel>Hosts</guilabel> section, select an alias from the list and press the <guilabel>Delete</guilabel> button.</para>
-    </sect4>
+    </section>
 
-    <sect4 id="prefs-network-admin-add-new-profile">
-	 <title>To save your current network configuration as a "Location"</title>
+    <section xml:id="prefs-network-admin-add-new-profile"><info><title>To save your current network configuration as a "Location"</title></info>
 	 <para>Press the <guilabel>Add</guilabel> button besides the <guilabel>Locations</guilabel> menu, specify the location name in the window that pops up.</para>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To delete a location</title>
+    <section><info><title>To delete a location</title></info>
 	 <para>Press the <guilabel>Remove</guilabel> button besides the <guilabel>Locations</guilabel> menu, the selected profile will be deleted.</para>
-    </sect4>
+    </section>
 
-    <sect4>
-	 <title>To switch to a location</title>
+    <section><info><title>To switch to a location</title></info>
 	 <para>Select one location from the <guilabel>Locations</guilabel> menu, all the configuration will be switched automatically to the chosen location.</para>
-    </sect4>
+    </section>
 
-	</sect3>
-  </sect2>
+  </section>
+  </section>
 
-  <sect2 id="prefs-networkproxy">
-    <title>Network Proxy Preferences</title>
+  <section xml:id="prefs-networkproxy"><info><title>Network Proxy Preferences</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscustdesk-50"/>       
+    <anchor xml:id="goscustdesk-50"/>       
     <indexterm>
-      <primary>preference
-tools</primary>
+      <primary>preference tools</primary>
       <secondary>Network Proxy</secondary>
     </indexterm>
     <indexterm>
@@ -1349,13 +1303,11 @@ tools</primary>
     </variablelist>
     
     <para>Set which hosts should not use the proxy in the <guilabel>Ignore Host List</guilabel> in the <guilabel>Ignored Hosts</guilabel> tabbed section. When you access these hosts, you will connect to the Internet directly without a proxy.</para>
-    
-  </sect2>
+  </section>
 
-  <sect2 id="prefs-remotedesktop">
-    <title>Remote Desktop Preferences</title>
+  <section xml:id="prefs-remotedesktop"><info><title>Remote Desktop Preferences</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscustdesk-90"/>
+    <anchor xml:id="goscustdesk-90"/>
     <indexterm>
       <primary>setting session sharing preferences</primary>
     </indexterm>           
@@ -1364,8 +1316,7 @@ between multiple users, and to set session-sharing preferences.</para>
     <para><xref linkend="goscustdesk-TBL-91"/> lists the session-sharing preferences
 that you can set. These preferences have a direct impact on the security of
 your system.</para>
-    <table frame="topbot" id="goscustdesk-TBL-91">
-      <title>Session Sharing Preferences</title>
+    <table frame="topbot" xml:id="goscustdesk-TBL-91"><info><title>Session Sharing Preferences</title></info>
       <tgroup cols="2" colsep="1" rowsep="1">
         <colspec colname="colspec18" colwidth="19.21*"/>
         <colspec colname="colspec19" colwidth="46.79*"/>
@@ -1383,8 +1334,7 @@ your system.</para>
           <row>
             <entry colsep="0" rowsep="0" valign="top">
               <para>
-                <guilabel>Allow other
-users to view your desktop</guilabel>
+                <guilabel>Allow other users to view your desktop</guilabel>
               </para>
             </entry>
             <entry colsep="0" rowsep="0" valign="top">
@@ -1396,8 +1346,7 @@ are ignored.</para>
           <row>
             <entry colsep="0" rowsep="0" valign="top">
               <para>
-                <guilabel>Allow other
-users to control your desktop</guilabel>
+                <guilabel>Allow other users to control your desktop</guilabel>
               </para>
             </entry>
             <entry colsep="0" rowsep="0" valign="top">
@@ -1452,26 +1401,21 @@ must enter.</para>
         </tbody>
       </tgroup>
     </table>
-  </sect2>  
+  </section>  
+</section>
 
-</sect1>
-
-
-<sect1 id="prefs-hardware">
-	<title>Hardware</title>
-
-  <sect2 id="prefs-keyboard">
-    <title>Keyboard Preferences</title>
+<section xml:id="prefs-hardware"><info><title>Hardware</title></info>
+	
+  <section xml:id="prefs-keyboard"><info><title>Keyboard Preferences</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goscustperiph-2"/>       
+    <anchor xml:id="goscustperiph-2"/>       
     <indexterm>
       <primary>preference tools</primary>
       <secondary>Keyboard</secondary>
     </indexterm>
     <indexterm>
       <primary>keyboard</primary>
-      <secondary>configuring
-general preferences</secondary>
+      <secondary>configuring general preferences</secondary>
     </indexterm>
     <para>Use the <application>Keyboard</application> preference tool to modify the autorepeat preferences for
 your keyboard, and to configure typing break settings. </para>
@@ -1504,14 +1448,14 @@ preference tool in the following functional areas:</para>
     </itemizedlist>
     -->
     <para>To open the <link linkend="prefs-keyboard-a11y"><application>Keyboard <emphasis>Accessibility</emphasis></application> preference tool</link>, click the <guibutton>Accessibility</guibutton> button.</para>    
-    <sect3 id="goscustdesk-40">
-      <title>Keyboard Preferences</title>
+    <section xml:id="goscustdesk-40"><info><title>Keyboard Preferences</title></info>
+      
       <para>Use the <guilabel>General</guilabel> tabbed section to set general
 keyboard preferences.</para>
       <para><xref linkend="goscustperiph-TBL-3"/> lists the keyboard preferences
 that you can modify.</para>
-      <table frame="topbot" id="goscustperiph-TBL-3">
-        <title>Keyboard Preferences</title>
+      <table frame="topbot" xml:id="goscustperiph-TBL-3"><info><title>Keyboard Preferences</title></info>
+        
         <tgroup cols="2" colsep="1" rowsep="1">
           <colspec colname="colspec18" colwidth="19.21*"/>
           <colspec colname="colspec19" colwidth="46.79*"/>
@@ -1529,8 +1473,7 @@ that you can modify.</para>
             <row>
               <entry colsep="0" rowsep="0" valign="top">
                 <para>
-                  <guilabel>Key presses
-repeat when key is held down</guilabel>
+                  <guilabel>Key presses repeat when key is held down</guilabel>
                 </para>
               </entry>
               <entry colsep="0" rowsep="0" valign="top">
@@ -1586,8 +1529,7 @@ blinks in fields and text boxes.</para>
             <row>
               <entry colname="colspec18" colsep="0" rowsep="0">
                 <para>
-                  <guilabel>Type
-to test settings</guilabel>
+                  <guilabel>Type to test settings</guilabel>
                 </para>
               </entry>
               <entry colname="colspec19" colsep="0" rowsep="0">
@@ -1599,11 +1541,11 @@ test area to test the effect of your settings.</para>
           </tbody>
         </tgroup>
       </table>
-    </sect3>
-    <sect3 id="prefs-keyboard-layouts">
-      <title>Keyboard Layouts Preferences</title>
+    </section>
+
+    <section xml:id="prefs-keyboard-layouts"><info><title>Keyboard Layouts Preferences</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscustdesk-100"/>         
+      <anchor xml:id="goscustdesk-100"/>         
       <para>Use the <guilabel>Layouts</guilabel> tabbed section to set your keyboard's language, and also the make and model of keyboard you are using.</para>
       <para>This will allow MATE to make use of special media keys on your keyboard, and to show the correct characters for your keyboard's language.</para>
       
@@ -1630,12 +1572,11 @@ test area to test the effect of your settings.</para>
       <para>Click <guibutton>Reset to Defaults</guibutton> to restore all keyboard layout settings to their initial state for your system and locale.</para>
 
       <para>Click the <guibutton>Layout Options</guibutton> button to open the <guilabel>Keyboard Layout Options</guilabel> dialog.</para>
-   </sect3>
+   </section>
     
-    <sect3 id="prefs-keyboard-layoutoptions"> 
-      <title>Keyboard Layout Options</title>
+    <section xml:id="prefs-keyboard-layoutoptions"><info><title>Keyboard Layout Options</title></info> 
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="goscustdesk-101"/>
+      <anchor xml:id="goscustdesk-101"/>
       <para>The <guilabel>Keyboard Layout Options</guilabel> dialog has options for the behavior of keyboard modifier keys and certain shortcut options.</para>
       <para>Expand each group label to show the available options. A label in boldface indicates that the options in the group have been changed from the default setting.</para>
       <note><para>The options shown in this dialog depend on the X windowing system you are using. Not all the following options might be listed on your system, and not all the options shown might work on your system.</para></note>
@@ -1679,7 +1620,6 @@ test area to test the effect of your settings.</para>
                 <term><guilabel>Group Shift/Lock behavior</guilabel></term>
                 <listitem><para>
                   Select keys or key combinations to switch your keyboard layout when pressed.
- 
                 </para></listitem>
         </varlistentry>
         <varlistentry>
@@ -1716,20 +1656,16 @@ test area to test the effect of your settings.</para>
                 </listitem>
         </varlistentry>
       </variablelist>
-    </sect3>
+    </section>
 
-    <sect3 id="prefs-keyboard-a11y">
-
-      <title>Keyboard Accessibility Preferences</title>
-
+    <section xml:id="prefs-keyboard-a11y"><info><title>Keyboard Accessibility Preferences</title></info>
     <indexterm>
       <primary>AccessX</primary>
       <see>preference tools, Keyboard Accessibility</see>
     </indexterm>
     <indexterm>
       <primary>keyboard</primary>
-      <secondary>configuring
-accessibility options</secondary>
+      <secondary>configuring accessibility options</secondary>
     </indexterm>
     <indexterm>
       <primary>accessibility</primary>
@@ -1740,19 +1676,17 @@ accessibility options</secondary>
       <secondary>Keyboard Accessibility</secondary>
     </indexterm>
 
-
     <!-- Maintained for 2.8 compatibility -->
-      <anchor id="goscustaccess-6"/>
-      <anchor id="goscustaccess-8"/>
-      <anchor id="goscustaccess-9"/>
+      <anchor xml:id="goscustaccess-6"/>
+      <anchor xml:id="goscustaccess-8"/>
+      <anchor xml:id="goscustaccess-9"/>
       <para>The <guilabel>Accessibility</guilabel> tabbed section allows you to set  options such as filtering out accidental keypresses and using shortcut keys without having to hold down several keys at once. These features are also known as AccessX.</para>
 
        <para>This section describes each of the preferences you can set. For a more task-oriented description of keyboard accessibility, see the <citetitle>MATE Desktop Accessibility Guide</citetitle>.</para>
 
       <para><xref linkend="goscustdesk-TBL-85"/> lists the accessibility preferences
  that you can modify.</para>
-     <table frame="topbot" id="goscustdesk-TBL-85">
-        <title>Accessibility Preferences</title>
+     <table frame="topbot" xml:id="goscustdesk-TBL-85"><info><title>Accessibility Preferences</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colwidth="50*"/>
           <colspec colwidth="50*"/>
@@ -1862,7 +1796,7 @@ keypress before the automatic repeat of a pressed key.</para>
                 </entry>
              </row>
             <row>
-              <entry  valign="top">
+              <entry valign="top">
                 <para>
                   <guilabel>Type to test settings</guilabel>
                 </para>
@@ -1880,15 +1814,13 @@ of your settings.</para>
       <para>To configure audio feedback for keyboard accessibility features,
       click the <guibutton>Audio Feedback</guibutton> button. It opens the
       <guilabel>Keyboard Accessibility Audio Feedback</guilabel> window.</para>
-    </sect3>
+    </section>
 
-   <sect3>
-      <title>Keyboard Accessibility Audio Feedback</title>
+   <section><info><title>Keyboard Accessibility Audio Feedback</title></info>
       <para>Configure audio feedback for keyboard accessibility features.</para>
       <para><xref linkend="goscustdesk-TBL-86"/> lists the audio feedback preferences
       that you can modify.</para>
-      <table frame="topbot" id="goscustdesk-TBL-86">
-        <title>Audio Feedback Preferences</title>
+      <table frame="topbot" xml:id="goscustdesk-TBL-86"><info><title>Audio Feedback Preferences</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colwidth="50*"/>
           <colspec colwidth="50*"/>
@@ -1977,17 +1909,15 @@ of your settings.</para>
           </tbody>
         </tgroup>
       </table>
-   </sect3>
+   </section>
  
-   <sect3>
-     <title>Mouse Keys Preferences</title>
-     <anchor id="goscustaccess-10"/>
+   <section><info><title>Mouse Keys Preferences</title></info>
+     <anchor xml:id="goscustaccess-10"/>
      <para>The options in the <guilabel>Mouse Keys</guilabel> tabbed section
      let you configure the keyboard as a substitute for the mouse.</para>
       <para><xref linkend="goscustdesk-TBL-88"/> lists the mouse keys preferences
  that you can modify.</para>
-      <table frame="topbot" id="goscustdesk-TBL-88">
-        <title>Typing Break Preferences</title>
+      <table frame="topbot" xml:id="goscustdesk-TBL-88"><info><title>Typing Break Preferences</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colwidth="50*"/>
           <colspec colwidth="50*"/>
@@ -2052,15 +1982,13 @@ after a keypress before the pointer moves.</para>
           </tbody>
         </tgroup>
       </table>
-  </sect3>
+  </section>
 
-    <sect3 id="goscustdesk-86">
-      <title>Typing Break Preferences</title>
+    <section xml:id="goscustdesk-86"><info><title>Typing Break Preferences</title></info>
+      
       <para>Configure the Typing Break Preferences to make MATE remind you to rest after you have been using the keyboard and mouse for a long time. During a Typing Break, the screen will be locked.</para>
-      <para><xref linkend="goscustdesk-TBL-87"/> lists the typing break preferences
- that you can modify.</para>
-      <table frame="topbot" id="goscustdesk-TBL-87">
-        <title>Typing Break Preferences</title>
+      <para><xref linkend="goscustdesk-TBL-87"/> lists the typing break preferences that you can modify.</para>
+      <table frame="topbot" xml:id="goscustdesk-TBL-87"><info><title>Typing Break Preferences</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colwidth="50*"/>
           <colspec colwidth="50*"/>
@@ -2082,8 +2010,7 @@ after a keypress before the pointer moves.</para>
                 </para>
               </entry>
               <entry valign="top">
-                <para>Select this option to
-lock the screen when you are due a typing break.</para>
+                <para>Select this option to lock the screen when you are due a typing break.</para>
               </entry>
             </row>
             <row>
@@ -2125,15 +2052,12 @@ typing breaks.</para>
       <note><para>
         If you stop using the keyboard and mouse for a length of time equal to the <guilabel>Break interval</guilabel> setting, the current work interval will be reset.
       </para></note>
-    </sect3>    
-    
-    
-  </sect2>
+    </section>    
+  </section>
 
-  <sect2 id="prefs-mouse">
-    <title>Mouse Preferences</title>
+  <section xml:id="prefs-mouse"><info><title>Mouse Preferences</title></info>
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="goscustperiph-5"/>
+    <anchor xml:id="goscustperiph-5"/>
     <indexterm>
       <primary>preference tools</primary>
       <secondary>Mouse</secondary>
@@ -2157,9 +2081,7 @@ typing breaks.</para>
       </listitem>
     </itemizedlist>
     
-    
-    <sect3 id="goscustdesk-55">
-      <title>General Mouse Preferences</title>
+    <section xml:id="goscustdesk-55"><info><title>General Mouse Preferences</title></info>
       <para>Use the <guilabel>General</guilabel> tabbed section to specify whether
       the mouse buttons are configured for left-hand or right-hand use and configure
       the speed and sensitivity of your mouse.</para>
@@ -2167,8 +2089,7 @@ typing breaks.</para>
 that you can modify.</para>
 
     <!-- convert to variablelist -->
-    <table frame="topbot" id="goscustperiph-TBL-6">
-        <title>Mouse Button Preferences</title>
+    <table frame="topbot" xml:id="goscustperiph-TBL-6"><info><title>Mouse Button Preferences</title></info>
         <tgroup cols="2" colsep="1" rowsep="1">
           <colspec colname="colspec18" colwidth="19.21*"/>
           <colspec colname="colspec19" colwidth="46.79*"/>
@@ -2228,18 +2149,18 @@ you to locate the mouse pointer.</para>
                   <guilabel>Acceleration</guilabel>
                 </para>
               </entry>
-              <entry colsep="0" rowsep="0"  valign="top">
+              <entry colsep="0" rowsep="0" valign="top">
                 <para>Use the slider to specify the speed at which your
 mouse pointer moves on your screen when you move your mouse.</para>
               </entry>
             </row>
             <row>
-              <entry colsep="0" rowsep="0"  valign="top">
+              <entry colsep="0" rowsep="0" valign="top">
                 <para>
                   <guilabel>Sensitivity</guilabel>
                 </para>
               </entry>
-              <entry  colsep="0" rowsep="0" valign="top">
+              <entry colsep="0" rowsep="0" valign="top">
                 <para>Use the slider to specify how sensitive your mouse
 pointer is to movements of your mouse.</para>
               </entry>
@@ -2267,17 +2188,15 @@ action.</para>
 the amount of time that can pass between clicks when you double-click. If
 the interval between the first and second clicks exceeds the time that is
 specified here, the action is not interpreted as a double-click. </para>
-
                 <para>Use the light bulb icon to check double-click sensitivity: the light will light up briefly for a click, but stay lit for a double-click.</para>
               </entry>
             </row>
           </tbody>
         </tgroup>
       </table>
-    </sect3>
+    </section>
 
-    <sect3 id="goscustdesk-53">
-      <title>Mouse Accessibility Preferences</title>
+    <section xml:id="goscustdesk-53"><info><title>Mouse Accessibility Preferences</title></info>
       <para>Use the <guilabel>Accessibility</guilabel> tabbed section to configure
       accessibility features that can help people who have difficulty with exact positioning of the pointer or with pressing the mouse buttons:</para>
       <itemizedlist>
@@ -2328,8 +2247,7 @@ specified here, the action is not interpreted as a double-click. </para>
       </itemizedlist>
       <para><xref linkend="goscustdesk-TBL-47"/> lists the mouse accessibility preferences
 that you can modify:</para>
-      <table frame="topbot" id="goscustdesk-TBL-47">
-        <title>Mouse Motion Preferences</title>
+      <table frame="topbot" xml:id="goscustdesk-TBL-47"><info><title>Mouse Motion Preferences</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colwidth="30.10*"/>
           <colspec colwidth="69.90*"/>
@@ -2426,7 +2344,6 @@ that you can modify:</para>
               </entry>
               <entry rowsep="0" colsep="0" valign="top">
                 <para>Select this option to pick the type of click by moving the mouse in a certain direction. The four combo boxes below this option allow to assign directions to the different types of click. Note that each direction can be used only for one type of click.</para> 
-              
               </entry>
             </row>
             <row>
@@ -2480,11 +2397,10 @@ that you can modify:</para>
           </tbody>
         </tgroup>
       </table>
-    </sect3>
-  </sect2>
+    </section>
+  </section>
 
-  <sect2 id="goscustdesk-70">
-    <title>Monitors</title>
+  <section xml:id="goscustdesk-70"><info><title>Monitors</title></info>
     <indexterm>
       <primary>preference tools</primary>
       <secondary>Display</secondary>
@@ -2562,10 +2478,10 @@ section label.</para>
     This option may not be supported on all graphics cards.</para></listitem>
   </varlistentry>
 </variablelist>
-</sect2>
+</section>
 
-  <sect2 id="goscustmulti-2">
-    <title>Sound Preferences</title>
+  <section xml:id="goscustmulti-2"><info><title>Sound Preferences</title></info>
+    
     <indexterm>
       <primary>preference tools</primary>
       <secondary>Sound</secondary>
@@ -2576,12 +2492,10 @@ section label.</para>
     </indexterm>
     <indexterm>
       <primary>sound</primary>
-      <secondary>associating
-events with sounds</secondary>
+      <secondary>associating events with sounds</secondary>
     </indexterm>
     <indexterm>
-      <primary>events, associating
-sounds with</primary>
+      <primary>events, associating sounds with</primary>
     </indexterm>
     <indexterm>
       <primary>volume</primary>
@@ -2609,13 +2523,11 @@ preference tool in the following functional areas:</para>
       </listitem>
     </itemizedlist>
     <para>You can change the overall output volume using the <guilabel>Output volume</guilabel> slider at the top of the window. The <guilabel>Mute</guilabel> checkbox allows to temporarily suppress all output without disturbing the current volume.</para>
-    <sect3 id="goscustdesk-48">
-      <title>Sound Effects Preferences</title>
+
+    <section xml:id="goscustdesk-48"><info><title>Sound Effects Preferences</title></info>
       <para>A sound theme is collection of sound effects that are associated to various events, such as opening a dialog, clicking a button or selecting an item in a menu. One of the most prominent event sounds is the <emphasis>System Bell</emphasis> sound that often played to indicate a keyboard input error. Use the <guilabel>Sound Effects</guilabel> tabbed section of the <application>Sound</application> preference tool to choose a sound theme and modify the bell sound.</para>
-      <para><xref linkend="goscustmulti-TBL-6"/> lists the sound effects preferences
-that you can modify.</para>
-      <table frame="topbot" id="goscustmulti-TBL-6">
-        <title>Sound Effects Preferences</title>
+      <para><xref linkend="goscustmulti-TBL-6"/> lists the sound effects preferences that you can modify.</para>
+      <table frame="topbot" xml:id="goscustmulti-TBL-6"><info><title>Sound Effects Preferences</title></info>
         <tgroup cols="2" colsep="1" rowsep="1">
           <colspec colname="colspec18" colwidth="19.21*"/>
           <colspec colname="colspec19" colwidth="46.79*"/>
@@ -2658,8 +2570,7 @@ control the volume for event sounds.</para>
                 <para><guilabel>Choose an alert sound </guilabel> list</para>
               </entry>
               <entry colname="colspec19" colsep="0" rowsep="0" valign="top">
-                <para>Choose an alternative sound for the System Bell from 
-                this list.</para>
+                <para>Choose an alternative sound for the System Bell from this list.</para>
                 <para>Selecting a list element plays the sound.</para>
               </entry>
             </row>
@@ -2677,15 +2588,13 @@ control the volume for event sounds.</para>
           </tbody>
         </tgroup>
       </table>
-    </sect3>
-    <sect3>
-      <title>Sound Input Preferences</title>
+    </section>
+
+    <section><info><title>Sound Input Preferences</title></info>
       <para>Use the <guilabel>Input</guilabel> tabbed section to set your 
       preferences for sound input.</para>
-      <para><xref linkend="goscustdesk-TBL-1"/> lists the
-sound input preferences that you can modify.</para>
-      <table frame="topbot" id="goscustdesk-TBL-1">
-        <title>Sound Input Preferences</title>
+      <para><xref linkend="goscustdesk-TBL-1"/> lists the sound input preferences that you can modify.</para>
+      <table frame="topbot" xml:id="goscustdesk-TBL-1"><info><title>Sound Input Preferences</title></info>
         <tgroup cols="2" colsep="1" rowsep="1">
           <colspec colname="colspec18" colwidth="19.21*"/>
           <colspec colname="colspec19" colwidth="46.79*"/>
@@ -2739,15 +2648,14 @@ sound input preferences that you can modify.</para>
       <note><para>Note that the input volume can also be controlled with
       the microphone icon that is shown in the notification area of the panel
       when an application is listening for sound input.</para></note>
-    </sect3>
-    <sect3>
-      <title>Sound Output Preferences</title>
+    </section>
+
+    <section><info><title>Sound Output Preferences</title></info>
       <para>Use the <guilabel>Output</guilabel> tabbed section to set your 
       preferences for sound output.</para>
       <para><xref linkend="goscustdesk-TBL-2"/> lists the
 sound output preferences that you can modify.</para>
-      <table frame="topbot" id="goscustdesk-TBL-2">
-        <title>Sound Output Preferences</title>
+      <table frame="topbot" xml:id="goscustdesk-TBL-2"><info><title>Sound Output Preferences</title></info>
         <tgroup cols="2" colsep="1" rowsep="1">
           <colspec colname="colspec18" colwidth="19.21*"/>
           <colspec colname="colspec19" colwidth="46.79*"/>
@@ -2803,15 +2711,15 @@ sound output preferences that you can modify.</para>
       </table>
       <note><para>Note that the output volume can also be controlled with
       the speaker icon that is shown in the notification area of the panel.</para></note>
-    </sect3>
-    <sect3 id="goscustdesk-41">
-      <title>Application Sound Preferences</title>
+    </section>
+
+    <section xml:id="goscustdesk-41"><info><title>Application Sound Preferences</title></info>
       <para>Use the <guilabel>Applications</guilabel> tabbed section to 
       control the volume of sound played by individual applications.</para>
       <para>Each application that is currently playing sound is identified
       by its name and icon.</para>
-    </sect3>
-  </sect2>
+    </section>
+  </section>
 
 <!--
 <sect2 id="goscustdesk-79">
@@ -2820,20 +2728,13 @@ sound output preferences that you can modify.</para>
 </indexterm><para>Information to be supplied in a future release.</para>
 </sect2>
 -->
+</section>
 
+<section xml:id="prefs-system"><info><title>System</title></info>
 
-</sect1>
-
-
-<sect1 id="prefs-system">
-	<title>System</title>
-
-  <sect2 id="prefs-sessions">
-    <title>Sessions Preferences</title>
-    
+  <section xml:id="prefs-sessions"><info><title>Sessions Preferences</title></info>
     <!-- preserve for backwards compatibility: 2.12 -->
-    <anchor id="goscustsession-5"/>   
-        
+    <anchor xml:id="goscustsession-5"/>   
     <indexterm>
       <primary>preference tools</primary>
       <secondary>Sessions</secondary>
@@ -2866,8 +2767,8 @@ in the following functional areas:</para>
         </para>
       </listitem>
     </itemizedlist>
-    <sect3 id="goscustsession-16">
-      <title>Setting Session Preferences</title>
+
+    <section xml:id="goscustsession-16"><info><title>Setting Session Preferences</title></info>
       <indexterm>
         <primary>sessions</primary>
         <secondary>setting options</secondary>
@@ -2876,8 +2777,7 @@ in the following functional areas:</para>
 to manage multiple sessions, and to set preferences for the current session.</para>
       <para><xref linkend="goscustsession-TBL-11"/> lists the session options that
 you can modify.</para>
-      <table frame="topbot" id="goscustsession-TBL-11">
-        <title>Session Options</title>
+      <table frame="topbot" xml:id="goscustsession-TBL-11"><info><title>Session Options</title></info>
         <tgroup cols="2" colsep="1" rowsep="1">
           <colspec colname="colspec0" colwidth="18.86*"/>
           <colspec colname="colspec1" colwidth="47.14*"/>
@@ -2933,9 +2833,9 @@ the saved settings.</para>
           </tbody>
         </tgroup>
       </table>
-    </sect3>
-    <sect3 id="goscustsession-12">
-      <title>Configuring Startup Applications</title>
+    </section>
+
+    <section xml:id="goscustsession-12"><info><title>Configuring Startup Applications</title></info>
       <indexterm>
         <primary>startup applications</primary>
         <secondary>non-session-managed</secondary>
@@ -2951,8 +2851,7 @@ execute automatically when you log in.</para>
 information, see <xref linkend="goscustsession-16"/>.</para>
       <para><xref linkend="goscustsession-TBL-19"/> lists the startup applications
 preferences that you can modify.</para>
-      <table frame="topbot" id="goscustsession-TBL-19">
-        <title>Startup Programs Preferences</title>
+      <table frame="topbot" xml:id="goscustsession-TBL-19"><info><title>Startup Programs Preferences</title></info>
         <tgroup cols="2">
           <colspec colname="col1" colwidth="18.86*"/>
           <colspec colname="col2" colwidth="47.14*"/>
@@ -2996,10 +2895,7 @@ then click on the <guilabel>Remove</guilabel> button.</para>
           </tbody>
         </tgroup>
       </table>
-    </sect3>
-  </sect2>
-
-</sect1>
-
-
+    </section>
+  </section>
+</section>
 </chapter>
