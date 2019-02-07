@@ -1,8 +1,12 @@
-<chapter id="sessions">
-  <title>Desktop Sessions</title>
-
+<?xml version="1.0" encoding="utf-8"?>
+<?db.chunk.max_depth 3?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:db="http://docbook.org/ns/docbook"
+         version="5.0" xml:id="sessions" xml:lang="en">
+    <info><title>Desktop Sessions</title></info>
+  
   <!-- Maintained for 2.8 compatibility -->
-  <anchor id="gosgetstarted-1"/>
+  <anchor xml:id="gosgetstarted-1"/>
 
   <remark>Needs better intro</remark>
   <remark>This chapter needs work</remark>
@@ -11,8 +15,7 @@
     <para>This chapter provides the information you need to log in to and shut down MATE, and to start, manage, and end a desktop session.</para>
   </highlights>
 
-  <sect1 id="gosgetstarted-69">
-    <title>Starting a Session</title>
+  <section xml:id="gosgetstarted-69"><info><title>Starting a Session</title></info>
     <indexterm>
       <primary>sessions</primary>
       <secondary>starting</secondary>
@@ -41,8 +44,7 @@ manager cannot restore your editing session. </para>
     -->
     
     
-    <sect2 id="gosstartsession-85">
-      <title>Logging in to MATE</title>
+    <section xml:id="gosstartsession-85"><info><title>Logging in to MATE</title></info>
       <indexterm>
         <primary>sessions</primary>
         <secondary>logging in</secondary>
@@ -85,9 +87,9 @@ Select the option that you require, then click <guibutton>OK</guibutton>.</para>
       <guilabel>Other</guilabel> icon, or by clicking a separate 
       <guibutton>Shut Down</guibutton> button.</para>
 <!--What about failsafe mate?-->
-    </sect2>
-    <sect2 id="gosstartsession-86">
-      <title>Using a Different Language</title>
+    </section>
+
+    <section xml:id="gosstartsession-86"><info><title>Using a Different Language</title></info>
       <indexterm>
         <primary>sessions</primary>
         <secondary>different language, logging
@@ -127,12 +129,12 @@ To choose a different keyboard layout, use the
         screen so that it no longer has a <guilabel>Language</guilabel> icon. 
         In this case, the option to change the session's language may be found by clicking the <guilabel>Other</guilabel> icon.</para>
       </tip>
-    </sect2>
-  </sect1>
-  <sect1 id="lock-screen">
-    <title>Locking Your Screen</title>
+    </section>
+  </section>
+
+  <section xml:id="lock-screen"><info><title>Locking Your Screen</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="gosstartsession-1"/>        
+    <anchor xml:id="gosstartsession-1"/>        
     <screenshot>
       <mediaobject>
         <imageobject>
@@ -170,10 +172,9 @@ panel, click on the <guibutton>Lock Screen</guibutton> button.</para>
     <para>To unlock the screen, move your mouse or press any key, enter your password in the locked screen dialog, then press <keycap>Return</keycap>.</para>
     <para>If another user wants to use the computer while it is locked, they can move the mouse or press a key and then click <guibutton>Switch User</guibutton>. The login screen will be displayed, and they can log in using their user account. They will not be able to access any of your applications or information. When they log out, the screen will be locked again and you can access your session by unlocking the screen.</para>
   <para>You can leave a message for a user who has locked their screen. Move the mouse or press any key and then click <guibutton>Leave Message</guibutton>. Type your message into the box and press <guibutton>Save</guibutton>. Your message will be displayed when the user unlocks their screen.</para>
-  </sect1>
+  </section>
 
-  <sect1 id="gosstartsession-2">
-    <title>Setting Programs to Start Automatically When You Log In</title>
+  <section xml:id="gosstartsession-2"><info><title>Setting Programs to Start Automatically When You Log In</title></info>
     <indexterm>
       <primary>preference tools</primary>
       <secondary>Sessions</secondary>
@@ -193,11 +194,10 @@ panel, click on the <guibutton>Lock Screen</guibutton> button.</para>
   tabs, the <guilabel>Startup Programs</guilabel> tab and the 
   <guilabel>Options</guilabel> tab.</para>
 
-    <sect2 id="gosstartsession-21">
-      <title>Startup Programs Tab</title>
+    <section xml:id="gosstartsession-21"><info><title>Startup Programs Tab</title></info>
         <!-- Preserve IDs for backwards compatibility -->
-        <anchor id="gosstartsession-6"/>
-        <anchor id="gosstartsession-10"/>
+        <anchor xml:id="gosstartsession-6"/>
+        <anchor xml:id="gosstartsession-10"/>
       <para>You can use the Startup Programs tab to add, modify, and 
       remove startup programs.</para>
       <para>A list of startup programs is displayed on this tab. The list shows 
@@ -205,15 +205,14 @@ panel, click on the <guibutton>Lock Screen</guibutton> button.</para>
       whether the startup program is enabled or not. Programs which are not 
       enabled will not be started automatically when you log in.</para>
 
-      <sect3 id="gosstartsession-211">
-       <title>Enabling/Disabling Startup Programs</title>
+      <section xml:id="gosstartsession-211"><info><title>Enabling/Disabling Startup Programs</title></info>
        <para>To enable a program to start up automatically, check the checkbox 
        corresponding to that program.</para>
        <para>To disable a program from starting automatically, uncheck the 
        checkbox.</para>
-      </sect3>
-      <sect3 id="gosstartsession-212">
-       <title>Adding A New Startup Program</title>
+      </section>
+
+      <section xml:id="gosstartsession-212"><info><title>Adding A New Startup Program</title></info>
        <para>To add a new startup program, perform the following steps:</para>
        <procedure>
         <step>
@@ -242,27 +241,26 @@ panel, click on the <guibutton>Lock Screen</guibutton> button.</para>
          (enabled) state.</para>
         </step>
        </procedure>
-      </sect3>
-      <sect3 id="gosstartsession-213">
-       <title>Removing A Startup Program</title>
+      </section>
+
+      <section xml:id="gosstartsession-213"><info><title>Removing A Startup Program</title></info>
        <para>To remove a startup program, select it from the list of startup 
        programs and click <guibutton>Remove</guibutton>.</para>
-      </sect3>
-      <sect3 id="gosstartsession-214">
-       <title>Editing A Startup Program</title>
+      </section>
+
+      <section xml:id="gosstartsession-214"><info><title>Editing A Startup Program</title></info>
        <para>To edit an existing startup program, select it from the list of 
        startup programs and click <guibutton>Edit</guibutton>. A dialog will 
        appear which allows you to edit the properties of the program. See 
        <xref linkend="gosstartsession-212"/> for more information on the 
        options available in this dialog.</para>
-      </sect3>
-    </sect2>
+      </section>
+    </section>
     
-    <sect2 id="gosstartsession-22">
-      <title>Session Options Tab</title>
-        <!-- Preserve IDs for backwards compatibility -->
-        <anchor id="gosstartsession-9"/>
-        <anchor id="gosgetstarted-74"/>
+    <section xml:id="gosstartsession-22"><info><title>Session Options Tab</title></info>
+      <!-- Preserve IDs for backwards compatibility -->
+      <anchor xml:id="gosstartsession-9"/>
+      <anchor xml:id="gosgetstarted-74"/>
       <para>The session manager can remember which applications you have 
       running when you log out and can automatically restart them when you log 
       in again. If you would like this to happen every time you log out, check 
@@ -270,13 +268,12 @@ panel, click on the <guibutton>Lock Screen</guibutton> button.</para>
       logging out</guilabel>. If you would like this to happen only once, click 
       <guibutton>Remember Currently Running Application</guibutton> before 
       logging out.</para>
-    </sect2>
-  </sect1>
+    </section>
+  </section>
   
-  <sect1 id="shutdown">
-    <title>Ending a Session</title>
+  <section xml:id="shutdown"><info><title>Ending a Session</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="gosgetstarted-73"/>        
+    <anchor xml:id="gosgetstarted-73"/>        
     <indexterm>
       <primary>sessions</primary>
       <secondary>ending</secondary>
@@ -329,5 +326,5 @@ panel, click on the <guibutton>Lock Screen</guibutton> button.</para>
     <para>Before you end a session, you might want to save your current
 settings so that you can restore the session later. In the <link linkend="prefs-sessions"><application>Sessions</application></link> preference tool, you can select an option to automatically
 save your current settings.</para>
-  </sect1>
+  </section>
 </chapter>

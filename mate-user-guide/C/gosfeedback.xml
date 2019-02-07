@@ -1,11 +1,15 @@
-  <appendix id="feedback">
-    <title>Feedback</title>
-    <para>This section contains information on reporting bugs in MATE, making suggestions and comments about MATE applications or documentation, and ways in which you can help MATE.</para>
+<?xml version="1.0" encoding="utf-8"?>
+<?db.chunk.max_depth 3?>
+<appendix xmlns="http://docbook.org/ns/docbook"
+         xmlns:db="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         version="5.0" xml:id="feedback" xml:lang="en">
+    <info><title>Feedback</title></info>
     
+    <para>This section contains information on reporting bugs in MATE, making suggestions and comments about MATE applications or documentation, and ways in which you can help MATE.</para>
 
-    <section id="feedback-bugs">
-    <title>Reporting Bugs</title>
-    <!-- NOTE TO TRANSLATORS: This section is material taken from mate-desktop/desktop-docs/mate-feedback/ Look for existing translations there before translating it all over again :) -->
+    <section xml:id="feedback-bugs"><info><title>Reporting Bugs</title></info>
+      <!-- NOTE TO TRANSLATORS: This section is material taken from mate-desktop/desktop-docs/mate-feedback/ Look for existing translations there before translating it all over again :) -->
       <para>
      If you have found a bug in a MATE application, please
    report it! Developers do read all the bug reports and try to fix
@@ -19,42 +23,36 @@
       </para>
       <para>
 	You can also submit bugs and browse the list of known bugs by
-	connecting to the <ulink type="http"
-	url="https://github.com/mate-desktop/">MATE bug tracking
-	database</ulink>.  You will need to register before you can
-	submit any bugs this way. 
+	connecting to the <link xlink:href="https://github.com/mate-desktop/">MATE bug tracking
+	database</link>.  You will need to register before you can submit any bugs this way. 
       </para>
       
       <para>
 	Please note that some of MATE applications are developed outside of MATE, or by
 	commercial companies (these products are still free
 	software). For example, <application>blueman</application>, a
-	bluetooth application, is developed at <ulink type="http"
-    url="https://github.com/blueman-project/blueman/">GitHub</ulink>. Bug reports and
+	bluetooth application, is developed at <link xlink:href="https://github.com/blueman-project/blueman/">GitHub</link>. Bug reports and
 	comments about these products should be directed to the
 	respective organization or company. If you are using <application>Bug 
 	Buddy</application>, it will automatically send bug reports to
 	the correct database.
 	</para>
 
-
     </section>
-    <section id="feedback-wishlist"> 
-      <title>Suggestions and Comments</title> 
+
+    <section xml:id="feedback-wishlist"><info><title>Suggestions and Comments</title></info> 
       <!-- NOTE TO TRANSLATORS: This section is material taken from mate-desktop/desktop-docs/mate-feedback/ Look for existing translations there before translating it all over again :) -->      
       <para> 
 	If you have a suggestion or want to request a new feature for
       one of the applications, it can also be done using the bug
       tracking database. Submit your suggestion as a bug report as
-      described in <xref linkend="feedback-bugs" /> and at the appropriate
+      described in <xref linkend="feedback-bugs"/> and at the appropriate
       step select <guilabel>Severity: Enhancement</guilabel>. 
       </para>
     </section>
 
-      <section id="feedback-docs">
-      <title>Documentation Comments</title>
+    <section xml:id="feedback-docs"><info><title>Documentation Comments</title></info>
       <!-- NOTE TO TRANSLATORS: This section is material taken from mate-desktop/desktop-docs/mate-feedback/ Look for existing translations there before translating it all over again :) -->      
-
       <para> If you found an inaccuracy or misprint in one of MATE
 	documents, or have any comments or suggestions about
 	documentation, please let us know! The easiest way of doing so
@@ -68,22 +66,16 @@
       </para>
       <para>
 	Alternatively, you can just send your comments by email to the
-	<ulink type="http"
-	url="http://ml.mate-desktop.org/listinfo">MATE
-	Documentation Project</ulink> mailing list.
+	<link xlink:href="http://ml.mate-desktop.org/listinfo">MATE
+	Documentation Project</link> mailing list.
       </para>
     </section>
     <!-- NOTE TO TRANSLATORS: end of old material -->
 
-
-    <section id="joinmate">
-      <title>Joining the MATE Project</title>
+    <section xml:id="joinmate"><info><title>Joining the MATE Project</title></info>
       <para>We hope you enjoy using MATE and that you find working with MATE productive. However, there is always room for improvement.</para>
       <para>MATE invites you to join our free software community if you have some spare time. There are many different fields. MATE needs programmers, but it also needs translators, documentation writers, testers, artists, writers, and more.</para>
-      <para>For more information on joining MATE, please visit <ulink type="http" url="http://live.gnome.org/JoinMate">http://live.gnome.org/JoinMate</ulink>.</para>
-      <para>For more information on giving feedback on MATE, such as bug reports, suggestions, and corrections to documentation, see <xref linkend="feedback-bugs" />.</para>
-
+      <para>For more information on joining MATE, please visit <link xlink:href="http://live.gnome.org/JoinMate">http://live.gnome.org/JoinMate</link>.</para>
+      <para>For more information on giving feedback on MATE, such as bug reports, suggestions, and corrections to documentation, see <xref linkend="feedback-bugs"/>.</para>
     </section>
-  
-
   </appendix>

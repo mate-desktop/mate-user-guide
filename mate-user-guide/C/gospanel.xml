@@ -1,21 +1,25 @@
-<chapter id="panels">
-  <title>Using the Panels</title>
-
+<?xml version="1.0" encoding="utf-8"?>
+<?db.chunk.max_depth 3?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:db="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         version="5.0" xml:id="panels" xml:lang="en">
+    <info><title>Using the Panels</title></info>
+  
   <!-- Maintained for 2.8 compatibility -->
-  <anchor id="gospanel-1"/>
+  <anchor xml:id="gospanel-1"/>
 
   <!-- Desktop Overview / Panels -->
-  <anchor id="gosoverview-502"/>
+  <anchor xml:id="gosoverview-502"/>
 
   <highlights>
     <para>This chapter describes how to use the panels at the top and bottom of the MATE Desktop, how to customize the objects that appear on them, and how to add new panels to the desktop.</para>
   </highlights>
 
-  <section id="panels-intro">
-    <title>Introduction</title>
-
+  <section xml:id="panels-intro"><info><title>Introduction</title></info>
+    
     <!-- Maintained for 2.8 compatibility -->
-    <anchor id="gospanel-2"/>
+    <anchor xml:id="gospanel-2"/>
 
     <indexterm>
       <primary>panels</primary>
@@ -28,10 +32,9 @@
 and a panel at the bottom edge of the screen. The following sections describe
 these panels.</para>
 
-    <section id="top-panel">
-      <title>Top Edge Panel</title>
+    <section xml:id="top-panel"><info><title>Top Edge Panel</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="gospanel-6"/>         
+      <anchor xml:id="gospanel-6"/>         
       <indexterm>
         <primary>panels</primary>
         <secondary>top edge panel</secondary>
@@ -64,7 +67,7 @@ these panels.</para>
         <varlistentry>
           <term><application>Clock</application> applet</term>
           <listitem><para>The <application>Clock</application> shows the current
-      time. Click on the time to open a small calendar. You can also view a world map by clicking the <guilabel>Locations</guilabel> expansion label. For more on this, see the <ulink type="help" url="help:mate-clock">Clock Applet Manual</ulink>.</para></listitem>
+      time. Click on the time to open a small calendar. You can also view a world map by clicking the <guilabel>Locations</guilabel> expansion label. For more on this, see the <link xlink:href="help:mate-clock">Clock Applet Manual</link>.</para></listitem>
         </varlistentry>
         <varlistentry>
           <term><application>Volume Control</application>
@@ -84,10 +87,10 @@ these panels.</para>
         </varlistentry>
       </variablelist>
     </section>
-    <section id="bottom-panel">
-      <title>Bottom Edge Panel</title>
+
+    <section xml:id="bottom-panel"><info><title>Bottom Edge Panel</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="gospanel-3"/>        
+      <anchor xml:id="gospanel-3"/>        
       <indexterm>
         <primary>panels</primary>
         <secondary>bottom edge panel</secondary>
@@ -119,31 +122,30 @@ these panels.</para>
       </variablelist>
     </section>
   </section>
-  <section id="gospanel-5">
-    <title>Managing Panels</title>
 
+  <section xml:id="gospanel-5"><info><title>Managing Panels</title></info>
     <!-- Desktop Overview / Panels / To Create Panels -->
-    <anchor id="gosoverview-26"/>
-    <anchor id="gospanel-11"/><!-- To Interact With a Panel -->
+    <anchor xml:id="gosoverview-26"/>
+    <anchor xml:id="gospanel-11"/><!-- To Interact With a Panel -->
     <indexterm>
       <primary>panels</primary>
       <secondary>managing</secondary>
     </indexterm>
     <para>The following sections describe how to manage your panels.</para>
     <para>To interact with a panel, you must click on a vacant space on the panel rather than on any of the objects it holds. If the hide buttons are visible on the panel, you can also middle-click or right-click on one of them to select the panel.</para>
-    <section id="gospanel-12">
-      <title>Moving a Panel</title>
+
+    <section xml:id="gospanel-12"><info><title>Moving a Panel</title></info>
       <indexterm>
         <primary>panels</primary>
         <secondary>moving</secondary>
       </indexterm>	  
 	  <para>To move a panel to another side of the screen, press and hold <keycap>ALT</keycap> and drag the panel to its new location. Click on any vacant space on the panel to begin the drag.</para>
       <para>A panel that is not set to expand to the full width of the screen can be dragged away from the edge of the screen and placed anywhere. See <xref linkend="panel-properties"/> for details on how to set a panel's expand property.</para>
-    </section>  
-    <section id="panel-properties">
-      <title>Panel Properties</title>
+    </section>
+
+    <section xml:id="panel-properties"><info><title>Panel Properties</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="gospanel-28"/>         
+      <anchor xml:id="gospanel-28"/>         
       <indexterm>
         <primary>panels</primary>
         <secondary>modifying properties</secondary>
@@ -153,8 +155,7 @@ the properties of each panel, such as the position of the panel, the hide behavi
 and the visual appearance. </para>
       <para>To modify the properties of a panel, right-click on a vacant space on the panel, then choose <guimenuitem>Properties</guimenuitem>. The <guilabel>Panel Properties</guilabel> dialog contains two tabbed sections, <guilabel>General</guilabel> and <guilabel>Background</guilabel>.</para>
       
-      <section id="panel-properties-general">
-        <title>General Properties Tab</title>
+      <section xml:id="panel-properties-general"><info><title>General Properties Tab</title></info>
         <para>In the <guilabel>General</guilabel> tab, you can modify panel size, position, and hiding properties. The following table describes the
 dialog elements on the <guilabel>General</guilabel> tabbed section: </para>
         <informaltable frame="topbot">
@@ -238,10 +239,9 @@ buttons, if the hide button is enabled.</para>
             </tbody>
           </tgroup>
         </informaltable>
-
       </section>
-      <section id="panel-properties-background">
-        <title>Background Properties Tab</title>
+
+      <section xml:id="panel-properties-background"><info><title>Background Properties Tab</title></info>
         <para>You can choose the type of background for the panel in the <guilabel>Background</guilabel> tab. The choices are as follows:</para>
         <informaltable frame="topbot">
           <tgroup cols="2" colsep="0" rowsep="0">
@@ -300,7 +300,7 @@ background. Click on the button to browse for an image file. When you have selec
         </informaltable>
         
         <!-- section folded in: preserve id for backwards compatibility: 2.12 -->
-        <anchor id="gospanel-61"/>
+        <anchor xml:id="gospanel-61"/>
         <indexterm>
           <primary>panels</primary>
           <secondary>changing background</secondary>
@@ -326,8 +326,8 @@ many applications. For example:</para>
         <para>Click <guibutton>Close</guibutton> to close the <guilabel>Panel Properties</guilabel> dialog.</para>
       </section>
     </section>
-    <section id="gospanel-7">
-      <title>Hiding a Panel</title>
+
+    <section xml:id="gospanel-7"><info><title>Hiding a Panel</title></info>
       <indexterm>
         <primary>panels</primary>
         <secondary>hiding</secondary>
@@ -357,9 +357,9 @@ buttons are now visible.</para>
 automatically when the mouse is not pointing to the panel. The panel reappears
 when you point to the part of the screen where the panel resides. To set your
 panel to autohide, <link linkend="panel-properties">modify the properties</link> of the panel.</para>
-    </section>    
-    <section id="gospanel-10">
-      <title>Adding a New Panel</title>
+    </section>
+
+    <section xml:id="gospanel-10"><info><title>Adding a New Panel</title></info>
       <indexterm>
         <primary>panels</primary>
         <secondary>adding new</secondary>
@@ -367,11 +367,11 @@ panel to autohide, <link linkend="panel-properties">modify the properties</link>
       <para>To add a panel, right-click on a vacant space on any panel, then choose <guimenuitem>New Panel</guimenuitem>. The new panel is added to the MATE Desktop. The
 new panel contains no objects. You can customize the new panel to suit your
 preferences.</para>
-    </section>    
-    <section id="gospanel-31">
-      <title>Deleting a Panel</title>
+    </section>
+
+    <section xml:id="gospanel-31"><info><title>Deleting a Panel</title></info>
       <!-- Desktop Overview / Panels / To Delete Panels -->
-      <anchor id="gosoverview-508"/>
+      <anchor xml:id="gosoverview-508"/>
       <indexterm>
         <primary>panels</primary>
         <secondary>deleting</secondary>
@@ -386,10 +386,9 @@ If you have only one panel in the MATE Desktop, you cannot delete that panel.</p
   </section>
   
   <!-- =============================================== managing panel objects -->
-  <section id="gospanel-8">
-    <title>Panel Objects</title>
+  <section xml:id="gospanel-8"><info><title>Panel Objects</title></info>
     <!-- Desktop Overview / Panels / To Manipulate Panel Objects -->
-    <anchor id="gosoverview-21"/>
+    <anchor xml:id="gosoverview-21"/>
     <indexterm>
       <primary>panels</primary>
       <secondary>panel objects</secondary>
@@ -397,8 +396,8 @@ If you have only one panel in the MATE Desktop, you cannot delete that panel.</p
     </indexterm>
     <para>This section describes the objects that
 you can add to and use from your panels.</para>
-    <section id="gospanel-100">
-      <title>Interacting With Panel Objects</title>
+    <section xml:id="gospanel-100"><info><title>Interacting With Panel Objects</title></info>
+      
       <indexterm>
         <primary>panel objects</primary>
         <secondary>interacting with</secondary>
@@ -428,8 +427,7 @@ popup menu.</para>
         </varlistentry>
       </variablelist>
 
-      <section id="gospanel-39">
-        <title>To Select an Applet</title>
+      <section xml:id="gospanel-39"><info><title>To Select an Applet</title></info>
         <indexterm>
           <primary>applets</primary>
           <secondary>selecting</secondary>
@@ -455,18 +453,15 @@ popup menu.</para>
           </listitem>
         </itemizedlist>
       </section>
-
-
     </section>
-    <section id="panels-addobject">
-      <title>Adding an Object to a Panel</title>
-      
+
+    <section xml:id="panels-addobject"><info><title>Adding an Object to a Panel</title></info>
       <!-- preserve for backwards compatibility: 2.12 -->
-      <anchor id="gospanel-15"/>   
+      <anchor xml:id="gospanel-15"/>   
 
       <!-- Desktop Overview / Panels / To Add Objects to Panels -->
-      <anchor id="gosoverview-4"/>
-      <anchor id="gospanel-40"/><!-- To Add an Applet to a Panel -->
+      <anchor xml:id="gosoverview-4"/>
+      <anchor xml:id="gospanel-40"/><!-- To Add an Applet to a Panel -->
       <indexterm>
         <primary>panel objects</primary>
         <secondary>adding</secondary>
@@ -488,19 +483,17 @@ popup menu.</para>
         </para></listitem>
       </orderedlist>
       
-      
       <para>You can also add any item in the <guimenu>Applications</guimenu> menu to the panel: right-click the menu item and choose <guimenuitem>Add this launcher to panel</guimenuitem>.</para>
 
       <para>Each launcher corresponds to a <filename>.desktop</filename> file. You
 can drag a <filename>.desktop</filename> file on to your panels to add the
 launcher to the panel. </para>
 <!--Each menu corresponds to a directory. You can drag the directory on to your panels to add the directory to the panel as a menu object. Is this still true?-->
-
     </section>
-    <section id="gospanel-9">
-      <title>Modifying the Properties of an Object</title>
+
+    <section xml:id="gospanel-9"><info><title>Modifying the Properties of an Object</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="gospanel-41"/><!-- To Modify Preferences for an Applet -->
+      <anchor xml:id="gospanel-41"/><!-- To Modify Preferences for an Applet -->
       <indexterm>
         <primary>panel objects</primary>
         <secondary>modifying properties</secondary>
@@ -516,8 +509,8 @@ type of object. The properties specify details such as the following: <itemizedl
           </indexterm>
           <para>Right-click on the object to open the panel object popup
 menu, as shown in <xref linkend="gospanel-FIG-54"/>.</para>
-          <figure id="gospanel-FIG-54">
-            <title>Panel Object Popup Menu</title>
+          <figure xml:id="gospanel-FIG-54"><info><title>Panel Object Popup Menu</title></info>
+            
             <screenshot>
               <mediaobject>
                 <imageobject>
@@ -540,8 +533,8 @@ in step 1. </para>
         </listitem>
       </orderedlist>
     </section>
-    <section id="gospanel-32">
-      <title>Moving a Panel Object</title>
+
+    <section xml:id="gospanel-32"><info><title>Moving a Panel Object</title></info>
       <indexterm>
         <primary>panel objects</primary>
         <secondary>moving</secondary>
@@ -626,8 +619,8 @@ further along the panel. </para>
         </tgroup>
       </informaltable>
     </section>
-    <section id="gospanel-566">
-      <title>Locking a Panel Object</title>
+
+    <section xml:id="gospanel-566"><info><title>Locking a Panel Object</title></info>
       <indexterm>
         <primary>panel objects</primary>
         <secondary>locking</secondary>
@@ -641,8 +634,8 @@ to change position when you move other panel objects.</para>
       <para>To lock an object to its current location in the panel,
 right-click on the object to open the panel object popup menu, then select  <guimenuitem>Lock To Panel</guimenuitem>. Deselect this to unlock the object.</para>
     </section>
-    <section id="gospanel-33">
-      <title>Removing a Panel Object</title>
+
+    <section xml:id="gospanel-33"><info><title>Removing a Panel Object</title></info>
       <indexterm>
         <primary>panel objects</primary>
         <secondary>removing</secondary>
@@ -658,8 +651,7 @@ Panel</guimenuitem>. </para>
     <para>This section describes the different objects you can add to your panels.</para>
     <para>For a list of the objects that are on the top and bottom panels by default, see <xref linkend="top-panel"/> and <xref linkend="bottom-panel"/>.</para>
   -->
-  <section id="gospanel-17">
-    <title>Applets</title>
+  <section xml:id="gospanel-17"><info><title>Applets</title></info>
     <indexterm>
       <primary>applets</primary>
       <secondary>introduction</secondary>
@@ -682,7 +674,7 @@ currently open on your system.</para>
 control the volume of the speaker on your system.</para>
       </listitem>
       <listitem>
-        <para><ulink type="help" url="help:mate-clock"><application>Clock</application></ulink>: Shows the current date and time.</para>
+        <para><link xlink:href="help:mate-clock"><application>Clock</application></link>: Shows the current date and time.</para>
       </listitem>
     </itemizedlist>
     <screenshot>
@@ -697,10 +689,9 @@ control the volume of the speaker on your system.</para>
     </screenshot>
   </section>  
 
-  <section id="launchers">
-    <title>Launchers</title>
+  <section xml:id="launchers"><info><title>Launchers</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="gospanel-16"/>
+    <anchor xml:id="gospanel-16"/>
     <indexterm>
       <primary>panel objects</primary>
       <secondary>launchers</secondary>
@@ -737,8 +728,7 @@ launcher, and how the launcher runs. For more on this, see <xref linkend="launch
       In certain situations, a launcher in a menu might not show an icon. For example, if it specifies no icon to display, or if the entire menu is set to show no icons.
     </para></note>
 
-    <section id="gospanel-34">
-      <title>Adding a Launcher to a Panel</title>
+    <section xml:id="gospanel-34"><info><title>Adding a Launcher to a Panel</title></info>
       <indexterm>
         <primary>launchers</primary>
         <secondary>adding to panel</secondary>
@@ -774,10 +764,9 @@ Choose <guimenuitem>Add this launcher to panel</guimenuitem>. This method will o
       </itemizedlist>
     </section>
 
-    <section id="launchers-modify">
-      <title>Modifying a Launcher</title>
+    <section xml:id="launchers-modify"><info><title>Modifying a Launcher</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="gospanel-36"/>        
+      <anchor xml:id="gospanel-36"/>        
       <indexterm>
         <primary>launchers</primary>
         <secondary>modifying properties</secondary>
@@ -800,11 +789,9 @@ see <xref linkend="launchers-properties"/>. </para>
       </orderedlist>
     </section>
 
-          
-    <section id="launchers-properties"> 
-      <title>Launcher Properties</title>
+    <section xml:id="launchers-properties"><info><title>Launcher Properties</title></info> 
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="gospanel-52"/><!-- To Create a Launcher With the Create Launcher Dialog -->
+      <anchor xml:id="gospanel-52"/><!-- To Create a Launcher With the Create Launcher Dialog -->
          
       <para>When you create or edit a launcher, the following properties can be set:</para>
       <variablelist>
@@ -863,10 +850,9 @@ launcher icon on the panel.</para>
       
       <para>To change the icon for the launcher, click on the button showing the current icon. An icon selector dialog is displayed. Choose an icon from the dialog. </para>
   
-      <section id="launchers-properties-commands">
-        <title>Launcher Commands and Locations</title>
+      <section xml:id="launchers-properties-commands"><info><title>Launcher Commands and Locations</title></info>
         <!-- Maintained for backwards compatibility: 2.14 -->
-        <anchor id="gospanel-556"/>        
+        <anchor xml:id="gospanel-556"/>        
         <para>Examples of commands and locations that you can use in the <guilabel>Launcher Properties</guilabel> dialog can be found below.</para>
         
         <para>If you choose <guilabel>Application</guilabel> or <guilabel>Application in Terminal</guilabel>
@@ -984,8 +970,8 @@ shows some sample locations and the actions that will happen if you click on the
       </section>
     </section>    
   </section>
-  <section id="gospanel-557">
-    <title>Buttons</title>
+
+  <section xml:id="gospanel-557"><info><title>Buttons</title></info>
     <indexterm>
       <primary>buttons</primary>
       <secondary>adding to panel</secondary>
@@ -996,8 +982,8 @@ shows some sample locations and the actions that will happen if you click on the
     </indexterm>
     <para>You can add buttons to your panels to provide quick access
 to common actions and functions. </para>
-    <section id="gospanel-563">
-      <title>Force Quit Button</title>
+
+    <section xml:id="gospanel-563"><info><title>Force Quit Button</title></info>
       <indexterm>
         <primary>buttons</primary>
         <secondary>Force Quit</secondary>
@@ -1039,10 +1025,11 @@ button, then click on a window from the application that you want to terminate.
 If you do not want to terminate an application after you have clicked on the 
 <guibutton>Force Quit</guibutton> button, press <keycap>Esc</keycap>.</para>
     </section>
-    <section id="panel-lock-screen">
-      <title>Lock Screen Button</title>
+
+    <section xml:id="panel-lock-screen"><info><title>Lock Screen Button</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="gospanel-21"/>         
+      <anchor xml:id="gospanel-21"/>
+
       <screenshot>
         <mediaobject>
           <imageobject>
@@ -1075,8 +1062,7 @@ on any vacant space on the panel. Choose <guimenu>Add to Panel</guimenu>, then c
       <para>Right-click on the <guibutton>Lock Screen</guibutton> button to open a menu
 of screensaver-related commands. <xref linkend="gosstartsession-TBL-83"/> describes
 the commands that are available from the menu.</para>
-      <table frame="topbot" id="gosstartsession-TBL-83">
-        <title>Lock Screen Menu Items</title>
+      <table frame="topbot" xml:id="gosstartsession-TBL-83"><info><title>Lock Screen Menu Items</title></info>
         <tgroup cols="2" colsep="0" rowsep="0">
           <colspec colname="colspec0" colwidth="43.55*"/>
           <colspec colname="colspec1" colwidth="56.45*"/>
@@ -1128,8 +1114,8 @@ the same function as when you click on the <guibutton>Lock Screen</guibutton> bu
         </tgroup>
       </table>
     </section>
-    <section id="gospanel-20">
-      <title>Log Out Button</title>
+
+    <section xml:id="gospanel-20"><info><title>Log Out Button</title></info>
       <screenshot>
         <mediaobject>
           <imageobject>
@@ -1161,8 +1147,8 @@ See <xref linkend="panels-addobject"/> for more on this.</para>
       <guibutton>Log Out</guibutton> button and then click on the appropriate 
       button in the dialog that appears. </para>
     </section>
-    <section id="gospanel-555">
-      <title>Run Button</title>
+
+    <section xml:id="gospanel-555"><info><title>Run Button</title></info>
       <screenshot>
         <mediaobject>
           <imageobject>
@@ -1196,8 +1182,8 @@ See <xref linkend="panels-addobject"/> for more on this.</para>
       <para>For more information on the <guilabel>Run Application</guilabel> dialog,
 see <xref linkend="gospanel-23"/>.</para>
     </section>
-    <section id="gospanel-554">
-      <title>Search Button</title>
+
+    <section xml:id="gospanel-554"><info><title>Search Button</title></info>
       <screenshot>
         <mediaobject>
           <imageobject>
@@ -1227,10 +1213,10 @@ on any vacant space on the panel. Choose <guimenu>Add to Panel</guimenu>, then c
       <para>To open the <application>Search Tool</application>, click on
 the <guibutton>Search</guibutton> button. </para>
       <para>For more information on the <application>Search Tool</application>,
-see the <ulink type="help" url="help:mate-search-tool">Search Tool Manual</ulink>.</para>
+see the <link xlink:href="help:mate-search-tool">Search Tool Manual</link>.</para>
     </section>
-    <section id="gospanel-564">
-      <title>Show Desktop Button</title>
+
+    <section xml:id="gospanel-564"><info><title>Show Desktop Button</title></info>
       <indexterm>
         <primary>buttons</primary>
         <secondary>Minimize Windows</secondary>
@@ -1264,12 +1250,12 @@ See <xref linkend="panels-addobject"/> for more on this.</para>
       their previous state, click it again.</para>
     </section>
   </section>
-  <section id="panel-menus">
-    <title>Menus</title>
 
+  <section xml:id="panel-menus"><info><title>Menus</title></info>
     <!-- Desktop Overview / Menus -->
-    <anchor id="gosoverview-42"/>
-    <anchor id="gospanel-37"/>
+    <anchor xml:id="gosoverview-42"/>
+    <anchor xml:id="gospanel-37"/>
+
     <indexterm>
       <primary>menus</primary>
       <secondary>adding to panel</secondary>
@@ -1307,10 +1293,9 @@ See <xref linkend="panels-addobject"/> for more on this.</para>
 <menuchoice><guimenu>Entire menu</guimenu><guimenuitem>Add this as menu to panel</guimenuitem></menuchoice>. </para>
       </listitem>
     </itemizedlist>
-
   </section>
-  <section id="gospanel-18">
-    <title>Drawers</title>
+
+  <section xml:id="gospanel-18"><info><title>Drawers</title></info>
     <indexterm>
       <primary>panel objects</primary>
       <secondary>drawers</secondary>
@@ -1336,8 +1321,8 @@ the objects in the same way that you use objects on a panel. </para>
 or menu.</para>
     <para>You can add, move, and remove objects from drawers in the same way that
 you add, move, and remove objects from panels. </para>
-    <section id="gospanel-42">
-      <title>To Open and Close a Drawer</title>
+
+    <section xml:id="gospanel-42"><info><title>To Open and Close a Drawer</title></info>
       <indexterm>
         <primary>drawers</primary>
         <secondary>opening</secondary>
@@ -1357,8 +1342,8 @@ a drawer in the following ways: </para>
         </listitem>
       </itemizedlist>
     </section>
-    <section id="gospanel-420">
-      <title>To Add a Drawer to a Panel</title>
+
+    <section xml:id="gospanel-420"><info><title>To Add a Drawer to a Panel</title></info>
       <indexterm>
         <primary>drawers</primary>
         <secondary>adding to panel</secondary>
@@ -1387,8 +1372,8 @@ Right-click on any launcher in the menu, then choose <menuchoice><guimenu>Entire
       </varlistentry>
       </variablelist>
     </section>
-    <section id="gospanel-54">
-      <title>To Add an Object to a Drawer</title>
+
+    <section xml:id="gospanel-54"><info><title>To Add an Object to a Drawer</title></info>
       <indexterm>
         <primary>drawers</primary>
         <secondary>adding objects to</secondary>
@@ -1396,8 +1381,8 @@ Right-click on any launcher in the menu, then choose <menuchoice><guimenu>Entire
       <para>You add an object to a drawer in the same way that you add
 objects to panels. For more information, see <xref linkend="panels-addobject"/>.</para>
     </section>
-    <section id="gospanel-550">
-      <title>To Modify Drawer Properties</title>
+
+    <section xml:id="gospanel-550"><info><title>To Modify Drawer Properties</title></info>
       <indexterm>
         <primary>drawers</primary>
         <secondary>modifying properties</secondary>
@@ -1490,16 +1475,16 @@ to set the color or image as the background of the drawer. For more information,
       </orderedlist>
     </section>
   </section>
-  <section id="panel-default">
+
+  <section xml:id="panel-default"><info><title>Default Panel Objects</title></info>
     <!-- a temporary home for things that should one day be in a greater list of panel objects -->
-    <title>Default Panel Objects</title>
     
     <para>This section covers the panel objects that appear in the default MATE desktop.</para>
     
-    <section id="panel-windowselector"> 
-      <title>Window Selector Applet</title>
+    <section xml:id="panel-windowselector"><info><title>Window Selector Applet</title></info> 
       <!-- preserve for backwards compatibility: 2.12 -->
-      <anchor id="gosmarco-27"/>   
+      <anchor xml:id="gosmarco-27"/>
+
       <indexterm>
         <primary>top edge panel</primary>
         <secondary>window selector icon</secondary>
@@ -1528,10 +1513,10 @@ all workspaces. The windows in all workspaces other than the current workspace
 are listed under a separator line.</para>
     </section>  
 
-    <section id="panels-notification-area">
-      <title>Notification Area Applet</title>
+    <section xml:id="panels-notification-area"><info><title>Notification Area Applet</title></info>
       <!-- preserve id for backwards compatibility: 2.12 -->
-      <anchor id="gospanel-567"/>         
+      <anchor xml:id="gospanel-567"/>
+
       <indexterm>
         <primary>applets</primary>
         <secondary>Notification Area</secondary>
@@ -1562,8 +1547,7 @@ applet. The graphic above illustrates the CD icon in the <application>Notificati
 Area</application> applet. </para>
     </section>
      
-    <section id="goseditmainmenu-65">
-      <title>Menu Bar</title>
+    <section xml:id="goseditmainmenu-65"><info><title>Menu Bar</title></info>
       <screenshot>
         <mediaobject>
           <imageobject>
@@ -1584,9 +1568,7 @@ Area</application> applet. </para>
 <!-- This has been pasted from the Window List manual so that the Window List applet help is integrated into the GUG. -->
 <!-- This section needs gross refactoring (making task-based for starters) -->
 
- <section id="windowlist">
-  <title>Window List</title>
-
+ <section xml:id="windowlist"><info><title>Window List</title></info>
 	 <para>The <application>Window List</application> applet enables you to manage the windows that are open on the MATE desktop. Window List uses a button to represent each window or group of windows that is open. The state of the buttons in the applet varies depending on the state of the window that the button represents. The following table explains the possible states of the <application>Window List</application> buttons.</para>
 	<informaltable>
 	<tgroup cols="2">
@@ -1620,8 +1602,7 @@ Area</application> applet. </para>
 	</informaltable>
 
 <!-- ================ Usage ================================ -->
-  <section id="windowlist-usage"> 
-	 <title>Usage</title> 
+  <section xml:id="windowlist-usage"><info><title>Usage</title></info>
 	 <para>You can use <application>Window List</application> to perform the following tasks:</para>
 	<itemizedlist>
 	<listitem>
@@ -1642,15 +1623,14 @@ Area</application> applet. </para>
 	
   </section>
 <!-- ============= Preferences ============================= -->
-  <section id="windowlist-prefs"> 
-	 <title>Preferences</title> 
+  <section xml:id="windowlist-prefs"><info><title>Preferences</title></info> 
 	 <para>To configure the <application>Window List</application>, right-click 
 	 on the handle to the left of the window buttons, then choose <guimenuitem>Preferences</guimenuitem>. 
 	 The following preferences can be changed:</para>
     
     <!-- Maintained for compatibility -->
-    <anchor id="windowlist-prefs-behavior"/>
-    <anchor id="windowlist-prefs-size"/>
+    <anchor xml:id="windowlist-prefs-behavior"/>
+    <anchor xml:id="windowlist-prefs-size"/>
     
 	 <variablelist>
 	 <varlistentry><term><guilabel>Window List Content</guilabel> </term>
