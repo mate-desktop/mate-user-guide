@@ -1,13 +1,18 @@
-<chapter id="menubar">
-  <title>Using the Main Menubar</title>
+<?xml version="1.0" encoding="utf-8"?>
+<?db.chunk.max_depth 3?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:db="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         version="5.0" xml:id="menubar" xml:lang="en">
+    <info><title>Using the Main Menubar</title></info>
   
   <!-- preserve id for backwards compatibility: 2.12 -->
-  <anchor id="goseditmainmenu-1"/><!-- Working With Menus -->
-  <anchor id="goseditmainmenu-2"/><!-- Introduction to Menus -->  
-  <anchor id="goseditmainmenu-5"/><!-- Menu Features -->
-  <anchor id="goseditmainmenu-11"/><!-- Menu Item Popup Menu -->
-  <anchor id="goseditmainmenu-51"/><!-- Actions Menu -->
-  <anchor id="menus-introduction"/><!-- Introduction to Menus --> 
+  <anchor xml:id="goseditmainmenu-1"/><!-- Working With Menus -->
+  <anchor xml:id="goseditmainmenu-2"/><!-- Introduction to Menus -->  
+  <anchor xml:id="goseditmainmenu-5"/><!-- Menu Features -->
+  <anchor xml:id="goseditmainmenu-11"/><!-- Menu Item Popup Menu -->
+  <anchor xml:id="goseditmainmenu-51"/><!-- Actions Menu -->
+  <anchor xml:id="menus-introduction"/><!-- Introduction to Menus --> 
         
   <highlights>
     <para>This chapter describes how to use the MATE Panel Menubar.</para>
@@ -30,10 +35,9 @@
   <para>The following sections describe these three menus.</para>
   <tip><para>By default, the panel menubar is on the <xref linkend="top-panel"/>. But like any other panel object, you can move the menubar to another panel, or have more than one instance of the menubar in your panels. For more on this, see <xref linkend="panel-menus"/>.</para></tip>
 
-  <section id="applications-menu">
-    <title>Applications Menu</title>
+  <section xml:id="applications-menu"><info><title>Applications Menu</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goseditmainmenu-8"/>     
+    <anchor xml:id="goseditmainmenu-8"/>
     <indexterm>
       <primary>menus</primary>
       <secondary>Applications menu</secondary>
@@ -48,8 +52,8 @@
     </orderedlist>
     <para>When you install a new application, it is automatically added to the <guimenu>Applications</guimenu> menu in a suitable category. For example, if you install an instant messenger application, a VoIP application, or an FTP client, you will find it in the <guimenu>Internet</guimenu> submenu.</para>
   </section>
-  <section id="places-menu">
-    <title>Places Menu</title>
+
+  <section xml:id="places-menu"><info><title>Places Menu</title></info>
     <indexterm>
       <primary>Places menu</primary>
     </indexterm>
@@ -67,12 +71,12 @@
                    
     <itemizedlist>          
       <listitem><para><guimenuitem>Connect to Server</guimenuitem> lets you choose a server on your network. For more on this, see <xref linkend="caja-server-connect"/>.</para></listitem>
-      <listitem><para><guimenuitem>Search for Files</guimenuitem> lets you search for files on your computer. For more on this, see the <ulink type="help" url="help:mate-search-tool">Search for Files Manual</ulink>.</para></listitem>
+      <listitem><para><guimenuitem>Search for Files</guimenuitem> lets you search for files on your computer. For more on this, see the <link xlink:href="help:mate-search-tool">Search for Files Manual</link>.</para></listitem>
       <listitem><para>The <guimenuitem>Recent Documents</guimenuitem> submenu lists the documents you have recently opened. The last entry in the submenu clears the list.</para></listitem>                  
     </itemizedlist>                
   </section>
-  <section id="desktop-menu">
-    <title>System Menu</title>  
+
+  <section xml:id="desktop-menu"><info><title>System Menu</title></info>
     <indexterm>
       <primary>System Menu</primary>
     </indexterm>
@@ -88,11 +92,11 @@
      
      <para>For more on logging out and shutting down, see <xref linkend="shutdown"/>.</para> 
 
-  </section>    
-  <section id="menu-editor">
-    <title>Customizing the Panel Menubar</title>
+  </section>
+
+  <section xml:id="menu-editor"><info><title>Customizing the Panel Menubar</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor id="goseditmainmenu-54"/>          
+    <anchor xml:id="goseditmainmenu-54"/>
     <indexterm>
       <primary>menus</primary>
       <secondary>customizing</secondary>
