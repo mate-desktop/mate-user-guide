@@ -9,13 +9,14 @@
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
+# 323484, 2018
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2018\n"
+"Last-Translator: 323484, 2018\n"
 "Language-Team: Japanese (https://www.transifex.com/mate/teams/13566/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1871,7 +1872,7 @@ msgstr ""
 msgid ""
 "<primary>preference tools</primary> <secondary>Assistive "
 "Technologies</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>支援技術</secondary>"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:45
@@ -1976,7 +1977,7 @@ msgstr "キーボード・ショートカットを設定する"
 msgid ""
 "<primary>preference tools</primary> <secondary>Keyboard "
 "Shortcuts</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>キーボードショートカット</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:104
@@ -2138,7 +2139,7 @@ msgstr "お気に入りのアプリを設定する"
 msgid ""
 "<primary>preference tools</primary> <secondary>Preferred "
 "Applications</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>お気に入りのアプリ</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:166
@@ -2359,7 +2360,7 @@ msgstr ""
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:329
 msgid "<primary>preference tools</primary> <secondary>Theme</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>テーマ</secondary>"
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:334
@@ -2717,7 +2718,7 @@ msgstr ""
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:542
 msgid "<primary>preference tools</primary> <secondary>Background</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>背景</secondary>"
 
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:546
@@ -2965,7 +2966,7 @@ msgstr "フォントを選択する"
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:704
 msgid "<primary>preference tools</primary> <secondary>Font</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>フォント</secondary>"
 
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:708
@@ -3374,7 +3375,7 @@ msgstr ""
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:963
 msgid "<primary>preference tools</primary> <secondary>Windows</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>ウィンドウ</secondary>"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:967
@@ -3512,7 +3513,7 @@ msgstr "スクリーンセーバーを設定する"
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:1078
 msgid "<primary>preference tools</primary> <secondary>screensaver</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>スクリーンセーバー</secondary>"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:1082
@@ -3964,7 +3965,7 @@ msgstr "ネットワークのプロキシを設定する"
 #: C/goscustdesk.xml:1264
 msgid ""
 "<primary>preference tools</primary> <secondary>Network Proxy</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>ネットワークプロキシ</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:1269
@@ -4261,7 +4262,7 @@ msgstr "キーボードを設定する"
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:1467
 msgid "<primary>preference tools</primary> <secondary>Keyboard</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>キーボード</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:1471
@@ -4398,7 +4399,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1612
 msgid "<guilabel>Keyboard model</guilabel>"
-msgstr ""
+msgstr "<guilabel>キーボードの型式</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1613
@@ -5089,7 +5090,7 @@ msgstr "マウスを設定する"
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:2137
 msgid "<primary>preference tools</primary> <secondary>Mouse</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>マウス</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:2141
@@ -5633,7 +5634,7 @@ msgstr "サウンドを設定する"
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:2569
 msgid "<primary>preference tools</primary> <secondary>Sound</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>サウンド</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:2573
@@ -5957,7 +5958,7 @@ msgstr "セッションを管理する"
 #. (itstool) path: sect1/indexterm
 #: C/goscustdesk.xml:2837 C/gosstartsession.xml:177
 msgid "<primary>preference tools</primary> <secondary>Sessions</secondary>"
-msgstr ""
+msgstr "<primary>設定ツール</primary> <secondary>セッション</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:2841
@@ -6529,7 +6530,7 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:47
 msgid "File Manager Functionality"
-msgstr "ファイル・マネージャの機能"
+msgstr "ファイルマネージャの機能"
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:48
@@ -9565,7 +9566,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1735
 msgid "<guimenuitem>Cancel</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>キャンセル</guimenuitem>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1738
@@ -12977,7 +12978,7 @@ msgstr "アイテムの所有者を表示する際に選択する"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3708 C/goscaja.xml:3857
 msgid "<guilabel>Group</guilabel>"
-msgstr ""
+msgstr "<guilabel>グループ</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3713 C/goscaja.xml:3862
@@ -19125,7 +19126,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:344
 msgid "<guimenu>Edit</guimenu>"
-msgstr ""
+msgstr "<guimenu>編集</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:347
@@ -19163,7 +19164,7 @@ msgstr "現在閲覧しているページをブックマークに追加したり
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:373
 msgid "<guimenu>Help</guimenu>"
-msgstr ""
+msgstr "<guimenu>ヘルプ</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:376

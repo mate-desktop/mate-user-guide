@@ -6789,7 +6789,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:257 C/goscaja.xml:558
 msgid "Statusbar"
-msgstr ""
+msgstr "Palang Status"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:260 C/goscaja.xml:561

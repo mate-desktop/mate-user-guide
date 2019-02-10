@@ -3,14 +3,14 @@
 # Pere O. <gotrunks@gmail.com>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2018
+# Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2018\n"
+"Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2019\n"
 "Language-Team: Catalan (https://www.transifex.com/mate/teams/13566/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -899,7 +899,7 @@ msgstr ""
 "Utilitzeu el botó dret del ratolí per obrir un menú contextual per a un "
 "element, si pot aplicar al menú. Per a la majoria d'elements, també podeu "
 "utilitzar la drecera de teclat "
-"<keycombo><keycap>Maj.</keycap><keycap>F10</keycap></keycombo> per obrir el "
+"<keycombo><keycap>Maj</keycap><keycap>F10</keycap></keycombo> per obrir el "
 "menú contextual una vegada s'ha seleccionat l'element."
 
 #. (itstool) path: section/para
@@ -939,7 +939,7 @@ msgid ""
 msgstr ""
 "Per seleccionar més d'un element, podeu mantenir premuda la tecla "
 "<keycap>Ctrl</keycap> per seleccionar diversos elements o mantenir premuda "
-"la tecla <keycap>Maj.</keycap> per seleccionar un interval d'elements "
+"la tecla <keycap>Maj</keycap> per seleccionar un interval d'elements "
 "continus. També podeu arrossegar un <firstterm>quadre "
 "delimitador</firstterm> per seleccionar diversos elements, començant "
 "l'arrossegament a l'espai buit al voltant dels elements i deixant anar el "
@@ -1530,7 +1530,7 @@ msgstr ""
 "modificadora addicional, anomenada la <firstterm>tecla súper</firstterm>. La"
 " tecla del menú contextual es pot utilitzar per accedir al menú contextual "
 "de l'element seleccionat, tal com ho pot fer la drecera de teclat "
-"<keycombo><keycap>Maj.</keycap><keycap>F10</keycap></keycombo>."
+"<keycombo><keycap>Maj</keycap><keycap>F10</keycap></keycombo>."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:570
@@ -1684,7 +1684,7 @@ msgid ""
 msgstr ""
 "Canvia entre finestres. Es visualitza una llista de finestres que podeu "
 "seleccionar. Deixeu de prémer les tecles per seleccionar una finestra. Podeu"
-" prémer la tecla <keycap>Maj.</keycap> per recórrer les finestres en ordre "
+" prémer la tecla <keycap>Maj</keycap> per recórrer les finestres en ordre "
 "invers."
 
 #. (itstool) path: entry/para
@@ -1706,7 +1706,7 @@ msgid ""
 msgstr ""
 "Canvia el focus entre els taulers i l'escriptori. Es visualitza una llista "
 "d'elements que podeu seleccionar. Deixeu de prémer les tecles per "
-"seleccionar un element. Podeu prémer la tecla <keycap>Maj.</keycap> per "
+"seleccionar un element. Podeu prémer la tecla <keycap>Maj</keycap> per "
 "recórrer els elements en ordre invers."
 
 #. (itstool) path: section/title
@@ -1987,7 +1987,7 @@ msgstr "Activa el menú de la part esquerra de la finestra de l'aplicació."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:997
 msgid "<keycombo> <keycap>Shift</keycap><keycap>F10</keycap> </keycombo>"
-msgstr "<keycombo> <keycap>Maj.</keycap><keycap>F10</keycap> </keycombo>"
+msgstr "<keycombo> <keycap>Maj</keycap><keycap>F10</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:1002
@@ -5435,7 +5435,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1679
 msgid "<guilabel>Group Shift/Lock behavior</guilabel>"
-msgstr "<guilabel>Agrupa el comportament Maj. / Bloq.</guilabel>"
+msgstr "<guilabel>Agrupa el comportament Maj/Bloq.</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1680
@@ -5464,7 +5464,7 @@ msgid ""
 "numerical pad when <keycap>NumLock</keycap> is off extends the current "
 "selection."
 msgstr ""
-"Amb aquesta opció seleccionada, utilitzant <keycap>Maj.</keycap> amb el "
+"Amb aquesta opció seleccionada, utilitzant <keycap>Maj</keycap> amb el "
 "teclat numèric quan <keycap>Bloq. Núm.</keycap> està desactivat, amplia la "
 "selecció actual."
 
@@ -5478,11 +5478,11 @@ msgid ""
 "<keycombo><keycap>Shift</keycap><keycap>8</keycap></keycombo> to type an "
 "'8'."
 msgstr ""
-"Amb aquesta opció sense seleccionar, utilitzeu <keycap>Maj.</keycap> amb les"
-" tecles del teclat numèric per obtenir l'invers del comportament actual per "
+"Amb aquesta opció sense seleccionar, utilitzeu <keycap>Maj</keycap> amb les "
+"tecles del teclat numèric per obtenir l'invers del comportament actual per "
 "aquesta tecla. Per exemple, quan <keycap>Bloq. Núm.</keycap> està "
 "desactivat, la tecla <keycap>8</keycap> actua com una fletxa cap amunt. "
-"Premeu <keycombo><keycap>Maj.</keycap><keycap>8</keycap></keycombo> per "
+"Premeu <keycombo><keycap>Maj</keycap><keycap>8</keycap></keycombo> per "
 "teclejar un «8»."
 
 #. (itstool) path: varlistentry/term
@@ -5516,9 +5516,9 @@ msgid ""
 "with a key produces a different character to pressing the key alone."
 msgstr ""
 "Una tecla de <firstterm>tercer niell</firstterm> us permet obtenir un tercer"
-" caràcter d'una tecla, de la mateixa manera que prémer <keycap>Maj.</keycap>"
-" amb una tecla produeix un caràcter diferent de l'obtingut en prémer la "
-"tecla sola."
+" caràcter d'una tecla, de la mateixa manera que prémer <keycap>Maj</keycap> "
+"amb una tecla produeix un caràcter diferent de l'obtingut en prémer la tecla"
+" sola."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1705
@@ -5535,7 +5535,7 @@ msgid ""
 "Pressing the third-level key and <keycap>Shift</keycap> produces a fourth "
 "character from a key."
 msgstr ""
-"Prémer la tecla de tercer nivell i <keycap>Maj.</keycap> produeix un quart "
+"Prémer la tecla de tercer nivell i <keycap>Maj</keycap> produeix un quart "
 "caràcter d'una tecla."
 
 #. (itstool) path: listitem/para
@@ -5691,7 +5691,7 @@ msgid ""
 msgstr ""
 "Seleccioneu aquesta opció per realitzar diverses operacions de pressió de "
 "tecles simultànies en prémer les tecles en una seqüència. Com a alternativa,"
-" per habilitar les tecles enganxoses, premeu <keycap>Maj.</keycap> cinc "
+" per habilitar les tecles enganxoses, premeu <keycap>Maj</keycap> cinc "
 "vegades."
 
 #. (itstool) path: entry/para
@@ -5735,7 +5735,7 @@ msgstr ""
 "Seleccioneu aquesta opció per controlar el període de temps que heu de "
 "prémer i mantenir una tecla abans de l'acceptació. Com a alternativa, per "
 "habilitar la funció de tecles lentes, premeu i manteniu premuda la tecla "
-"<keycap>Maj,</keycap> durant 8 segons."
+"<keycap>Maj</keycap> durant 8 segons."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1833
@@ -8245,8 +8245,8 @@ msgid ""
 "arrow</keycap></keycombo>."
 msgstr ""
 "Per tancar la carpeta actual mentre obriu la nova, mantingueu premuda la "
-"tecla <keycap>Maj.</keycap> quan feu doble clic, o premeu "
-"<keycombo><keycap>Maj.</keycap><keycap>Alt</keycap><keycap>fletxa "
+"tecla <keycap>Maj</keycap> quan feu doble clic, o premeu "
+"<keycombo><keycap>Maj</keycap><keycap>Alt</keycap><keycap>fletxa "
 "avall</keycap></keycombo>."
 
 #. (itstool) path: sect2/para
@@ -8463,7 +8463,7 @@ msgid ""
 "Hold down <keycap>Shift</keycap> while choosing from the list to close the "
 "current folder as you open the new one."
 msgstr ""
-"Mantingueu premuda la tecla <keycap>Maj.</keycap> mentre la trieu de la "
+"Mantingueu premuda la tecla <keycap>Maj</keycap> mentre la trieu de la "
 "llista per tancar la carpeta actual tan aviat com obriu la nova."
 
 #. (itstool) path: sect2/title
@@ -10740,10 +10740,10 @@ msgid ""
 "<guilabel>Reversed Order</guilabel> option to sort the items in reverse "
 "alphabetical order."
 msgstr ""
-"Seleccioneu aquesta opció per invertir l'ordre de l'opció amb la que ordeneu"
-" els elements. Per exemple, si ordeneu els elements per nom, seleccioneu "
-"l'opció <guilabel>Ordre invers</guilabel> per ordenar els elements en ordre "
-"alfabètic invers."
+"Seleccioneu aquesta opció per invertir l'ordre de l'opció amb la qual "
+"ordeneu els elements. Per exemple, si ordeneu els elements per nom, "
+"seleccioneu l'opció <guilabel>Ordre invers</guilabel> per ordenar els "
+"elements en ordre alfabètic invers."
 
 #. (itstool) path: sect3/title
 #: C/goscaja.xml:1347
@@ -12952,7 +12952,7 @@ msgstr ""
 #. (itstool) path: sect1/title
 #: C/goscaja.xml:2620
 msgid "Modifying the Appearance of Files and Folders"
-msgstr "Modificar de l'aparença de fitxers i carpetes"
+msgstr "Modificar l'aparença de fitxers i carpetes"
 
 #. (itstool) path: sect1/indexterm
 #: C/goscaja.xml:2621
@@ -13169,7 +13169,7 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:2746
 msgid "Changing the Icon for a File or Folder"
-msgstr ""
+msgstr "Canviar la icona per a un fitxer o carpeta"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:2747
@@ -13220,7 +13220,7 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:2781
 msgid "Adding an Emblem to a File or Folder"
-msgstr ""
+msgstr "Afegir un emblem a un fitxer o carpeta"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:2784
@@ -13272,7 +13272,7 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:2815
 msgid "Creating a New Emblem"
-msgstr ""
+msgstr "Crear un emblema nou"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:2816
@@ -17609,7 +17609,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:615
 msgid "<keycap>Shift</keycap> key"
-msgstr ""
+msgstr "tecla <keycap>Maj</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:618

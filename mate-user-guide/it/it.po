@@ -5,13 +5,14 @@
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Marco Z. <minaz666@gmail.com>, 2018
 # Giuseppe Pignataro (Fastbyte01) <rogepix@gmail.com>, 2018
+# Gianfilippo Tabacchini <kazefilippo@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Giuseppe Pignataro (Fastbyte01) <rogepix@gmail.com>, 2018\n"
+"Last-Translator: Gianfilippo Tabacchini <kazefilippo@gmail.com>, 2019\n"
 "Language-Team: Italian (https://www.transifex.com/mate/teams/13566/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +23,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Riconoscimenti-tradutore"
+msgstr "Riconoscimenti-traduttore"
 
 #. (itstool) path: book/title
 #: C/index.docbook:10
@@ -247,6 +248,9 @@ msgid ""
 "<affiliation> <orgname>GNOME Documentation Project</orgname> </affiliation> "
 "<email>esodan at gmail dot com</email>"
 msgstr ""
+"<firstname>Daniel</firstname> <surname>Espinosa Ortiz</surname> "
+"<affiliation> <orgname>Progetto della Documentazione di GNOME</orgname> "
+"</affiliation> <email>esodan at gmail dot com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:97
@@ -255,6 +259,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> <email>mate at"
 " nextreality dot net</email>"
 msgstr ""
+"<firstname>Brent</firstname> <surname>Smith</surname> <affiliation> "
+"<orgname>Progetto della Documentazione di GNOME</orgname> </affiliation> "
+"<email>mate at nextreality dot net</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:105
@@ -263,6 +270,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> <email>tim at "
 "tjl2 dot com</email>"
 msgstr ""
+"<firstname>Tim</firstname> <surname>Littlemore</surname> <affiliation> "
+"<orgname>Progetto della Documentazione di GNOME</orgname> </affiliation> "
+"<email>tim at tjl2 dot com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:113
@@ -271,6 +281,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> <email>john "
 "dot stowers at gmail dot com</email>"
 msgstr ""
+"<firstname>John</firstname> <surname>Stowers</surname> <affiliation> "
+"<orgname>Progetto della Documentazione di GNOME</orgname> </affiliation> "
+"<email>john dot stowers at gmail dot com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:121
@@ -279,6 +292,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> <email>nigel "
 "dot tao at myrealbox dot com</email>"
 msgstr ""
+"<firstname>Nigel</firstname> <surname>Tao</surname> <affiliation> "
+"<orgname>Progetto della Documentazione di GNOME</orgname> </affiliation> "
+"<email>nigel dot tao at myrealbox dot com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:129
@@ -287,6 +303,9 @@ msgid ""
 "<orgname>Ubuntu Documentation Project</orgname> </affiliation> <email>mdke "
 "at ubuntu dot com</email>"
 msgstr ""
+"<firstname>Matthew</firstname> <surname>East</surname> <affiliation> "
+"<orgname>Documentazione del progetto Ubuntu</orgname> </affiliation> "
+"<email>mdke at ubuntu dot com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:137
@@ -329,6 +348,7 @@ msgstr "Progetto della Documentazione di GNOME"
 msgid ""
 "<revnumber>2.14</revnumber> <date>2006-02-03</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.14</revnumber> <date>2006-02-03</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:171
@@ -481,7 +501,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:25
 msgid "<primary>mouse</primary> <secondary>basic skills</secondary>"
-msgstr ""
+msgstr "<primary>mouse</primary> <secondary>abilità di base</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:39
@@ -532,6 +552,11 @@ msgid ""
 "mouse. If you use a left-handed mouse, see the paragraph on setting mouse "
 "orientation below."
 msgstr ""
+"Le istruzioni in questo manuale fanno riferimento a mouse per destrorsi con "
+"tre pulsanti, il tipo più comune. Se si usa un altro tipo di mouse o di "
+"dispositivo di puntamento, è necessario individuare i pulsanti "
+"corrispondenti sul proprio mouse. Se si usa un mouse per mancini, consultare"
+" il paragrafo successivo sull'impostazione dell'orientamento del mouse."
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:65
@@ -540,6 +565,9 @@ msgid ""
 " button conventions used in this manual. This is normally also implied in "
 "most documentation and in many applications."
 msgstr ""
+"Se si imposta il proprio mouse per l'uso con la mano sinistra, si debbono "
+"invertire le convenzioni per i pulsanti usate in questo manuale. Lo stesso "
+"vale nella maggior parte della documentazione e in molte applicazioni."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:69
@@ -735,7 +763,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:190
 msgid "Click-and-drag"
-msgstr ""
+msgstr "Fare clic e trascinare"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:193
@@ -1659,6 +1687,10 @@ msgid ""
 "resize the window using either the mouse or the arrow keys. To finish "
 "resizing, click the mouse or press any key on the keyboard."
 msgstr ""
+"Ridimensiona la finestra che ha il focus. Dopo aver premuto questa "
+"scorciatoia, è possibile ridimensionare la finestra usando sia il mouse che "
+"i tasti freccia. Per completare il ridimensionamento, fare clic col mouse o "
+"premere un qualsiasi tasto sulla tastiera."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:797
@@ -1972,6 +2004,15 @@ msgid ""
 "common to all windows such as the way in which you select them with the "
 "mouse."
 msgstr ""
+"Uno strumento di preferenze è una piccola applicazione che consente di "
+"cambiare delle impostazioni nel Desktop di MATE. Ciascuno strumento è "
+"relazionato a un particolare aspetto del computer. Per esempio, con lo "
+"strumento di preferenze <application>Mouse</application> è possibile "
+"impostare il mouse per l'uso con la mano destra o sinistra, oppure cambiare "
+"la velocità del puntatore sullo schermo. Con lo strumento di preferenze "
+"<application>Finestre</application> è possibile impostare il comportamento "
+"comune a tutte le finestre come ad esempio il modo in cui è possibile "
+"selezionarle col mouse."
 
 #. (itstool) path: chapter/para
 #: C/goscustdesk.xml:23
@@ -2223,6 +2264,9 @@ msgid ""
 "keyboard, use the arrow keys to select the shortcut and press "
 "<keycap>Return</keycap>."
 msgstr ""
+"Fai doppio clic sulla scorciatoia che vuoi modificare. Se stai utilizzando "
+"la tastiera, usa i tasti direzionali per selezionare la scorciatoia e premi "
+"<keycap>Invio</keycap>."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:123
@@ -2364,12 +2408,15 @@ msgid ""
 "<primary>preference tools</primary> <secondary>Preferred "
 "Applications</secondary>"
 msgstr ""
+"<primary>preferenze</primary> <secondary>Applicazioni Preferite</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:166
 msgid ""
 "<primary>default applications</primary> <see>preferred applications</see>"
 msgstr ""
+"<primary>applicazioni predefinite</primary> <see>applicazioni "
+"preferite</see>"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:170
@@ -2382,6 +2429,14 @@ msgid ""
 " ...) to launch when you click on a link in other applications such as email"
 " clients or document viewers."
 msgstr ""
+"Utilizza lo strumento di preferenze <application>Applicazioni "
+"Preferite</application> per specificare le applicazioni che si desidera "
+"vengano utilizzate dal Desktop MATE quando il Desktop MATE avvia "
+"un'applicazione per conto dell'utente. Ad esempio, puoi specificare quale "
+"browser web (<application>Epiphany </application>, <application>Mozilla "
+"Firefox</application>, <application>Opera</application> ...) avviare quando "
+"fai clic su un collegamento in altre applicazioni come il client email o il "
+"visualizzatore di documenti."
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:178
@@ -2542,6 +2597,8 @@ msgstr ""
 #: C/goscustdesk.xml:274
 msgid "Select this option to run the command as soon as your session begins."
 msgstr ""
+"Seleziona questa opzione per eseguire il comando non appena inizia la tua "
+"sessione."
 
 #. (itstool) path: sect1/title
 #: C/goscustdesk.xml:286
@@ -2559,6 +2616,8 @@ msgid ""
 "The <application>Appearance</application> preference tool lets you configure"
 " various aspects of how your desktop looks:"
 msgstr ""
+"Lo strumento di preferenze<application>Aspetto</application> ti consente di "
+"configurare vari aspetti del look del tuo desktop."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:294
@@ -3836,7 +3895,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1042
 msgid "<guilabel>Minimize</guilabel>: Minimizes the window."
-msgstr ""
+msgstr "<guilabel>Minimizza</guilabel>: minimizza la finestra."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1045

@@ -49,7 +49,7 @@ msgstr ""
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:17
 msgid "<year>2015</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgstr "<year>2015</year> <holder>마테 문서화 프로젝트</holder>"
 
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:21
@@ -59,12 +59,12 @@ msgstr ""
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:25
 msgid "<year>2004</year> <holder>Sun Microsystems</holder>"
-msgstr ""
+msgstr "<year>2004</year> <holder>썬 마이크로시스템즈</holder>"
 
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:29
 msgid "<year>2003</year> <holder>Sun Microsystems</holder>"
-msgstr ""
+msgstr "<year>2003</year> <holder> 썬 마이크로시스템즈</holder>"
 
 #. (itstool) path: publisher/publishername
 #. (itstool) path: revdescription/para
@@ -164,6 +164,8 @@ msgid ""
 "<surname>MATE Documentation Team</surname> <affiliation> <orgname>MATE "
 "DESKTOP</orgname> </affiliation>"
 msgstr ""
+"<surname>마테 문서화 프로젝트 팀</surname> <affiliation> <orgname>마테 데스크탑</orgname> "
+"</affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:52
@@ -178,6 +180,8 @@ msgid ""
 "<firstname>Sun</firstname> <surname>GNOME Documentation Team</surname> "
 "<affiliation> <orgname>Sun Microsystems</orgname> </affiliation>"
 msgstr ""
+"<firstname>썬</firstname> <surname>그놈 문서화 팀</surname> <affiliation> "
+"<orgname>썬 마이크로시스템즈</orgname> </affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:66
@@ -305,6 +309,8 @@ msgid ""
 "<revnumber>MATE 2.8 Desktop User Guide V2.8</revnumber> <date>September "
 "2004</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>마테 2.8 데스크탑 유저 가이드 V2.8</revnumber> <date>2004년 9월</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:186 C/index.docbook:194 C/index.docbook:202
@@ -319,6 +325,8 @@ msgid ""
 "<revnumber>MATE 2.4 Desktop User Guide V2.7</revnumber> <date>September "
 "2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>마테 2.4 데스크탑 유저 가이드 V2.7</revnumber> <date>2003년 9월</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:190
@@ -326,6 +334,8 @@ msgid ""
 "<revnumber>MATE 2.4 Desktop User Guide V2.6</revnumber> <date>August "
 "2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>마테 2.4 데스크탑 유저 가이드 V2.6</revnumber> <date>2003년 8월</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:198
@@ -333,6 +343,8 @@ msgid ""
 "<revnumber>MATE 2.2.1 Desktop User Guide V2.5</revnumber> <date>March "
 "2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>마테 2.2.1 데스크탑 유저 가이드 V2.5</revnumber> <date>2003년 3월</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
@@ -340,6 +352,8 @@ msgid ""
 "<revnumber>MATE 2.2 Desktop User Guide V2.4</revnumber> <date>January "
 "2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>마테 2.2 데스크탑 유저 가이드 V2.4</revnumber> <date>2003년 1월</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
@@ -347,6 +361,8 @@ msgid ""
 "<revnumber>MATE 2.0 Desktop User Guide V2.3</revnumber> <date>October "
 "2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>마테 2.0 데스크탑 유저 가이드 V2.3</revnumber> <date>2002년 10월</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
@@ -354,6 +370,8 @@ msgid ""
 "<revnumber>MATE 2.0 Desktop User Guide V2.2</revnumber> <date>August "
 "2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>마테 2.0 데스크탑 유저 가이드 V2.2</revnumber> <date>2002년 8월</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:230
@@ -361,6 +379,8 @@ msgid ""
 "<revnumber>MATE 2.0 Desktop User Guide V2.1</revnumber> <date>August "
 "2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>마테 2.0 데스크탑 유저 가이드 V2.1</revnumber> <date>2002년 8월</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
@@ -368,11 +388,13 @@ msgid ""
 "<revnumber>MATE 2.0 Desktop User Guide V1.0</revnumber> <date>May "
 "2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>마테 2.0 데스크탑 유저 가이드 V1.0</revnumber> <date>2002년 5월</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: bookinfo/releaseinfo
 #: C/index.docbook:248
 msgid "This manual describes version 1.10 of the MATE desktop."
-msgstr ""
+msgstr "이 매뉴얼은 마테 데스크탑 1.10 버전에 대한 안내입니다."
 
 #. (itstool) path: legalnotice/title
 #. (itstool) path: appendix/title
@@ -386,6 +408,8 @@ msgid ""
 "To report a bug or make a suggestion regarding the MATE desktop or this "
 "manual, follow the directions in the <xref linkend=\"feedback\"/>."
 msgstr ""
+"버그를 보고하시거나 마테 데스크탑 혹은 이 매뉴얼에 대한 제안을 하시려면 <xref linkend=\"feedback\"/>의 절차를 "
+"따라주십시오."
 
 #. (itstool) path: para/ulink
 #: C/legal.xml:9
@@ -423,12 +447,12 @@ msgstr "마우스 사용법"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:21
 msgid "<primary>basic skills</primary> <secondary>mouse skills</secondary>"
-msgstr ""
+msgstr "<primary>기본 스킬</primary> <secondary>마우스 스킬</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:25
 msgid "<primary>mouse</primary> <secondary>basic skills</secondary>"
-msgstr ""
+msgstr "<primary>마우스</primary> <secondary>기본 스킬</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:39
@@ -464,7 +488,7 @@ msgstr "단추"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:55
 msgid "<primary>mouse</primary> <secondary>button conventions</secondary>"
-msgstr ""
+msgstr "<primary>마우스</primary> <secondary>버튼 방식</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:60
@@ -475,6 +499,9 @@ msgid ""
 "mouse. If you use a left-handed mouse, see the paragraph on setting mouse "
 "orientation below."
 msgstr ""
+"이 매뉴얼 내의 설명은 가장 일반적인 유형인 3버튼 오른손잡이용 마우스 장치에 대한 설명입니다. 만일 다른 유형의 마우스나 포인팅 장치를"
+" 사용하신다면, 해당하는 버튼을 찾도록 유의하시기 바랍니다. 왼손잡이용 마우스를 사용하신다면, 아래 마우스 방향 설정에 대한 단락을 "
+"보시기 바랍니다."
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:65
@@ -483,6 +510,8 @@ msgid ""
 " button conventions used in this manual. This is normally also implied in "
 "most documentation and in many applications."
 msgstr ""
+"마우스 장치를 왼손잡이용으로 세팅해놓으셨다면 이 매뉴얼 내의 마우스 버튼 방식을 반대로 바꾸어 생각해야 합니다. 이것은 다른 대부분의 "
+"문서나 응용프로그램에서도 일반적으로 적용되는 사안입니다. "
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:69
@@ -571,12 +600,12 @@ msgstr "동작"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:111
 msgid "<primary>mouse</primary> <secondary>action conventions</secondary>"
-msgstr ""
+msgstr "<primary>마우스</primary> <secondary>동작 방식</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:115
 msgid "<primary>mouse</primary> <secondary>action terminology</secondary>"
-msgstr ""
+msgstr "<primary>마우스</primary> <secondary>동작 용어</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:120
@@ -663,7 +692,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:190
 msgid "Click-and-drag"
-msgstr ""
+msgstr "클릭 앤 드래그"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:193

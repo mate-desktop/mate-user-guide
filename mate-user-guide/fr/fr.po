@@ -11,13 +11,15 @@
 # David D, 2018
 # Guillaume Picquet <nelstaar@yahoo.fr>, 2018
 # Étienne Deparis <etienne@depar.is>, 2018
+# Firokat Informatique <jujuhangout28@gmail.com>, 2019
+# Rox fr <roxfr@outlook.fr>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Étienne Deparis <etienne@depar.is>, 2018\n"
+"Last-Translator: Rox fr <roxfr@outlook.fr>, 2019\n"
 "Language-Team: French (https://www.transifex.com/mate/teams/13566/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -598,6 +600,10 @@ msgid ""
 " button conventions used in this manual. This is normally also implied in "
 "most documentation and in many applications."
 msgstr ""
+"Si vous définissez votre souris pour être utilisée de la main gauche, vous "
+"devriez inverser la conventions du bouton de la souris utilisés dans ce "
+"manuel. Ceci est aussi normalement utilisé dans la majorité de la "
+"documentation et dans beaucoup d'applications."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:69
@@ -1796,6 +1802,10 @@ msgid ""
 "resize the window using either the mouse or the arrow keys. To finish "
 "resizing, click the mouse or press any key on the keyboard."
 msgstr ""
+"Redimensionner la fenêtre actuellement sélectionnée. Après avoir appuyé sur "
+"ce raccourci, vous pouvez redimensionner la fenêtre en utilisant la souris "
+"ou les touches directionnelles. Pour terminer le redimensionnement, cliquez "
+"avec la souris ou appuyez sur n'importe quelle touche du clavier"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:797
@@ -2696,7 +2706,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:269
 msgid "<guilabel>Run at start (Accessibility only)</guilabel>"
-msgstr ""
+msgstr "<guilabel>Lancer au démarrage (Accessibilité uniquement)</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:274
@@ -5147,7 +5157,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1612
 msgid "<guilabel>Keyboard model</guilabel>"
-msgstr ""
+msgstr "<guilabel>Modèle de clavier</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1613
@@ -5306,7 +5316,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1661
 msgid "<guilabel>CapsLock key behavior</guilabel>"
-msgstr ""
+msgstr "<guilabel>Comportement de la clé de verrouillage</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1662
@@ -9222,7 +9232,7 @@ msgstr ""
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:747
 msgid "<primary>Tree, using</primary>"
-msgstr ""
+msgstr "<primary>Arbre, utilisant</primary>"
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:750
@@ -11033,7 +11043,7 @@ msgstr "Crée un lien symbolique vers l'élément à cet endroit."
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1728
 msgid "<guimenuitem>Set as Background</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>Définir comme arrière-plan</guimenuitem>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1731
@@ -13171,6 +13181,7 @@ msgstr ""
 #: C/goscaja.xml:2703
 msgid "<primary>symbolic links</primary><secondary>and emblems</secondary>"
 msgstr ""
+"<primary>liens symboliques</primary><secondary>et emblèmes</secondary>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2703
@@ -15041,6 +15052,9 @@ msgid ""
 " three sets of three characters, for example "
 "<computeroutput>-rwxrw-r--</computeroutput>."
 msgstr ""
+"<_:indexterm-1/>Choisir cette option pour afficher les autorisations de "
+"l'élément sous forme de trois jeux de trois caractères, par exemple "
+"<computeroutput>-rwxrw-r--</computeroutput>."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3731 C/goscaja.xml:3879
@@ -19517,7 +19531,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1009
 msgid "<primary>Force Quit button</primary>"
-msgstr ""
+msgstr "<primary>Bouton forcer à quitter</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1012
@@ -20178,6 +20192,8 @@ msgid ""
 "<primary>panel objects</primary> <secondary>drawers</secondary> "
 "<see>drawers</see>"
 msgstr ""
+"<primary>panneau d'objets</primary> <secondary>tiroirs</secondary> "
+"<see>tiroirs</see>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1319
@@ -22165,7 +22181,7 @@ msgstr "Ce menu permet d'ajouter ou de modifier des signets."
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:373
 msgid "<guimenu>Help</guimenu>"
-msgstr ""
+msgstr "<guimenu>Aide</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:376

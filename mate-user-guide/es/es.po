@@ -7,8 +7,8 @@
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # elio <micta2003@hotmail.com>, 2018
-# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Miguel de Dios Matias <tres.14159@gmail.com>, 2018
+# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # David García-Abad <dgarciabad@gmail.com>, 2018
 # Isabel Ortuño <isabel.ortuno1@gmail.com>, 2018
 # Joel Barrios <darkshram@gmail.com>, 2018
@@ -3909,7 +3909,7 @@ msgid ""
 "<guilabel>To move a window, press-and-hold this key then grab the "
 "window</guilabel>"
 msgstr ""
-"</guilabel> Para mover una ventana, mantenga pulsada esta tecla y luego "
+"<guilabel>Para mover una ventana, mantenga pulsada esta tecla y luego "
 "arrastre la ventana:</guilabel>"
 
 #. (itstool) path: entry/para

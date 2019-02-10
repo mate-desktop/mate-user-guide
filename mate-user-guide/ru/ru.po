@@ -1374,9 +1374,10 @@ msgid ""
 "<phrase>Not available pointer.</phrase> </textobject> </inlinemediaobject> "
 "Not available pointer"
 msgstr ""
-"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
-"fileref=\"figures/not_available_pointer.png\"/></imageobject><phrase>Указатель"
-" \"недоступно\".</phrase><textobject></textobject>Указатель \"недоступно\""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/not_available_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Указатель \"недоступно\".</phrase> </textobject> "
+"</inlinemediaobject>Указатель \"недоступно\""
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:496
@@ -11727,7 +11728,9 @@ msgstr ""
 msgid ""
 "<primary>symbolic link</primary> <secondary>to file or folder, "
 "creating</secondary>"
-msgstr "1"
+msgstr ""
+"<primary>символическая ссылка</primary> <secondary>на файл или папку, "
+"создание</secondary>"
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:2025

@@ -8,6 +8,7 @@
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Pjotr <pjotrvertaalt@gmail.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
+# Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2018
 # Ronald van Zuijlen, 2018
 # René Devers <rene.devers@gmail.com>, 2018
 # 
@@ -74,7 +75,7 @@ msgstr "Sun Microsystems"
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:29
 msgid "<year>2003</year> <holder>Sun Microsystems</holder>"
-msgstr "Sun Microsystems"
+msgstr "<year>2003</year> <holder>Sun Microsystems</holder>"
 
 #. (itstool) path: publisher/publishername
 #. (itstool) path: revdescription/para
@@ -93,6 +94,13 @@ msgid ""
 " of the GFDL at this <ulink type=\"help\" url=\"help:fdl\">link</ulink> or "
 "in the file COPYING-DOCS distributed with this manual."
 msgstr ""
+"Toestemming wordt verleend om dit document te kopiëren, verspreiden en/of "
+"wijzigen onder de voorwaarden van de Free Documentation License (GFDL), "
+"Versie 1.1 of elke latere versie gepubliceerd door dee Free Software "
+"Foundation zonder Invariant Secties, Front-Cover Tekst, en Back-Cover Tekst."
+" U vind een kopij van de GFDL in volgende <ulink type=\"help\" "
+"url=\"help:fdl\">link</ulink> of in het bestand COPYING-DOCS verspreid met "
+"deze handleiding."
 
 #. (itstool) path: legalnotice/para
 #: C/index.docbook:12 C/legal.xml:12
@@ -102,6 +110,10 @@ msgid ""
 "you can do so by adding a copy of the license to the manual, as described in"
 " section 6 of the license."
 msgstr ""
+"Deze handleiding maakt deel uit van een verzameling MATE handleidingen onder"
+" de GFDL. Als u deze handleiding afzonderlijk wil verspreiden, dan kan u dit"
+" door een kopie van de licentie van de handleiding toe te voegen, zoals "
+"beschreven in hoofdstuk 6 van de licentie."
 
 #. (itstool) path: legalnotice/para
 #: C/index.docbook:19 C/legal.xml:19
@@ -372,7 +384,7 @@ msgstr ""
 #. (itstool) path: appendix/title
 #: C/index.docbook:252 C/gosfeedback.xml:2
 msgid "Feedback"
-msgstr ""
+msgstr "Terukoppeling"
 
 #. (itstool) path: legalnotice/para
 #: C/index.docbook:253
@@ -1550,7 +1562,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:940
 msgid "<keycap>F1</keycap>"
-msgstr ""
+msgstr "<keycap>F1</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:943
@@ -10274,7 +10286,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2438
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>Locatie</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2443
@@ -12234,7 +12246,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3664 C/goscaja.xml:3823
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Type</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3669

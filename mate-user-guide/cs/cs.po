@@ -2115,7 +2115,7 @@ msgid ""
 "Use the <application>Keyboard Shortcuts</application> preference tool to "
 "customize the default keyboard shortcuts to your requirements."
 msgstr ""
-"Pomocí nástroje předvoleb <application>Klávesové zkratky </ application> "
+"Pomocí nástroje předvoleb <application>Klávesové zkratky</application>  "
 "můžete přizpůsobit výchozí klávesové zkratky svým požadavkům."
 
 #. (itstool) path: sect2/para
@@ -6242,12 +6242,12 @@ msgstr ""
 #. (itstool) path: chapter/title
 #: C/goseditmainmenu.xml:2
 msgid "Using the Main Menubar"
-msgstr ""
+msgstr "Používání hlavní nabídky"
 
 #. (itstool) path: highlights/para
 #: C/goseditmainmenu.xml:13
 msgid "This chapter describes how to use the MATE Panel Menubar."
-msgstr ""
+msgstr "Tato kapitola popisuje, jak používat hlavní nabídku na panelu MATE."
 
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:15
@@ -6274,11 +6274,16 @@ msgid ""
 " the <guimenu>System</guimenu> to customize your system, get help with MATE,"
 " and log out of MATE or shut down your computer."
 msgstr ""
+"Hlavní nabídka na panelu je hlavním přístupovým bodem k MATE. Použijte "
+"nabídku <guimenu>Aplikace</guimenu> pro spouštění aplikací, nabídku "
+"<guimenu>Místa</guimenu> pro otevírání míst v počítači nebo v síti a nabídku"
+" <guimenu>Systém</guimenu> pro přizpůsobení svého systému, je zde i nápověda"
+" k MATE a také se zde odhlasíte z MATE nebo vypnete počítač."
 
 #. (itstool) path: chapter/para
 #: C/goseditmainmenu.xml:30
 msgid "The following sections describe these three menus."
-msgstr ""
+msgstr "Následující části popisují tyto tři nabídky."
 
 #. (itstool) path: tip/para
 #: C/goseditmainmenu.xml:31
@@ -6288,16 +6293,21 @@ msgid ""
 "have more than one instance of the menubar in your panels. For more on this,"
 " see <xref linkend=\"panel-menus\"/>."
 msgstr ""
+"Ve výchozím nastavení je hlavní nabídka panelu na <xref linkend=\"top-"
+"panel\"/>. Ale stejně jako jakýkoli jiný objekt na panelu, můžete hlavní "
+"nabídku přesunout na jiný panel, nebo mít na panelu více než jednu instanci "
+"hlavní nabídky. Další informace naleznete v v části <xref linkend=\"panel-"
+"menus\"/>."
 
 #. (itstool) path: section/title
 #: C/goseditmainmenu.xml:34
 msgid "Applications Menu"
-msgstr ""
+msgstr "Nabídka Aplikace"
 
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:37
 msgid "<primary>menus</primary> <secondary>Applications menu</secondary>"
-msgstr ""
+msgstr "<primary>nabídky</primary> <secondary>nabídka aplikace</secondary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:41
@@ -6305,6 +6315,8 @@ msgid ""
 "The <guimenu>Applications</guimenu> menu contains a hierarchy of submenus, "
 "from which you can start the applications that are installed on your system."
 msgstr ""
+"Nabídka <guimenu>Aplikace</guimenu> obsahuje hierarchii dílčích nabídek, ze "
+"kterých můžete spustit aplikace nainstalované ve vašem systému."
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:42
@@ -6313,16 +6325,18 @@ msgid ""
 "&amp; Video</guimenu> submenu, you will find applications for playing CDs "
 "and recording sound."
 msgstr ""
+"Každé podnabídka odpovídá kategorii. Například v podnabídce <guimenu>Zvuk a "
+"video</guimenu> najdete aplikace pro přehrávání disků CD a nahrávání zvuku."
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:43
 msgid "To launch an application, perform the following steps:"
-msgstr ""
+msgstr "Chcete-li spustit nějakou aplikaci, proveďte následující kroky:"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:45
 msgid "Open the <guimenu>Applications</guimenu> menu by clicking on it."
-msgstr ""
+msgstr "Otevřete nabídku <guimenu>Aplikace</guimenu> pomocí kliknutí na ni."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:46
@@ -6330,11 +6344,13 @@ msgid ""
 "Move the mouse down the menu to the category the application you want is in."
 " Each submenu opens as your mouse passes over the category."
 msgstr ""
+"Přesuňte kurzor myši na nabídku kategorie, ve které se nachází požadovaná "
+"aplikace. Každá podnabídka se otevře při přechodu přes danou kategorii."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:47
 msgid "Click the menu item for the application."
-msgstr ""
+msgstr "Klikněte na položku dané aplikace v nabídce."
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:49
@@ -6344,11 +6360,15 @@ msgid ""
 " you install an instant messenger application, a VoIP application, or an FTP"
 " client, you will find it in the <guimenu>Internet</guimenu> submenu."
 msgstr ""
+"Při instalaci nové aplikace se tato automaticky přidá do nabídky "
+"<guimenu>Aplikace</guimenu> ve vhodné kategorii. Pokud například "
+"nainstalujete aplikaci pro instant messenger, aplikaci pro VoIP nebo "
+"aplikaci klienta FTP, najdete ji v podnabídce <guimenu>Internet</guimenu>."
 
 #. (itstool) path: section/title
 #: C/goseditmainmenu.xml:52
 msgid "Places Menu"
-msgstr ""
+msgstr "Nabídka Místa"
 
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:53
@@ -6431,12 +6451,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/goseditmainmenu.xml:75
 msgid "System Menu"
-msgstr ""
+msgstr "Nabídka Systém"
 
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:76
 msgid "<primary>System Menu</primary>"
-msgstr ""
+msgstr "<primary>nabídka Systém</primary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:79
@@ -6496,7 +6516,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/goseditmainmenu.xml:93
 msgid "Customizing the Panel Menubar"
-msgstr ""
+msgstr "Přizpůsobení hlavní nabídky panelu"
 
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:96
@@ -6506,12 +6526,12 @@ msgstr "<primary>nabídky</primary> <secondary>přizpůsobení</secondary>"
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:101
 msgid "You can modify the contents of the following menus:"
-msgstr ""
+msgstr "Můžete upravit obsah následujících nabídek:"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:104
 msgid "<guimenu>Applications</guimenu> menu"
-msgstr ""
+msgstr "nabídky <guimenu>Aplikace</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:107
@@ -6519,6 +6539,8 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice>"
 " submenu"
 msgstr ""
+"podnabídku "
+"<menuchoice><guimenu>Systém</guimenu><guisubmenu>Předvolby</guisubmenu></menuchoice>"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:110
@@ -6526,6 +6548,8 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Administration</guisubmenu></menuchoice>"
 " submenu"
 msgstr ""
+"podnabídku "
+"<menuchoice><guimenu>Systém</guimenu><guisubmenu>Správa</guisubmenu></menuchoice>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:114
@@ -11499,7 +11523,7 @@ msgid ""
 "<guilabel>Trash</guilabel>. When you empty <guilabel>Trash</guilabel>, you "
 "delete the contents of <guilabel>Trash</guilabel> permanently."
 msgstr ""
-"Pokud potřebujete obnovit soubor z <guilabel>Koše<guilabel>, můžete si "
+"Pokud potřebujete obnovit soubor z <guilabel>Koše</guilabel>, můžete si "
 "<guilabel>Koš</guilabel>zobrazit a přesunout soubor mimo "
 "<guilabel>Koš</guilabel>. Pokud vyprázdníte <guilabel>Koš</guilabel>, "
 "vymažete obsah <guilabel>Koše</guilabel> trvale."
@@ -14121,6 +14145,11 @@ msgid ""
 "Almost all the work (or play) that you do in MATE will involve these very "
 "basic components."
 msgstr ""
+"Tato kapitola vás seznámí s některými základními komponentami pracovní "
+"plochy. Mezi tyto komponenty patří <glossterm>okna</glossterm>, "
+"<glossterm>pracovní plochy</glossterm> a <glossterm>aplikace</glossterm>. "
+"Téměř všechny práce (nebo hry), které děláte v MATE, zahrnují tyto velmi "
+"základní součásti."
 
 #. (itstool) path: note/para
 #: C/gosoverview.xml:23
@@ -14129,11 +14158,14 @@ msgid ""
 "system administrator may have configured your desktop to look different from"
 " what is described here."
 msgstr ""
+"Tato kapitola popisuje výchozí konfiguraci MATE. Váš dodavatel nebo "
+"systémový administrátor může nakonfigurovat pracovní plochu, aby vypadala "
+"jinak než je zde popsané."
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:35
 msgid "<primary>MATE Desktop components, introducing</primary>"
-msgstr ""
+msgstr "<primary>součásti MATE, představení</primary>"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:39
@@ -14377,7 +14409,7 @@ msgid ""
 " on desktop itself."
 msgstr ""
 "Soubory a složky, které umístíte na pracovní plochu, jsou uloženy ve "
-"speciální složce nazvané <filename>Plocha<filename>. Stejně jako u všech "
+"speciální složce nazvané <filename>Plocha</filename>. Stejně jako u všech "
 "ostatních složek do ní můžete umístit soubory a jiné složky. Jediným "
 "rozdílem je to, že všechno, co je umístěno do složky Plocha, se pak zobrazí "
 "na samotné pracovní ploše."
@@ -14716,8 +14748,8 @@ msgstr ""
 "změnit, nebo stiskněte jednu z kurzorových kláves se šipkami na klávesnici. "
 "Ukazatel se změní a označuje vybraný okraj. Nyní můžete pomocí myši nebo "
 "kláves se šipkami přesunout tento okraj okna. Kliknutím myši nebo stisknutím"
-" tlačítka <keycap>Enter<keycap> potvrdíte změnu. Stisknutím klávesy "
-"<keycap>Escape<keycap> zrušíte změnu velikosti a vrátíte okno do původní "
+" tlačítka <keycap>Enter</keycap> potvrdíte změnu. Stisknutím klávesy "
+"<keycap>Escape</keycap> zrušíte změnu velikosti a vrátíte okno do původní "
 "velikosti a tvaru."
 
 #. (itstool) path: varlistentry/term

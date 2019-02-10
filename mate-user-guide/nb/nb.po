@@ -4,13 +4,14 @@
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Kenneth Jenssen <kennethjenssen@yahoo.com>, 2018
 # Allan Nordhøy <epost@anotheragency.no>, 2018
+# Imre Kristoffer Eilertsen <imreeil42@gmail.com>, 2018
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>, 2018\n"
+"Last-Translator: Imre Kristoffer Eilertsen <imreeil42@gmail.com>, 2018\n"
 "Language-Team: Norwegian Bokmål (https://www.transifex.com/mate/teams/13566/nb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,17 +50,17 @@ msgstr ""
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:17
 msgid "<year>2015</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgstr "<year>2015</year> <holder>MATE Documentation Project</holder>"
 
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:21
 msgid "<year>2005</year> <holder>Shaun McCance</holder>"
-msgstr ""
+msgstr "<year>2005</year> <holder>Shaun McCance</holder>"
 
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:25
 msgid "<year>2004</year> <holder>Sun Microsystems</holder>"
-msgstr ""
+msgstr "<year>2004</year> <holder>Sun Microsystems</holder>"
 
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:29
@@ -245,7 +246,7 @@ msgstr ""
 #. (itstool) path: revdescription/para
 #: C/index.docbook:155
 msgid "Wolfgang Ulbrich"
-msgstr ""
+msgstr "Wolfgang Ulbrich"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:151
@@ -256,7 +257,7 @@ msgstr ""
 #. (itstool) path: revdescription/para
 #: C/index.docbook:163
 msgid "Karderio"
-msgstr ""
+msgstr "Karderio"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:164 C/index.docbook:172 C/index.docbook:179
@@ -275,7 +276,7 @@ msgstr ""
 #. (itstool) path: revdescription/para
 #: C/index.docbook:171
 msgid "Shaun McCance"
-msgstr ""
+msgstr "Shaun McCance"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:167
@@ -295,7 +296,7 @@ msgstr ""
 #: C/index.docbook:210 C/index.docbook:218 C/index.docbook:226
 #: C/index.docbook:234 C/index.docbook:242
 msgid "Sun Microsystems"
-msgstr ""
+msgstr "Sun Microsystems"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:182
@@ -362,7 +363,7 @@ msgstr ""
 #. (itstool) path: appendix/title
 #: C/index.docbook:252 C/gosfeedback.xml:2
 msgid "Feedback"
-msgstr ""
+msgstr "Tilbakemelding"
 
 #. (itstool) path: legalnotice/para
 #: C/index.docbook:253
@@ -483,7 +484,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:78 C/gosbasic.xml:246
 msgid "Left mouse button"
-msgstr ""
+msgstr "Venstre museknapp"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:79
@@ -509,7 +510,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:91 C/gosbasic.xml:267
 msgid "Right mouse button"
-msgstr ""
+msgstr "Høyre museknapp"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:92
@@ -531,7 +532,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gosbasic.xml:104
 msgid "Mouse Actions"
-msgstr ""
+msgstr "Musehandlinger"
 
 #. (itstool) path: section/titleabbrev
 #: C/gosbasic.xml:105
@@ -569,7 +570,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:141
 msgid "Click"
-msgstr ""
+msgstr "Klikk"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:144
@@ -593,7 +594,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:160 C/gospanel.xml:416
 msgid "Middle-click"
-msgstr ""
+msgstr "Mellomklikk"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:163
@@ -604,7 +605,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:169 C/gospanel.xml:423
 msgid "Right-click"
-msgstr ""
+msgstr "Høyreklikk"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:172
@@ -614,7 +615,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:178
 msgid "Double-click"
-msgstr ""
+msgstr "Dobbeltklikk"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:181
@@ -686,32 +687,32 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:249
 msgid "Select text."
-msgstr ""
+msgstr "Velg tekst."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:250
 msgid "Select items."
-msgstr ""
+msgstr "Velg elementer."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:251
 msgid "Drag items."
-msgstr ""
+msgstr "Dra elementer."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:252
 msgid "Activate items."
-msgstr ""
+msgstr "Skru på elementer."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:260
 msgid "Paste text."
-msgstr ""
+msgstr "Lim inn tekst."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:261
 msgid "Move items."
-msgstr ""
+msgstr "Flytt elementer."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:262
@@ -1540,7 +1541,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:940
 msgid "<keycap>F1</keycap>"
-msgstr ""
+msgstr "<keycap>F1</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:943
@@ -1559,7 +1560,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:962
 msgid "Keys"
-msgstr ""
+msgstr "Nøkler"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:972
@@ -1584,7 +1585,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:989
 msgid "<keycap>F10</keycap>"
-msgstr ""
+msgstr "<keycap>F10</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:992
@@ -1604,7 +1605,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:1007
 msgid "<keycap>Esc</keycap>"
-msgstr ""
+msgstr "<keycap>Esc</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:1010
@@ -2167,27 +2168,27 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:294
 msgid "Theme,"
-msgstr ""
+msgstr "Tema,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:297
 msgid "Desktop Background,"
-msgstr ""
+msgstr "Skrivebordsbakgrunn,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:300
 msgid "Fonts,"
-msgstr ""
+msgstr "Skrifttyper,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:303
 msgid "User Interface."
-msgstr ""
+msgstr "Brukergrensesnitt."
 
 #. (itstool) path: sect3/title
 #: C/goscustdesk.xml:307
 msgid "Theme Preferences"
-msgstr ""
+msgstr "Temainnstillinger"
 
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:312
@@ -6623,7 +6624,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:207 C/goscaja.xml:396
 msgid "Component"
-msgstr ""
+msgstr "Komponent"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:217 C/goscaja.xml:406
@@ -6684,7 +6685,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:257 C/goscaja.xml:558
 msgid "Statusbar"
-msgstr ""
+msgstr "Statuslinje"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:260 C/goscaja.xml:561
@@ -6954,7 +6955,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:420
 msgid "Toolbar"
-msgstr ""
+msgstr "Verktøylinje"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:423
@@ -8595,7 +8596,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1396
 msgid "Button"
-msgstr ""
+msgstr "Knapp"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1399
@@ -9630,7 +9631,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2076
 msgid "Property"
-msgstr ""
+msgstr "Eiendom (inkl. tomt)"
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
@@ -15953,7 +15954,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1086
 msgid "Menu Item"
-msgstr ""
+msgstr "Menygjenstand"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1096
@@ -16273,7 +16274,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gospanel.xml:1268
 msgid "Menus"
-msgstr ""
+msgstr "Meny"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1273
@@ -18100,7 +18101,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gostools.xml:472
 msgid "Open a New Window"
-msgstr ""
+msgstr "Åpne et nytt vindu"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:474
@@ -18635,7 +18636,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gostools.xml:890
 msgid "Get Help"
-msgstr ""
+msgstr "Få hjelp"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:892
@@ -19496,7 +19497,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:16
 msgid "enable"
-msgstr ""
+msgstr "aktiver"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:18 C/gosdconfkeys.xml:28 C/gosdconfkeys.xml:38
@@ -19550,7 +19551,7 @@ msgstr ""
 #: C/gosdconfkeys.xml:48 C/gosdconfkeys.xml:1169 C/gosdconfkeys.xml:1179
 #: C/gosdconfkeys.xml:1189 C/gosdconfkeys.xml:1209 C/gosdconfkeys.xml:1219
 msgid "(i)"
-msgstr ""
+msgstr "(i)"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:50
@@ -20304,7 +20305,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:583
 msgid "marco"
-msgstr ""
+msgstr "marco"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:587
@@ -21244,7 +21245,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1147
 msgid "repeat"
-msgstr ""
+msgstr "gjenta"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:1151
@@ -21847,7 +21848,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1542
 msgid "enabled"
-msgstr ""
+msgstr "aktivert"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1544
@@ -21920,7 +21921,7 @@ msgstr ""
 #. (itstool) path: para/ulink
 #: C/gosfeedback.xml:33
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:28
@@ -22133,7 +22134,7 @@ msgstr ""
 #. (itstool) path: para/filename
 #: C/glossary.xml:49
 msgid "jpeg"
-msgstr ""
+msgstr "jpeg"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:49
@@ -22379,7 +22380,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:179
 msgid "view"
-msgstr ""
+msgstr "vis"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:181

@@ -7,17 +7,17 @@
 # Martin Wimpress <code@flexion.org>, 2018
 # Carlos Moreira, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # José Vieira <jvieira33@sapo.pt>, 2018
-# Manel Tinoco <maneltinoco@gmail.com>, 2018
 # Rui <xymarior@yandex.com>, 2018
+# Manel Tinoco <maneltinoco@gmail.com>, 2018
+# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Rui <xymarior@yandex.com>, 2018\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2018\n"
 "Language-Team: Portuguese (https://www.transifex.com/mate/teams/13566/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -54,7 +54,7 @@ msgstr ""
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:17
 msgid "<year>2015</year> <holder>MATE Documentation Project</holder>"
-msgstr "2015 Projeto de Documentação MATE"
+msgstr "<year>2015</year> <holder>Projeto de Documentação do MATE</holder>"
 
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:21
@@ -524,13 +524,13 @@ msgstr "Conhecimentos de Utilização do Rato"
 #: C/gosbasic.xml:21
 msgid "<primary>basic skills</primary> <secondary>mouse skills</secondary>"
 msgstr ""
-"<primary>habilidades básicas</primary> <secondary>habilidades do "
-"rato</secondary>"
+"<primary>conhecimentos básicos</primary> <secondary>conhecimentos de "
+"utilização do rato</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:25
 msgid "<primary>mouse</primary> <secondary>basic skills</secondary>"
-msgstr "<primary>rato</primary> <secondary>habilidades básicas</secondary>"
+msgstr "<primary>rato</primary> <secondary>conhecimentos básicos</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:39
@@ -813,6 +813,11 @@ msgid ""
 "Clicking on an element of the interface to move it is sometimes called a "
 "<emphasis>grab</emphasis>."
 msgstr ""
+"Arrastar com o rato é utilizado em vários contextos diferentes. Isto move um"
+" objeto no ecrã com o rato. O objeto é <emphasis>largado</emphasis> na "
+"localização quando o botão do rato é largado. Também se chama a esta opção "
+"<emphasis>arrastar e largar</emphasis>. Clicar num elemento da interface "
+"para o mover é chamado por vezes de <emphasis>agarrar</emphasis>."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:209
@@ -1291,6 +1296,10 @@ msgid ""
 "<phrase>Symbolic link pointer.</phrase> </textobject> </inlinemediaobject> "
 "Symbolic link pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/link_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Ponteiro de atalho simbólico.</phrase> </textobject> "
+"</inlinemediaobject> Symbolic link pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:459
@@ -1327,6 +1336,10 @@ msgid ""
 "fileref=\"figures/ask_pointer.png\"/> </imageobject> <textobject> "
 "<phrase>Ask pointer.</phrase> </textobject> </inlinemediaobject> Ask pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/ask_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Ponteiro de perguntar.</phrase> </textobject> </inlinemediaobject> "
+"Ask pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:478
@@ -1463,11 +1476,14 @@ msgstr "Conhecimentos de Utilização do Teclado"
 #: C/gosbasic.xml:543
 msgid "<primary>basic skills</primary> <secondary>keyboard skills</secondary>"
 msgstr ""
+"<primary>conhecimentos básicos</primary> <secondary>conhecimentos de "
+"utilização do teclado</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:547
 msgid "<primary>keyboard</primary> <secondary>basic skills</secondary>"
 msgstr ""
+"<primary>teclado</primary> <secondary>conhecimentos básicos</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:552
@@ -1769,6 +1785,10 @@ msgid ""
 "resize the window using either the mouse or the arrow keys. To finish "
 "resizing, click the mouse or press any key on the keyboard."
 msgstr ""
+"Redimensione a janela atualmente focalizada. Depois de pressionar este "
+"atalho, pode redimensionar a janela usando o rato ou as teclas de seta. Para"
+" terminar o redimensionamento, clique com o rato ou pressione qualquer tecla"
+" no teclado."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:797
@@ -2130,7 +2150,7 @@ msgstr ""
 "Algumas ferramentas de preferências permitem-lhe alterar áreas essenciais do"
 " seu sistema, e como tal requerem acesso com privilégios de administração. "
 "Ao abrir a ferramenta de preferências, uma caixa de diálogo irá pedir-lhe a "
-"senha de administração. Estas ferramentas encontram-se no submenu "
+"senha de administração. Estas ferramentas encontram-se no sub-menu "
 "<menuchoice><guimenu>Sistema</guimenu><guisubmenu>Administração</guisubmenu></menuchoice>."
 " Este menu também contém aplicações mais complexas para gerir e atualizar o "
 "seu sistema."
@@ -2151,6 +2171,8 @@ msgid ""
 "<primary>accessibility</primary> <secondary>setting assistive technology "
 "preferences</secondary>"
 msgstr ""
+"<primary>acessibilidade</primary> <secondary>configurar preferências de "
+"tecnologia assistida</secondary>"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscustdesk.xml:41
@@ -2239,7 +2261,7 @@ msgstr "Descrição"
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:79
 msgid "<guilabel>Enable assistive technologies</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ativar tecnologias assistidas</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:84
@@ -2280,6 +2302,7 @@ msgstr ""
 msgid ""
 "<primary>keyboard shortcuts</primary> <secondary>configuring</secondary>"
 msgstr ""
+"<primary>teclas de atalhos</primary> <secondary>configurar</secondary>"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:113
@@ -2481,22 +2504,22 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:183
 msgid "<guilabel>Internet</guilabel> (Web, Mail)"
-msgstr ""
+msgstr "<guilabel>Internet</guilabel> (Web, Mail)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:188
 msgid "<guilabel>Multimedia</guilabel> (Multimedia Player)"
-msgstr ""
+msgstr "<guilabel>Multimédia</guilabel> (Reprodutor de Multimédia)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:193
 msgid "<guilabel>System</guilabel> (Terminal)"
-msgstr ""
+msgstr "<guilabel>Sistema</guilabel> (Terminal)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:198
 msgid "<guilabel>Accessibility</guilabel> (Visual, Mobility)"
-msgstr ""
+msgstr "<guilabel>Acessibilidade</guilabel> (Visual, Mobilidade)"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:204
@@ -2542,7 +2565,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:233
 msgid "<guilabel>Command</guilabel>"
-msgstr ""
+msgstr "<guilabel>Comando</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:238
@@ -2558,7 +2581,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:246
 msgid "<guilabel>Run in terminal</guilabel>"
-msgstr ""
+msgstr "<guilabel>Executar no terminal</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:251
@@ -2612,22 +2635,22 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:294
 msgid "Theme,"
-msgstr ""
+msgstr "Tema,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:297
 msgid "Desktop Background,"
-msgstr ""
+msgstr "Fundo da área de trabalho,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:300
 msgid "Fonts,"
-msgstr ""
+msgstr "Fontes,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:303
 msgid "User Interface."
-msgstr ""
+msgstr "Interface do Utilizador."
 
 #. (itstool) path: sect3/title
 #: C/goscustdesk.xml:307
@@ -2639,6 +2662,8 @@ msgstr "Preferências de Tema"
 msgid ""
 "<primary>themes</primary> <secondary>setting controls options</secondary>"
 msgstr ""
+"<primary>temas</primary> <secondary>configurar opções de "
+"controlo</secondary>"
 
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:316
@@ -2646,11 +2671,14 @@ msgid ""
 "<primary>themes</primary> <secondary>setting window frame "
 "options</secondary>"
 msgstr ""
+"<primary>temas</primary> <secondary>configurar opções da moldura da "
+"janela</secondary>"
 
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:321
 msgid "<primary>themes</primary> <secondary>setting icons options</secondary>"
 msgstr ""
+"<primary>temas</primary> <secondary>configurar opções de ícones</secondary>"
 
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:325
@@ -2658,11 +2686,14 @@ msgid ""
 "<primary>windows</primary> <secondary>setting frame theme "
 "options</secondary>"
 msgstr ""
+"<primary>janelas</primary> <secondary>configurar opções do tema da "
+"moldura</secondary>"
 
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:329
 msgid "<primary>preference tools</primary> <secondary>Theme</secondary>"
 msgstr ""
+"<primary>ferramentas de preferências</primary> <secondary>Tema</secondary>"
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:334
@@ -2692,7 +2723,7 @@ msgstr "Controlos"
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:345
 msgid "<primary>GTK+ themes</primary><see>themes, controls options</see>"
-msgstr ""
+msgstr "<primary>Temas GTK+</primary><see>temas, opções de controlo</see>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:346
@@ -2700,6 +2731,8 @@ msgid ""
 "<primary>themes</primary><secondary>controls "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>temas</primary><secondary>opções de "
+"controlo</secondary><tertiary>introdução</tertiary>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:345
@@ -3181,6 +3214,9 @@ msgid ""
 "computer. A standard file selector will be presented. Choose the image you "
 "want and click <guibutton>Open</guibutton>."
 msgstr ""
+"Clique em <guibutton>Adicionar</guibutton> para escolher uma imagem a partir"
+" do computador. Vai aceder a um seletor de ficheiros. Escolha a imagem que "
+"pretende e clique em <guibutton>Abrir</guibutton>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:645
@@ -3884,6 +3920,8 @@ msgid ""
 "<guilabel>To move a window, press-and-hold this key then grab the "
 "window</guilabel>"
 msgstr ""
+"<guilabel>Para mover uma janela mantenha premida esta tecla ao agarrar a "
+"janela</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1062
@@ -4729,6 +4767,8 @@ msgid ""
 "<primary>keyboard</primary> <secondary>configuring general "
 "preferences</secondary>"
 msgstr ""
+"<primary>teclado</primary> <secondary>configurar preferências "
+"gerais</secondary>"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:1476
@@ -5854,6 +5894,9 @@ msgid ""
 "users that are not able to manipulate any buttons. The types of click that "
 "can be performed are: <_:variablelist-1/>"
 msgstr ""
+"Faça várias ações através do clique do rato através do programa; útil para "
+"utilizadores que não conseguem manipular botões. Os tipos de clique que "
+"podem ser feitos são: <_:variablelist-1/>"
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:2329
@@ -6256,6 +6299,13 @@ msgid ""
 "<application>Sound</application> preference tool to choose a sound theme and"
 " modify the bell sound."
 msgstr ""
+"Um tema de sons é uma coleção de efeitos sonoros associados a vários "
+"eventos, tais como abrir uma conversa, clicar um botão ou escolher um item "
+"num menu. Um dos sons mais comuns de evento é o da <emphasis>Campainha de "
+"Sistema</emphasis> que toca várias vezes para indicar um erro de entrada no "
+"teclado. Use a secção de separadores <guilabel>Efeitos Sonoros</guilabel> "
+"das definições de <application>Som</application> para escolher um tema de "
+"sons e alterar o som da campainha."
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:2615
@@ -7708,7 +7758,7 @@ msgstr "Localizações que correspondem a URIs especiais"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:257 C/goscaja.xml:558
 msgid "Statusbar"
-msgstr "Barra de estados"
+msgstr "Barra de estado"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:260 C/goscaja.xml:561
@@ -7951,7 +8001,7 @@ msgid ""
 "Tools</guimenuitem><guimenuitem>File Browser</guimenuitem></menuchoice>."
 msgstr ""
 "Selecione <menuchoice><guimenu>Aplicações</guimenu><guimenuitem>Ferramentas "
-"de Sistema</guimenuitem><guimenuitem>Navegador de "
+"do Sistema</guimenuitem><guimenuitem>Navegador de "
 "Ficheiros</guimenuitem></menuchoice>."
 
 #. (itstool) path: listitem/para
@@ -8319,11 +8369,11 @@ msgid ""
 "<menuchoice><guimenu>View</guimenu><guimenuitem>Statusbar</guimenuitem></menuchoice>"
 " again."
 msgstr ""
-"Para esconder a barra de estados, selecione "
+"Para esconder a barra de estado, selecione "
 "<menuchoice><guimenu>Ver</guimenu><guimenuitem>Barra de "
-"Estados</guimenuitem></menuchoice>. Para revelar a barra de estados, "
-"selecione novamente <menuchoice><guimenu>Ver</guimenu><guimenuitem>Barra de "
-"Estados</guimenuitem></menuchoice>."
+"Estado</guimenuitem></menuchoice>. Para revelar a barra de estado, selecione"
+" novamente <menuchoice><guimenu>Ver</guimenu><guimenuitem>Barra de "
+"Estado</guimenuitem></menuchoice>."
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:597
@@ -10647,6 +10697,9 @@ msgid ""
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste "
 "</guimenuitem></menuchoice>."
 msgstr ""
+"Abra a pasta para a qual deseja mover o ficheiro ou pasta, e escolha "
+"<menuchoice><guimenu>Editar</guimenu><guimenuitem>Colar</guimenuitem></menuchoice>."
+" "
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:1804
@@ -10727,6 +10780,8 @@ msgid ""
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste "
 "</guimenuitem></menuchoice>."
 msgstr ""
+"Abra a pasta para a qual deseja copiar o ficheiro ou pasta, e escolha "
+"<menuchoice><guimenu>Editar</guimenu><guimenuitem>Colar</guimenuitem></menuchoice>."
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:1848
@@ -11833,8 +11888,8 @@ msgid ""
 "To delete a note, delete the note text from <guilabel>Notes</guilabel> in "
 "the side pane."
 msgstr ""
-"Para apagar uma nota, apague o text da nota das <guilabel>Notas</guilabel> "
-"no painel lateral."
+"Para eliminar uma nota, apague o texto da nota das "
+"<guilabel>Notas</guilabel> no painel lateral."
 
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:2374
@@ -12047,9 +12102,9 @@ msgid ""
 "remove the wrong file."
 msgstr ""
 "O Lixo é uma pasta especial que contém os ficheiros que já não deseja "
-"guardar. Os ficheiros contidos no Lixo não são definitivamente apagados até "
-"que esvazie o lixo. Este processo em duas fases serve para o caso de mudar "
-"de ideias, ou acidentalmente apagar o ficheiro errado."
+"guardar. Os ficheiros contidos no Lixo não são definitivamente eliminados "
+"até que esvazie o lixo. Este processo em duas fases serve para o caso de "
+"mudar de ideias, ou acidentalmente eliminar o ficheiro errado."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:2479
@@ -13891,6 +13946,10 @@ msgid ""
 "view, or the compact view, which is a variant of the icon view that is "
 "organized in columns rather than rows.."
 msgstr ""
+"Escolha a vista padrão para as pastas. Sempre que abrir uma pasta, ela será "
+"visualizada na vista que escolher. Pode ser a vista de ícones, a vista "
+"listada ou a lista compacta, que é uma variante da vista de ícones, "
+"organizada em colunas no lugar de linhas.."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3439
@@ -16190,11 +16249,15 @@ msgid ""
 "preference tool</link> to change the look-and-feel of your MATE-compliant "
 "applications."
 msgstr ""
+"As aplicações compatíveis com o MATE têm um visual e utilização "
+"consistentes. Pode escolher a<link linkend=\"prefs-"
+"theme\"><application>Aparência</application>e suas definições</link>para "
+"mudar o visual e utlização das suas aplicações compatíveis com o MATE. "
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:443
 msgid "Menubars, toolbars, and statusbars"
-msgstr "Barras de menus, ferramentas e estados"
+msgstr "Barras de menus, ferramentas e estado"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:444
@@ -17154,6 +17217,9 @@ msgid ""
 "tool</link>. This keeps your panel's background looking the same as the rest"
 " of the desktop and applications."
 msgstr ""
+"Escolha esta opção para usar o painel com as definições da <link linkend"
+"=\"prefs-theme\"><application>Aparência</application></link>. Isto fará o "
+"fundo do seu painel igual ao resto do ambiente de trabalho e das aplicações."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:273
@@ -18279,8 +18345,8 @@ msgid ""
 "This is displayed as a tooltip when you point to the launcher icon on the "
 "panel."
 msgstr ""
-"Este texto é apresentado como dica quando se coloca o ponteiro do rato sobre"
-" o ícone do iniciador no painel."
+"Este texto é apresentado como dica de contexto quando se coloca o ponteiro "
+"do rato sobre o ícone do iniciador no painel."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:864
@@ -19354,12 +19420,14 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gospanel.xml:1532
 msgid "Notification Area Applet"
-msgstr "Applet de Área de Notificação"
+msgstr "Mini-Aplicação de Área de Notificação"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1535
 msgid "<primary>applets</primary> <secondary>Notification Area</secondary>"
 msgstr ""
+"<primary>mini-aplicações</primary> <secondary>Área de "
+"Notificação</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1539
@@ -19371,7 +19439,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1544
 msgid "<primary>Notification Area applet</primary>"
-msgstr ""
+msgstr "<primary>Mini-aplicação de Área de Notificação</primary>"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -19394,6 +19462,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Notification Area "
 "icon.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/notification_area_icon.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Ícone de Área de "
+"Notificação.</phrase> </textobject>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1557
@@ -21775,6 +21846,12 @@ msgid ""
 "Documentation Build Utilities</ulink> are relied upon by application authors"
 " to install and register documentation within the help system."
 msgstr ""
+"<_:itemizedlist-1/><application>O Navegador de Ajuda Yelp</application>é "
+"baseado em <ulink url=\"help:mate-doc-xslt\">Folhas de Estilo XSLT "
+"MATE</ulink>para converter DocBook em HTML.<ulink url=\"help:mate-doc-"
+"make\">Os Documentos de Programação MATE</ulink> são da autoria de criadores"
+" de aplicações para instalar e registar documentação de acordo com o sistema"
+" de ajuda."
 
 #. (itstool) path: section/title
 #: C/gostools.xml:1046
@@ -21789,6 +21866,11 @@ msgid ""
 "desktop.org\"/>, or subscribe to the mailing list, <ulink type=\"http\" "
 "url=\"http://ml.mate-desktop.org/listinfo/mate-dev\"/>."
 msgstr ""
+"Para mais informação sobre o <application>Navegador de Ajuda "
+"Yelp</application>, por favor visite a homepage de Documentação do Projeto, "
+"<ulink url=\"http://mate-desktop.org\"/>, ou subscreva a lista de "
+"correio,<ulink type=\"http\" url=\"http://ml.mate-desktop.org/listinfo/mate-"
+"dev\"/>."
 
 #. (itstool) path: section/title
 #: C/gostools.xml:1054
@@ -21995,6 +22077,9 @@ msgid ""
 "Tools</guimenuitem><guimenuitem>dconf Editor</guimenuitem></menuchoice> from"
 " the top panel."
 msgstr ""
+"Escolha <menuchoice><guimenu>Aplicações</guimenu><guimenuitem>Ferramentas do"
+" Sistema</guimenuitem><guimenuitem>Editor dconf</guimenuitem></menuchoice> "
+"do painel superior."
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:115
@@ -22050,6 +22135,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/picture-filename\n"
 "'/usr/share/backgrounds/mate/desktop/MATE-Stripes-Dark.png'"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/picture-filename\n"
+"'/usr/share/backgrounds/mate/desktop/MATE-Stripes-Dark.png'"
 
 #. (itstool) path: sect3/para
 #: C/gosdconf.xml:141 C/gosdconf.xml:158 C/gosdconf.xml:251 C/gosdconf.xml:267
@@ -22231,6 +22318,8 @@ msgid ""
 "$ dconf write /org/mate/desktop/background/picture-filename \\\n"
 "\"'/usr/share/backgrounds/mate/desktop/MATE-Stripes-Light.png'\""
 msgstr ""
+"$ dconf write /org/mate/desktop/background/picture-filename \\\n"
+"\"'/usr/share/backgrounds/mate/desktop/MATE-Stripes-Light.png'\""
 
 #. (itstool) path: sect3/synopsis
 #: C/gosdconf.xml:254
@@ -22289,7 +22378,7 @@ msgstr ""
 #: C/gosdconf.xml:286
 #, no-wrap
 msgid "$ dconf dump /org/mate/desktop/background/ &gt; file.dconf"
-msgstr ""
+msgstr "$ dconf dump /org/mate/desktop/background/ &gt; file.dconf"
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:289
@@ -22317,7 +22406,7 @@ msgstr ""
 #: C/gosdconf.xml:300
 #, no-wrap
 msgid "$ dconf load /org/mate/desktop/background/ &lt; file.dconf"
-msgstr ""
+msgstr "$ dconf load /org/mate/desktop/background/ &lt; file.dconf"
 
 #. (itstool) path: tip/para
 #: C/gosdconf.xml:303
@@ -22333,6 +22422,8 @@ msgid ""
 "$ dconf dump /org/mate/ &gt; backup.dconf\n"
 "$ dconf load /org/mate/ &lt; backup.dconf"
 msgstr ""
+"$ dconf dump /org/mate/ &gt; backup.dconf\n"
+"$ dconf load /org/mate/ &lt; backup.dconf"
 
 #. (itstool) path: sect1/title
 #: C/gosdconfkeys.xml:3
@@ -22342,7 +22433,7 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:5
 msgid "Dconf Directory: /org/mate/desktop/accessibility/keyboard/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/accessibility/keyboard/"
 
 #. (itstool) path: sect2/para
 #: C/gosdconfkeys.xml:6 C/gosdconfkeys.xml:229 C/gosdconfkeys.xml:252
@@ -22361,6 +22452,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/accessibility/keyboard/ $ gsettings list-keys"
 " org.mate.accessibility-keyboard"
 msgstr ""
+"$ dconf list /org/mate/desktop/accessibility/keyboard/ $ gsettings list-keys"
+" org.mate.accessibility-keyboard"
 
 #. (itstool) path: para/command
 #: C/gosdconfkeys.xml:12 C/gosdconfkeys.xml:235 C/gosdconfkeys.xml:258
@@ -22371,7 +22464,7 @@ msgstr ""
 #: C/gosdconfkeys.xml:1369 C/gosdconfkeys.xml:1442 C/gosdconfkeys.xml:1475
 #: C/gosdconfkeys.xml:1508
 msgid "dconf"
-msgstr ""
+msgstr "dconf"
 
 #. (itstool) path: para/command
 #: C/gosdconfkeys.xml:12 C/gosdconfkeys.xml:235 C/gosdconfkeys.xml:258
@@ -22432,6 +22525,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/enable $ gsettings get"
 " org.mate.accessibility-keyboard enable"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/enable $ gsettings get"
+" org.mate.accessibility-keyboard enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:26
@@ -22445,6 +22540,9 @@ msgid ""
 "beep $ gsettings get org.mate.accessibility-keyboard feature-state-change-"
 "beep"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/feature-state-change-"
+"beep $ gsettings get org.mate.accessibility-keyboard feature-state-change-"
+"beep"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:36
@@ -22457,6 +22555,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/timeout-enable $ "
 "gsettings get org.mate.accessibility-keyboard timeout-enable"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/timeout-enable $ "
+"gsettings get org.mate.accessibility-keyboard timeout-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:46
@@ -22475,6 +22575,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/timeout $ gsettings "
 "get org.mate.accessibility-keyboard timeout"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/timeout $ gsettings "
+"get org.mate.accessibility-keyboard timeout"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:56
@@ -22487,6 +22589,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/bouncekeys-enable $ "
 "gsettings get org.mate.accessibility-keyboard bouncekeys-enable"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/bouncekeys-enable $ "
+"gsettings get org.mate.accessibility-keyboard bouncekeys-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:66
@@ -22505,6 +22609,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/bouncekeys-delay $ "
 "gsettings get org.mate.accessibility-keyboard bouncekeys-delay"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/bouncekeys-delay $ "
+"gsettings get org.mate.accessibility-keyboard bouncekeys-delay"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:76
@@ -22517,6 +22623,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/bouncekeys-beep-reject"
 " $ gsettings get org.mate.accessibility-keyboard bouncekeys-beep-reject"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/bouncekeys-beep-reject"
+" $ gsettings get org.mate.accessibility-keyboard bouncekeys-beep-reject"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:86
@@ -22529,6 +22637,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-enable $ "
 "gsettings get org.mate.accessibility-keyboard mousekeys-enable"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-enable $ "
+"gsettings get org.mate.accessibility-keyboard mousekeys-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:96
@@ -22546,6 +22656,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-max-speed $ "
 "gsettings get org.mate.accessibility-keyboard mousekeys-max-speed"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-max-speed $ "
+"gsettings get org.mate.accessibility-keyboard mousekeys-max-speed"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:106
@@ -22563,6 +22675,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-accel-time $"
 " gsettings get org.mate.accessibility-keyboard mousekeys-accel-time"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-accel-time $"
+" gsettings get org.mate.accessibility-keyboard mousekeys-accel-time"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:116
@@ -22582,6 +22696,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-init-delay $"
 " gsettings get org.mate.accessibility-keyboard mousekeys-init-delay"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/mousekeys-init-delay $"
+" gsettings get org.mate.accessibility-keyboard mousekeys-init-delay"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:126
@@ -22594,6 +22710,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-enable $ "
 "gsettings get org.mate.accessibility-keyboard slowkeys-enable"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-enable $ "
+"gsettings get org.mate.accessibility-keyboard slowkeys-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:136
@@ -22613,6 +22731,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-delay $ "
 "gsettings get org.mate.accessibility-keyboard slowkeys-delay"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-delay $ "
+"gsettings get org.mate.accessibility-keyboard slowkeys-delay"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:146
@@ -22625,6 +22745,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-beep-press $ "
 "gsettings get org.mate.accessibility-keyboard slowkeys-beep-press"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-beep-press $ "
+"gsettings get org.mate.accessibility-keyboard slowkeys-beep-press"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:156
@@ -22637,6 +22759,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-beep-accept $"
 " gsettings get org.mate.accessibility-keyboard slowkeys-beep-accept"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-beep-accept $"
+" gsettings get org.mate.accessibility-keyboard slowkeys-beep-accept"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:166
@@ -22649,6 +22773,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-beep-reject $"
 " gsettings get org.mate.accessibility-keyboard slowkeys-beep-reject"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/slowkeys-beep-reject $"
+" gsettings get org.mate.accessibility-keyboard slowkeys-beep-reject"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:176
@@ -22661,6 +22787,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-enable $ "
 "gsettings get org.mate.accessibility-keyboard stickykeys-enable"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-enable $ "
+"gsettings get org.mate.accessibility-keyboard stickykeys-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:186
@@ -22681,6 +22809,9 @@ msgid ""
 "lock $ gsettings get org.mate.accessibility-keyboard stickykeys-latch-to-"
 "lock"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-latch-to-"
+"lock $ gsettings get org.mate.accessibility-keyboard stickykeys-latch-to-"
+"lock"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:196
@@ -22698,6 +22829,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-two-key-off"
 " $ gsettings get org.mate.accessibility-keyboard stickykeys-two-key-off"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-two-key-off"
+" $ gsettings get org.mate.accessibility-keyboard stickykeys-two-key-off"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:206
@@ -22716,6 +22849,9 @@ msgid ""
 "beep $ gsettings get org.mate.accessibility-keyboard stickykeys-modifier-"
 "beep"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/stickykeys-modifier-"
+"beep $ gsettings get org.mate.accessibility-keyboard stickykeys-modifier-"
+"beep"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:216
@@ -22728,11 +22864,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/keyboard/togglekeys-enable $ "
 "gsettings get org.mate.accessibility-keyboard togglekeys-enable"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/keyboard/togglekeys-enable $ "
+"gsettings get org.mate.accessibility-keyboard togglekeys-enable"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:228
 msgid "Dconf Directory: /org/mate/desktop/accessibility/startup/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/accessibility/startup/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:231
@@ -22740,6 +22878,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/accessibility/startup/ $ gsettings list-keys "
 "org.mate.accessibility-startup"
 msgstr ""
+"$ dconf list /org/mate/desktop/accessibility/startup/ $ gsettings list-keys "
+"org.mate.accessibility-startup"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:239
@@ -22759,11 +22899,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/accessibility/startup/exec-ats $ gsettings "
 "get org.mate.accessibility-startup exec-ats"
 msgstr ""
+"$ dconf read /org/mate/desktop/accessibility/startup/exec-ats $ gsettings "
+"get org.mate.accessibility-startup exec-ats"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:251
 msgid "Dconf Directory: /org/mate/desktop/applications/at/mobility/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/applications/at/mobility/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:254
@@ -22771,6 +22913,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/applications/at/mobility/ $ gsettings list-"
 "keys org.mate.applications-at-mobility"
 msgstr ""
+"$ dconf list /org/mate/desktop/applications/at/mobility/ $ gsettings list-"
+"keys org.mate.applications-at-mobility"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:262 C/gosdconfkeys.xml:295 C/gosdconfkeys.xml:328
@@ -22791,6 +22935,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/at/mobility/exec $ gsettings get"
 " org.mate.applications-at-mobility exec"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/at/mobility/exec $ gsettings get"
+" org.mate.applications-at-mobility exec"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:272 C/gosdconfkeys.xml:305
@@ -22810,11 +22956,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/at/mobility/startup $ gsettings "
 "get org.mate.applications-at-mobility startup"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/at/mobility/startup $ gsettings "
+"get org.mate.applications-at-mobility startup"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:284
 msgid "Dconf Directory: /org/mate/desktop/applications/at/visual/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/applications/at/visual/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:287
@@ -22822,6 +22970,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/applications/at/visual/ $ gsettings list-keys"
 " org.mate.applications-at-visual"
 msgstr ""
+"$ dconf list /org/mate/desktop/applications/at/visual/ $ gsettings list-keys"
+" org.mate.applications-at-visual"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:297
@@ -22836,6 +22986,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/at/visual/exec $ gsettings get "
 "org.mate.applications-at-visual exec"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/at/visual/exec $ gsettings get "
+"org.mate.applications-at-visual exec"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:307
@@ -22850,11 +23002,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/at/visual/startup $ gsettings "
 "get org.mate.applications-at-visual startup"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/at/visual/startup $ gsettings "
+"get org.mate.applications-at-visual startup"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:317
 msgid "Dconf Directory: /org/mate/desktop/applications/browser/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/applications/browser/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:320
@@ -22862,6 +23016,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/applications/browser/ $ gsettings list-keys "
 "org.mate.applications-browser"
 msgstr ""
+"$ dconf list /org/mate/desktop/applications/browser/ $ gsettings list-keys "
+"org.mate.applications-browser"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:330
@@ -22874,6 +23030,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/browser/exec $ gsettings get "
 "org.mate.applications-browser exec"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/browser/exec $ gsettings get "
+"org.mate.applications-browser exec"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:338 C/gosdconfkeys.xml:381 C/gosdconfkeys.xml:414
@@ -22891,6 +23049,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/browser/needs-term $ gsettings "
 "get org.mate.applications-browser needs-term"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/browser/needs-term $ gsettings "
+"get org.mate.applications-browser needs-term"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:348
@@ -22908,11 +23068,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/browser/nremote $ gsettings get "
 "org.mate.applications-browser nremote"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/browser/nremote $ gsettings get "
+"org.mate.applications-browser nremote"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:360
 msgid "Dconf Directory: /org/mate/desktop/applications/calendar/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/applications/calendar/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:363
@@ -22920,6 +23082,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/applications/calendar/ $ gsettings list-keys "
 "org.mate.applications-office.calendar"
 msgstr ""
+"$ dconf list /org/mate/desktop/applications/calendar/ $ gsettings list-keys "
+"org.mate.applications-office.calendar"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:373
@@ -22932,6 +23096,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/calendar/exec $ gsettings get "
 "org.mate.applications-office.calendar exec"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/calendar/exec $ gsettings get "
+"org.mate.applications-office.calendar exec"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:383
@@ -22944,11 +23110,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/calendar/needs-term $ gsettings "
 "get org.mate.applications-office.calendar needs-term"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/calendar/needs-term $ gsettings "
+"get org.mate.applications-office.calendar needs-term"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:393
 msgid "Dconf Directory: /org/mate/desktop/applications/tasks/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/applications/tasks/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:396
@@ -22956,6 +23124,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/applications/tasks/ $ gsettings list-keys "
 "org.mate.applications-office.tasks"
 msgstr ""
+"$ dconf list /org/mate/desktop/applications/tasks/ $ gsettings list-keys "
+"org.mate.applications-office.tasks"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:406
@@ -22968,6 +23138,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/tasks/exec $ gsettings get "
 "org.mate.applications-office.tasks exec"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/tasks/exec $ gsettings get "
+"org.mate.applications-office.tasks exec"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:416
@@ -22980,11 +23152,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/tasks/needs-term $ gsettings get"
 " org.mate.applications-office.tasks needs-term"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/tasks/needs-term $ gsettings get"
+" org.mate.applications-office.tasks needs-term"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:426
 msgid "Dconf Directory: /org/mate/desktop/applications/terminal/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/applications/terminal/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:429
@@ -22992,6 +23166,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/applications/terminal/ $ gsettings list-keys "
 "org.mate.applications-terminal"
 msgstr ""
+"$ dconf list /org/mate/desktop/applications/terminal/ $ gsettings list-keys "
+"org.mate.applications-terminal"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:439
@@ -23005,6 +23181,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/terminal/exec $ gsettings get "
 "org.mate.applications-terminal exec"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/terminal/exec $ gsettings get "
+"org.mate.applications-terminal exec"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:447
@@ -23024,11 +23202,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/applications/terminal/exec-arg $ gsettings "
 "get org.mate.applications-terminal exec-arg"
 msgstr ""
+"$ dconf read /org/mate/desktop/applications/terminal/exec-arg $ gsettings "
+"get org.mate.applications-terminal exec-arg"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:459
 msgid "Dconf Directory: /org/mate/desktop/background/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/background/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:462
@@ -23036,6 +23216,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/background/ $ gsettings list-keys "
 "org.mate.background"
 msgstr ""
+"$ dconf list /org/mate/desktop/background/ $ gsettings list-keys "
+"org.mate.background"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:470
@@ -23053,6 +23235,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/draw-background $ gsettings get "
 "org.mate.background draw-background"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/draw-background $ gsettings get "
+"org.mate.background draw-background"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:480
@@ -23070,6 +23254,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/show-desktop-icons $ gsettings get"
 " org.mate.background show-desktop-icons"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/show-desktop-icons $ gsettings get"
+" org.mate.background show-desktop-icons"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:490
@@ -23089,6 +23275,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/background-fade $ gsettings get "
 "org.mate.background background-fade"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/background-fade $ gsettings get "
+"org.mate.background background-fade"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:500
@@ -23109,6 +23297,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/picture-options $ gsettings get "
 "org.mate.background picture-options"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/picture-options $ gsettings get "
+"org.mate.background picture-options"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:510
@@ -23126,6 +23316,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/picture-filename $ gsettings get "
 "org.mate.background picture-filename"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/picture-filename $ gsettings get "
+"org.mate.background picture-filename"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:520
@@ -23143,6 +23335,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/picture-opacity $ gsettings get "
 "org.mate.background picture-opacity"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/picture-opacity $ gsettings get "
+"org.mate.background picture-opacity"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:530
@@ -23160,6 +23354,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/primary-color $ gsettings get "
 "org.mate.background primary-color"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/primary-color $ gsettings get "
+"org.mate.background primary-color"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:540
@@ -23178,6 +23374,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/secondary-color $ gsettings get "
 "org.mate.background secondary-color"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/secondary-color $ gsettings get "
+"org.mate.background secondary-color"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:550
@@ -23197,16 +23395,18 @@ msgid ""
 "$ dconf read /org/mate/desktop/background/color-shading-type $ gsettings get"
 " org.mate.background color-shading-type"
 msgstr ""
+"$ dconf read /org/mate/desktop/background/color-shading-type $ gsettings get"
+" org.mate.background color-shading-type"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:562
 msgid "Dconf Directory: /org/mate/debug/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/debug/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:565
 msgid "$ dconf list /org/mate/debug/ $ gsettings list-keys org.mate.debug"
-msgstr ""
+msgstr "$ dconf list /org/mate/debug/ $ gsettings list-keys org.mate.debug"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:573
@@ -23216,7 +23416,7 @@ msgstr ""
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:577
 msgid "$ dconf read /org/mate/debug/caja $ gsettings get org.mate.debug caja"
-msgstr ""
+msgstr "$ dconf read /org/mate/debug/caja $ gsettings get org.mate.debug caja"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:583
@@ -23228,6 +23428,7 @@ msgstr ""
 msgid ""
 "$ dconf read /org/mate/debug/marco $ gsettings get org.mate.debug marco"
 msgstr ""
+"$ dconf read /org/mate/debug/marco $ gsettings get org.mate.debug marco"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:593
@@ -23240,6 +23441,8 @@ msgid ""
 "$ dconf read /org/mate/debug/mate-session $ gsettings get org.mate.debug "
 "mate-session"
 msgstr ""
+"$ dconf read /org/mate/debug/mate-session $ gsettings get org.mate.debug "
+"mate-session"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:603
@@ -23252,6 +23455,8 @@ msgid ""
 "$ dconf read /org/mate/debug/mate-settings-daemon $ gsettings get "
 "org.mate.debug mate-settings-daemon"
 msgstr ""
+"$ dconf read /org/mate/debug/mate-settings-daemon $ gsettings get "
+"org.mate.debug mate-settings-daemon"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:613
@@ -23264,11 +23469,13 @@ msgid ""
 "$ dconf read /org/mate/debug/mate-panel $ gsettings get org.mate.debug mate-"
 "panel"
 msgstr ""
+"$ dconf read /org/mate/debug/mate-panel $ gsettings get org.mate.debug mate-"
+"panel"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:625
 msgid "Dconf Directory: /org/mate/desktop/file-views/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/file-views/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:628
@@ -23276,6 +23483,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/file-views/ $ gsettings list-keys org.mate"
 ".file-views"
 msgstr ""
+"$ dconf list /org/mate/desktop/file-views/ $ gsettings list-keys org.mate"
+".file-views"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:636 C/gosdconfkeys.xml:769
@@ -23293,11 +23502,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/file-views/icon-theme $ gsettings get "
 "org.mate.file-views icon-theme"
 msgstr ""
+"$ dconf read /org/mate/desktop/file-views/icon-theme $ gsettings get "
+"org.mate.file-views icon-theme"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:648
 msgid "Dconf Directory: /org/mate/desktop/interface/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/interface/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:651
@@ -23305,6 +23516,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/interface/ $ gsettings list-keys "
 "org.mate.interface"
 msgstr ""
+"$ dconf list /org/mate/desktop/interface/ $ gsettings list-keys "
+"org.mate.interface"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:659
@@ -23322,6 +23535,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/accessibility $ gsettings get "
 "org.mate.interface accessibility"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/accessibility $ gsettings get "
+"org.mate.interface accessibility"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:669
@@ -23341,6 +23556,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/enable-animations $ gsettings get "
 "org.mate.interface enable-animations"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/enable-animations $ gsettings get "
+"org.mate.interface enable-animations"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:679
@@ -23358,6 +23575,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/menus-have-tearoff $ gsettings get "
 "org.mate.interface menus-have-tearoff"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/menus-have-tearoff $ gsettings get "
+"org.mate.interface menus-have-tearoff"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:689
@@ -23375,6 +23594,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/toolbar-style $ gsettings get "
 "org.mate.interface toolbar-style"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/toolbar-style $ gsettings get "
+"org.mate.interface toolbar-style"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:699
@@ -23392,6 +23613,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/menus-have-icons $ gsettings get "
 "org.mate.interface menus-have-icons"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/menus-have-icons $ gsettings get "
+"org.mate.interface menus-have-icons"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:709
@@ -23410,6 +23633,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/buttons-have-icons $ gsettings get "
 "org.mate.interface buttons-have-icons"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/buttons-have-icons $ gsettings get "
+"org.mate.interface buttons-have-icons"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:719
@@ -23427,6 +23652,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/menubar-detachable $ gsettings get "
 "org.mate.interface menubar-detachable"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/menubar-detachable $ gsettings get "
+"org.mate.interface menubar-detachable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:729
@@ -23444,6 +23671,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/toolbar-detachable $ gsettings get "
 "org.mate.interface toolbar-detachable"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/toolbar-detachable $ gsettings get "
+"org.mate.interface toolbar-detachable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:739
@@ -23461,6 +23690,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/toolbar-icons-size $ gsettings get "
 "org.mate.interface toolbar-icons-size"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/toolbar-icons-size $ gsettings get "
+"org.mate.interface toolbar-icons-size"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:749
@@ -23478,6 +23709,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/cursor-blink $ gsettings get "
 "org.mate.interface cursor-blink"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/cursor-blink $ gsettings get "
+"org.mate.interface cursor-blink"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:759
@@ -23495,6 +23728,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/cursor-blink-time $ gsettings get "
 "org.mate.interface cursor-blink-time"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/cursor-blink-time $ gsettings get "
+"org.mate.interface cursor-blink-time"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:771
@@ -23507,6 +23742,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/icon-theme $ gsettings get "
 "org.mate.interface icon-theme"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/icon-theme $ gsettings get "
+"org.mate.interface icon-theme"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:779
@@ -23524,6 +23761,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-theme $ gsettings get "
 "org.mate.interface gtk-theme"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-theme $ gsettings get "
+"org.mate.interface gtk-theme"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:789
@@ -23536,6 +23775,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-key-theme $ gsettings get "
 "org.mate.interface gtk-key-theme"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-key-theme $ gsettings get "
+"org.mate.interface gtk-key-theme"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:799
@@ -23555,6 +23796,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-color-scheme $ gsettings get "
 "org.mate.interface gtk-color-scheme"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-color-scheme $ gsettings get "
+"org.mate.interface gtk-color-scheme"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:809
@@ -23572,6 +23815,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/font-name $ gsettings get "
 "org.mate.interface font-name"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/font-name $ gsettings get "
+"org.mate.interface font-name"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:819
@@ -23589,6 +23834,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-im-preedit-style $ gsettings "
 "get org.mate.interface gtk-im-preedit-style"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-im-preedit-style $ gsettings "
+"get org.mate.interface gtk-im-preedit-style"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:829
@@ -23606,6 +23853,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-im-status-style $ gsettings get"
 " org.mate.interface gtk-im-status-style"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-im-status-style $ gsettings get"
+" org.mate.interface gtk-im-status-style"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:839
@@ -23623,6 +23872,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-im-module $ gsettings get "
 "org.mate.interface gtk-im-module"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-im-module $ gsettings get "
+"org.mate.interface gtk-im-module"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:849
@@ -23644,6 +23895,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-dialogs-use-header $ gsettings "
 "get org.mate.interface gtk-dialogs-use-header"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-dialogs-use-header $ gsettings "
+"get org.mate.interface gtk-dialogs-use-header"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:859
@@ -23664,6 +23917,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-overlay-scrolling $ gsettings "
 "get org.mate.interface gtk-overlay-scrolling"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-overlay-scrolling $ gsettings "
+"get org.mate.interface gtk-overlay-scrolling"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:869
@@ -23681,6 +23936,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-enable-animations $ gsettings "
 "get org.mate.interface gtk-enable-animations"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-enable-animations $ gsettings "
+"get org.mate.interface gtk-enable-animations"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:879
@@ -23698,6 +23955,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/document-font-name $ gsettings get "
 "org.mate.interface document-font-name"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/document-font-name $ gsettings get "
+"org.mate.interface document-font-name"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:889
@@ -23717,6 +23976,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/monospace-font-name $ gsettings get"
 " org.mate.interface monospace-font-name"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/monospace-font-name $ gsettings get"
+" org.mate.interface monospace-font-name"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:899
@@ -23734,6 +23995,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/use-custom-font $ gsettings get "
 "org.mate.interface use-custom-font"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/use-custom-font $ gsettings get "
+"org.mate.interface use-custom-font"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:909
@@ -23751,6 +24014,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/status-bar-meter-on-right $ "
 "gsettings get org.mate.interface status-bar-meter-on-right"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/status-bar-meter-on-right $ "
+"gsettings get org.mate.interface status-bar-meter-on-right"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:919
@@ -23770,6 +24035,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/file-chooser-backend $ gsettings "
 "get org.mate.interface file-chooser-backend"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/file-chooser-backend $ gsettings "
+"get org.mate.interface file-chooser-backend"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:929
@@ -23787,6 +24054,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/menubar-accel $ gsettings get "
 "org.mate.interface menubar-accel"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/menubar-accel $ gsettings get "
+"org.mate.interface menubar-accel"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:939
@@ -23806,6 +24075,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/show-input-method-menu $ gsettings "
 "get org.mate.interface show-input-method-menu"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/show-input-method-menu $ gsettings "
+"get org.mate.interface show-input-method-menu"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:949
@@ -23825,6 +24096,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/show-unicode-menu $ gsettings get "
 "org.mate.interface show-unicode-menu"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/show-unicode-menu $ gsettings get "
+"org.mate.interface show-unicode-menu"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:959
@@ -23847,6 +24120,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-decoration-layout $ gsettings "
 "get org.mate.interface gtk-decoration-layout"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-decoration-layout $ gsettings "
+"get org.mate.interface gtk-decoration-layout"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:969
@@ -23868,6 +24143,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-shell-shows-app-menu $ "
 "gsettings get org.mate.interface gtk-shell-shows-app-menu"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-shell-shows-app-menu $ "
+"gsettings get org.mate.interface gtk-shell-shows-app-menu"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:979
@@ -23889,6 +24166,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-shell-shows-menubar $ gsettings"
 " get org.mate.interface gtk-shell-shows-menubar"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-shell-shows-menubar $ gsettings"
+" get org.mate.interface gtk-shell-shows-menubar"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:989
@@ -23908,6 +24187,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/automatic-mnemonics $ gsettings get"
 " org.mate.interface automatic-mnemonics"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/automatic-mnemonics $ gsettings get"
+" org.mate.interface automatic-mnemonics"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:999
@@ -23929,6 +24210,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/window-scaling-factor $ gsettings "
 "get org.mate.interface window-scaling-factor"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/window-scaling-factor $ gsettings "
+"get org.mate.interface window-scaling-factor"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1009
@@ -23950,6 +24233,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/window-scaling-factor-qt-sync $ "
 "gsettings get org.mate.interface window-scaling-factor-qt-sync"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/window-scaling-factor-qt-sync $ "
+"gsettings get org.mate.interface window-scaling-factor-qt-sync"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1019
@@ -23969,11 +24254,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/interface/gtk-enable-primary-paste $ "
 "gsettings get org.mate.interface gtk-enable-primary-paste"
 msgstr ""
+"$ dconf read /org/mate/desktop/interface/gtk-enable-primary-paste $ "
+"gsettings get org.mate.interface gtk-enable-primary-paste"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:1033
 msgid "Dconf Directory: /org/mate/desktop/lockdown/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/lockdown/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:1036
@@ -23981,6 +24268,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/lockdown/ $ gsettings list-keys "
 "org.mate.lockdown"
 msgstr ""
+"$ dconf list /org/mate/desktop/lockdown/ $ gsettings list-keys "
+"org.mate.lockdown"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1044
@@ -24001,6 +24290,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/lockdown/disable-command-line $ gsettings get"
 " org.mate.lockdown disable-command-line"
 msgstr ""
+"$ dconf read /org/mate/desktop/lockdown/disable-command-line $ gsettings get"
+" org.mate.lockdown disable-command-line"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1054
@@ -24020,6 +24311,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/lockdown/disable-save-to-disk $ gsettings get"
 " org.mate.lockdown disable-save-to-disk"
 msgstr ""
+"$ dconf read /org/mate/desktop/lockdown/disable-save-to-disk $ gsettings get"
+" org.mate.lockdown disable-save-to-disk"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1064
@@ -24039,6 +24332,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/lockdown/disable-printing $ gsettings get "
 "org.mate.lockdown disable-printing"
 msgstr ""
+"$ dconf read /org/mate/desktop/lockdown/disable-printing $ gsettings get "
+"org.mate.lockdown disable-printing"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1074
@@ -24058,6 +24353,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/lockdown/disable-print-setup $ gsettings get "
 "org.mate.lockdown disable-print-setup"
 msgstr ""
+"$ dconf read /org/mate/desktop/lockdown/disable-print-setup $ gsettings get "
+"org.mate.lockdown disable-print-setup"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1084
@@ -24077,6 +24374,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/lockdown/disable-user-switching $ gsettings "
 "get org.mate.lockdown disable-user-switching"
 msgstr ""
+"$ dconf read /org/mate/desktop/lockdown/disable-user-switching $ gsettings "
+"get org.mate.lockdown disable-user-switching"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1094
@@ -24094,6 +24393,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/lockdown/disable-lock-screen $ gsettings get "
 "org.mate.lockdown disable-lock-screen"
 msgstr ""
+"$ dconf read /org/mate/desktop/lockdown/disable-lock-screen $ gsettings get "
+"org.mate.lockdown disable-lock-screen"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1104
@@ -24111,6 +24412,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/lockdown/disable-application-handlers $ "
 "gsettings get org.mate.lockdown disable-application-handlers"
 msgstr ""
+"$ dconf read /org/mate/desktop/lockdown/disable-application-handlers $ "
+"gsettings get org.mate.lockdown disable-application-handlers"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1114
@@ -24128,6 +24431,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/lockdown/disable-theme-settings $ gsettings "
 "get org.mate.lockdown disable-theme-settings"
 msgstr ""
+"$ dconf read /org/mate/desktop/lockdown/disable-theme-settings $ gsettings "
+"get org.mate.lockdown disable-theme-settings"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1124
@@ -24145,11 +24450,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/lockdown/disable-log-out $ gsettings get "
 "org.mate.lockdown disable-log-out"
 msgstr ""
+"$ dconf read /org/mate/desktop/lockdown/disable-log-out $ gsettings get "
+"org.mate.lockdown disable-log-out"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:1136
 msgid "Dconf Directory: /org/mate/desktop/peripherals/keyboard/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/peripherals/keyboard/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:1139
@@ -24157,6 +24464,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/peripherals/keyboard/ $ gsettings list-keys "
 "org.mate.peripherals-keyboard"
 msgstr ""
+"$ dconf list /org/mate/desktop/peripherals/keyboard/ $ gsettings list-keys "
+"org.mate.peripherals-keyboard"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1147
@@ -24169,6 +24478,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/repeat $ gsettings get "
 "org.mate.peripherals-keyboard repeat"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/repeat $ gsettings get "
+"org.mate.peripherals-keyboard repeat"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1157
@@ -24181,6 +24492,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/click $ gsettings get "
 "org.mate.peripherals-keyboard click"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/click $ gsettings get "
+"org.mate.peripherals-keyboard click"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1167
@@ -24193,6 +24506,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/rate $ gsettings get "
 "org.mate.peripherals-keyboard rate"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/rate $ gsettings get "
+"org.mate.peripherals-keyboard rate"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1177
@@ -24205,6 +24520,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/delay $ gsettings get "
 "org.mate.peripherals-keyboard delay"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/delay $ gsettings get "
+"org.mate.peripherals-keyboard delay"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1187
@@ -24217,6 +24534,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/click-volume $ gsettings"
 " get org.mate.peripherals-keyboard click-volume"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/click-volume $ gsettings"
+" get org.mate.peripherals-keyboard click-volume"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1197
@@ -24234,6 +24553,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/bell-mode $ gsettings "
 "get org.mate.peripherals-keyboard bell-mode"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/bell-mode $ gsettings "
+"get org.mate.peripherals-keyboard bell-mode"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1207
@@ -24246,6 +24567,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/bell-pitch $ gsettings "
 "get org.mate.peripherals-keyboard bell-pitch"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/bell-pitch $ gsettings "
+"get org.mate.peripherals-keyboard bell-pitch"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1217
@@ -24258,6 +24581,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/bell-duration $ "
 "gsettings get org.mate.peripherals-keyboard bell-duration"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/bell-duration $ "
+"gsettings get org.mate.peripherals-keyboard bell-duration"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1227
@@ -24275,6 +24600,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/bell-custom-file $ "
 "gsettings get org.mate.peripherals-keyboard bell-custom-file"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/bell-custom-file $ "
+"gsettings get org.mate.peripherals-keyboard bell-custom-file"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1237
@@ -24294,6 +24621,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/remember-numlock-state $"
 " gsettings get org.mate.peripherals-keyboard remember-numlock-state"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/remember-numlock-state $"
+" gsettings get org.mate.peripherals-keyboard remember-numlock-state"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1247
@@ -24311,11 +24640,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/keyboard/numlock-state $ "
 "gsettings get org.mate.peripherals-keyboard numlock-state"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/keyboard/numlock-state $ "
+"gsettings get org.mate.peripherals-keyboard numlock-state"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:1259
 msgid "Dconf Directory: /org/mate/desktop/peripherals/mouse/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/peripherals/mouse/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:1262
@@ -24323,6 +24654,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/peripherals/mouse/ $ gsettings list-keys "
 "org.mate.peripherals-mouse"
 msgstr ""
+"$ dconf list /org/mate/desktop/peripherals/mouse/ $ gsettings list-keys "
+"org.mate.peripherals-mouse"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1270
@@ -24340,6 +24673,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/mouse/left-handed $ gsettings get"
 " org.mate.peripherals-mouse left-handed"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/mouse/left-handed $ gsettings get"
+" org.mate.peripherals-mouse left-handed"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1280
@@ -24359,6 +24694,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/mouse/motion-acceleration $ "
 "gsettings get org.mate.peripherals-mouse motion-acceleration"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/mouse/motion-acceleration $ "
+"gsettings get org.mate.peripherals-mouse motion-acceleration"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1290
@@ -24378,6 +24715,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/mouse/motion-threshold $ "
 "gsettings get org.mate.peripherals-mouse motion-threshold"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/mouse/motion-threshold $ "
+"gsettings get org.mate.peripherals-mouse motion-threshold"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1300
@@ -24395,6 +24734,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/mouse/drag-threshold $ gsettings "
 "get org.mate.peripherals-mouse drag-threshold"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/mouse/drag-threshold $ gsettings "
+"get org.mate.peripherals-mouse drag-threshold"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1310
@@ -24412,6 +24753,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/mouse/double-click $ gsettings "
 "get org.mate.peripherals-mouse double-click"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/mouse/double-click $ gsettings "
+"get org.mate.peripherals-mouse double-click"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1320
@@ -24431,6 +24774,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/mouse/middle-button-enabled $ "
 "gsettings get org.mate.peripherals-mouse middle-button-enabled"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/mouse/middle-button-enabled $ "
+"gsettings get org.mate.peripherals-mouse middle-button-enabled"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1330
@@ -24450,6 +24795,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/mouse/locate-pointer $ gsettings "
 "get org.mate.peripherals-mouse locate-pointer"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/mouse/locate-pointer $ gsettings "
+"get org.mate.peripherals-mouse locate-pointer"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1340
@@ -24467,6 +24814,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/mouse/cursor-theme $ gsettings "
 "get org.mate.peripherals-mouse cursor-theme"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/mouse/cursor-theme $ gsettings "
+"get org.mate.peripherals-mouse cursor-theme"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1350
@@ -24484,17 +24833,20 @@ msgid ""
 "$ dconf read /org/mate/desktop/peripherals/mouse/cursor-size $ gsettings get"
 " org.mate.peripherals-mouse cursor-size"
 msgstr ""
+"$ dconf read /org/mate/desktop/peripherals/mouse/cursor-size $ gsettings get"
+" org.mate.peripherals-mouse cursor-size"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:1362
 msgid "Dconf Directory: /org/mate/desktop/sound/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/sound/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:1365
 msgid ""
 "$ dconf list /org/mate/desktop/sound/ $ gsettings list-keys org.mate.sound"
 msgstr ""
+"$ dconf list /org/mate/desktop/sound/ $ gsettings list-keys org.mate.sound"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1373
@@ -24512,6 +24864,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/sound/default-mixer-device $ gsettings get "
 "org.mate.sound default-mixer-device"
 msgstr ""
+"$ dconf read /org/mate/desktop/sound/default-mixer-device $ gsettings get "
+"org.mate.sound default-mixer-device"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1383
@@ -24529,6 +24883,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/sound/default-mixer-tracks $ gsettings get "
 "org.mate.sound default-mixer-tracks"
 msgstr ""
+"$ dconf read /org/mate/desktop/sound/default-mixer-tracks $ gsettings get "
+"org.mate.sound default-mixer-tracks"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1393
@@ -24546,6 +24902,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/sound/enable-esd $ gsettings get "
 "org.mate.sound enable-esd"
 msgstr ""
+"$ dconf read /org/mate/desktop/sound/enable-esd $ gsettings get "
+"org.mate.sound enable-esd"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1403
@@ -24563,6 +24921,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/sound/event-sounds $ gsettings get "
 "org.mate.sound event-sounds"
 msgstr ""
+"$ dconf read /org/mate/desktop/sound/event-sounds $ gsettings get "
+"org.mate.sound event-sounds"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1413
@@ -24580,6 +24940,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/sound/theme-name $ gsettings get "
 "org.mate.sound theme-name"
 msgstr ""
+"$ dconf read /org/mate/desktop/sound/theme-name $ gsettings get "
+"org.mate.sound theme-name"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1423
@@ -24597,11 +24959,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/sound/input-feedback-sounds $ gsettings get "
 "org.mate.sound input-feedback-sounds"
 msgstr ""
+"$ dconf read /org/mate/desktop/sound/input-feedback-sounds $ gsettings get "
+"org.mate.sound input-feedback-sounds"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:1435
 msgid "Dconf Directory: /org/mate/desktop/thumbnail-cache/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/thumbnail-cache/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:1438
@@ -24609,6 +24973,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/thumbnail-cache/ $ gsettings list-keys "
 "org.mate.thumbnail-cache"
 msgstr ""
+"$ dconf list /org/mate/desktop/thumbnail-cache/ $ gsettings list-keys "
+"org.mate.thumbnail-cache"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1446
@@ -24628,6 +24994,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/thumbnail-cache/maximum-age $ gsettings get "
 "org.mate.thumbnail-cache maximum-age"
 msgstr ""
+"$ dconf read /org/mate/desktop/thumbnail-cache/maximum-age $ gsettings get "
+"org.mate.thumbnail-cache maximum-age"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1456
@@ -24647,11 +25015,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/thumbnail-cache/maximum-size $ gsettings get "
 "org.mate.thumbnail-cache maximum-size"
 msgstr ""
+"$ dconf read /org/mate/desktop/thumbnail-cache/maximum-size $ gsettings get "
+"org.mate.thumbnail-cache maximum-size"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:1468
 msgid "Dconf Directory: /org/mate/desktop/thumbnailers/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/thumbnailers/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:1471
@@ -24659,6 +25029,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/thumbnailers/ $ gsettings list-keys "
 "org.mate.thumbnailers"
 msgstr ""
+"$ dconf list /org/mate/desktop/thumbnailers/ $ gsettings list-keys "
+"org.mate.thumbnailers"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1479
@@ -24678,6 +25050,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/thumbnailers/disable-all $ gsettings get "
 "org.mate.thumbnailers disable-all"
 msgstr ""
+"$ dconf read /org/mate/desktop/thumbnailers/disable-all $ gsettings get "
+"org.mate.thumbnailers disable-all"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1489
@@ -24697,11 +25071,13 @@ msgid ""
 "$ dconf read /org/mate/desktop/thumbnailers/disable $ gsettings get "
 "org.mate.thumbnailers disable"
 msgstr ""
+"$ dconf read /org/mate/desktop/thumbnailers/disable $ gsettings get "
+"org.mate.thumbnailers disable"
 
 #. (itstool) path: sect2/title
 #: C/gosdconfkeys.xml:1501
 msgid "Dconf Directory: /org/mate/desktop/typing-break/"
-msgstr ""
+msgstr "Diretório Dconf: /org/mate/desktop/typing-break/"
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:1504
@@ -24709,6 +25085,8 @@ msgid ""
 "$ dconf list /org/mate/desktop/typing-break/ $ gsettings list-keys org.mate"
 ".typing-break"
 msgstr ""
+"$ dconf list /org/mate/desktop/typing-break/ $ gsettings list-keys org.mate"
+".typing-break"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1512
@@ -24726,6 +25104,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/typing-break/type-time $ gsettings get "
 "org.mate.typing-break type-time"
 msgstr ""
+"$ dconf read /org/mate/desktop/typing-break/type-time $ gsettings get "
+"org.mate.typing-break type-time"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1522
@@ -24743,6 +25123,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/typing-break/break-time $ gsettings get "
 "org.mate.typing-break break-time"
 msgstr ""
+"$ dconf read /org/mate/desktop/typing-break/break-time $ gsettings get "
+"org.mate.typing-break break-time"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1532
@@ -24760,6 +25142,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/typing-break/allow-postpone $ gsettings get "
 "org.mate.typing-break allow-postpone"
 msgstr ""
+"$ dconf read /org/mate/desktop/typing-break/allow-postpone $ gsettings get "
+"org.mate.typing-break allow-postpone"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1542
@@ -24777,6 +25161,8 @@ msgid ""
 "$ dconf read /org/mate/desktop/typing-break/enabled $ gsettings get org.mate"
 ".typing-break enabled"
 msgstr ""
+"$ dconf read /org/mate/desktop/typing-break/enabled $ gsettings get org.mate"
+".typing-break enabled"
 
 #. (itstool) path: appendix/para
 #: C/gosfeedback.xml:3
@@ -25267,7 +25653,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:142
 msgid "statusbar"
-msgstr "barra de estados"
+msgstr "barra de estado"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:144
@@ -25275,7 +25661,7 @@ msgid ""
 "A statusbar is a bar at the bottom of a window that provides information "
 "about the current state of what you are viewing in the window."
 msgstr ""
-"A barra de estados é a barra na área inferior de uma janela que fornece "
+"A barra de estado é uma barra na área inferior de uma janela que fornece "
 "informação sobre o estado atual do que está a visualizar na janela."
 
 #. (itstool) path: glossentry/glossterm

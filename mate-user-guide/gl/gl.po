@@ -2,14 +2,14 @@
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
-# Miguel Anxo Bouzada <mbouzada@gmail.com>, 2018
+# Miguel Anxo Bouzada <mbouzada@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Miguel Anxo Bouzada <mbouzada@gmail.com>, 2018\n"
+"Last-Translator: Miguel Anxo Bouzada <mbouzada@gmail.com>, 2019\n"
 "Language-Team: Galician (https://www.transifex.com/mate/teams/13566/gl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -37,13 +37,13 @@ msgid ""
 "panels, menus, file management, and preferences."
 msgstr ""
 "A Guía de usuario do MATE é unha colección de documentación que detalla o "
-"uso xeral do entorno de escritorio MATE. Os temas tratados inclúen sesións, "
-"paneis, menús, xestión de ficheiros e preferencias."
+"uso xeral do contorno de escritorio MATE. Os temas tratados inclúen sesións,"
+" paneis, menús, xestión de ficheiros e preferencias."
 
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:17
 msgid "<year>2015</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgstr "<year>2015</year> <holder>Proxecto de documentación do MATE</holder>"
 
 #. (itstool) path: bookinfo/copyright
 #: C/index.docbook:21
@@ -93,6 +93,10 @@ msgid ""
 "you can do so by adding a copy of the license to the manual, as described in"
 " section 6 of the license."
 msgstr ""
+"Este manual forma parte da colección de manuais MATE distribuídos baixo a "
+"licenza GFDL. Se quere distribuír este manual separadamente da colección, "
+"pode facelo engadindo unha copia da licenza ao manual, tal e como está "
+"descrito na sección 6 da licenza."
 
 #. (itstool) path: legalnotice/para
 #: C/index.docbook:19 C/legal.xml:19
@@ -103,6 +107,11 @@ msgid ""
 "aware of those trademarks, then the names are in capital letters or initial "
 "capital letters."
 msgstr ""
+"Moitos dos nomes utilizados polas empresas para distinguir os seus produtos "
+"e servizos son reivindicados como marcas comerciais. Cando estes nomes "
+"aparecen en calquera documentación de MATE e os membros do Proxecto de "
+"documentación de MATE son conscientes das marcas rexistradas, os nomes están"
+" en letras maiúsculas ou maiúsculas iniciais."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:35 C/legal.xml:35
@@ -119,6 +128,18 @@ msgid ""
 "ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION "
 "OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
 msgstr ""
+"O DOCUMENTO FORNÉCESE «TAL E COMO É», SEN GARANTÍA DE NINGÚN TIPO, NIN "
+"EXPLÍCITA NIN IMPLÍCITA INCLUÍNDO, SEN LIMITACIÓN, GARANTÍA DE QUE O "
+"DOCUMENTO OU VERSIÓN MODIFICADA DESTE CAREZA DE DEFECTOS COMERCIAIS, SEXA "
+"AXEITADO A UN FIN CONCRETO OU INCUMPRA ALGUNHA NORMATIVA. TODO O RISCO "
+"RELATIVO Á CALIDADE, PRECISIÓN E UTILIDADE DO DOCUMENTO OU A SÚA VERSIÓN "
+"MODIFICADA RECAE EN VOSTEDE. SE CALQUERA DOCUMENTO OU VERSIÓN MODIFICADA "
+"DAQUEL RESULTARA DEFECTUOSO EN CALQUERA ASPECTO, VOSTEDE (E NON O REDACTOR "
+"INICIAL, AUTOR OU COLABORADOR) ASUMIRÁ OS CUSTOS DE TODA REPARACIÓN, "
+"MANTEMENTO OU CORRECCIÓN NECESARIOS. ESTA RENUNCIA DE GARANTÍA É UNHA PARTE "
+"ESENCIAL DESTA LICENZA. NON SE AUTORIZA O USO DE NINGÚN DOCUMENTO NIN "
+"VERSIÓN MODIFICADA DESTE POLO PRESENTE, SALVO DENTRO DO CUMPRIMENTO DA "
+"RENUNCIA; E"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:55 C/legal.xml:55
@@ -134,6 +155,17 @@ msgid ""
 "VERSIONS OF THE DOCUMENT, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE"
 " POSSIBILITY OF SUCH DAMAGES."
 msgstr ""
+"BAIXO NINGUNHA CIRCUNSTANCIA NIN BAIXO NINGUNHA TEORÍA LEGAL, SEXA POR ERRO "
+"(INCLUÍNDO NEGLIXENCIA), CONTRATO OU DE ALGÚN OUTRO MODO, O AUTOR, O "
+"ESCRITOR INICIAL, CALQUERA COLABORADOR, OU CALQUERA DISTRIBUIDOR DO "
+"DOCUMENTO OU VERSIÓN MODIFICADA DO DOCUMENTO, OU CALQUERA PROVEDOR DE "
+"CALQUERA DESAS PARTES, SERÁ RESPONSÁBEL ANTE NINGUNHA PERSOA POR NINGÚN DANO"
+" DIRECTO, INDIRECTO, ESPECIAL, INCIDENTAL OU DERIVADO DE NINGÚN TIPO, "
+"INCLUÍNDO, SEN LIMITACIÓN DANOS POR PERDA DE MERCANCÍAS, PARO TÉCNICO, FALLO"
+" INFORMÁTICO OU MAL FUNCIONAMENTO OU CALQUERA OUTRO POSÍBEL DANO OU PERDAS "
+"DERIVADAS OU RELACIONADAS CO USO DO DOCUMENTO OU AS SÚAS VERSIÓNS "
+"MODIFICADAS, AÍNDA QUE DITA PARTE TEÑA SIDO INFORMADA DA POSIBILIDADE DE QUE"
+" SE PRODUCISEN DITOS DANOS."
 
 #. (itstool) path: legalnotice/para
 #: C/index.docbook:28 C/legal.xml:28
@@ -142,6 +174,8 @@ msgid ""
 "OF THE GNU FREE DOCUMENTATION LICENSE WITH THE FURTHER UNDERSTANDING THAT: "
 "<_:orderedlist-1/>"
 msgstr ""
+"O DOCUMENTO E AS VERSIÓNS MODIFICADAS DO DOCUMENTO FORNÉCENSE BAIXO OS "
+"TERMOS DA LICENZA LIBRE DE DOCUMENTACIÓN DE GNU CO ACORDO ADICIONAL DE:"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:46
@@ -331,7 +365,7 @@ msgid ""
 "2004</date> <_:revdescription-1/>"
 msgstr ""
 "<revnumber>MATE 2.8 Guía de usuario do escritorio V2.8</revnumber> "
-"<date>Setembro 2004</date> <_:revdescription-1/>"
+"<date>setembro 2004</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:186 C/index.docbook:194 C/index.docbook:202
@@ -347,7 +381,7 @@ msgid ""
 "2003</date> <_:revdescription-1/>"
 msgstr ""
 "<revnumber>MATE 2.4 Guía de usuario do escritorio V2.7</revnumber> "
-"<date>Setembro 2003</date> <_:revdescription-1/>"
+"<date>setembro 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:190
@@ -356,7 +390,7 @@ msgid ""
 "2003</date> <_:revdescription-1/>"
 msgstr ""
 "<revnumber>MATE 2.4 Guía de usuario do escritorio V2.6</revnumber> "
-"<date>Agosto 2003</date> <_:revdescription-1/>"
+"<date>agosto 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:198
@@ -365,7 +399,7 @@ msgid ""
 "2003</date> <_:revdescription-1/>"
 msgstr ""
 "<revnumber>MATE 2.2.1 Guía de usuario do escritorio V2.5</revnumber> "
-"<date>Marzo 2003</date> <_:revdescription-1/>"
+"<date>marzo 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
@@ -374,7 +408,7 @@ msgid ""
 "2003</date> <_:revdescription-1/>"
 msgstr ""
 "<revnumber>MATE 2.2 Guía de usuario do escritorio V2.4</revnumber> "
-"<date>Xaneiro 2003</date> <_:revdescription-1/>"
+"<date>xaneiro 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
@@ -383,7 +417,7 @@ msgid ""
 "2002</date> <_:revdescription-1/>"
 msgstr ""
 "<revnumber>MATE 2.0 Guía de usuario do escritorio V2.3</revnumber> "
-"<date>Otubro 2002</date> <_:revdescription-1/>"
+"<date>outubro 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
@@ -392,7 +426,7 @@ msgid ""
 "2002</date> <_:revdescription-1/>"
 msgstr ""
 "<revnumber>MATE 2.0 Guía de usuario do escritorio V2.2</revnumber> "
-"<date>Agosto 2002</date> <_:revdescription-1/>"
+"<date>agosto 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:230
@@ -401,7 +435,7 @@ msgid ""
 "2002</date> <_:revdescription-1/>"
 msgstr ""
 "<revnumber>MATE 2.0 Guía de usuario do escritorio V2.1</revnumber> "
-"<date>Agosto 2002</date> <_:revdescription-1/>"
+"<date>agosto 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
@@ -410,7 +444,7 @@ msgid ""
 "2002</date> <_:revdescription-1/>"
 msgstr ""
 "<revnumber>MATE 2.0 Guía de usuario do escritorio V1.0</revnumber> "
-"<date>Maio 2002</date> <_:revdescription-1/>"
+"<date>maio 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: bookinfo/releaseinfo
 #: C/index.docbook:248
@@ -429,7 +463,7 @@ msgid ""
 "To report a bug or make a suggestion regarding the MATE desktop or this "
 "manual, follow the directions in the <xref linkend=\"feedback\"/>."
 msgstr ""
-"Para informar dun erro ou facer unha suxestión sobre o escritorio MATE ou "
+"Para informar dun fallo ou facer unha suxestión sobre o escritorio MATE ou "
 "este manual, siga as instrucións de <xref linkend=\"feedback\"/>."
 
 #. (itstool) path: para/ulink
@@ -534,6 +568,11 @@ msgid ""
 "mouse. If you use a left-handed mouse, see the paragraph on setting mouse "
 "orientation below."
 msgstr ""
+"As instrucións deste manual son para os dispositivos de rato de tres botóns "
+"para destros, o tipo máis común. Se usa outro tipo de rato ou dispositivo "
+"apuntador, ten que ter coidado de localizar os botóns correspondentes no "
+"rato. Se usa un rato para xergos, consulte o parágrafo sobre a configuración"
+" da orientación do rato a seguir."
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:65
@@ -542,6 +581,9 @@ msgid ""
 " button conventions used in this manual. This is normally also implied in "
 "most documentation and in many applications."
 msgstr ""
+"Se configura o dispositivo do rato como para xergos, debe inverter as "
+"convencións do botón do rato empregadas neste manual. Isto normalmente tamén"
+" está implicito na maioría de documentación e en moitos aplicativos."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:69
@@ -552,16 +594,23 @@ msgid ""
 " and right mouse buttons simultaneously, to simulate the the middle mouse "
 "button. A middle mouse button is by no means necessary to use MATE."
 msgstr ""
+"Algúns ratos non teñen un botón central, se ten un dispositivo de dous "
+"botóns, o seu sistema pode estar configurado para que poida "
+"<firstterm>premer simultaneamente</firstterm> os dous botóns para simular o "
+"botón central. Se está activado, pode premer simultaneamente os botóns "
+"esquerdo e dereito para simular o botón central do rato. Para usar MATE non "
+"é necesario un rato cun botón central."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:74
 msgid "The mouse button conventions used in this manual are as follows:"
 msgstr ""
+"As convencións dos botóns do rato usadas neste manual son as seguintes"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:78 C/gosbasic.xml:246
 msgid "Left mouse button"
-msgstr ""
+msgstr "Botón esquerdo do rato"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:79
@@ -571,11 +620,15 @@ msgid ""
 " told to \"click\" it is implied that you should click with the left button,"
 " unless specifically stated."
 msgstr ""
+"O botón situado no lado esquerdo do rato. Este é o botón principal dun rato,"
+" usado para seleccionar, activar, premer botóns, etc... Cando se lle di que "
+"«premer» implica que debe «premer» co botón esquerdo, a non ser que se "
+"especifique o contrario."
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:85 C/gosbasic.xml:257
 msgid "Middle mouse button"
-msgstr ""
+msgstr "Botón central do rato"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:86
@@ -583,11 +636,13 @@ msgid ""
 "The middle button of a mouse device. On many mice with a scroll wheel, the "
 "scroll wheel can be pushed down for a middle mouse button click."
 msgstr ""
+"O botón central dun rato. En moitos ratos cunha roda, pode premerse "
+"directamente a roda para premer o botón central."
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:91 C/gosbasic.xml:267
 msgid "Right mouse button"
-msgstr ""
+msgstr "Botón dereito do rato"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:92
@@ -595,6 +650,8 @@ msgid ""
 "The button on the right side of a mouse device. Often, this button displays "
 "a context menu for the object under the pointer."
 msgstr ""
+"O botón situado no lado dereito do rato. Xeralmente este botón amosa un menú"
+" contextual para o obxecto baixo o punteiro."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:97
@@ -605,11 +662,16 @@ msgid ""
 "linkend=\"prefs-mouse\"/> for more information about setting your mouse "
 "preferences."
 msgstr ""
+"Use as <application>Preferencias do rato</application> para inverter a "
+"orientación do dispositivo do rato. Se inverte a orientación, entón debe "
+"inverter as convencións do botón do rato empregadas neste manual e outra "
+"documentación de MATE. Vexa a <xref linkend=\"prefs-mouse\"/> para obter "
+"máis información sobre como axustar as preferencias do rato."
 
 #. (itstool) path: section/title
 #: C/gosbasic.xml:104
 msgid "Mouse Actions"
-msgstr ""
+msgstr "Accións do rato"
 
 #. (itstool) path: section/titleabbrev
 #: C/gosbasic.xml:105
@@ -620,11 +682,13 @@ msgstr "Accións"
 #: C/gosbasic.xml:111
 msgid "<primary>mouse</primary> <secondary>action conventions</secondary>"
 msgstr ""
+"<primary>rato</primary> <secondary>convencións das accións</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:115
 msgid "<primary>mouse</primary> <secondary>action terminology</secondary>"
 msgstr ""
+"<primary>rato</primary> <secondary>terminoloxía das accións</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:120
@@ -632,6 +696,8 @@ msgid ""
 "The following conventions are used in this manual to describe actions that "
 "you take with the mouse:"
 msgstr ""
+"Neste manual úsanse as seguintes convencións para describir as accións que "
+"pode realizar co rato:"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:131 C/gosbasic.xml:872 C/gosbasic.xml:965 C/goscaja.xml:767
@@ -642,23 +708,23 @@ msgstr "Acción"
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:134
 msgid "Definition"
-msgstr ""
+msgstr "Definición"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:141
 msgid "Click"
-msgstr ""
+msgstr "Pulsar ou premer"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:144
 msgid "Press and release the left mouse button, without moving the mouse."
-msgstr ""
+msgstr "Prema e solte o botón esquerdo do rato, sen movelo."
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:150 C/gospanel.xml:410
 msgid "Left-click"
-msgstr ""
+msgstr "Pulsar ou premer co botón esquerdo"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:153
@@ -666,33 +732,36 @@ msgid ""
 "Same as <emphasis>click</emphasis>. The term 'left-click' is used where "
 "there might be confusion with <emphasis>right-click</emphasis>."
 msgstr ""
+".Igual que <emphasis>premer</emphasis>. A expresión «premer co botón "
+"esquerdo» empregase onde pode haber confusión con <emphasis>premer co botón "
+"dereito</emphasis>."
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:160 C/gospanel.xml:416
 msgid "Middle-click"
-msgstr ""
+msgstr "Pulsar ou premer co botón central"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:163
 msgid "Press and release the middle mouse button, without moving the mouse."
-msgstr ""
+msgstr "Prema e solte o botón central do rato, sen movelo."
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:169 C/gospanel.xml:423
 msgid "Right-click"
-msgstr ""
+msgstr "Pulsar ou premer co botón dereito"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:172
 msgid "Press and release the right mouse button, without moving the mouse."
-msgstr ""
+msgstr "Prema e solte o botón dereito do rato, sen movelo."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:178
 msgid "Double-click"
-msgstr ""
+msgstr "Dobre pulsación"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:181
@@ -702,11 +771,15 @@ msgid ""
 "changing the <emphasis>Double-click Timeout</emphasis> setting: see <xref "
 "linkend=\"prefs-mouse\"/> for more information."
 msgstr ""
+"Prema e solte o botón esquerdo d rato dúas veces nunha rápida sucesión sen "
+"mover o rato. Pode configurar a sensibilidade ás dobres pulsacións cambiando"
+" o axuste <emphasis>Tempo de espera da dobre pulsación</emphasis>: vexa "
+"a<xref linkend=\"prefs-mouse\"/> para obter máis información."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:190
 msgid "Click-and-drag"
-msgstr ""
+msgstr "Pulsar ou premer e arrastrar"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:193
@@ -714,6 +787,8 @@ msgid ""
 "Press and do not release the left mouse button, and then move the mouse with"
 " the button still held down, and finally release the button."
 msgstr ""
+"Prema e non solte o botón esquerdo do rato, após mova o rato con botón aínda"
+" premido, e finalmente solte o botón."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:198
@@ -744,57 +819,57 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:221
 msgid "Click-and-hold"
-msgstr ""
+msgstr "Pulsar ou premer e manter"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:224
 msgid "Press and do not release the left mouse button."
-msgstr ""
+msgstr "Prema e non solte o botón esquerdo do rato."
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:232
 msgid "<primary>mouse</primary> <secondary>actions</secondary>"
-msgstr ""
+msgstr "<primary>rato</primary> <secondary>accións</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:237
 msgid "You can perform the following actions with the mouse:"
-msgstr ""
+msgstr "Pode realizar as seguintes accións co rato:"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:249
 msgid "Select text."
-msgstr ""
+msgstr "Seleccionar texto."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:250
 msgid "Select items."
-msgstr ""
+msgstr "Seleccionar elementos."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:251
 msgid "Drag items."
-msgstr ""
+msgstr "Arrastrar elementos."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:252
 msgid "Activate items."
-msgstr ""
+msgstr "Activar elementos."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:260
 msgid "Paste text."
-msgstr ""
+msgstr "Pegar texto."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:261
 msgid "Move items."
-msgstr ""
+msgstr "Mover elementos."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:262
 msgid "Move windows to the back."
-msgstr ""
+msgstr "Mover as xanelas cara o fondo."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:268
@@ -836,22 +911,22 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gosbasic.xml:297
 msgid "Mouse Pointers"
-msgstr ""
+msgstr "Punteiros do rato"
 
 #. (itstool) path: section/titleabbrev
 #: C/gosbasic.xml:298
 msgid "Pointers"
-msgstr ""
+msgstr "Punteiros"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:303
 msgid "<primary>mouse</primary> <secondary>pointers</secondary>"
-msgstr ""
+msgstr "<primary>rato</primary> <secondary>punteiros</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:307
 msgid "<primary>pointers</primary> <see>mouse pointers</see>"
-msgstr ""
+msgstr "<primary>punteiros</primary> <secondary>punteiros do rato</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:312
@@ -887,6 +962,8 @@ msgid ""
 "external ref='figures/normal_pointer.png' "
 "md5='47960823c1883b50400d4fb7be857c72'"
 msgstr ""
+"external ref='figures/normal_pointer.png' "
+"md5='47960823c1883b50400d4fb7be857c72'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:323
@@ -896,11 +973,15 @@ msgid ""
 "<phrase>Normal pointer.</phrase> </textobject> </inlinemediaobject> Normal "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/normal_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Punteiro normal.</phrase> </textobject> </inlinemediaobject> "
+"Punteiro normal"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:335
 msgid "This pointer appears during normal use of the mouse."
-msgstr ""
+msgstr "Este punteiro aparece durante o uso normal do rato."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -913,6 +994,8 @@ msgid ""
 "external ref='figures/busy_pointer.png' "
 "md5='99db6994613731ca7687bd700c471b2d'"
 msgstr ""
+"external ref='figures/busy_pointer.png' "
+"md5='99db6994613731ca7687bd700c471b2d'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:339
@@ -922,6 +1005,10 @@ msgid ""
 "<phrase>Busy pointer.</phrase> </textobject> </inlinemediaobject> Busy "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/busy_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Punteiro de ocupado.</phrase> </textobject> </inlinemediaobject> "
+"Punteiro de ocupado"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:351
@@ -942,6 +1029,8 @@ msgid ""
 "external ref='figures/resize_pointer.png' "
 "md5='43e8186584e1879ba078caedf0a9f33f'"
 msgstr ""
+"external ref='figures/resize_pointer.png' "
+"md5='43e8186584e1879ba078caedf0a9f33f'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:354
@@ -951,6 +1040,10 @@ msgid ""
 "<phrase>Resize pointer.</phrase> </textobject> </inlinemediaobject> Resize "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/resize_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Punteiro de redimensionado.</phrase> </textobject> "
+"</inlinemediaobject> Punteiro de redimensionado"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:366
@@ -972,6 +1065,8 @@ msgid ""
 "external ref='figures/hyperlink_pointer.png' "
 "md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 msgstr ""
+"external ref='figures/hyperlink_pointer.png' "
+"md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:372
@@ -981,6 +1076,10 @@ msgid ""
 "<phrase>Hand pointer</phrase> </textobject> </inlinemediaobject> Hand "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/hyperlink_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Punteiro de man</phrase> </textobject> </inlinemediaobject> Punteiro"
+" de man"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:384
@@ -1001,6 +1100,8 @@ msgid ""
 "external ref='figures/ibeam_pointer.png' "
 "md5='77aa93e74d640173c96801747bf564d1'"
 msgstr ""
+"external ref='figures/ibeam_pointer.png' "
+"md5='77aa93e74d640173c96801747bf564d1'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:390
@@ -1010,6 +1111,10 @@ msgid ""
 "<phrase>I-beam pointer</phrase> </textobject> </inlinemediaobject> I-beam "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/ibeam_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Punteiro de perfil de biga I</phrase> </textobject> "
+"</inlinemediaobject> Punteiro de perfil  de biga I"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:402
@@ -1038,6 +1143,8 @@ msgid ""
 "external ref='figures/move_pointer.png' "
 "md5='1a4e4a188a0132fc783c465d42c52426'"
 msgstr ""
+"external ref='figures/move_pointer.png' "
+"md5='1a4e4a188a0132fc783c465d42c52426'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:413
@@ -1047,6 +1154,10 @@ msgid ""
 "<phrase>Move pointer.</phrase> </textobject> </inlinemediaobject> Move "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/move_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Punteiro de movemento.</phrase> </textobject> </inlinemediaobject> "
+"Punteiro de movemento"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:425
@@ -1066,6 +1177,8 @@ msgid ""
 "external ref='figures/copy_pointer.png' "
 "md5='228984e885befffd71ae4eadd7ee790e'"
 msgstr ""
+"external ref='figures/copy_pointer.png' "
+"md5='228984e885befffd71ae4eadd7ee790e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:430
@@ -1075,6 +1188,10 @@ msgid ""
 "<phrase>Copy pointer.</phrase> </textobject> </inlinemediaobject> Copy "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/copy_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Punteiro de copia.</phrase> </textobject> </inlinemediaobject> "
+"Punteiro de copia"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:442
@@ -1094,6 +1211,8 @@ msgid ""
 "external ref='figures/link_pointer.png' "
 "md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 msgstr ""
+"external ref='figures/link_pointer.png' "
+"md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:447
@@ -1103,6 +1222,10 @@ msgid ""
 "<phrase>Symbolic link pointer.</phrase> </textobject> </inlinemediaobject> "
 "Symbolic link pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/link_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Punteiro de ligazón simbólica.</phrase> </textobject> "
+"</inlinemediaobject> Punteiro de ligazón simbólica"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:459
@@ -1124,6 +1247,8 @@ msgid ""
 "external ref='figures/ask_pointer.png' "
 "md5='bd23edcf2659006110ce30a14f0abb35'"
 msgstr ""
+"external ref='figures/ask_pointer.png' "
+"md5='bd23edcf2659006110ce30a14f0abb35'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:466
@@ -1132,6 +1257,10 @@ msgid ""
 "fileref=\"figures/ask_pointer.png\"/> </imageobject> <textobject> "
 "<phrase>Ask pointer.</phrase> </textobject> </inlinemediaobject> Ask pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/ask_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Punteiro de interrogante.</phrase> </textobject> "
+"</inlinemediaobject> Punteiro de interrogante"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:478
@@ -1153,6 +1282,8 @@ msgid ""
 "external ref='figures/not_available_pointer.png' "
 "md5='19601aaf360da25b8a0d1d18b45ed99e'"
 msgstr ""
+"external ref='figures/not_available_pointer.png' "
+"md5='19601aaf360da25b8a0d1d18b45ed99e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:484
@@ -1182,6 +1313,8 @@ msgid ""
 "external ref='figures/move_panel_object_pointer.png' "
 "md5='e4244fb77b0df2b0c451328dce6fa175'"
 msgstr ""
+"external ref='figures/move_panel_object_pointer.png' "
+"md5='e4244fb77b0df2b0c451328dce6fa175'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:500
@@ -1211,6 +1344,8 @@ msgid ""
 "external ref='figures/movewindow_pointer.png' "
 "md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 msgstr ""
+"external ref='figures/movewindow_pointer.png' "
+"md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:517
@@ -1237,11 +1372,13 @@ msgstr ""
 #: C/gosbasic.xml:543
 msgid "<primary>basic skills</primary> <secondary>keyboard skills</secondary>"
 msgstr ""
+"<primary>destrezas básicas</primary> <secondary>destrezas co "
+"teclado</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:547
 msgid "<primary>keyboard</primary> <secondary>basic skills</secondary>"
-msgstr ""
+msgstr "<primary>teclado</primary> <secondary>destrezas básicas</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:552
@@ -1298,12 +1435,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gosbasic.xml:578
 msgid "Global Shortcut Keys"
-msgstr ""
+msgstr "Atallos de teclado globais"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:583
 msgid "<primary>shortcut keys</primary> <secondary>global</secondary>"
-msgstr ""
+msgstr "<primary>atallos de teclado</primary> <secondary>globais</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:588
@@ -1316,7 +1453,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:599 C/gosbasic.xml:728 C/gosbasic.xml:869
 msgid "Shortcut Key"
-msgstr ""
+msgstr "Atallo de teclado"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:602 C/gosbasic.xml:731 C/gospanel.xml:1089 C/gostools.xml:96
@@ -1327,17 +1464,17 @@ msgstr "Función"
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:609
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F1</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F1</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:614
 msgid "Open the <guimenu>Applications Menu</guimenu>."
-msgstr ""
+msgstr "Abre o <guimenu>menú de aplicativos</guimenu>."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:619
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:624
@@ -1349,7 +1486,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:631 C/gostools.xml:103
 msgid "<keycap>Print Screen</keycap>"
-msgstr ""
+msgstr "<keycap>Impr. Pant.</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:636
@@ -1363,6 +1500,7 @@ msgstr ""
 msgid ""
 "<keycombo> <keycap>Alt</keycap><keycap>Print Screen</keycap> </keycombo>"
 msgstr ""
+"<keycombo> <keycap>Alt</keycap><keycap>Impr. Pant.</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:647
@@ -1375,6 +1513,8 @@ msgid ""
 "<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> <keycap>Arrow "
 "keys</keycap> </keycombo>"
 msgstr ""
+"<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> <keycap>Teclas de "
+"frechas</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:658
@@ -1390,6 +1530,8 @@ msgid ""
 "<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
 "<keycap>D</keycap></keycombo>"
 msgstr ""
+"<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
+"<keycap>D</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:671
@@ -1399,7 +1541,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:676 C/gosbasic.xml:738
 msgid "<keycombo> <keycap>Alt</keycap><keycap>Tab</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>Tab</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:681 C/gosbasic.xml:743
@@ -1415,6 +1557,8 @@ msgid ""
 "<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
 "<keycap>Tab</keycap></keycombo>"
 msgstr ""
+"<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
+"<keycap>Tab</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:695
@@ -1428,12 +1572,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gosbasic.xml:707
 msgid "Window Shortcut Keys"
-msgstr ""
+msgstr "Atallos de teclado de xalela"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:712
 msgid "<primary>shortcut keys</primary> <secondary>window</secondary>"
-msgstr ""
+msgstr "<primary>atallos de teclado</primary> <secondary>xanela</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:717
@@ -1446,27 +1590,27 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:751
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F4</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F4</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:756
 msgid "Close the currently focused window."
-msgstr ""
+msgstr "Pecha a xanela que ten o foco"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:761
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F5</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F5</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:766
 msgid "Unmaximize the current window, if it is maximized."
-msgstr ""
+msgstr "Desfai a maximización da xanela actual, se estiver maximizada. "
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:771
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F7</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F7</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:776
@@ -1479,7 +1623,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:784
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F8</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F8</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:789
@@ -1492,27 +1636,28 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:797
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F9</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F9</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:802
 msgid "Minimize the current window."
-msgstr ""
+msgstr "Minimiza a xanela actual"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:807
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F10</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F10</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:812
 msgid "Maximize the current window."
-msgstr ""
+msgstr "Maximiza a xanela actual"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:817
 msgid "<keycombo> <keycap>Alt</keycap><keycap>spacebar</keycap> </keycombo>"
 msgstr ""
+"<keycombo> <keycap>Alt</keycap><keycap>barra espazadora</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:822
@@ -1528,6 +1673,8 @@ msgid ""
 "<keycombo> <keycap>Shift</keycap><keycap>Ctrl</keycap><keycap>Alt</keycap> "
 "<keycap>Arrow keys</keycap> </keycombo>"
 msgstr ""
+"<keycombo> <keycap>Maiús</keycap><keycap>Ctrl</keycap><keycap>Alt</keycap> "
+"<keycap>Teclas de frechas</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:835
@@ -1540,12 +1687,13 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gosbasic.xml:846
 msgid "Application Keys"
-msgstr ""
+msgstr "Teclas de aplicativo "
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:852
 msgid "<primary>shortcut keys</primary> <secondary>application</secondary>"
 msgstr ""
+"<primary>atallos de teclado</primary> <secondary>aplicativo</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:857
@@ -1558,17 +1706,17 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:879
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>N</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>N</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:884
 msgid "Create a new document or window."
-msgstr ""
+msgstr "Crea un documento novo ou unha xanela"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:889
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>X</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>X</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:894
@@ -1578,7 +1726,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:900
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>C</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>C</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:905
@@ -1588,37 +1736,37 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:910
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>V</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>V</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:915
 msgid "Paste the contents of the clipboard."
-msgstr ""
+msgstr "Pega o contido do portapapeis"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:920
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>Z</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>Z</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:925
 msgid "Undo the last action."
-msgstr ""
+msgstr "Desfai a última acción"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:930
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>S</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>S</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:935
 msgid "Save the current document to disk."
-msgstr ""
+msgstr "Garda o documento actual no disco."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:940
 msgid "<keycap>F1</keycap>"
-msgstr ""
+msgstr "<keycap>F1</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:943
@@ -1637,12 +1785,12 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:962
 msgid "Keys"
-msgstr ""
+msgstr "Teclas"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:972
 msgid "Arrow keys or <keycap>Tab</keycap>"
-msgstr ""
+msgstr "Teclas de frechas ou <keycap>Tab</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:975
@@ -1652,7 +1800,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:981
 msgid "<keycap>Enter</keycap> or <keycap>spacebar</keycap>"
-msgstr ""
+msgstr "<keycap>Intro</keycap> ou <keycap>barra espazadora</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:984
@@ -1662,7 +1810,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:989
 msgid "<keycap>F10</keycap>"
-msgstr ""
+msgstr "<keycap>F10</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:992
@@ -1672,7 +1820,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:997
 msgid "<keycombo> <keycap>Shift</keycap><keycap>F10</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Maiús</keycap><keycap>F10</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:1002
@@ -1682,7 +1830,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:1007
 msgid "<keycap>Esc</keycap>"
-msgstr ""
+msgstr "<keycap>Esc</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:1010
@@ -1693,12 +1841,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gosbasic.xml:1020
 msgid "Access Keys"
-msgstr ""
+msgstr "Teclas de acceso"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:1025
 msgid "<primary>access keys</primary>"
-msgstr ""
+msgstr "<primary>teclas de acceso</primary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:1029
@@ -1739,7 +1887,7 @@ msgstr ""
 #. (itstool) path: chapter/title
 #: C/goscustdesk.xml:2
 msgid "Configuring Your Desktop"
-msgstr ""
+msgstr "Configurando o seu escritorio"
 
 #. (itstool) path: highlights/para
 #: C/goscustdesk.xml:18
@@ -2114,22 +2262,22 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:183
 msgid "<guilabel>Internet</guilabel> (Web, Mail)"
-msgstr ""
+msgstr "<guilabel>Internet</guilabel> (web, correo)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:188
 msgid "<guilabel>Multimedia</guilabel> (Multimedia Player)"
-msgstr ""
+msgstr "<guilabel>Multimedia</guilabel> (Reprodutor multimedia)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:193
 msgid "<guilabel>System</guilabel> (Terminal)"
-msgstr ""
+msgstr "<guilabel>Sistema</guilabel> (terminal)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:198
 msgid "<guilabel>Accessibility</guilabel> (Visual, Mobility)"
-msgstr ""
+msgstr "<guilabel>Accesibilidade</guilabel> (visual, motricidade)"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:204
@@ -2175,7 +2323,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:233
 msgid "<guilabel>Command</guilabel>"
-msgstr ""
+msgstr "<guilabel>Orde</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:238
@@ -2191,7 +2339,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:246
 msgid "<guilabel>Run in terminal</guilabel>"
-msgstr ""
+msgstr "<guilabel>Executar no terminal</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:251
@@ -2203,7 +2351,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:257
 msgid "<guilabel>Execute flag (Terminal only)</guilabel>"
-msgstr ""
+msgstr "<guilabel>Indicador de execución (só no terminal)</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:262
@@ -2218,7 +2366,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:269
 msgid "<guilabel>Run at start (Accessibility only)</guilabel>"
-msgstr ""
+msgstr "<guilabel>Executar ao iniciar (só co accesibilidade)</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:274
@@ -2245,27 +2393,27 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:294
 msgid "Theme,"
-msgstr ""
+msgstr "Tema"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:297
 msgid "Desktop Background,"
-msgstr ""
+msgstr "Fondo do escritorio"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:300
 msgid "Fonts,"
-msgstr ""
+msgstr "Tipos de letra"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:303
 msgid "User Interface."
-msgstr ""
+msgstr "Interface de usuario"
 
 #. (itstool) path: sect3/title
 #: C/goscustdesk.xml:307
 msgid "Theme Preferences"
-msgstr ""
+msgstr "Preferencias do tema"
 
 #. (itstool) path: sect3/indexterm
 #: C/goscustdesk.xml:312
@@ -2381,7 +2529,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:365
 msgid "Window frame"
-msgstr ""
+msgstr "Marco da xanela"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:367
@@ -2460,7 +2608,7 @@ msgstr ""
 #. (itstool) path: sect4/title
 #: C/goscustdesk.xml:389
 msgid "To Create a Custom Theme"
-msgstr ""
+msgstr "Para crear un tema personalizado"
 
 #. (itstool) path: sect4/para
 #: C/goscustdesk.xml:390
@@ -2550,7 +2698,7 @@ msgstr ""
 #. (itstool) path: sect4/title
 #: C/goscustdesk.xml:440
 msgid "To Install a New Theme"
-msgstr ""
+msgstr "Para instalar un tema novo"
 
 #. (itstool) path: sect4/para
 #: C/goscustdesk.xml:441
@@ -3496,7 +3644,7 @@ msgstr "Internet e redes"
 #. (itstool) path: sect2/title
 #: C/goscustdesk.xml:1116
 msgid "Network Settings"
-msgstr "Configuracións de rede"
+msgstr "Axustes da rede"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:1118
@@ -3516,7 +3664,7 @@ msgstr ""
 #. (itstool) path: sect3/title
 #: C/goscustdesk.xml:1122
 msgid "Getting started"
-msgstr ""
+msgstr "Comezando"
 
 #. (itstool) path: sect3/para
 #: C/goscustdesk.xml:1126
@@ -6414,6 +6562,8 @@ msgid ""
 "external ref='figures/caja_always_use_browser.png' "
 "md5='19e041314b3a9c8844180f7bf0ef6282'"
 msgstr ""
+"external ref='figures/caja_always_use_browser.png' "
+"md5='19e041314b3a9c8844180f7bf0ef6282'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:77
@@ -6475,6 +6625,8 @@ msgid ""
 "external ref='figures/caja_browser_mode.png' "
 "md5='44b92e32cdc342cd5624b1be5626386d'"
 msgstr ""
+"external ref='figures/caja_browser_mode.png' "
+"md5='44b92e32cdc342cd5624b1be5626386d'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:98
@@ -6525,6 +6677,8 @@ msgid ""
 "external ref='figures/caja_spatial_mode.png' "
 "md5='f2f8e037d14274ac04e1df45664f2103'"
 msgstr ""
+"external ref='figures/caja_spatial_mode.png' "
+"md5='f2f8e037d14274ac04e1df45664f2103'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:119 C/goscaja.xml:181
@@ -6648,6 +6802,8 @@ msgid ""
 "external ref='figures/caja_spatial_view.png' "
 "md5='08673c38f4b4327f94f298c73b0d270b'"
 msgstr ""
+"external ref='figures/caja_spatial_view.png' "
+"md5='08673c38f4b4327f94f298c73b0d270b'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:166
@@ -7331,6 +7487,8 @@ msgid ""
 "external ref='figures/caja_button_bar.png' "
 "md5='447c19259a84de017f4431ea205bed03'"
 msgstr ""
+"external ref='figures/caja_button_bar.png' "
+"md5='447c19259a84de017f4431ea205bed03'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:614
@@ -7396,6 +7554,8 @@ msgid ""
 "external ref='figures/caja_go_to_location.png' "
 "md5='f5731ef77db819a54be69cab8806529a'"
 msgstr ""
+"external ref='figures/caja_go_to_location.png' "
+"md5='f5731ef77db819a54be69cab8806529a'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:634
@@ -7436,6 +7596,8 @@ msgid ""
 "external ref='figures/caja_search_bar.png' "
 "md5='60a9a159dee2d7ad5c035ed794845798'"
 msgstr ""
+"external ref='figures/caja_search_bar.png' "
+"md5='60a9a159dee2d7ad5c035ed794845798'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:651 C/goscaja.xml:991
@@ -8036,6 +8198,8 @@ msgid ""
 "external ref='figures/caja_search_results.png' "
 "md5='cdb07b97b638c6157d40d57373fcc5d4'"
 msgstr ""
+"external ref='figures/caja_search_results.png' "
+"md5='cdb07b97b638c6157d40d57373fcc5d4'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1005
@@ -8071,6 +8235,8 @@ msgid ""
 "external ref='figures/caja_refine_search.png' "
 "md5='c3d58f408fd7ec2f6965a0f06e05c43e'"
 msgstr ""
+"external ref='figures/caja_refine_search.png' "
+"md5='c3d58f408fd7ec2f6965a0f06e05c43e'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1019
@@ -8109,6 +8275,8 @@ msgid ""
 "external ref='figures/caja_restore_saved_search.png' "
 "md5='1b7dbb7d82639abe4d9f8cc75bc2c80f'"
 msgstr ""
+"external ref='figures/caja_restore_saved_search.png' "
+"md5='1b7dbb7d82639abe4d9f8cc75bc2c80f'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1040
@@ -8354,6 +8522,8 @@ msgid ""
 "external ref='figures/caja_spatial_icon_view.png' "
 "md5='c2dd3a38476c26a924c2673c6bb6de93'"
 msgstr ""
+"external ref='figures/caja_spatial_icon_view.png' "
+"md5='c2dd3a38476c26a924c2673c6bb6de93'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1167
@@ -8391,6 +8561,8 @@ msgid ""
 "external ref='figures/caja_spatial_list_view.png' "
 "md5='99693c429ea6f6889793a85b0c8fb099'"
 msgstr ""
+"external ref='figures/caja_spatial_list_view.png' "
+"md5='99693c429ea6f6889793a85b0c8fb099'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1184
@@ -8697,6 +8869,8 @@ msgid ""
 "external ref='figures/caja_zoom_out_button.png' "
 "md5='372c3f4288c029af11bac9c9012f7d8c'"
 msgstr ""
+"external ref='figures/caja_zoom_out_button.png' "
+"md5='372c3f4288c029af11bac9c9012f7d8c'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1410
@@ -8727,6 +8901,8 @@ msgid ""
 "external ref='figures/caja_normal_size_button.png' "
 "md5='5bf2b3af293a950536ca593cd49b2f5e'"
 msgstr ""
+"external ref='figures/caja_normal_size_button.png' "
+"md5='5bf2b3af293a950536ca593cd49b2f5e'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1430
@@ -8757,6 +8933,8 @@ msgid ""
 "external ref='figures/caja_zoom_in_button.png' "
 "md5='0369994f20b3221243b5b7550a5a9318'"
 msgstr ""
+"external ref='figures/caja_zoom_in_button.png' "
+"md5='0369994f20b3221243b5b7550a5a9318'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1452
@@ -10383,6 +10561,8 @@ msgid ""
 "external ref='figures/caja_trash_launcher.png' "
 "md5='42951c298a8bc2e3cd779e636e64efcd'"
 msgstr ""
+"external ref='figures/caja_trash_launcher.png' "
+"md5='42951c298a8bc2e3cd779e636e64efcd'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2463
@@ -10768,6 +10948,8 @@ msgid ""
 "external ref='figures/caja_emblem.png' "
 "md5='4dfffab4440360f5b2a307b42fa50691'"
 msgstr ""
+"external ref='figures/caja_emblem.png' "
+"md5='4dfffab4440360f5b2a307b42fa50691'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2645
@@ -10840,6 +11022,8 @@ msgid ""
 "external ref='figures/caja_link_emblem.png' "
 "md5='7fefb663977d2a003bc86b8eb61e9100'"
 msgstr ""
+"external ref='figures/caja_link_emblem.png' "
+"md5='7fefb663977d2a003bc86b8eb61e9100'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2692
@@ -10870,6 +11054,8 @@ msgid ""
 "external ref='figures/caja_nowrite_emblem.png' "
 "md5='06a5b7050d82e38d2f54048a1f698092'"
 msgstr ""
+"external ref='figures/caja_nowrite_emblem.png' "
+"md5='06a5b7050d82e38d2f54048a1f698092'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2710
@@ -10890,6 +11076,8 @@ msgid ""
 "external ref='figures/caja_noread_emblem.png' "
 "md5='e54419d1a042a072d0a56effcc13278a'"
 msgstr ""
+"external ref='figures/caja_noread_emblem.png' "
+"md5='e54419d1a042a072d0a56effcc13278a'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2727
@@ -12308,7 +12496,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3664 C/goscaja.xml:3823
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tipo</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3669
@@ -13014,7 +13202,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:54
 msgid "Panels"
-msgstr ""
+msgstr "Paneis"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:55
@@ -13369,6 +13557,8 @@ msgid ""
 "external ref='figures/titlebar_window.png' "
 "md5='b3624c3e2eeb934a16ff5689c8163f44'"
 msgstr ""
+"external ref='figures/titlebar_window.png' "
+"md5='b3624c3e2eeb934a16ff5689c8163f44'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosoverview.xml:207
@@ -13682,6 +13872,8 @@ msgid ""
 "external ref='figures/workspace_switcher_applet.png' "
 "md5='00b75c538008ce6d01801ae2eb907af9'"
 msgstr ""
+"external ref='figures/workspace_switcher_applet.png' "
+"md5='00b75c538008ce6d01801ae2eb907af9'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosoverview.xml:348
@@ -14879,6 +15071,8 @@ msgid ""
 "external ref='figures/four_hide_button.png' "
 "md5='932231a03b23ecdb2563af3460091151'"
 msgstr ""
+"external ref='figures/four_hide_button.png' "
+"md5='932231a03b23ecdb2563af3460091151'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:341
@@ -15189,6 +15383,8 @@ msgid ""
 "external ref='figures/panel_object_popup_menu.png' "
 "md5='35135b4653e42312c3e83f399ec6d406'"
 msgstr ""
+"external ref='figures/panel_object_popup_menu.png' "
+"md5='35135b4653e42312c3e83f399ec6d406'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:522
@@ -15433,6 +15629,8 @@ msgid ""
 "external ref='figures/sample_applet.png' "
 "md5='d61c0b0d5b4a5758c5c8ec210c1682e1'"
 msgstr ""
+"external ref='figures/sample_applet.png' "
+"md5='d61c0b0d5b4a5758c5c8ec210c1682e1'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:689
@@ -15924,6 +16122,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/force_quit.png' md5='4e6cd725cd4977eaeab464ce4ff266ce'"
 msgstr ""
+"external ref='figures/force_quit.png' md5='4e6cd725cd4977eaeab464ce4ff266ce'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1020
@@ -15976,6 +16175,8 @@ msgid ""
 "external ref='figures/lockscreen_icon.png' "
 "md5='a5937cc295f73c51d54a0761ae924000'"
 msgstr ""
+"external ref='figures/lockscreen_icon.png' "
+"md5='a5937cc295f73c51d54a0761ae924000'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1047 C/gosstartsession.xml:137
@@ -16102,6 +16303,8 @@ msgid ""
 "external ref='figures/logout_icon.png' "
 "md5='b695adb45b2eaed0d80203635a70a5bb'"
 msgstr ""
+"external ref='figures/logout_icon.png' "
+"md5='b695adb45b2eaed0d80203635a70a5bb'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1134
@@ -16165,6 +16368,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/run_button.png' md5='68e8f81b231ed542e57349c93241f3f7'"
 msgstr ""
+"external ref='figures/run_button.png' md5='68e8f81b231ed542e57349c93241f3f7'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1167
@@ -16236,6 +16440,8 @@ msgid ""
 "external ref='figures/searchtool_button.png' "
 "md5='e6210d7a387eccba73a76c215f078611'"
 msgstr ""
+"external ref='figures/searchtool_button.png' "
+"md5='e6210d7a387eccba73a76c215f078611'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1202
@@ -16324,6 +16530,8 @@ msgid ""
 "external ref='figures/show_desktop_button.png' "
 "md5='c228bbe71372d2a5afb76c3c7943e739'"
 msgstr ""
+"external ref='figures/show_desktop_button.png' "
+"md5='c228bbe71372d2a5afb76c3c7943e739'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1248
@@ -16468,6 +16676,8 @@ msgid ""
 "external ref='figures/open_drawer.png' "
 "md5='ce13f1ec9eaed826ef4e113de0cd5d9c'"
 msgstr ""
+"external ref='figures/open_drawer.png' "
+"md5='ce13f1ec9eaed826ef4e113de0cd5d9c'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1326
@@ -16721,6 +16931,8 @@ msgid ""
 "external ref='figures/openwindows_menu.png' "
 "md5='5de74eda192636868298a97043530d75'"
 msgstr ""
+"external ref='figures/openwindows_menu.png' "
+"md5='5de74eda192636868298a97043530d75'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1516
@@ -16778,6 +16990,8 @@ msgid ""
 "external ref='figures/notification_area_icon.png' "
 "md5='973b76c720b51d9495208ab2d62ecdec'"
 msgstr ""
+"external ref='figures/notification_area_icon.png' "
+"md5='973b76c720b51d9495208ab2d62ecdec'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1548
@@ -16814,6 +17028,8 @@ msgid ""
 "external ref='figures/menu_bar_applet.png' "
 "md5='8f4bca946498664c1cddd238a5a23498'"
 msgstr ""
+"external ref='figures/menu_bar_applet.png' "
+"md5='8f4bca946498664c1cddd238a5a23498'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1568
@@ -18014,6 +18230,8 @@ msgid ""
 "external ref='figures/yelp_window.png' "
 "md5='c7138987ae131fe2c57846a281245d31'"
 msgstr ""
+"external ref='figures/yelp_window.png' "
+"md5='c7138987ae131fe2c57846a281245d31'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:316
@@ -18343,6 +18561,8 @@ msgid ""
 "external ref='figures/yelp_preferences.png' "
 "md5='b8beb6c866957938b5e39bc7f72611ec'"
 msgstr ""
+"external ref='figures/yelp_preferences.png' "
+"md5='b8beb6c866957938b5e39bc7f72611ec'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:584
@@ -18619,6 +18839,8 @@ msgid ""
 "external ref='figures/yelp_add_bookmark.png' "
 "md5='562a62662f47655337c9bf341ef69f6e'"
 msgstr ""
+"external ref='figures/yelp_add_bookmark.png' "
+"md5='562a62662f47655337c9bf341ef69f6e'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:812
@@ -18676,6 +18898,8 @@ msgid ""
 "external ref='figures/yelp_edit_bookmarks.png' "
 "md5='6fb478c10bb9df68dc8d82f3ed4ac89b'"
 msgstr ""
+"external ref='figures/yelp_edit_bookmarks.png' "
+"md5='6fb478c10bb9df68dc8d82f3ed4ac89b'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:846
@@ -19139,6 +19363,8 @@ msgid ""
 "external ref='figures/org_mate_desktop_background_logical_view.png' "
 "md5='657d280ac9bef4a700c8f46561072828'"
 msgstr ""
+"external ref='figures/org_mate_desktop_background_logical_view.png' "
+"md5='657d280ac9bef4a700c8f46561072828'"
 
 #. (itstool) path: figure/mediaobject
 #: C/gosdconf.xml:91
@@ -19198,6 +19424,8 @@ msgid ""
 "external ref='figures/picture_filename_dconf_key_view.png' "
 "md5='f03c4f0335a297d49495410dc37b5888'"
 msgstr ""
+"external ref='figures/picture_filename_dconf_key_view.png' "
+"md5='f03c4f0335a297d49495410dc37b5888'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosdconf.xml:122
@@ -19321,6 +19549,8 @@ msgid ""
 "external ref='figures/org_mate_desktop_background_only_logical_view.png' "
 "md5='ba63c30934dd9cc0379f54d0cc90850a'"
 msgstr ""
+"external ref='figures/org_mate_desktop_background_only_logical_view.png' "
+"md5='ba63c30934dd9cc0379f54d0cc90850a'"
 
 #. (itstool) path: figure/mediaobject
 #: C/gosdconf.xml:194
@@ -19379,6 +19609,8 @@ msgid ""
 "external ref='figures/picture_filename_dconf_key_edit.png' "
 "md5='6c51950700e166ae8e96193b1ac8d0cc'"
 msgstr ""
+"external ref='figures/picture_filename_dconf_key_edit.png' "
+"md5='6c51950700e166ae8e96193b1ac8d0cc'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosdconf.xml:232
@@ -19846,6 +20078,8 @@ msgid ""
 "(b) Latch modifiers when pressed twice in a row until the same modifier is "
 "pressed again."
 msgstr ""
+"(b) Os modificadores de bloqueo cando se premen dúas veces seguidas ata que "
+"se volva premer o mesmo modificador."
 
 #. (itstool) path: para/screen
 #: C/gosdconfkeys.xml:190
@@ -21962,7 +22196,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gosfeedback.xml:7
 msgid "Reporting Bugs"
-msgstr "Informar de erros"
+msgstr "Informar de fallos"
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:9
@@ -21992,7 +22226,7 @@ msgstr ""
 #. (itstool) path: para/ulink
 #: C/gosfeedback.xml:23
 msgid "MATE bug tracking database"
-msgstr ""
+msgstr "Base de datos do seguemento de fallos do MATE"
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:20
@@ -22005,12 +22239,12 @@ msgstr ""
 #. (itstool) path: para/application
 #: C/gosfeedback.xml:31
 msgid "blueman"
-msgstr ""
+msgstr "blueman"
 
 #. (itstool) path: para/ulink
 #: C/gosfeedback.xml:33
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:28
@@ -22032,7 +22266,7 @@ msgstr "Suxestións e comentarios"
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:50
 msgid "Severity: Enhancement"
-msgstr ""
+msgstr "Severidade: mellora"
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:45
@@ -22051,22 +22285,22 @@ msgstr "Comentarios sobre a documentación"
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:62
 msgid "Component: docs"
-msgstr ""
+msgstr "Compoñente: documentos"
 
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:63
 msgid "general"
-msgstr ""
+msgstr "xeral"
 
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:64
 msgid "docs"
-msgstr ""
+msgstr "documentos"
 
 #. (itstool) path: para/citetitle
 #: C/gosfeedback.xml:65
 msgid "MATE Users Guide"
-msgstr ""
+msgstr "Guía de usuario do MATE"
 
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:67
@@ -22116,7 +22350,7 @@ msgstr ""
 #. (itstool) path: para/ulink
 #: C/gosfeedback.xml:83
 msgid "http://live.gnome.org/JoinMate"
-msgstr ""
+msgstr "http://live.gnome.org/JoinMate"
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:83
@@ -22220,12 +22454,12 @@ msgstr "extensión do ficheiro"
 #. (itstool) path: para/filename
 #: C/glossary.xml:49
 msgid "picture.jpeg"
-msgstr ""
+msgstr "imaxe.jpeg"
 
 #. (itstool) path: para/filename
 #: C/glossary.xml:49
 msgid "jpeg"
-msgstr ""
+msgstr "jpeg"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:49
@@ -22294,7 +22528,7 @@ msgstr ""
 #. (itstool) path: para/firstterm
 #: C/glossary.xml:76 C/glossary.xml:78
 msgid "keyboard shortcut"
-msgstr ""
+msgstr "atallo de teclado"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:78

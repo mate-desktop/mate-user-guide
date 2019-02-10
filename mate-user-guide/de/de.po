@@ -1,6 +1,5 @@
 # Translators:
 # Almin <GermannenMarkus@googlemail.com>, 2018
-# Ettore Atalan <atalanttore@googlemail.com>, 2018
 # Christian Kopp <christiankopp79@gmail.com>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
@@ -8,13 +7,14 @@
 # Joachim Braun <joachim.braun@mail.ru>, 2018
 # Tobias Bannert <tobannert@gmail.com>, 2018
 # Julian Rüger <jr98@gmx.net>, 2018
+# Ettore Atalan <atalanttore@googlemail.com>, 2018
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2018-11-19 08:53+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Julian Rüger <jr98@gmx.net>, 2018\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>, 2018\n"
 "Language-Team: German (https://www.transifex.com/mate/teams/13566/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -309,6 +309,7 @@ msgstr "Wolfgang Ulbrich"
 msgid ""
 "<revnumber>2.15</revnumber> <date>2015-07-01</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.15</revnumber> <date>2015-07-01</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:163
@@ -339,6 +340,7 @@ msgstr "Shaun McCance"
 msgid ""
 "<revnumber>2.10</revnumber> <date>2005-03-08</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.10</revnumber> <date>2005-03-08</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:175
@@ -1478,7 +1480,7 @@ msgstr "Öffnet das <guimenu>Anwendungsmenü</guimenu>."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:619
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:624
@@ -1607,7 +1609,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:751
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F4</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F4</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:756
@@ -1745,7 +1747,7 @@ msgstr "Erstellt ein neues Dokument oder Fenster."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:889
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>X</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Strg</keycap><keycap>X</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:894
@@ -1787,7 +1789,7 @@ msgstr "Macht die letzte Aktion rückgängig."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:930
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>S</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Strg</keycap><keycap>S</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:935
@@ -3224,7 +3226,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:645
 msgid "<guilabel>Remove</guilabel>"
-msgstr ""
+msgstr "<guilabel>Entfernen</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:650
@@ -3476,7 +3478,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:758
 msgid "<guilabel>Window title font</guilabel>"
-msgstr ""
+msgstr "<guilabel>Fenstertitelschriftart</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:760
@@ -3577,7 +3579,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:809
 msgid "<guibutton>Details</guibutton>"
-msgstr ""
+msgstr "<guibutton>Details</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:811
@@ -4188,7 +4190,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1144
 msgid "<guilabel>DNS</guilabel>"
-msgstr ""
+msgstr "<guilabel>DNS</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1146
@@ -4566,7 +4568,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1300
 msgid "<guilabel>Direct internet connection</guilabel>"
-msgstr ""
+msgstr "<guilabel>Direkte Internetverbindung</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1301
@@ -4931,7 +4933,7 @@ msgstr ""
 #: C/goscustdesk.xml:1545 C/goscustdesk.xml:1828 C/goscustdesk.xml:1855
 #: C/goscustdesk.xml:2043
 msgid "<guilabel>Delay</guilabel>"
-msgstr ""
+msgstr "<guilabel>Verzögerung</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1550
@@ -5019,7 +5021,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1612
 msgid "<guilabel>Keyboard model</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tastaturmodell</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1613
@@ -5704,7 +5706,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2021 C/goscustdesk.xml:2227
 msgid "<guilabel>Acceleration</guilabel>"
-msgstr ""
+msgstr "<guilabel>Beschleunigung</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2026
@@ -6359,7 +6361,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2517
 msgid "<guilabel>Detect monitors</guilabel>"
-msgstr ""
+msgstr "<guilabel>Monitore erkennen</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2518
@@ -6527,7 +6529,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2606
 msgid "<guilabel>Output</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ausgabe</guilabel>"
 
 #. (itstool) path: sect2/para
 #: C/goscustdesk.xml:2611
@@ -7166,7 +7168,7 @@ msgstr "Menü »Anwendungen«"
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:37
 msgid "<primary>menus</primary> <secondary>Applications menu</secondary>"
-msgstr ""
+msgstr "<primary>Menüs</primary> <secondary>Anwendungsmenü</secondary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:41
@@ -7340,7 +7342,7 @@ msgstr "Menü »System«"
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:76
 msgid "<primary>System Menu</primary>"
-msgstr ""
+msgstr "<primary>Systemmenü</primary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:79
@@ -8313,7 +8315,7 @@ msgstr "Browser-Modus"
 #. (itstool) path: sect1/indexterm
 #: C/goscaja.xml:354
 msgid "<primary>file manager</primary> <secondary>windows</secondary>"
-msgstr ""
+msgstr "<primary>Dateiverwaltung</primary> <secondary>Fenster</secondary>"
 
 #. (itstool) path: sect1/para
 #: C/goscaja.xml:358
@@ -8584,7 +8586,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:500
 msgid "<guilabel>Tree</guilabel>"
-msgstr ""
+msgstr "<guilabel>Baum</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:503
@@ -10165,7 +10167,7 @@ msgstr "Option"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1243
 msgid "<guilabel>Manually</guilabel>"
-msgstr ""
+msgstr "<guilabel>Manuell</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1248
@@ -10192,7 +10194,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1268
 msgid "<guilabel>By Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nach Größe</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1273
@@ -10210,7 +10212,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1281
 msgid "<guilabel>By Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nach Typ</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1286
@@ -10277,7 +10279,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1331
 msgid "<guilabel>Reversed Order</guilabel>"
-msgstr ""
+msgstr "<guilabel>Umgekehrte Reihenfolge</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1336
@@ -14032,7 +14034,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3181
 msgid "<guilabel>Port</guilabel>"
-msgstr ""
+msgstr "<guilabel>Port</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3186
@@ -14047,7 +14049,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3192
 msgid "<guilabel>Folder</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ordner</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3197
@@ -14057,7 +14059,7 @@ msgstr "Nach dem Verbinden auf dem Server zu öffnender Ordner."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3202
 msgid "<guilabel>User Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Benutzername</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3207
@@ -14883,7 +14885,7 @@ msgstr "Wählen Sie diese Option, um den Eigentümer des Objekts anzuzeigen."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3708 C/goscaja.xml:3857
 msgid "<guilabel>Group</guilabel>"
-msgstr ""
+msgstr "<guilabel>Gruppe</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3713 C/goscaja.xml:3862
@@ -14934,7 +14936,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3742
 msgid "<guilabel>MIME Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>MIME-Typ</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3747 C/goscaja.xml:3873
@@ -15085,7 +15087,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3945
 msgid "<guilabel>Always</guilabel>"
-msgstr ""
+msgstr "<guilabel>Immer</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3950
@@ -15108,7 +15110,7 @@ msgstr "Führt die Aktion nur für lokale Dateien aus."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3966
 msgid "<guilabel>Never</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nie</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3971
@@ -15154,7 +15156,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4010
 msgid "<guilabel>Show thumbnails</guilabel>"
-msgstr ""
+msgstr "<guilabel>Vorschaubilder anzeigen</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4015
@@ -15259,7 +15261,7 @@ msgstr "Nichts tun."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4107
 msgid "<guilabel>Open Folder</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ordner öffnen</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4112
@@ -18014,7 +18016,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:289
 msgid "<guilabel>Background image</guilabel>"
-msgstr ""
+msgstr "<guilabel>Hintergrundbild</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:294
@@ -21935,7 +21937,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:329
 msgid "<interface>Menubar</interface>"
-msgstr ""
+msgstr "<interface>Menüleiste</interface>"
 
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:334
@@ -21955,7 +21957,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:344
 msgid "<guimenu>Edit</guimenu>"
-msgstr ""
+msgstr "<guimenu>Bearbeiten</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:347
@@ -21985,7 +21987,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:364
 msgid "<guimenu>Bookmarks</guimenu>"
-msgstr ""
+msgstr "<guimenu>Lesezeichen</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:367
@@ -21997,7 +21999,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:373
 msgid "<guimenu>Help</guimenu>"
-msgstr ""
+msgstr "<guimenu>Hilfe</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:376
@@ -22669,7 +22671,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:859
 msgid "<guibutton>Open</guibutton>"
-msgstr ""
+msgstr "<guibutton>Öffnen</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:862
@@ -26082,7 +26084,7 @@ msgstr ""
 #. (itstool) path: para/citetitle
 #: C/gosfeedback.xml:65
 msgid "MATE Users Guide"
-msgstr ""
+msgstr "MATE-Benutzerhandbuch"
 
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:67
