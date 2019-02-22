@@ -5,12 +5,6 @@ language: bash
 services:
   - docker
 
-# Trigger only on the travis branch
-# Remove the lines if every thing is ok.
-branches:
-  only:
-  - travis
-
 before_install:
   - curl -Ls -o docker-build https://github.com/mate-desktop/mate-dev-scripts/raw/master/travis/docker-build
   - chmod +x docker-build
@@ -76,6 +70,12 @@ requires:
 
 variables:
   - CFLAGS="-Wall -Werror=format-security"
+
+before_scripts:
+  - if [ ${DISTRO_NAME} == "debian" ];then
+  -     curl -Ls -o debian.sh https://github.com/mate-desktop/mate-dev-scripts/raw/master/travis/debian.sh
+  -     bash ./debian.sh
+  - fi
 
 after_scripts:
   - make distcheck
