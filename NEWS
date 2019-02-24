@@ -1,8 +1,13 @@
+### mate-user-guide 1.22.0
+
+  * update translations
+  * Initialize Travis CI support
+
 ### mate-user-guide 1.21.2
 
-    translate turkish language again
-    fix broken languages with xml errors
-    add autogen.sh to Extra_dist
+  * translate turkish language again
+  * fix broken languages with xml errors
+  * add autogen.sh to Extra_dist
 
 ### mate-user-guide 1.21.1
 
