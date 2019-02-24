@@ -15191,6 +15191,10 @@ msgid ""
 "corresponds to the column, then click on the <guibutton>Hide</guibutton> "
 "button."
 msgstr ""
+"For at angive en kolonne at vise i listevisningen, vælg indstillingen der "
+"svarer svarer til kolonnen, klik så på knappen <guibutton>Vis</guibutton>. "
+"For at fjerne en kolonne fra listevisningen, vælg indstillingen der svarer "
+"til kolonne, klik så på knappen <guibutton>Skjul</guibutton>."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:3780
@@ -15460,6 +15464,9 @@ msgid ""
 "application chooser dialog. Note that applications known to handle the media"
 " or device can be chosen directly from the drop-down list."
 msgstr ""
+"Vælg et program til afvikling med <application>Cajas</application> "
+"programvælgerdialog. Bemærk at programmer kendt for at håndtere mediet eller"
+" enheden kan vælges direkte fra rullegardinet."
 
 #. (itstool) path: sect2/para
 #: C/goscaja.xml:4132
@@ -16146,6 +16153,12 @@ msgid ""
 "than one task at a time. You can also think of windows as pieces of paper on"
 " your desktop: they can overlap, or be side by side, for example."
 msgstr ""
+"Et <firstterm>vindue</firstterm> er et rektangulært område af skærmen, "
+"normalt med en kant hele vejen rundt og en titelbjælke øverst. Du kan tænke "
+"på et vindue som en skærm i skærmen. Hvert vindue viser et program, så du "
+"kan have mere end et program synligt, og arbejde på mere end en opgave af "
+"gangen. Du kan også tænke på vinduer som papirark på dit skrivebord: de kan "
+"lappe over hinanden, eller være ved siden af hinanden."
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:150
@@ -16257,6 +16270,11 @@ msgid ""
 "useful if you wish to quote the text you see in a dialog when requesting "
 "support on the Internet."
 msgstr ""
+"Du kan vælge teksten i en dialog med musen. Dette gør, at du kan kopiere den"
+" til udklipsholderen (ved at højreklikke på teksten og vælge "
+"<guilabel>Kopier</guilabel>) og indsætte den i et andet program. Dette er "
+"nyttigt hvis du ønsker at citere teksten, du ser, i en dialog når du anmoder"
+" om hjælp på internettet."
 
 #. (itstool) path: section/title
 #: C/gosoverview.xml:192
@@ -16361,6 +16379,11 @@ msgid ""
 "lists the actions you can carry out on a window, with the mouse or the "
 "keyboard:"
 msgstr ""
+"Alle handlinger kan også udføres fra vinduesmenuen. For at åbne denne, klik "
+"på vinduesmenuknappen i det højre side af titellinjen. Gængse handlinger kan"
+" også udføres med tastaturgenveje: se <xref linkend=\"shortcuts-window\"/> "
+"for en simpel liste over disse. Følgende viser handlingerne du udfører på et"
+" vindue, med musen eller tastaturet:"
 
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:222
@@ -16552,6 +16575,9 @@ msgid ""
 "<keycap>Alt</keycap><keycap>F5</keycap></keycombo>, or double-click any part"
 " of the titlebar except the buttons at either end."
 msgstr ""
+"Du kan også vælge fjern maksimering fra vinduesmenuen, eller trykke "
+"<keycombo> <keycap>Alt</keycap><keycap>F5</keycap></keycombo> eller "
+"dobbeltklikke på enhver del af titellinjen undtagen knapperne i begge ender."
 
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:284
@@ -16565,6 +16591,10 @@ msgid ""
 "Closing the window may also close the application itself. The application "
 "will ask you to confirm closing a window that contains unsaved work."
 msgstr ""
+"Klik på knappen Luk, den øverst til højre i gruppen af tre til højre. "
+"Lukning af vinduet kan også lukke selve programmet. Programmet vil anmode "
+"dig om at bekræfte lukning af et vindue, som indeholder arbejde, der ikke er"
+" gemt."
 
 #. (itstool) path: section/title
 #: C/gosoverview.xml:296
@@ -16709,7 +16739,7 @@ msgstr ""
 #. (itstool) path: figure/title
 #: C/gosoverview.xml:346
 msgid "Workspaces Displayed in Workspace Switcher"
-msgstr "Arbejdsrum vist i Skift af arbejdsrum"
+msgstr "Arbejdsrum vist i Skift af arbejdsområde"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -16781,6 +16811,8 @@ msgid ""
 "In the <application>Workspace Switcher</application> applet in the bottom "
 "panel, click on the workspace where you want to work."
 msgstr ""
+"I panelprogrammet <application>Arbejdsrumskifter</application> i nederste "
+"panel, klik på arbejdsrum hvor du ønsker at arbejde."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:376
@@ -17247,6 +17279,10 @@ msgid ""
 "arrow buttons to either side of the button bar if the list of folders is too"
 " long to fit."
 msgstr ""
+"Klik på en af knapperne i stilinjen over filvisningspanelet. Denne viser "
+"hierarkiet for mapper, der indeholder din nuværende placering. Brug "
+"piletasterne i begge sider af knappelinjen, hvis listen over mapper er for "
+"lang til at blive vist."
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:492
@@ -17254,6 +17290,8 @@ msgid ""
 "The lower part of the <guilabel>Open File</guilabel> dialog may contain "
 "further options specific to the current application."
 msgstr ""
+"Den nedre del af dialogen <guilabel>Åbn fil</guilabel> kan indeholde "
+"yderligere indstillinger specifik til det nuværende program."
 
 #. (itstool) path: section/title
 #: C/gosoverview.xml:495
@@ -17762,7 +17800,7 @@ msgstr ""
 msgid ""
 "<primary>top edge panel</primary> <secondary>window list icon</secondary>"
 msgstr ""
-"<primary>topkantpanel</primary> <secondary>vidueslisteikon</secondary>"
+"<primary>øverste kantpanel</primary> <secondary>vindueslisteikon</secondary>"
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:75
@@ -17847,7 +17885,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:116
 msgid "<application>Workspace Switcher</application> applet"
-msgstr ""
+msgstr "Panelprogrammet <application>Arbejdsrumskifter</application>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:117
@@ -17915,6 +17953,9 @@ msgid ""
 "linkend=\"panel-properties\"/> for details on how to set a panel's expand "
 "property."
 msgstr ""
+"Et panel der ikke er angivet til udvidelse til skærmens fulde bredde kan "
+"trækkes fra kanten af skærmen og placeres overalt. Se <xref linkend=\"panel-"
+"properties\"/> for detaljer om hvordan et panels udvid-egnskab indstilles."
 
 #. (itstool) path: section/title
 #: C/gospanel.xml:144
@@ -17961,6 +18002,9 @@ msgid ""
 "position, and hiding properties. The following table describes the dialog "
 "elements on the <guilabel>General</guilabel> tabbed section:"
 msgstr ""
+"I fanebladet <guilabel>Generelt</guilabel> kan du ændre panelstørrelse, "
+"position og skule egenskaber. Den følgende tabel beskriver dialogelementerne"
+" på fanebladet <guilabel>Generelt</guilabel>:"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:177
@@ -18092,6 +18136,9 @@ msgid ""
 " on the <guibutton>Color</guibutton> button to display the color selector "
 "dialog. Choose the color that you require from the color selector dialog."
 msgstr ""
+"Vælg denne indstilling for at angive en enkel farve for panelbaggrunden. "
+"Klik på knappen <guibutton>Farve</guibutton> for at vise dialogen til "
+"farvevælgeren. Vælg farven du ønsker fra farvevælgeren."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:282
@@ -18100,6 +18147,10 @@ msgid ""
 "transparency or opaqueness for the color. For example, to make the panel "
 "transparent, move the slider to the <guilabel>Transparent</guilabel> end."
 msgstr ""
+"Brug skyderen <guilabel>Stil</guilabel> til at angive graden af "
+"gennemsigtighed eller uigennemsigtighed for farven. For eksempel, for at "
+"gøre panelet gennemsigtigt, flyt skyderen til slutningen af "
+"<guilabel>Gennemsigtig</guilabel>."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:289
@@ -18256,6 +18307,11 @@ msgid ""
 "To set your panel to autohide, <link linkend=\"panel-properties\">modify the"
 " properties</link> of the panel."
 msgstr ""
+"Du kan indstille et panel til automatisk skjulning. Når du angiver "
+"automatisk skjulning, så skjules panelet automatisk når musen ikke peger på "
+"panelet. Panelet dukker op igen, når du peger på den del af skærmen hvor "
+"panelet befinder sig. For at indstille dit panel til automatisk skjulning, "
+"<link linkend=\"panel-properties\">ændr egenskaberne </link> for panelet."
 
 #. (itstool) path: section/title
 #: C/gospanel.xml:362
@@ -18412,6 +18468,12 @@ msgid ""
 "field to select the applet. Instead, middle-click or right-click on another "
 "part of the applet."
 msgstr ""
+"Nogle panelprogrammer har områder, du ikke kan bruge til at vælge "
+"panelprogrammet. For eksempel har panelprogrammet "
+"<application>Kommandolinje</application> et felt hvori du taster kommandoer."
+" Du kan ikke lavet et midterklik eller højreklik på dette felt vor at vælge "
+"panelprogrammet. I stedet skal du lav et midterklik eller højreklik på et "
+"andet sted af panelprogrammet."
 
 #. (itstool) path: section/title
 #: C/gospanel.xml:462
@@ -18956,6 +19018,9 @@ msgid ""
 " MATE Desktop contains special URIs that enable you to access particular "
 "functions from the file manager. <_:indexterm-1/>"
 msgstr ""
+"Åbn speciel <firstterm>Uniform Resource Identifiers</firstterm> (URI'er). "
+"MATE-skrivebordet indeholder specielle URI'er der aktiverer adgang til "
+"bestemte funktioner fra filhåndteringen. <_:indexterm-1/>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:733
@@ -19066,6 +19131,10 @@ msgid ""
 "This method will only work if the launcher is on a sub-menu of the menu that"
 " you opened."
 msgstr ""
+"Åbn menuen der indeholder opstartsprogrammet og højreklik på titlen for "
+"opstartsprogrammet. Vælg <guimenuitem>Tilføj dette opstartsprogram til "
+"panelet</guimenuitem>. Denne metode vil kun fungere, hvis opstartsprogrammet"
+" er på en undermenu af menuen du åbnede."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:771
@@ -19146,6 +19215,8 @@ msgid ""
 "Use the drop-down list to specify whether this launcher starts an "
 "application or opens a location:"
 msgstr ""
+"Brug dette rullegardin til at angive om dette opstartsprogram starter et "
+"program eller åbner en placering:"
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:815
@@ -19569,6 +19640,9 @@ msgid ""
 "of screensaver-related commands. <xref linkend=\"gosstartsession-TBL-83\"/> "
 "describes the commands that are available from the menu."
 msgstr ""
+"Højreklik på knappen <guibutton>Lås skærm</guibutton> for at åbne en menu "
+"med pasuseskærmsrelaterede kommandoer. <xref linkend=\"gosstartsession-"
+"TBL-83\"/> beskriver kommandoerne der er tilgængelige fra menuen."
 
 #. (itstool) path: table/title
 #: C/gospanel.xml:1079
@@ -20005,6 +20079,10 @@ msgid ""
 "<application>Menu Bar</application> from the Add to Panel dialog. See <xref "
 "linkend=\"panels-addobject\"/> for more on this."
 msgstr ""
+"For at tilføje en <guimenu>Menulinje</guimenu> til et panel, højreklik på en"
+" ledig plads på panelet. Vælg <guimenu>Tilføj til panel</guimenu>, vælg så "
+"<application>Menulinje</application> fra Tilføj til panel-dialogen. Se <xref"
+" linkend=\"panels-addobject\"/> for yderligere om dette."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1294
@@ -20368,6 +20446,8 @@ msgid ""
 "<primary>top edge panel</primary> <secondary>window selector "
 "icon</secondary>"
 msgstr ""
+"<primary>øverste kantpanel</primary> "
+"<secondary>vinduesvælgerikon</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1507
@@ -20384,6 +20464,10 @@ msgid ""
 "<application>Window Selector</application> applet. The following figure "
 "shows an example of the <application>Window Selector</application> applet:"
 msgstr ""
+"Du kan se en liste med alle åbne vinduer. Du kan også vælge at give et "
+"vindue fokus. For at se vindueslisten, klik på panelprogrammet "
+"<application>Vinduesvælger</application>. Den følgende figur viser et "
+"eksempel på panelprogrammet <application>Vinduesvælger</application>:"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -20417,6 +20501,8 @@ msgid ""
 "To give focus to a window, select the window from the <application>Window "
 "Selector</application> applet."
 msgstr ""
+"For at give fokus til et vindue, vælg vinduet fra panelprogrammet "
+"<application>Vinduesvælger</application>."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1526
@@ -20425,6 +20511,9 @@ msgid ""
 "workspaces. The windows in all workspaces other than the current workspace "
 "are listed under a separator line."
 msgstr ""
+"<application>Vinduesvælgeren</application> viser vinduerne i alle "
+"arbejdsrum. Vinduerne i alle arbejdsrum udover det nuværende arbejdsrum er "
+"vist under en separat linje."
 
 #. (itstool) path: section/title
 #: C/gospanel.xml:1532
@@ -21140,6 +21229,11 @@ msgid ""
 "Type your message into the box and press <guibutton>Save</guibutton>. Your "
 "message will be displayed when the user unlocks their screen."
 msgstr ""
+"Du kan efterlade en besked til en bruger, der har låst sin skærm. Flyt på "
+"musen eller tryk på en tast og klik så på <guibutton>Efterlad "
+"besked</guibutton>. Tast din besked i boksen og tryk på "
+"<guibutton>Gem</guibutton>. Din besked vil blive vist når brugeren låser "
+"deres skærm op."
 
 #. (itstool) path: sect1/title
 #: C/gosstartsession.xml:176
@@ -21550,6 +21644,10 @@ msgid ""
 " will open the page. Prefix the web page address with http://, as in "
 "http://www.mate-desktop.org."
 msgstr ""
+"Hvis du indtaster placeringen på en fil, så vil et passende program blive "
+"startet for at åbne filen. Hvis du indtaster en internetadresse, så vil din "
+"internetbrowser åbne siden. Foranstil internetadressen med http://, som i "
+"http://www.mate-desktop.org."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:50
@@ -21567,6 +21665,10 @@ msgid ""
 " file to append to the command line. For example, you can enter "
 "<application>emacs</application> as the command, then choose a file to edit."
 msgstr ""
+"Du kan også bruge knappen <guibutton>Kør med fil</guibutton> for at vælge en"
+" fil som tilføjelse til kommandolinjen. For eksempel kan du indtaste "
+"<application>emacs</application> som kommandoen og så vælge en fil at "
+"redigere."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:59
@@ -21659,6 +21761,9 @@ msgid ""
 "shortcuts\"><application>Keyboard Shortcuts</application> preference "
 "tool</link> to modify the default shortcut keys."
 msgstr ""
+"Du kan bruge præferenceværktøjet <link linkend=\"prefs-keyboard-"
+"shortcuts\"><application>Genvejstaster</application> </link> til at ændre "
+"standardgenvejene."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:126
@@ -21968,6 +22073,9 @@ msgid ""
 "viewing a DocBook document, use this menu to navigate to the Next Section, "
 "Previous Section or to the Contents."
 msgstr ""
+"Brug denne menu til at navigere Tilbage, Fremad, til hjælpeemnernes side. "
+"Når et DocBook-dokument vises, så brug denne menu til at navigere til det "
+"næste afsnit, forrige afsnit eller til indholdet."
 
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:364
@@ -22044,6 +22152,9 @@ msgid ""
 "or the documentation. Use the table of contents to navigate to the "
 "documentation you need."
 msgstr ""
+"Browserpanelet er hvor du får præsenteret indholdsfortegnelsen eller "
+"dokumentationen. Brug indholdsfortegnelsen til at navigere til "
+"dokumentationen du har behov for."
 
 #. (itstool) path: section/title
 #: C/gostools.xml:438
@@ -23501,7 +23612,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:225
 msgid "Click on the Check mark button to apply the change."
-msgstr ""
+msgstr "Klik på knappen til afkrydsning for at anvende ændringen."
 
 #. (itstool) path: figure/title
 #: C/gosdconf.xml:230
@@ -26592,11 +26703,16 @@ msgid ""
 "collected, but you can further help by giving information about what you "
 "were doing when the crash took place."
 msgstr ""
+"Den nemmeste måde at rapportere fejl er ved at bruge <_:application-1/>, "
+"MATE's indbyggede fejlrapporteringsværktøj. Værktøjet vil starte i tilfælde "
+"af at et program bryder ned. Detaljerne som MATE-udviklerne skal bruge "
+"indsamles automatisk, men du kan give yderligere hjælp via information om "
+"hvad du gjorde da nedbruddet opstod."
 
 #. (itstool) path: para/ulink
 #: C/gosfeedback.xml:23
 msgid "MATE bug tracking database"
-msgstr ""
+msgstr "MATE's fejlrapporteringsdatabase"
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:20
@@ -26646,7 +26762,7 @@ msgstr "Forslag og kommentarer"
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:50
 msgid "Severity: Enhancement"
-msgstr ""
+msgstr "Alvorlighed: Forbedring"
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:45
@@ -26669,17 +26785,17 @@ msgstr "Dokumentationskommentarer"
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:62
 msgid "Component: docs"
-msgstr ""
+msgstr "Komponent: dokumenter"
 
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:63
 msgid "general"
-msgstr ""
+msgstr "generelt"
 
 #. (itstool) path: para/guilabel
 #: C/gosfeedback.xml:64
 msgid "docs"
-msgstr ""
+msgstr "dokumenter"
 
 #. (itstool) path: para/citetitle
 #: C/gosfeedback.xml:65
@@ -26702,6 +26818,13 @@ msgid ""
 "MATE documentation (such as <_:citetitle-4/>) rather than specific "
 "application manual, select <_:guilabel-5/>."
 msgstr ""
+"Hvis du har fundet noget upræcist eller en trykfejl i et af MATE-"
+"dokumenterne, eller har kommentarer eller forslag om dokumentationen, så giv"
+" os besked! Den nemmeste måde er at indsende en fejlrapport som forklaret "
+"før og vælge <_:guilabel-1/> på passende trin (eller <_:guilabel-2/> hvis "
+"der er ingen <_:guilabel-3/>-komponent). Hvis din kommentar er om den "
+"generelle MATE-dokumentation (såsom <_:citetitle-4/>) frem for en specifik "
+"programmanual, så vælg <_:guilabel-5/>."
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:69

@@ -13220,7 +13220,7 @@ msgstr ""
 #. (itstool) path: sect2/title
 #: C/goscaja.xml:2781
 msgid "Adding an Emblem to a File or Folder"
-msgstr "Afegir un emblem a un fitxer o carpeta"
+msgstr "Afegir un emblema a un fitxer o carpeta"
 
 #. (itstool) path: sect2/indexterm
 #: C/goscaja.xml:2784
