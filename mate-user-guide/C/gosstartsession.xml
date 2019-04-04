@@ -324,7 +324,7 @@ panel, click on the <guibutton>Lock Screen</guibutton> button.</para>
     <para>When you end a session, applications with unsaved work will warn you. You can choose to save your work, or cancel the command to log out or shut down.</para>
 
     <para>Before you end a session, you might want to save your current
-settings so that you can restore the session later. In the <link linkend="prefs-sessions"><application>Sessions</application></link> preference tool, you can select an option to automatically
+settings so that you can restore the session later. In the <xref linkend="prefs-sessions"/> tool, you can select an option to automatically
 save your current settings.</para>
   </section>
 </chapter>

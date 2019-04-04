@@ -129,7 +129,7 @@ keys that provides an alternative to standard ways of performing an action. For 
     
     <variablelist>
     	<varlistentry><term>Desktop</term>
-    	  <listitem><para>These are general shortcuts for the whole desktop, such as logging out, <link linkend="lock-screen">locking the screen</link>, opening the <link linkend="menubar">panel menubar</link>, or launching a web browser.</para></listitem>
+    	  <listitem><para>These are general shortcuts for the whole desktop, such as logging out, locing your screen (see <xref linkend="lock-screen"/>), opening the panel menubar (see <xref linkend="menubar"/>), or launching a web browser.</para></listitem>
     	</varlistentry>
     	<varlistentry><term>Sound</term>
     	  <listitem><para>Shortcuts for controlling your music player and the system volume.</para></listitem>
@@ -536,7 +536,7 @@ A <guilabel>Customize Theme</guilabel> dialog is displayed.</para>
       <primary>backgrounds</primary>
       <secondary>customizing desktop background</secondary>
     </indexterm>
-    <para>The <link linkend="overview-desktop">desktop</link> background is the image or color that is applied to your
+    <para>The <xref linkend="overview-desktop"/> background is the image or color that is applied to your
 desktop. You can open <guilabel>Background</guilabel> tabbed section in the <application>Appearance</application> preference tool by right-clicking on the desktop and choosing <guimenuitem>Change Desktop Background</guimenuitem>, as well as from the <menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice> menu.</para>
     <para>You can customize the desktop background in the following ways:</para>
     <itemizedlist>
@@ -552,8 +552,8 @@ a solid color, or create a gradient effect with two colors. A gradient effect
 is a visual effect where one color blends gradually into another color. </para>
       </listitem>
     </itemizedlist>
-    <tip><para>You can also drag a color or a pattern to the desktop from the <link linkend="caja-backgrounds-and-emblems"><guilabel>Backgrounds
-and Emblems</guilabel> dialog</link> in the <application>Caja</application> file manager.</para></tip>
+    <tip><para>You can also drag a color or a pattern to the desktop from the <guilabel>Backgrounds
+and Emblems</guilabel> dialog in the <application>Caja</application> file manager (see <xref linkend="caja-backgrounds-and-emblems"/>).</para></tip>
     <para><xref linkend="goscustdesk-TBL-14"/> lists the background preferences
 that you can modify.</para>
     <table frame="topbot" xml:id="goscustdesk-TBL-14"><info><title>Desktop Background Preferences</title></info>
@@ -1447,7 +1447,7 @@ preference tool in the following functional areas:</para>
       </listitem>
     </itemizedlist>
     -->
-    <para>To open the <link linkend="prefs-keyboard-a11y"><application>Keyboard <emphasis>Accessibility</emphasis></application> preference tool</link>, click the <guibutton>Accessibility</guibutton> button.</para>    
+    <para>To open the <xref linkend="prefs-keyboard-a11y"/> tool, click the <guibutton>Accessibility</guibutton> button.</para>    
     <section xml:id="goscustdesk-40"><info><title>Keyboard Preferences</title></info>
       
       <para>Use the <guilabel>General</guilabel> tabbed section to set general

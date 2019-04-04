@@ -265,7 +265,7 @@ buttons, if the hide button is enabled.</para>
                   </para>
                 </entry>
                 <entry valign="top">
-                  <para>Select this option to have the panel use the settings in the <link linkend="prefs-theme"><application>Appearance</application> preference tool</link>. This keeps your panel's background looking the same as the rest of the desktop and applications.</para>
+                  <para>Select this option to have the panel use the settings in the <xref linkend="prefs-theme"/> tool. This keeps your panel's background looking the same as the rest of the desktop and applications.</para>
                 </entry>
               </row>
               <row>
@@ -319,8 +319,8 @@ many applications. For example:</para>
             <para>You can drag an image file from the <application>Caja</application> file manager to set it as the background of the panel.</para>     
           </listitem>
           <listitem>
-            <para>You can drag a color or a pattern from the <link linkend="caja-backgrounds-and-emblems"><guilabel>Backgrounds
-  and Emblems</guilabel> dialog</link> in <application>Caja</application> file manager to a panel to set it as the background.</para>         
+            <para>You can drag a color or a pattern from the <guilabel>Backgrounds
+  and Emblems</guilabel> dialog (see <xref linkend="caja-backgrounds-and-emblems"/>) in <application>Caja</application> file manager to a panel to set it as the background.</para>         
           </listitem>
         </itemizedlist>
         <para>Click <guibutton>Close</guibutton> to close the <guilabel>Panel Properties</guilabel> dialog.</para>
@@ -356,7 +356,7 @@ buttons are now visible.</para>
       <para>You can set a panel to autohide. When you set autohide, the panel hides
 automatically when the mouse is not pointing to the panel. The panel reappears
 when you point to the part of the screen where the panel resides. To set your
-panel to autohide, <link linkend="panel-properties">modify the properties</link> of the panel.</para>
+panel to autohide, modify the properties of the panel as per the instructions in <xref linkend="panel-properties"/>.</para>
     </section>
 
     <section xml:id="gospanel-10"><info><title>Adding a New Panel</title></info>
@@ -438,7 +438,7 @@ popup menu.</para>
           <listitem>
             <para>Some applets have popup menus of applet-specific commands
   that open when you right-click on particular parts of the applet. For example,
-  the <application><link linkend="windowlist">Window List</link></application> applet has a vertical handle on
+  the <application><xref linkend="windowlist"/></application> applet has a vertical handle on
   the left side, and buttons that represent your windows on the right side.
   To open the panel object popup menu for the <application>Window List</application>
   applet, you must right-click on the handle. If you right-click on a button
@@ -473,7 +473,7 @@ popup menu.</para>
         </para></listitem>
         <listitem><para>
           Choose <guisubmenu>Add to Panel</guisubmenu>.</para>
-          <para>The <guilabel>Add to Panel</guilabel> dialog opens.The available panel objects are listed alphabetically, with <link linkend="launchers">launchers</link> at the top.</para>
+          <para>The <guilabel>Add to Panel</guilabel> dialog opens.The available panel objects are listed alphabetically, with <xref linkend="launchers"/> at the top.</para>
           <tip><para>You can type a part of the name or description of an object in the <guilabel>find</guilabel> box. This will narrow the list to those objects that match what you type.</para>
           <para>To restore the full list, delete the text in the <guilabel>find</guilabel> box.</para>
           </tip>
@@ -739,7 +739,7 @@ ways:</para>
         <listitem>
           <para>From the panel popup menu</para>
           <para>Right-click on any vacant space on the panel,
-then choose <guimenu>Add to Panel</guimenu>. The <link linkend="panels-addobject"><guilabel>Add to Panel</guilabel> dialog</link> opens.</para>
+then choose <guimenu>Add to Panel</guimenu>. The <guilabel>Add to Panel</guilabel> dialog opens (see <xref linkend="panels-addobject"/>).</para>
           <para>To create a new launcher, select <guilabel>Custom Application Launcher</guilabel> from the list. A <guilabel>Create Launcher</guilabel>
 dialog is displayed. For more information on the properties in this dialog,
 see <xref linkend="launchers-properties"/>.</para>
@@ -1107,7 +1107,7 @@ the same function as when you click on the <guibutton>Lock Screen</guibutton> bu
                 </para>
               </entry>
               <entry valign="top">
-                <para>Opens the <link linkend="prefs-screensaver"><application>Screensaver</application> preference tool</link>, with which you can configure the type of screensaver that is displayed when you lock the screen.</para>
+                <para>Opens the <xref linkend="prefs-screensaver"/> tool, with which you can configure the type of screensaver that is displayed when you lock the screen.</para>
               </entry>
             </row>
           </tbody>

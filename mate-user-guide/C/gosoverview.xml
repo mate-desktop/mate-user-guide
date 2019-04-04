@@ -122,7 +122,7 @@
     <para>As you work with your computer, the desktop becomes obscured by the windows you are working with. To quickly reveal the desktop by minimizing all windows, you can do one of the following:</para>
     
     <itemizedlist>
-	    <listitem><para>Click on the <guibutton>Show Desktop</guibutton> button at the far left of the <link linkend="bottom-panel">bottom panel</link>.</para></listitem>
+	    <listitem><para>Click on the <guibutton>Show Desktop</guibutton> button at the far left of the <xref linkend="bottom-panel"/>.</para></listitem>
 	    <listitem><para>Press <keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>D</keycap></keycombo>.</para></listitem>
     </itemizedlist>
  
@@ -233,7 +233,7 @@
       <varlistentry>
         <term>Resize the window</term>
         <listitem>
-            <para>Drag one of the borders to expand or contract the window on that side. Drag a corner to change two sides at once. The <link linkend="mouse-pointers">resize pointer</link> appears when your mouse is in the correct position to begin the drag action.</para>
+            <para>Drag one of the borders to expand or contract the window on that side. Drag a corner to change two sides at once. The resize pointer (see <xref linkend="mouse-pointers"/>) appears when your mouse is in the correct position to begin the drag action.</para>
 
             <para>You can also choose Resize from the Window Menu, or press <keycombo>
             <keycap>Alt</keycap><keycap>F8</keycap></keycombo>. The resize pointer appears. Move the mouse in the direction of the edge you want to resize, or press one of the keyboard arrows keys. The pointer changes to indicate the chosen edge. Now you can use the mouse or the arrow keys to move this edge of the window. Click the mouse or press <keycap>Return</keycap> to accept the change. Press <keycap>Escape</keycap> to cancel the resize action and return the window to its original size and shape.</para> 
@@ -242,7 +242,7 @@
       <varlistentry>
         <term>Minimize the window</term>
         <listitem>
-            <para>Click on the Minimize button in the titlebar, the leftmost of the group of three on the right. This removes the window from view. The window can be restored to its previous position and size on the screen from the <firstterm>window list</firstterm> on the <link linkend="gospanel-3">bottom edge panel</link> or the <firstterm>window selector</firstterm> in the top panel.</para>
+            <para>Click on the Minimize button in the titlebar, the leftmost of the group of three on the right. This removes the window from view. The window can be restored to its previous position and size on the screen from the <firstterm>window list</firstterm> on the <xref linkend="bottom-panel"/> or the <firstterm>window selector</firstterm> in the top panel.</para>
             
             <para>You can also choose Minimize from the Window Menu, or press <keycombo>
             <keycap>Alt</keycap><keycap>F9</keycap>
@@ -316,7 +316,7 @@
           With the keyboard, hold the <keycap>Alt</keycap> key and press the <keycap>Tab</keycap> key. A pop-up window appears with a list of icons representing each window. While still holding <keycap>Alt</keycap>, press <keycap>Tab</keycap> to move the selection along the list: a black rectangle frames the selected icon and the position of the window it corresponds to is highlighted with a black border. When the window you want to see is selected, release the <keycap>Alt</keycap> key. Using <keycombo><keycap>Shift</keycap><keycap>Tab</keycap></keycombo> instead of just <keycap>Tab</keycap> cycles through the icons in reverse order.      
           </para>
           <note><para>
-            You can customize the shortcut used to perform this action with the <link linkend="prefs-keyboard-shortcuts">Keyboard Shortcuts preference tool</link>.
+            You can customize the shortcut used to perform this action with the <xref linkend="prefs-keyboard-shortcuts"/> tool.
           </para></note>
         </listitem>      
       </itemizedlist>
@@ -333,7 +333,7 @@
     </indexterm>
     <para>Workspaces allow you to manage which windows are on your screen. You can imagine workspaces as being virtual screens, which you can switch between at any time. Every workspace contains the same desktop, the same panels, and the same menus. However, you can run different applications, and open different windows in each workspace. The applications in each workspace will remain there when you switch to other workspaces.</para>
 
-    <para>By default, four workspaces are available. You can switch between them with the <application>Workspace Switcher</application> applet at the right of the <link linkend="bottom-panel">bottom panel</link>. This shows a representation of your workspaces, by default a row of four rectangles. Click on one to switch to that workspace. In <xref linkend="gosoverview-FIG-42"/>, <application>Workspace Switcher</application> contains four workspaces. The first three workspaces contain open windows. The last workspace does not contain currently open windows. The currently active workspace is highlighted.</para>
+    <para>By default, four workspaces are available. You can switch between them with the <application>Workspace Switcher</application> applet at the right of the <xref linkend="bottom-panel"/>. This shows a representation of your workspaces, by default a row of four rectangles. Click on one to switch to that workspace. In <xref linkend="gosoverview-FIG-42"/>, <application>Workspace Switcher</application> contains four workspaces. The first three workspaces contain open windows. The last workspace does not contain currently open windows. The currently active workspace is highlighted.</para>
     
     <figure xml:id="gosoverview-FIG-42"><info><title>Workspaces Displayed in Workspace Switcher</title></info>
       <screenshot>
@@ -411,7 +411,7 @@ specify the number of workspaces that you require.</para>
       <listitem><para><link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:mate-dictionary" type="help"><application>Dictionary</application></link> allows you to look up definitions of a word. </para></listitem>
       <listitem><para><link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:eom" type="help"><application>Image Viewer</application></link> can display single image files, as well as large image collections.</para></listitem>
       <listitem><para><link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:gucharmap" type="help"><application>Character Map</application></link> lets you choose letters and symbols from the <firstterm>Unicode</firstterm> character set and paste them into any application. If you are writing in several languages, not all the characters you need will be on your keyboard.</para></listitem>
-      <listitem><para><link linkend="caja"><application>Caja File Manager</application></link> displays your folders and their contents. Use this to copy, move and classify your files, and to access CDs, USB flash drives, and any other removable media. When you choose an item from the <link linkend="places-menu"><guimenu>Places</guimenu> menu</link>, a <application>Caja File Manager</application> window opens showing that location.</para></listitem>
+      <listitem><para><application>Caja File Manager</application> (see <xref linkend="caja"/>) displays your folders and their contents. Use this to copy, move and classify your files, and to access CDs, USB flash drives, and any other removable media. When you choose an item from the <xref linkend="places-menu"/>, a <application>Caja File Manager</application> window opens showing that location.</para></listitem>
       <listitem><para><link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:mate-terminal" type="help"><application>Terminal</application></link> gives you access to the system command line.</para></listitem>
     </itemizedlist>
 
@@ -426,7 +426,7 @@ specify the number of workspaces that you require.</para>
       <itemizedlist>
         <listitem>
           <para>Consistent look-and-feel</para>
-          <para>MATE-compliant applications have a consistent look-and-feel. You can use the <link linkend="prefs-theme"><application>Appearance</application> preference tool</link> to change the look-and-feel of your MATE-compliant applications.</para>
+          <para>MATE-compliant applications have a consistent look-and-feel. You can use the <xref linkend="prefs-theme"/> tool to change the look-and-feel of your MATE-compliant applications.</para>
         </listitem>
         <listitem>
           <para>Menubars, toolbars, and statusbars</para>
@@ -474,7 +474,7 @@ specify the number of workspaces that you require.</para>
       <para>To change the location shown in the right-hand pane, do one of the following:</para>
       <itemizedlist>
 	      <listitem><para>Open a folder that is listed in the current location.</para></listitem>
-	      <listitem><para>Open an item in the left-hand pane. This pane lists places such as your Documents folder, your Home Folder, media such as CDs and flash drives, places on your network, and your <link linkend="caja-bookmarks">bookmarks</link>.</para></listitem>
+	      <listitem><para>Open an item in the left-hand pane. This pane lists places such as your Documents folder, your Home Folder, media such as CDs and flash drives, places on your network, and your bookmarks (see <xref linkend="caja-bookmarks"/> for more on bookmarks).</para></listitem>
 	      <listitem><para>Click one of the buttons in the path bar above the file listing pane. This shows the hierarchy of folders that contain your current location. Use the arrow buttons to either side of the button bar if the list of folders is too long to fit.</para></listitem>
       </itemizedlist>
       
@@ -524,7 +524,7 @@ specify the number of workspaces that you require.</para>
                           
         <section xml:id="filechooser-save-expanded"><info><title>Saving in another location</title></info>
           <para>To save the file in a location not listed in the drop-down list, click the <guilabel>Browse for other folders</guilabel> expansion label. This shows a file browser similar to the one in the <guilabel>Open File</guilabel> dialog.</para>
-          <tip><para>The expanded <guilabel>Save File</guilabel> dialog has the same features as the <link linkend="filechooser-open"><guilabel>Open File</guilabel> dialog</link>, such as filtering, find-as-you-type, and adding and removing bookmarks.</para></tip>
+          <tip><para>The expanded <guilabel>Save File</guilabel> dialog has the same features as the <guilabel>Open File</guilabel> dialog (see <xref linkend="filechooser-open"/>), such as filtering, find-as-you-type, and adding and removing bookmarks.</para></tip>
         </section>   
         
         <section xml:id="filechooser-save-overwrite"><info><title>Replacing an existing file</title></info>
