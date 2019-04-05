@@ -129,7 +129,7 @@ keys that provides an alternative to standard ways of performing an action. For 
     
     <variablelist>
     	<varlistentry><term>Desktop</term>
-    	  <listitem><para>These are general shortcuts for the whole desktop, such as logging out, locing your screen (see <xref linkend="lock-screen"/>), opening the panel menubar (see <xref linkend="menubar"/>), or launching a web browser.</para></listitem>
+    	  <listitem><para>These are general shortcuts for the whole desktop, such as logging out, locking your screen (see <xref linkend="lock-screen"/>), opening the panel menubar (see <xref linkend="menubar"/>), or launching a web browser.</para></listitem>
     	</varlistentry>
     	<varlistentry><term>Sound</term>
     	  <listitem><para>Shortcuts for controlling your music player and the system volume.</para></listitem>
