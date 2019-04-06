@@ -37,8 +37,8 @@
             <para>
               Press <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo>. You can change 
               the shortcut keys that display the <guilabel>Run Application</guilabel> dialog
-              in the <link linkend="prefs-keyboard-shortcuts"><application>Keyboard Shortcuts</application> 
-            preference tool</link>.</para>
+              in the <application><xref linkend="prefs-keyboard-shortcuts"/></application> tool.
+            </para>
           </listitem>
           </varlistentry>
         </variablelist>
@@ -121,8 +121,7 @@ a screenshot of the entire screen.</para>
           </tbody>
         </tgroup>
       </informaltable>
-      <para>You can use the <link linkend="prefs-keyboard-shortcuts"><application>Keyboard Shortcuts</application> 
-      preference tool</link> to modify the default shortcut keys.</para>
+      <para>You can use the <application><xref linkend="prefs-keyboard-shortcuts"/></application> tool to modify the default shortcut keys.</para>
     </listitem>
     <listitem>
       <para>From the Menubar</para>
