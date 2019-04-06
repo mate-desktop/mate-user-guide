@@ -67,7 +67,7 @@ file manager to do the following:</para>
 lies behind all other visible items on your screen. The desktop
 is an active component of the way you use your computer.</para>
     <para>Every user has a Home Folder. The Home Folder contains all user's files. The desktop is another folder. The desktop contains special icons allowing easy access to the users Home Folder, Trash, and also removable media such as floppy disks, CDs and USB flash drives.</para>
-    <para><application>Caja</application> is always running while you are using MATE. To open a new <application>Caja</application> window, double-click on an appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or <guimenuitem>Computer</guimenuitem>, or choose an item from <link linkend="places-menu"><guimenuitem>Places</guimenuitem> menu</link> on the top panel.</para>
+    <para><application>Caja</application> is always running while you are using MATE. To open a new <application>Caja</application> window, double-click on an appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or <guimenuitem>Computer</guimenuitem>, or choose an item from <xref linkend="places-menu"/> on the top panel.</para>
     <para>In MATE many things are files, such as word processor documents, spreadsheets, photos, movies, and music.</para>
   </section>
 
@@ -154,7 +154,7 @@ is an active component of the way you use your computer.</para>
         <listitem><para>Double-click the folder's icon on the desktop or an existing window</para></listitem>
         <listitem><para>Select the folder, and press <keycombo><keycap>Ctrl</keycap><keycap>O</keycap></keycombo>.</para></listitem>
         <listitem><para>Select the folder, and press <keycombo><keycap>Alt</keycap><keycap>down arrow</keycap></keycombo></para></listitem>
-        <listitem><para>Choose an item from the <link linkend="places-menu"><guimenuitem>Places</guimenuitem> menu</link> on the top panel. Your Home Folder and folders you have bookmarked are listed here. For more on bookmarks, see <xref linkend="caja-bookmarks"/>.</para></listitem>
+        <listitem><para>Choose an item from the <xref linkend="places-menu"/> on the top panel. Your Home Folder and folders you have bookmarked are listed here. For more on bookmarks, see <xref linkend="caja-bookmarks"/>.</para></listitem>
       </itemizedlist>
       
       <para>To close the current folder while opening the new one, hold down <keycap>Shift</keycap> when double-clicking, or press <keycombo><keycap>Shift</keycap><keycap>Alt</keycap><keycap>down arrow</keycap></keycombo>.</para>
@@ -887,7 +887,7 @@ action for that file type.</para>
     <para>The file manager checks the contents of a file to determine the type
 of a file. If the first lines do not determine the type of the file, then
 the file manager checks the <glossterm>file extension</glossterm>.</para>
-    <note><para>If you open an executable text file, that is, one that Caja considers can be run as a program, then you will be asked what you want to do: run it, or display it in a text editor. You can modify this behavior in the <link linkend="caja-preferences">File Management preferences</link>.</para></note>
+    <note><para>If you open an executable text file, that is, one that Caja considers can be run as a program, then you will be asked what you want to do: run it, or display it in a text editor. You can modify this behavior in <xref linkend="caja-preferences"/>.</para></note>
 
     <section xml:id="goscaja-29"><info><title>Executing the Default Action</title></info>
       <indexterm>
@@ -2230,7 +2230,7 @@ or folder to which a symbolic link points.</para>
             <para>Select the folder that you want to change. </para>
           </listitem>
           <listitem>
-            <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>. The <link linkend="caja-properties">properties window</link> for the item is displayed.</para>
+            <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>. The <xref linkend="caja-properties"/> for the item is displayed.</para>
           </listitem>
           <listitem>
             <para>Click on the <guilabel>Permissions</guilabel> tab.</para>
@@ -2301,7 +2301,7 @@ to a file or folder, perform the following steps:</para>
             <para>Select the file or folder to which you want to add a note. </para>
           </listitem>
           <listitem>
-            <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>. The <link linkend="caja-properties">properties window</link> for the item is displayed.</para>
+            <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>. The <xref linkend="caja-properties"/> for the item is displayed.</para>
           </listitem>
           <listitem>
             <para>Click on the <guilabel>Notes</guilabel> tab. In the <guilabel>Notes</guilabel> tabbed section, type the note.</para>
@@ -2750,7 +2750,7 @@ icon</guilabel> dialog click <guibutton>Revert</guibutton>.</para>
           <para>Select the item to which you want to add an emblem.</para>
         </listitem>
         <listitem>
-          <para>Right-click on the item, then choose <guimenuitem>Properties</guimenuitem>. The <link linkend="caja-properties">properties window</link> for the item is displayed.</para>
+          <para>Right-click on the item, then choose <guimenuitem>Properties</guimenuitem>. The <xref linkend="caja-properties"/> for the item is displayed.</para>
         </listitem>
         <listitem>
           <para>Click on the <guilabel>Emblems</guilabel> tab to display the <guilabel>Emblems</guilabel> tabbed section.</para>
