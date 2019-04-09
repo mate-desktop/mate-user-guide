@@ -167,28 +167,31 @@ keys that provides an alternative to standard ways of performing an action. For 
     <para>Use the <application>Preferred
 Applications</application> preference tool to specify the applications that
 you want the MATE Desktop to use when the MATE Desktop starts an application
-for you. For example, you can specify the web browser application (<application>Epiphany
-</application>, <application>Mozilla Firefox</application>, <application>Opera</application>
-...) to launch when you click on a link in other applications such as 
+for you. For example, you can specify the web browser application (<application>Epiphany</application>, <application>Mozilla Firefox</application>, <application>Opera</application>...) to launch when you click on a link in other applications such as 
 email clients or document viewers.</para>
 
 	<para> <application>Preferred Applications</application> can be found by going to
-<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guimenuitem>Preferred Applications</guimenuitem></menuchoice>.</para>
+<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guisubmenu>Personal</guisubmenu><guimenuitem>Preferred Applications</guimenuitem></menuchoice>.</para>
     <para>You can customize the preferences for the <application>Preferred Applications</application> preference tool in the following functional areas.</para>
     <itemizedlist>
       <listitem>
         <para>
-          <guilabel>Internet</guilabel> (Web, Mail)
+          <guilabel>Internet</guilabel> (Web Browser, Mail Reader)
         </para>
       </listitem>
       <listitem>
         <para>
-          <guilabel>Multimedia</guilabel> (Multimedia Player)
+          <guilabel>Multimedia</guilabel> (Image Viewer, Multimedia Player, Video Player)
         </para>
       </listitem>
       <listitem>
         <para>
-          <guilabel>System</guilabel> (Terminal)
+          <guilabel>System</guilabel> (Text Editor, Terminal Emulator, File Manager)
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <guilabel>Office</guilabel> (Document Viewer, Word Processor, Spreadsheet Editor)
         </para>
       </listitem>
       <listitem>
@@ -199,80 +202,7 @@ email clients or document viewers.</para>
     </itemizedlist>
     
     <para>For each preferred application category, a drop-down menu contains a list of possible applications you can choose from. The list depends on the applications installed on your computer.</para>
-    <para>In each category, the last item in the menu (<guimenuitem>Custom</guimenuitem>) permits you to customize the command used by the system when the specific launch action occurs.</para>
-    
-    <section xml:id="goscustlookandfeel-32"><info><title>Custom Command Options</title></info>
-      <indexterm>
-        <primary>preferred applications</primary>
-        <secondary>custom command</secondary>
-      </indexterm>
-      <para>The following table summarizes the various options you can choose from when you select
-<guimenuitem>Custom</guimenuitem> in the drop-down application menu.</para>
-      <table frame="topbot" xml:id="goscustlookandfeel-TBL-37"><info><title>Custom command options</title></info>
-        <tgroup cols="2" colsep="1" rowsep="1">
-          <colspec colname="colspec0" colwidth="18.86*"/>
-          <colspec colname="colspec1" colwidth="47.14*"/>
-          <thead>
-            <row>
-              <entry colsep="0" rowsep="1">
-                <para>Dialog Element</para>
-              </entry>
-              <entry colsep="0" rowsep="1">
-                <para>Description</para>
-              </entry>
-            </row>
-          </thead>
-          <tbody>
-            <row>
-              <entry colname="colspec0" colsep="0" rowsep="0" valign="top">
-                <para>
-                  <guilabel>Command</guilabel>
-                </para>
-              </entry>
-              <entry colname="colspec1" colsep="0" rowsep="0" valign="top">
-                <para>Enter the command to execute to start the custom application. For the <application>Web
-Browser</application> and the <application>Mail Reader</application> applications, you can include a <literal>%s</literal>
-after the command to tell the application to use the URL or Email address you clicked on. The exact command arguments
-may depend on the specific application.</para>
-              </entry>
-            </row>
-            <row>
-              <entry colname="colspec0" colsep="0" rowsep="0" valign="top">
-                <para>
-                  <guilabel>Run in terminal</guilabel>
-                </para>
-              </entry>
-              <entry colname="colspec1" colsep="0" rowsep="0" valign="top">
-                <para>Select this option to run the command in a terminal window. Select this option for an
- application that does not create a window in which to run.</para>
-              </entry>
-            </row>
-            <row>
-              <entry colname="colspec0" colsep="0" rowsep="0" valign="top">
-                <para>
-                  <guilabel>Execute flag (Terminal only)</guilabel>
-                </para>
-              </entry>
-              <entry colname="colspec1" colsep="0" rowsep="0" valign="top">
-                <para>Most terminal applications have an option that cause them to treat the remaining command line options as
-commands to run (<option>-x</option> for <application>mate-terminal</application>).  Enter this option here.
- For example, this is used when executing a command of a launcher for which the chosen type is Application in Terminal.</para>
-              </entry>
-            </row>
-            <row>
-              <entry colname="colspec0" colsep="0" rowsep="0" valign="top">
-                <para>
-                  <guilabel>Run at start (Accessibility only)</guilabel>
-                </para>
-              </entry>
-              <entry colname="colspec1" colsep="0" rowsep="0" valign="top">
-                <para>Select this option to run the command as soon as your session begins.</para>
-              </entry>
-            </row>
-          </tbody>
-        </tgroup>
-      </table>
-    </section>
+    <tip><formalpara><title>Run at start (Accessibility only)</title><para>Select this option to run the command as soon as your session begins.</para></formalpara></tip>
   </section>
 </section>
 
