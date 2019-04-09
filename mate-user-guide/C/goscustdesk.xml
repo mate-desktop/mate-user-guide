@@ -173,22 +173,27 @@ for you. For example, you can specify the web browser application (<application>
 email clients or document viewers.</para>
 
 	<para> <application>Preferred Applications</application> can be found by going to
-<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guimenuitem>Preferred Applications</guimenuitem></menuchoice>.</para>
+<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guisubmenu>Personal</guisubmenu><guimenuitem>Preferred Applications</guimenuitem></menuchoice>.</para>
     <para>You can customize the preferences for the <application>Preferred Applications</application> preference tool in the following functional areas.</para>
     <itemizedlist>
       <listitem>
         <para>
-          <guilabel>Internet</guilabel> (Web, Mail)
+          <guilabel>Internet</guilabel> (Web Browser, Mail Reader)
         </para>
       </listitem>
       <listitem>
         <para>
-          <guilabel>Multimedia</guilabel> (Multimedia Player)
+          <guilabel>Multimedia</guilabel> (Image Viewer, Multimedia Player, Video Player)
         </para>
       </listitem>
       <listitem>
         <para>
-          <guilabel>System</guilabel> (Terminal)
+          <guilabel>System</guilabel> (Text Editor, Terminal Emulator, File Manager)
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <guilabel>Office</guilabel> (Document Viewer, Word Processor, Spreadsheet Editor)
         </para>
       </listitem>
       <listitem>
