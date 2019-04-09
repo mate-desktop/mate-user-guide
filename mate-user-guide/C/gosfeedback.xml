@@ -17,14 +17,11 @@
    describing the circumstances under which the bug shows (What
    commands did you enter? Which buttons did you click?). If there were any
    error messages, be sure to include them, too.  
-      </para> 
-      <para>
-	The easiest way to report bugs is by using <application>Bug Buddy</application>, MATE's built-in bug reporting tool. This will launch automatically in the event that an application crashes. The details MATE developers need are automatically collected, but you can further help by giving information about what you were doing when the crash took place.
       </para>
+
       <para>
-	You can also submit bugs and browse the list of known bugs by
-	connecting to the <link xlink:href="https://github.com/mate-desktop/">MATE bug tracking
-	database</link>.  You will need to register before you can submit any bugs this way. 
+	The easiest way to report bugs is by connecting to the <link xlink:href="https://github.com/mate-desktop/">MATE bug tracking
+	database</link>, where you can also browse the list of known bugs. You will need to register before you can submit any bugs this way. 
       </para>
       
       <para>
@@ -33,9 +30,7 @@
 	software). For example, <application>blueman</application>, a
 	bluetooth application, is developed at <link xlink:href="https://github.com/blueman-project/blueman/">GitHub</link>. Bug reports and
 	comments about these products should be directed to the
-	respective organization or company. If you are using <application>Bug 
-	Buddy</application>, it will automatically send bug reports to
-	the correct database.
+	respective organization or company.
 	</para>
 
     </section>
