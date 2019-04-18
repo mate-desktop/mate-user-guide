@@ -112,7 +112,10 @@ before_scripts:
   - fi
 
 after_scripts:
-  - yelp-build html -o help-html mate-user-guide/C/index.docbook
+  - if [ ${DISTRO_NAME} == "fedora" ];then
+  -   mkdir -p help-html
+  -   yelp-build html -o help-html mate-user-guide/C/index.docbook
+  - fi
   - make distcheck
 
 releases:
