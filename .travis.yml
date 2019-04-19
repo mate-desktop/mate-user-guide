@@ -115,6 +115,7 @@ after_scripts:
   - if [ ${DISTRO_NAME} == "fedora" ];then
   -   mkdir -p help-html
   -   yelp-build html -o help-html mate-user-guide/C/index.docbook
+  -   echo "mate-user-guide.mate-desktop.dev" > help-html/CNAME
   - fi
   - make distcheck
 
