@@ -1,3 +1,11 @@
+### mate-user-guide 1.22.1
+
+  * update translations
+  * replace docbook link with xref and fix a linkend attribute (#30)
+  * Fix version to 1.22
+  * help: update copyright
+  * Upgrade the manual to docbook 5.0
+
 ### mate-user-guide 1.22.0
 
   * update translations
