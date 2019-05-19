@@ -70,7 +70,8 @@
     <section xml:id="joinmate"><info><title>Joining the MATE Project</title></info>
       <para>We hope you enjoy using MATE and that you find working with MATE productive. However, there is always room for improvement.</para>
       <para>MATE invites you to join our free software community if you have some spare time. There are many different fields. MATE needs programmers, but it also needs translators, documentation writers, testers, artists, writers, and more.</para>
-      <para>For more information on joining MATE, please visit <link xlink:href="http://live.gnome.org/JoinMate">http://live.gnome.org/JoinMate</link>.</para>
+      <para>For more information on how you can get in touch with our community, please visit <link xlink:href="https://mate-desktop.org/community/">https://mate-desktop.org/community/</link>.</para>
+      <para>You are always welcome to make pull requests at our <link xlink:href="https://github.com/mate-desktop">GitHub</link> repo.</para>
       <para>For more information on giving feedback on MATE, such as bug reports, suggestions, and corrections to documentation, see <xref linkend="feedback-bugs"/>.</para>
     </section>
   </appendix>
