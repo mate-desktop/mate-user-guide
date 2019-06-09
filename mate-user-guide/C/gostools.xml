@@ -48,7 +48,7 @@
     <listitem>
       <para>Enter the command that you want to run in the blank field, or choose from the list of known applications.</para>
       <para>If you enter only the location of a file, an appropriate application will launch to open it.
-      If you enter a web page address, your default web browser will open the page. Prefix the web page address with http://, as in http://www.mate-desktop.org.
+      If you enter a web page address, your default web browser will open the page. Prefix the web page address with https://, as in https://mate-desktop.org.
       </para>
       <para>
         To choose a command that you ran previously, click the
