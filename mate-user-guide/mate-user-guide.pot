@@ -13684,7 +13684,7 @@ msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:50
-msgid "If you enter only the location of a file, an appropriate application will launch to open it. If you enter a web page address, your default web browser will open the page. Prefix the web page address with http://, as in https://mate-desktop.org."
+msgid "If you enter only the location of a file, an appropriate application will launch to open it. If you enter a web page address, your default web browser will open the page. Prefix the web page address with https://, as in https://mate-desktop.org."
 msgstr ""
 
 #. (itstool) path: listitem/para
