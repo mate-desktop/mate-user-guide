@@ -1,23 +1,23 @@
 # Translators:
-# Stefano Karapetsas <stefano@karapetsas.com>, 2019
+# Ольга Смирнова, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2019-03-09 23:45+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>, 2019\n"
-"Language-Team: Oriya (https://www.transifex.com/mate/teams/13566/or/)\n"
+"Last-Translator: Ольга Смирнова, 2019\n"
+"Language-Team: Interlingue (https://www.transifex.com/mate/teams/13566/ie/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: or\n"
+"Language: ie\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "ଶୁଭ୍ରାଂଶୁ ବେହେରା <arya_subhransu@yahoo.co.in>"
+msgstr "OIS <mistresssilvara@hotmail.com>, 2019"
 
 #. (itstool) path: book/title
 #: C/index.docbook:7
@@ -213,7 +213,7 @@ msgstr ""
 #: C/index.docbook:226 C/index.docbook:234 C/index.docbook:242
 #: C/index.docbook:250 C/index.docbook:258
 msgid "Sun Microsystems"
-msgstr ""
+msgstr "Sun Microsystems"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:198
@@ -404,7 +404,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:50 C/gospanel.xml:974
 msgid "Buttons"
-msgstr ""
+msgstr "Butones"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:55
@@ -500,7 +500,7 @@ msgstr ""
 #. (itstool) path: info/titleabbrev
 #: C/gosbasic.xml:103
 msgid "Actions"
-msgstr "କାର୍ଯ୍ଯ"
+msgstr "Actiones"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:109
@@ -523,7 +523,7 @@ msgstr ""
 #: C/gosbasic.xml:129 C/gosbasic.xml:855 C/gosbasic.xml:948 C/goscaja.xml:759
 #: C/goscaja.xml:1483 C/goscaja.xml:1604 C/gospanel.xml:870 C/gospanel.xml:921
 msgid "Action"
-msgstr "କାର୍ଯ୍ଯ"
+msgstr "Action"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:132
@@ -1685,12 +1685,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:32
 msgid "Personal"
-msgstr "ବ୍ୟକ୍ତିଗତ"
+msgstr "Personal"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:37
 msgid "Assistive Technologies Preferences"
-msgstr "ସହକାରୀ ପ୍ରଯୁକ୍ତିବିଜ୍ଞାନ ପସନ୍ଦ"
+msgstr ""
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:38
@@ -1779,7 +1779,7 @@ msgstr ""
 #: C/goscaja.xml:4154 C/gospanel.xml:171 C/gospanel.xml:256 C/gospanel.xml:577
 #: C/gospanel.xml:1413
 msgid "Description"
-msgstr "ବର୍ଣ୍ଣନା"
+msgstr "Descrition"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:80
@@ -1878,7 +1878,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:131 C/gosoverview.xml:48
 msgid "Desktop"
-msgstr "ଡେସ୍କଟପ"
+msgstr "Pupitre"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:132
@@ -1891,7 +1891,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:134
 msgid "Sound"
-msgstr "ଶବ୍ଦ"
+msgstr "Son"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:135
@@ -1901,7 +1901,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:137
 msgid "Window Management"
-msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+msgstr "Control de fenestres"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:138
@@ -1915,7 +1915,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:140
 msgid "Accessibility"
-msgstr "ଅଭିଗମ୍ଯତା"
+msgstr "Accessibilitá"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:141
@@ -1927,7 +1927,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:144
 msgid "Custom Shortcuts"
-msgstr "ସଂକ୍ଷିପ୍ତ ପଥକୁ ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ"
+msgstr "Rapid-tastes personal"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:145
@@ -1954,7 +1954,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:156
 msgid "Preferred Applications"
-msgstr "ପସନ୍ଦ ପ୍ରଯୋଗଗୁଡିକ"
+msgstr "Applicationes preferet"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:159
@@ -2114,12 +2114,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:279
 msgid "Look and Feel"
-msgstr "ଦେଖନ୍ତୁ ଏବଂ ଅନୁଭବ କରନ୍ତୁ"
+msgstr "Aspecte"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:281
 msgid "Appearance Preferences"
-msgstr "ଦୃଶ୍ୟ ପସନ୍ଦ"
+msgstr "Preferenties del aspecte"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:282
@@ -2204,7 +2204,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:333
 msgid "Controls"
-msgstr "ନିୟନ୍ତ୍ରଣ"
+msgstr "Controles"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:335
@@ -2234,7 +2234,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:346
 msgid "Colors"
-msgstr "ରଙ୍ଗ"
+msgstr "Colores"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:348
@@ -2294,7 +2294,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:363
 msgid "Icons"
-msgstr "ଚିତ୍ରସଙ୍କେତ"
+msgstr "Icones"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:365
@@ -2320,7 +2320,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:371
 msgid "Pointer"
-msgstr "ସୂଚକ"
+msgstr "Apuntator"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:373
@@ -3263,7 +3263,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1056
 msgid "Screensaver Preferences"
-msgstr "ପରଦା ସଂରକ୍ଷକ ପସନ୍ଦଗୁଡିକ"
+msgstr ""
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1057
@@ -3296,7 +3296,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1066
 msgid "Screensaver"
-msgstr "ପରଦା ସଂରକ୍ଷକ"
+msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1067
@@ -3372,12 +3372,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1090
 msgid "Internet and Network"
-msgstr "ଇନ୍ଟରନେଟ ଏବଂ ନେଟୱର୍କ"
+msgstr "Internet e Rete"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1092
 msgid "Network Settings"
-msgstr "ନେଟଓ୍ବାର୍କ ବିନ୍ଯାସ"
+msgstr ""
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1093
@@ -3454,7 +3454,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1129 C/gospanel.xml:1605
 msgid "Usage"
-msgstr "ବ୍ୟବହାର ବିଧି"
+msgstr "Usage"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1131
@@ -3672,7 +3672,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1216
 msgid "Network Proxy Preferences"
-msgstr "ନେଟୱର୍କ ପ୍ରକ୍ସି ପସନ୍ଦଗୁଡ଼ିକ"
+msgstr "Preferenties de proxy de rete"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1219
@@ -3952,12 +3952,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1407
 msgid "Hardware"
-msgstr "ହାର୍ଡୱେର"
+msgstr "Hardware"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1409 C/goscustdesk.xml:1451 C/goscustdesk.xml:1457
 msgid "Keyboard Preferences"
-msgstr "କିବୋର୍ଡ ପସନ୍ଦଗୁଡିକ"
+msgstr "Preferenties del tastatura"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1412
@@ -4166,7 +4166,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1577
 msgid "Keyboard Layout Options"
-msgstr "କିବୋର୍ଡ ବିନ୍ୟାସ ବିକଳ୍ପଗୁଡ଼ିକ"
+msgstr "Parametres de arangeament de tastatura"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1580
@@ -4528,7 +4528,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1819
 msgid "Keyboard Accessibility Audio Feedback"
-msgstr "କି-ବୋର୍ଡ ଅଭିଗମ୍ଯତା ଧ୍ୱନି ପ୍ରତିକ୍ରିୟା"
+msgstr ""
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1820
@@ -4756,7 +4756,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2058
 msgid "Mouse Preferences"
-msgstr "ମାଉସ ପସନ୍ଦ"
+msgstr "Preferenties de mus"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2061
@@ -5149,7 +5149,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2403
 msgid "Monitors"
-msgstr "ପ୍ରଦର୍ଶିକା"
+msgstr ""
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2404
@@ -5296,7 +5296,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2483
 msgid "Sound Preferences"
-msgstr "ଧ୍ୱନି ପସନ୍ଦ"
+msgstr "Preferenties de son"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2485
@@ -5610,7 +5610,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2733
 msgid "System"
-msgstr "ତନ୍ତ୍ର"
+msgstr "Sistema"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2735
@@ -6138,7 +6138,7 @@ msgstr ""
 #: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:265
 #: C/gosdconf.xml:19
 msgid "Introduction"
-msgstr "ପରିଚୟ"
+msgstr ""
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:46
@@ -6613,7 +6613,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:237 C/goscaja.xml:535 C/goscaja.xml:2450
 msgid "Folders"
-msgstr "ଫୋଲଡରଗୁଡିକ"
+msgstr "Fólderes"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:240 C/goscaja.xml:538
@@ -8774,7 +8774,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1541
 msgid "Pattern"
-msgstr "ନମୁନା"
+msgstr ""
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1544
@@ -9592,7 +9592,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2056 C/gospanel.xml:823
 msgid "Name"
-msgstr "ନାମ"
+msgstr "Nómine"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2059
@@ -9605,7 +9605,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2064 C/gospanel.xml:798
 msgid "Type"
-msgstr "ପ୍ରକାର"
+msgstr "Tip"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2067
@@ -9616,7 +9616,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2072 C/gospanel.xml:812 C/gospanel.xml:835
 msgid "Location"
-msgstr "ଅବସ୍ଥାନ"
+msgstr "Localisation"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2075
@@ -9628,7 +9628,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2080
 msgid "Volume"
-msgstr "ଘନଫଳ"
+msgstr "Volúmine"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2083
@@ -9653,7 +9653,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2096
 msgid "MIME Type"
-msgstr "MIME ପ୍ରକାର"
+msgstr "MIME-tip"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2099
@@ -9710,7 +9710,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2129
 msgid "Owner"
-msgstr "ମାଲିକ"
+msgstr "Possessor"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2131
@@ -9720,7 +9720,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2134
 msgid "Group"
-msgstr "ସମୂହ"
+msgstr "Gruppe"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2136
@@ -9730,7 +9730,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2139
 msgid "Others"
-msgstr "ଅନ୍ଯାନ୍ଯ"
+msgstr "Li altris"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2141
@@ -9747,7 +9747,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2148
 msgid "read"
-msgstr "ପଢନ୍ତୁ"
+msgstr "letion"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2150
@@ -9762,7 +9762,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2154
 msgid "write"
-msgstr "ଲେଖନ୍ତୁ"
+msgstr "scrition"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2156
@@ -9857,7 +9857,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2201 C/goscaja.xml:2244
 msgid "None"
-msgstr "କିଛି ନୁହେଁ"
+msgstr "Null"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2203
@@ -9867,7 +9867,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2206
 msgid "Read-only"
-msgstr "କେବଳ ପଠନୀୟ"
+msgstr "Solmen letion"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2208
@@ -9878,7 +9878,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2211
 msgid "Read and write"
-msgstr "ପଢନ୍ତୁ ଏବଂ ଲେଖନ୍ତୁ"
+msgstr "Letion e scrition"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2213
@@ -9938,7 +9938,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2249
 msgid "List files only"
-msgstr "କେବଳ ଫାଇଲ ମାନଙ୍କୁ ସୂଚୀବଦ୍ଧ କରିରଖନ୍ତୁ"
+msgstr "Solmen listar files"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2251
@@ -9948,7 +9948,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2254
 msgid "Access files"
-msgstr "ଫାଇଲ ମାନଙ୍କୁ ଅଭିଗମ କରନ୍ତୁ"
+msgstr "Accesser files"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2256
@@ -9960,7 +9960,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2259
 msgid "Create and delete files"
-msgstr "ଫାଇଲ ମାନଙ୍କୁ ସୃଷ୍ଟି କରନ୍ତୁ ଏବଂ ଅପସାରଣ କରନ୍ତୁ"
+msgstr "Crear e deleter files"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2261
@@ -10286,7 +10286,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2447
 msgid "Files"
-msgstr "ଫାଇଲଗୁଡ଼ିକ"
+msgstr "Files"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2453
@@ -12163,7 +12163,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3587 C/goscaja.xml:3727
 msgid "Information"
-msgstr "ସୂଚନା"
+msgstr "Information"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3597 C/goscaja.xml:3747 C/gospanel.xml:189
@@ -12885,7 +12885,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:55
 msgid "Panels"
-msgstr ""
+msgstr "Paneles"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:56
@@ -12911,7 +12911,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:64 C/gosoverview.xml:137
 msgid "Windows"
-msgstr "ୱିଣ୍ଡୋ"
+msgstr "Fenestres"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:65
@@ -12928,7 +12928,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:75 C/gosoverview.xml:326
 msgid "Workspaces"
-msgstr "କାର୍ଯ୍ଯକ୍ଷେତ୍ର"
+msgstr "Labor-spacies"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:76
@@ -12942,7 +12942,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:84
 msgid "File Manager"
-msgstr "ଫାଇଲ ପରିଚାଳକ"
+msgstr "Gerentiator de files"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:85
@@ -12956,7 +12956,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:93
 msgid "Control Center"
-msgstr "ନିୟନ୍ତ୍ରଣ କେନ୍ଦ୍ର"
+msgstr "Centre de control"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:94
@@ -12999,7 +12999,7 @@ msgstr ""
 #. (itstool) path: para/interface
 #: C/gosoverview.xml:116
 msgid "Computer"
-msgstr "କମ୍ପୁଟର"
+msgstr "Computator"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:116
@@ -13027,7 +13027,7 @@ msgstr ""
 #. (itstool) path: para/interface
 #: C/gosoverview.xml:118
 msgid "Trash"
-msgstr "ଆବର୍ଜନା ପାତ୍ର"
+msgstr "In li Paper-corb"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:118
@@ -13358,7 +13358,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:243
 msgid "Minimize the window"
-msgstr "ୱିଣ୍ଡୋକୁ ଛୋଟକରନ୍ତୁ"
+msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:245
@@ -13388,7 +13388,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:258
 msgid "Maximize the window"
-msgstr "ୱିଣ୍ଡୋକୁ ବଡ଼କରନ୍ତୁ"
+msgstr "Maximisar li fenestre"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:260
@@ -13416,7 +13416,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:270
 msgid "Unmaximize the window"
-msgstr "ୱିଣ୍ଡୋକୁ ବଡ଼କରନ୍ତୁ ନାହିଁ"
+msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:272
@@ -13436,7 +13436,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:279
 msgid "Close the window"
-msgstr "ୱିଣ୍ଡୋକୁ ବନ୍ଦକରନ୍ତୁ"
+msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:281
@@ -13676,7 +13676,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:394
 msgid "Applications"
-msgstr "ପ୍ରୟୋଗ"
+msgstr "Applicationes"
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:398
@@ -14039,7 +14039,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:496
 msgid "Open Location"
-msgstr "ଅବସ୍ଥାନକୁ ଖୋଲନ୍ତୁ"
+msgstr "Aperter li localisation"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:497
@@ -14279,7 +14279,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:35
 msgid "Top Edge Panel"
-msgstr "ଉଚ୍ଚ ଧାର ଫଳକ"
+msgstr ""
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:38
@@ -14401,7 +14401,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:91
 msgid "Bottom Edge Panel"
-msgstr "ତଳ ଧାର ଫଳକ"
+msgstr ""
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:94
@@ -14518,7 +14518,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:146
 msgid "Panel Properties"
-msgstr "ଫଳକ ଗୁଣଧର୍ମ"
+msgstr "Proprietás del panel"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:149
@@ -15153,7 +15153,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:571
 msgid "Key"
-msgstr "କି"
+msgstr "Clave"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:574
@@ -15535,7 +15535,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:792
 msgid "Launcher Properties"
-msgstr "ପ୍ରଚାଳକ ଗୁଣଧର୍ମ"
+msgstr "Proprietás del lansator"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:796
@@ -15553,7 +15553,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:802
 msgid "Application"
-msgstr "ପ୍ରୟୋଗ"
+msgstr "Application"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:804
@@ -15563,7 +15563,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:807
 msgid "Application in Terminal"
-msgstr "ଟର୍ମିନାଲରେ ପ୍ରୟୋଗ"
+msgstr "Application in Terminal"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:809
@@ -15593,7 +15593,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:829
 msgid "Command"
-msgstr "ନିର୍ଦ୍ଦେଶ"
+msgstr "Comande"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:831
@@ -15615,7 +15615,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:843
 msgid "Comment"
-msgstr "ଟିପ୍ପଣୀ"
+msgstr "Comenta"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:845
@@ -16173,7 +16173,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1219
 msgid "Show Desktop Button"
-msgstr "ଡେସ୍କଟପ୍ ଚାବି ଦେଖାନ୍ତୁ"
+msgstr "Monstrar un buton del Pupitre"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1220
@@ -16680,7 +16680,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
 msgid "Menu Bar"
-msgstr "ମେନୁ ଦଣ୍ଡ"
+msgstr "Panel del menú"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -16716,7 +16716,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1571
 msgid "Window List"
-msgstr "ୱିଣ୍ଡୋ ତାଲିକା"
+msgstr "Liste del fenestres"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1572
@@ -16732,7 +16732,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1579
 msgid "State"
-msgstr "ରାଜ୍ଯ"
+msgstr ""
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1580
@@ -16833,7 +16833,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1626
 msgid "Preferences"
-msgstr "ପସନ୍ଦ"
+msgstr "Preferenties"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1627
@@ -17857,7 +17857,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:296
 msgid "Command Line"
-msgstr "ନିର୍ଦ୍ଦେଶ ନାମା"
+msgstr "Linea de comandes"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:299
@@ -17867,7 +17867,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:306
 msgid "Interface"
-msgstr ""
+msgstr "Interfacie"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:307
@@ -18080,7 +18080,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:477
 msgid "About This Document"
-msgstr "ଏହି ଦଲିଲ ବିଷୟରେ"
+msgstr ""
 
 #. (itstool) path: section/para
 #: C/gostools.xml:478
@@ -18493,7 +18493,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:787
 msgid "Edit Bookmarks"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ସମ୍ପାଦନ କରନ୍ତୁ"
+msgstr "Modificar marca-págines"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:788
@@ -20900,7 +20900,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/glossary.xml:6
 msgid "Glossary"
-msgstr "ଶବ୍ଦକୋଷ"
+msgstr ""
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:9
@@ -20918,7 +20918,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:18
 msgid "desktop"
-msgstr "ଡେସ୍କଟପ"
+msgstr ""
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:20
