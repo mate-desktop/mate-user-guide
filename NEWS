@@ -1,5 +1,19 @@
 ### mate-user-guide 1.23.0
 
+  * tx: sync with transifex
+  * Change url project's website
+  * remove live.gnome & update joining MATE section
+  * [ci] add CNAME for domain
+  * [ci] create directory before run yelp-build
+  * [ci] show help pages on website
+  * update reporting-bugs section
+  * remove custom-command-options section and correct syntax
+  * update preferred applications section
+  * replace docbook link with xref and fix a linkend attribute (#30)
+  * update reporting-bugs section
+  * help: update copyright
+  * Upgrade the manual to docbook 5.0
+
 ### mate-user-guide 1.22.0
 
   * update translations
