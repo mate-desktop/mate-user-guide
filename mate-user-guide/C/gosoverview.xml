@@ -2,6 +2,7 @@
 <?db.chunk.max_depth 3?>
 <chapter xmlns="http://docbook.org/ns/docbook"
          xmlns:db="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
          version="5.0" xml:id="overview" xml:lang="en">
     <info><title>Desktop Overview</title></info>
 
@@ -407,12 +408,12 @@ specify the number of workspaces that you require.</para>
     <para>The applications that are part of MATE include the following:</para>
     
     <itemizedlist>
-      <listitem><para><link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:pluma" type="help"><application>Pluma Text Editor</application></link> can read, create, or modify any kind of simple text without any formatting.</para></listitem>
-      <listitem><para><link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:mate-dictionary" type="help"><application>Dictionary</application></link> allows you to look up definitions of a word. </para></listitem>
-      <listitem><para><link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:eom" type="help"><application>Image Viewer</application></link> can display single image files, as well as large image collections.</para></listitem>
-      <listitem><para><link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:gucharmap" type="help"><application>Character Map</application></link> lets you choose letters and symbols from the <firstterm>Unicode</firstterm> character set and paste them into any application. If you are writing in several languages, not all the characters you need will be on your keyboard.</para></listitem>
+      <listitem><para><link xlink:href="help:pluma"><application>Pluma Text Editor</application></link> can read, create, or modify any kind of simple text without any formatting.</para></listitem>
+      <listitem><para><link xlink:href="help:mate-dictionary"><application>Dictionary</application></link> allows you to look up definitions of a word. </para></listitem>
+      <listitem><para><link xlink:href="help:eom"><application>Image Viewer</application></link> can display single image files, as well as large image collections.</para></listitem>
+      <listitem><para><link xlink:href="help:gucharmap"><application>Character Map</application></link> lets you choose letters and symbols from the <firstterm>Unicode</firstterm> character set and paste them into any application. If you are writing in several languages, not all the characters you need will be on your keyboard.</para></listitem>
       <listitem><para><application>Caja File Manager</application> (see <xref linkend="caja"/>) displays your folders and their contents. Use this to copy, move and classify your files, and to access CDs, USB flash drives, and any other removable media. When you choose an item from the <xref linkend="places-menu"/>, a <application>Caja File Manager</application> window opens showing that location.</para></listitem>
-      <listitem><para><link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:mate-terminal" type="help"><application>Terminal</application></link> gives you access to the system command line.</para></listitem>
+      <listitem><para><link xlink:href="help:mate-terminal"><application>Terminal</application></link> gives you access to the system command line.</para></listitem>
     </itemizedlist>
 
     <para>Further standard MATE applications include games, music and video players, a web browser, software accessibility tools, and utilities to manage your system. Your distributor or vendor may have added other applications, such as a word processor and a graphics editor. They may also provide you with a way to install further applications.</para>
@@ -490,7 +491,7 @@ specify the number of workspaces that you require.</para>
       </section>
       
       <section xml:id="filechooser-open-folder"><info><title>Choosing a folder</title></info>
-        <para>You might sometimes need to choose a folder to work with rather than open a file. For example, if you use <link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="help:engrampa" type="help"><application>Archive Manager</application></link> to extract files from an archive, you need to choose a folder to place the files into. In this case, the files in the current location are greyed out, and pressing <guibutton>Open</guibutton> when a folder is selected will choose that folder.</para>
+        <para>You might sometimes need to choose a folder to work with rather than open a file. For example, if you use <link xlink:href="help:engrampa"><application>Archive Manager</application></link> to extract files from an archive, you need to choose a folder to place the files into. In this case, the files in the current location are greyed out, and pressing <guibutton>Open</guibutton> when a folder is selected will choose that folder.</para>
       </section>      
            
       <section xml:id="filechooser-open-location"><info><title>Open Location</title></info>
