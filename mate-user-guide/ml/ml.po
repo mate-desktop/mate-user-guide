@@ -4,8 +4,8 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2019-03-09 23:45+0100\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-07-06 11:07+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: Martin Wimpress <code@flexion.org>, 2019\n"
 "Language-Team: Malayalam (https://www.transifex.com/mate/teams/13566/ml/)\n"
@@ -1209,7 +1209,7 @@ msgstr ""
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:586 C/gosbasic.xml:714 C/gospanel.xml:1075 C/gostools.xml:98
-#: C/gostools.xml:154
+#: C/gostools.xml:153
 msgid "Function"
 msgstr ""
 
@@ -1756,30 +1756,29 @@ msgid "Assistive Technology Preferences"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:70 C/goscustdesk.xml:218 C/goscustdesk.xml:566
-#: C/goscustdesk.xml:959 C/goscustdesk.xml:1326 C/goscustdesk.xml:1465
-#: C/goscustdesk.xml:1696 C/goscustdesk.xml:1830 C/goscustdesk.xml:1927
-#: C/goscustdesk.xml:1998 C/goscustdesk.xml:2099 C/goscustdesk.xml:2257
-#: C/goscustdesk.xml:2537 C/goscustdesk.xml:2604 C/goscustdesk.xml:2665
-#: C/goscustdesk.xml:2787 C/goscustdesk.xml:2861 C/goscaja.xml:2382
-#: C/goscaja.xml:3001 C/goscaja.xml:3122 C/goscaja.xml:3363 C/goscaja.xml:3917
-#: C/goscaja.xml:4069 C/gospanel.xml:168 C/gospanel.xml:253
-#: C/gospanel.xml:1410
+#: C/goscustdesk.xml:70 C/goscustdesk.xml:496 C/goscustdesk.xml:889
+#: C/goscustdesk.xml:1256 C/goscustdesk.xml:1395 C/goscustdesk.xml:1626
+#: C/goscustdesk.xml:1760 C/goscustdesk.xml:1857 C/goscustdesk.xml:1928
+#: C/goscustdesk.xml:2029 C/goscustdesk.xml:2187 C/goscustdesk.xml:2467
+#: C/goscustdesk.xml:2534 C/goscustdesk.xml:2595 C/goscustdesk.xml:2717
+#: C/goscustdesk.xml:2791 C/goscaja.xml:2382 C/goscaja.xml:3001
+#: C/goscaja.xml:3122 C/goscaja.xml:3363 C/goscaja.xml:3917 C/goscaja.xml:4069
+#: C/gospanel.xml:168 C/gospanel.xml:253 C/gospanel.xml:1410
 msgid "Dialog Element"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:73 C/goscustdesk.xml:221 C/goscustdesk.xml:569
-#: C/goscustdesk.xml:962 C/goscustdesk.xml:1329 C/goscustdesk.xml:1468
-#: C/goscustdesk.xml:1699 C/goscustdesk.xml:1833 C/goscustdesk.xml:1930
-#: C/goscustdesk.xml:2001 C/goscustdesk.xml:2102 C/goscustdesk.xml:2260
-#: C/goscustdesk.xml:2540 C/goscustdesk.xml:2607 C/goscustdesk.xml:2668
-#: C/goscustdesk.xml:2790 C/goscustdesk.xml:2864 C/goscaja.xml:209
-#: C/goscaja.xml:395 C/goscaja.xml:1219 C/goscaja.xml:1383 C/goscaja.xml:2049
-#: C/goscaja.xml:2385 C/goscaja.xml:2641 C/goscaja.xml:3004 C/goscaja.xml:3125
-#: C/goscaja.xml:3259 C/goscaja.xml:3366 C/goscaja.xml:3590 C/goscaja.xml:3730
-#: C/goscaja.xml:3867 C/goscaja.xml:3920 C/goscaja.xml:4006 C/goscaja.xml:4072
-#: C/goscaja.xml:4154 C/gospanel.xml:171 C/gospanel.xml:256 C/gospanel.xml:577
+#: C/goscustdesk.xml:73 C/goscustdesk.xml:499 C/goscustdesk.xml:892
+#: C/goscustdesk.xml:1259 C/goscustdesk.xml:1398 C/goscustdesk.xml:1629
+#: C/goscustdesk.xml:1763 C/goscustdesk.xml:1860 C/goscustdesk.xml:1931
+#: C/goscustdesk.xml:2032 C/goscustdesk.xml:2190 C/goscustdesk.xml:2470
+#: C/goscustdesk.xml:2537 C/goscustdesk.xml:2598 C/goscustdesk.xml:2720
+#: C/goscustdesk.xml:2794 C/goscaja.xml:209 C/goscaja.xml:395
+#: C/goscaja.xml:1219 C/goscaja.xml:1383 C/goscaja.xml:2049 C/goscaja.xml:2385
+#: C/goscaja.xml:2641 C/goscaja.xml:3004 C/goscaja.xml:3125 C/goscaja.xml:3259
+#: C/goscaja.xml:3366 C/goscaja.xml:3590 C/goscaja.xml:3730 C/goscaja.xml:3867
+#: C/goscaja.xml:3920 C/goscaja.xml:4006 C/goscaja.xml:4072 C/goscaja.xml:4154
+#: C/gospanel.xml:171 C/gospanel.xml:256 C/gospanel.xml:577
 #: C/gospanel.xml:1413
 msgid "Description"
 msgstr "വിവരണം "
@@ -1887,8 +1886,8 @@ msgstr "ഡെസ്ക്ടോപ്പ്"
 #: C/goscustdesk.xml:132
 msgid ""
 "These are general shortcuts for the whole desktop, such as logging out, "
-"<link linkend=\"lock-screen\">locking the screen</link>, opening the <link "
-"linkend=\"menubar\">panel menubar</link>, or launching a web browser."
+"locking your screen (see <xref linkend=\"lock-screen\"/>), opening the panel"
+" menubar (see <xref linkend=\"menubar\"/>), or launching a web browser."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
@@ -1978,22 +1977,22 @@ msgid ""
 "Use the <application>Preferred Applications</application> preference tool to"
 " specify the applications that you want the MATE Desktop to use when the "
 "MATE Desktop starts an application for you. For example, you can specify the"
-" web browser application (<application>Epiphany </application>, "
-"<application>Mozilla Firefox</application>, <application>Opera</application>"
-" ...) to launch when you click on a link in other applications such as email"
-" clients or document viewers."
+" web browser application (<application>Epiphany</application>, "
+"<application>Mozilla Firefox</application>, "
+"<application>Opera</application>...) to launch when you click on a link in "
+"other applications such as email clients or document viewers."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:175
+#: C/goscustdesk.xml:173
 msgid ""
 "<application>Preferred Applications</application> can be found by going to "
-"<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guimenuitem>Preferred"
+"<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guisubmenu>Personal</guisubmenu><guimenuitem>Preferred"
 " Applications</guimenuitem></menuchoice>."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:177
+#: C/goscustdesk.xml:175
 msgid ""
 "You can customize the preferences for the <application>Preferred "
 "Applications</application> preference tool in the following functional "
@@ -2001,193 +2000,127 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:180
-msgid "<guilabel>Internet</guilabel> (Web, Mail)"
+#: C/goscustdesk.xml:178
+msgid "<guilabel>Internet</guilabel> (Web Browser, Mail Reader)"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:185
-msgid "<guilabel>Multimedia</guilabel> (Multimedia Player)"
+#: C/goscustdesk.xml:183
+msgid ""
+"<guilabel>Multimedia</guilabel> (Image Viewer, Multimedia Player, Video "
+"Player)"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:190
-msgid "<guilabel>System</guilabel> (Terminal)"
+#: C/goscustdesk.xml:188
+msgid ""
+"<guilabel>System</guilabel> (Text Editor, Terminal Emulator, File Manager)"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:195
+#: C/goscustdesk.xml:193
+msgid ""
+"<guilabel>Office</guilabel> (Document Viewer, Word Processor, Spreadsheet "
+"Editor)"
+msgstr ""
+
+#. (itstool) path: listitem/para
+#: C/goscustdesk.xml:198
 msgid "<guilabel>Accessibility</guilabel> (Visual, Mobility)"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:201
+#: C/goscustdesk.xml:204
 msgid ""
 "For each preferred application category, a drop-down menu contains a list of"
 " possible applications you can choose from. The list depends on the "
 "applications installed on your computer."
 msgstr ""
 
-#. (itstool) path: section/para
-#: C/goscustdesk.xml:202
-msgid ""
-"In each category, the last item in the menu "
-"(<guimenuitem>Custom</guimenuitem>) permits you to customize the command "
-"used by the system when the specific launch action occurs."
-msgstr ""
-
-#. (itstool) path: info/title
-#: C/goscustdesk.xml:204
-msgid "Custom Command Options"
-msgstr ""
-
-#. (itstool) path: section/indexterm
+#. (itstool) path: formalpara/title
 #: C/goscustdesk.xml:205
-msgid ""
-"<primary>preferred applications</primary> <secondary>custom "
-"command</secondary>"
+msgid "Run at start (Accessibility only)"
 msgstr ""
 
-#. (itstool) path: section/para
-#: C/goscustdesk.xml:209
-msgid ""
-"The following table summarizes the various options you can choose from when "
-"you select <guimenuitem>Custom</guimenuitem> in the drop-down application "
-"menu."
-msgstr ""
-
-#. (itstool) path: info/title
-#: C/goscustdesk.xml:211
-msgid "Custom command options"
-msgstr ""
-
-#. (itstool) path: entry/para
-#: C/goscustdesk.xml:228
-msgid "<guilabel>Command</guilabel>"
-msgstr ""
-
-#. (itstool) path: entry/para
-#: C/goscustdesk.xml:233
-msgid ""
-"Enter the command to execute to start the custom application. For the "
-"<application>Web Browser</application> and the <application>Mail "
-"Reader</application> applications, you can include a <literal>%s</literal> "
-"after the command to tell the application to use the URL or Email address "
-"you clicked on. The exact command arguments may depend on the specific "
-"application."
-msgstr ""
-
-#. (itstool) path: entry/para
-#: C/goscustdesk.xml:241
-msgid "<guilabel>Run in terminal</guilabel>"
-msgstr ""
-
-#. (itstool) path: entry/para
-#: C/goscustdesk.xml:246
-msgid ""
-"Select this option to run the command in a terminal window. Select this "
-"option for an application that does not create a window in which to run."
-msgstr ""
-
-#. (itstool) path: entry/para
-#: C/goscustdesk.xml:252
-msgid "<guilabel>Execute flag (Terminal only)</guilabel>"
-msgstr ""
-
-#. (itstool) path: entry/para
-#: C/goscustdesk.xml:257
-msgid ""
-"Most terminal applications have an option that cause them to treat the "
-"remaining command line options as commands to run (<option>-x</option> for "
-"<application>mate-terminal</application>). Enter this option here. For "
-"example, this is used when executing a command of a launcher for which the "
-"chosen type is Application in Terminal."
-msgstr ""
-
-#. (itstool) path: entry/para
-#: C/goscustdesk.xml:264
-msgid "<guilabel>Run at start (Accessibility only)</guilabel>"
-msgstr ""
-
-#. (itstool) path: entry/para
-#: C/goscustdesk.xml:269
+#. (itstool) path: formalpara/para
+#: C/goscustdesk.xml:205
 msgid "Select this option to run the command as soon as your session begins."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:279
+#: C/goscustdesk.xml:209
 msgid "Look and Feel"
 msgstr "ചമയം"
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:281
+#: C/goscustdesk.xml:211
 msgid "Appearance Preferences"
 msgstr "ചമയത്തിന്റെ മുന്‍ഗണനകള്‍"
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:282
+#: C/goscustdesk.xml:212
 msgid ""
 "The <application>Appearance</application> preference tool lets you configure"
 " various aspects of how your desktop looks:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:286
+#: C/goscustdesk.xml:216
 msgid "Theme,"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:289
+#: C/goscustdesk.xml:219
 msgid "Desktop Background,"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:292
+#: C/goscustdesk.xml:222
 msgid "Fonts,"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:295
+#: C/goscustdesk.xml:225
 msgid "User Interface."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:299
+#: C/goscustdesk.xml:229
 msgid "Theme Preferences"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:304
+#: C/goscustdesk.xml:234
 msgid ""
 "<primary>themes</primary> <secondary>setting controls options</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:308
+#: C/goscustdesk.xml:238
 msgid ""
 "<primary>themes</primary> <secondary>setting window frame "
 "options</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:312
+#: C/goscustdesk.xml:242
 msgid "<primary>themes</primary> <secondary>setting icons options</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:316
+#: C/goscustdesk.xml:246
 msgid ""
 "<primary>windows</primary> <secondary>setting frame theme "
 "options</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:320
+#: C/goscustdesk.xml:250
 msgid "<primary>preference tools</primary> <secondary>Theme</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:325
+#: C/goscustdesk.xml:255
 msgid ""
 "A theme is a group of coordinated settings that specifies the visual "
 "appearance of a part of the MATE Desktop. You can choose themes to change "
@@ -2198,31 +2131,31 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:330
+#: C/goscustdesk.xml:260
 msgid ""
 "A theme contains settings that affect different parts of the MATE Desktop, "
 "as follows:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:333
+#: C/goscustdesk.xml:263
 msgid "Controls"
 msgstr "നിയന്ത്രണങ്ങള്‍"
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:335
+#: C/goscustdesk.xml:265
 msgid "<primary>GTK+ themes</primary><see>themes, controls options</see>"
 msgstr ""
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:336
+#: C/goscustdesk.xml:266
 msgid ""
 "<primary>themes</primary><secondary>controls "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:335
+#: C/goscustdesk.xml:265
 msgid ""
 "<_:indexterm-1/><_:indexterm-2/>The controls setting for a theme determines "
 "the visual appearance of windows, panels, and applets. The controls setting "
@@ -2235,24 +2168,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:346
+#: C/goscustdesk.xml:276
 msgid "Colors"
 msgstr "നിറങ്ങള്‍"
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:348
+#: C/goscustdesk.xml:278
 msgid ""
 "<primary>themes</primary><secondary>color "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:348
+#: C/goscustdesk.xml:278
 msgid "<primary>color themes</primary><see>themes, color options</see>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:348
+#: C/goscustdesk.xml:278
 msgid ""
 "<_:indexterm-1/><_:indexterm-2/>The color setting for a theme determines the"
 " color of various user interface elements. You can choose several pairs of "
@@ -2261,31 +2194,31 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:350
+#: C/goscustdesk.xml:280
 msgid ""
 "It is important to choose pairs of colors that have a good contrast with "
 "each other, otherwise text may become hard to read."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:355
+#: C/goscustdesk.xml:285
 msgid "Window frame"
 msgstr ""
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:357
+#: C/goscustdesk.xml:287
 msgid ""
 "<primary>themes</primary><secondary>window frame "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:357
+#: C/goscustdesk.xml:287
 msgid "<primary>Marco themes</primary><see>themes, window frame options</see>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:357
+#: C/goscustdesk.xml:287
 msgid ""
 "<_:indexterm-1/><_:indexterm-2/>The window frame setting for a theme "
 "determines the appearance of the frames around windows only. You can choose "
@@ -2295,24 +2228,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:363
+#: C/goscustdesk.xml:293
 msgid "Icons"
 msgstr "ഐകോണുകൾ"
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:365
+#: C/goscustdesk.xml:295
 msgid ""
 "<primary>themes</primary><secondary>icons "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:365
+#: C/goscustdesk.xml:295
 msgid "<primary>icon themes</primary><see>themes, icons options</see>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:365
+#: C/goscustdesk.xml:295
 msgid ""
 "<_:indexterm-1/><_:indexterm-2/>The icon setting for a theme determines the "
 "appearance of the icons on panels and the desktop background. You can choose"
@@ -2321,24 +2254,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:371
+#: C/goscustdesk.xml:301
 msgid "Pointer"
 msgstr "സൂചിക"
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:373
+#: C/goscustdesk.xml:303
 msgid ""
 "<primary>themes</primary><secondary>pointer "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
 
 #. (itstool) path: para/indexterm
-#: C/goscustdesk.xml:373
+#: C/goscustdesk.xml:303
 msgid "<primary>pointer themes</primary><see>themes, pointer options</see>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:373
+#: C/goscustdesk.xml:303
 msgid ""
 "<_:indexterm-1/><_:indexterm-2/>The pointer setting for a theme determines "
 "the appearance of and size of the mouse pointer. You can choose the options "
@@ -2347,12 +2280,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:378
+#: C/goscustdesk.xml:308
 msgid "To Create a Custom Theme"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:380
+#: C/goscustdesk.xml:310
 msgid ""
 "The themes that are listed in the <guilabel>Theme</guilabel> tabbed section "
 "are different combinations of controls options, window frame options, and "
@@ -2361,31 +2294,31 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:384
+#: C/goscustdesk.xml:314
 msgid "To create a custom theme, perform the following steps:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:387 C/goscustdesk.xml:437 C/goscustdesk.xml:498
+#: C/goscustdesk.xml:317 C/goscustdesk.xml:367 C/goscustdesk.xml:428
 msgid ""
 "Start the <application>Appearance</application> preference tool. Open the "
 "<guilabel>Theme</guilabel> tabbed section."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:391
+#: C/goscustdesk.xml:321
 msgid "Select a theme in the list of themes."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:394 C/goscustdesk.xml:502
+#: C/goscustdesk.xml:324 C/goscustdesk.xml:432
 msgid ""
 "Click on the <guibutton>Customize</guibutton> button. A <guilabel>Customize "
 "Theme</guilabel> dialog is displayed."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:397
+#: C/goscustdesk.xml:327
 msgid ""
 "Select the controls option that you want to use in the custom theme from the"
 " list in the <guilabel>Controls</guilabel> tabbed section. The list of "
@@ -2394,7 +2327,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:403
+#: C/goscustdesk.xml:333
 msgid ""
 "Click on the <guilabel>Window Border</guilabel> tab to display the "
 "<guilabel>Window Border</guilabel> tabbed section. Select the window frame "
@@ -2404,7 +2337,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:410
+#: C/goscustdesk.xml:340
 msgid ""
 "Click on the <guilabel>Icons</guilabel> tab to display the "
 "<guilabel>Icons</guilabel> tabbed section. Select the icons option that you "
@@ -2414,14 +2347,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:415
+#: C/goscustdesk.xml:345
 msgid ""
 "Click <guibutton>Close</guibutton> to close the <guilabel>Customize "
 "Theme</guilabel> dialog."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:418
+#: C/goscustdesk.xml:348
 msgid ""
 "On the <application>Appearance</application> preferences tool, click on the "
 "<guibutton>Save As</guibutton> button. A <guilabel>Save Theme As</guilabel> "
@@ -2429,7 +2362,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:423
+#: C/goscustdesk.xml:353
 msgid ""
 "Type a name and a short description for the custom theme in the dialog, then"
 " click <guibutton>Save</guibutton>. The custom theme now appears in your "
@@ -2437,12 +2370,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:430
+#: C/goscustdesk.xml:360
 msgid "To Install a New Theme"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:431
+#: C/goscustdesk.xml:361
 msgid ""
 "You can add a theme to the list of available themes. The new theme must be "
 "an archive file that is tarred and zipped. That is, the new theme must be a "
@@ -2450,19 +2383,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:434
+#: C/goscustdesk.xml:364
 msgid "To install a new theme, perform the following steps:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:441
+#: C/goscustdesk.xml:371
 msgid ""
 "Click on the <guibutton>Install</guibutton> button. A file chooser dialog is"
 " displayed."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:445
+#: C/goscustdesk.xml:375
 msgid ""
 "Enter the location of the theme archive file in the location entry. "
 "Alternatively, select the theme archive file in the file list. When you have"
@@ -2470,80 +2403,80 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:449
+#: C/goscustdesk.xml:379
 msgid ""
 "Click on the <guibutton>Install</guibutton> button to install the new theme."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:492
+#: C/goscustdesk.xml:422
 msgid "To Delete a Theme Option"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:493
+#: C/goscustdesk.xml:423
 msgid ""
 "You can delete controls options, window frame options, or icons options."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:494
+#: C/goscustdesk.xml:424
 msgid ""
 "To delete a controls option, window frame option, or icons option, perform "
 "the following steps:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:506
+#: C/goscustdesk.xml:436
 msgid "Click on the tab for the type of option that you want to delete."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:509
+#: C/goscustdesk.xml:439
 msgid "Select the theme option you want to delete."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:512
+#: C/goscustdesk.xml:442
 msgid ""
 "Use the <guibutton>Delete</guibutton> button to delete the selected option. "
 "Note that you can not delete system-wide theme options."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:520 C/goscustdesk.xml:559
+#: C/goscustdesk.xml:450 C/goscustdesk.xml:489
 msgid "Desktop Background Preferences"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:523
+#: C/goscustdesk.xml:453
 msgid ""
 "<primary>desktop</primary> <secondary>customizing background</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:527
+#: C/goscustdesk.xml:457
 msgid ""
 "<primary>MATE Desktop preference tools</primary> <see>preference tools</see>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:531
+#: C/goscustdesk.xml:461
 msgid "<primary>preference tools</primary> <secondary>Background</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:535
+#: C/goscustdesk.xml:465
 msgid ""
 "<primary>backgrounds</primary> <secondary>customizing desktop "
 "background</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:539
+#: C/goscustdesk.xml:469
 msgid ""
-"The <link linkend=\"overview-desktop\">desktop</link> background is the "
-"image or color that is applied to your desktop. You can open "
+"The <xref linkend=\"overview-desktop\"/> background is the image or color "
+"that is applied to your desktop. You can open "
 "<guilabel>Background</guilabel> tabbed section in the "
 "<application>Appearance</application> preference tool by right-clicking on "
 "the desktop and choosing <guimenuitem>Change Desktop "
@@ -2553,12 +2486,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:541
+#: C/goscustdesk.xml:471
 msgid "You can customize the desktop background in the following ways:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:544
+#: C/goscustdesk.xml:474
 msgid ""
 "Select an image for the desktop background. The image is superimposed on the"
 " desktop background color. The desktop background color is visible if you "
@@ -2567,7 +2500,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:550
+#: C/goscustdesk.xml:480
 msgid ""
 "Select a color for the desktop background. You can select a solid color, or "
 "create a gradient effect with two colors. A gradient effect is a visual "
@@ -2575,75 +2508,75 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: tip/para
-#: C/goscustdesk.xml:555
+#: C/goscustdesk.xml:485
 msgid ""
-"You can also drag a color or a pattern to the desktop from the <link linkend"
-"=\"caja-backgrounds-and-emblems\"><guilabel>Backgrounds and "
-"Emblems</guilabel> dialog</link> in the <application>Caja</application> file"
-" manager."
+"You can also drag a color or a pattern to the desktop from the "
+"<guilabel>Backgrounds and Emblems</guilabel> dialog in the "
+"<application>Caja</application> file manager (see <xref linkend=\"caja-"
+"backgrounds-and-emblems\"/>)."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:557
+#: C/goscustdesk.xml:487
 msgid ""
 "<xref linkend=\"goscustdesk-TBL-14\"/> lists the background preferences that"
 " you can modify."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:576
+#: C/goscustdesk.xml:506
 msgid "<guibutton>Desktop Background</guibutton>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:581
+#: C/goscustdesk.xml:511
 msgid ""
 "Choose an image from the list. Alternately, you can use the "
 "<guibutton>Add</guibutton> button to choose any image on your computer."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:587
+#: C/goscustdesk.xml:517
 msgid "<guilabel>Style</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:592
+#: C/goscustdesk.xml:522
 msgid ""
 "To specify how to display the image, select one of the following options "
 "from the <guilabel>Style</guilabel> drop-down list:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:596
+#: C/goscustdesk.xml:526
 msgid ""
 "<guilabel>Centered</guilabel>: Displays the image in the middle of the "
 "desktop, respecting the image's original size."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:600
+#: C/goscustdesk.xml:530
 msgid ""
 "<guilabel>Fill Screen</guilabel>: Enlarges the image to cover the desktop, "
 "altering its proportions if needed."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:604
+#: C/goscustdesk.xml:534
 msgid ""
 "<guilabel>Scaled</guilabel>: Enlarges the image until the image meets the "
 "screen edges, and maintains the proportions of the image."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:608
+#: C/goscustdesk.xml:538
 msgid ""
 "<guilabel>Zoom</guilabel>: Enlarges the smaller dimension of the image until"
 " it meets the screen edges; the image may be cropped in the other dimension."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:612
+#: C/goscustdesk.xml:542
 msgid ""
 "<guilabel>Tiled</guilabel>: Duplicates the original-sized image as often as "
 "necessary and print the images next to another so as they entirely cover the"
@@ -2651,12 +2584,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:620
+#: C/goscustdesk.xml:550
 msgid "<guilabel>Add</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:626
+#: C/goscustdesk.xml:556
 msgid ""
 "Click on the <guibutton>Add</guibutton> to browse for an image on your "
 "computer. A standard file selector will be presented. Choose the image you "
@@ -2664,12 +2597,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:633
+#: C/goscustdesk.xml:563
 msgid "<guilabel>Remove</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:638
+#: C/goscustdesk.xml:568
 msgid ""
 "Choose the image that you want to remove, then click "
 "<guilabel>Remove</guilabel>. This removes the image from the list of "
@@ -2678,24 +2611,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:644
+#: C/goscustdesk.xml:574
 msgid "<guilabel>Colors</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:649
+#: C/goscustdesk.xml:579
 msgid ""
 "To specify a color scheme, use the options in the <guilabel>Style</guilabel>"
 " drop-down list, and the color selector buttons."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:652
+#: C/goscustdesk.xml:582
 msgid "You can specify a color scheme in one of the following ways:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:656
+#: C/goscustdesk.xml:586
 msgid ""
 "Choose <guilabel>Solid color</guilabel> from the <guilabel>Background "
 "Style</guilabel> drop-down list to specify a single color for the desktop "
@@ -2703,7 +2636,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:658
+#: C/goscustdesk.xml:588
 msgid ""
 "To choose the color that you require, click on the "
 "<guibutton>Color</guibutton> button. The <guilabel>Pick a Color</guilabel> "
@@ -2711,7 +2644,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:662
+#: C/goscustdesk.xml:592
 msgid ""
 "Choose <guilabel>Horizontal gradient</guilabel> from the "
 "<guilabel>Background Style</guilabel> drop-down list. This option creates a "
@@ -2719,7 +2652,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:664
+#: C/goscustdesk.xml:594
 msgid ""
 "Click on the <guibutton>Left Color</guibutton> button to display the "
 "<guilabel>Pick a Color</guilabel> dialog. Choose the color that you want to "
@@ -2727,14 +2660,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:666
+#: C/goscustdesk.xml:596
 msgid ""
 "Click on the <guibutton>Right Color</guibutton> button. Choose the color "
 "that you want to appear at the right edge."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:670
+#: C/goscustdesk.xml:600
 msgid ""
 "Choose <guilabel>Vertical gradient</guilabel> from the <guilabel>Background "
 "Style</guilabel> drop-down list. This creates a gradient effect from the top"
@@ -2742,7 +2675,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:672
+#: C/goscustdesk.xml:602
 msgid ""
 "Click on the <guibutton>Top Color</guibutton> button to display the "
 "<guilabel>Pick a Color</guilabel> dialog. Choose the color that you want to "
@@ -2750,49 +2683,49 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:674
+#: C/goscustdesk.xml:604
 msgid ""
 "Click on the <guibutton>Bottom Color</guibutton> button. Choose the color "
 "that you want to appear at the bottom edge."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:685
+#: C/goscustdesk.xml:615
 msgid "Font Preferences"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:690
+#: C/goscustdesk.xml:620
 msgid "<primary>preference tools</primary> <secondary>Font</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:694
+#: C/goscustdesk.xml:624
 msgid "<primary>fonts</primary> <secondary>desktop</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:698
+#: C/goscustdesk.xml:628
 msgid "<primary>fonts</primary> <secondary>applications</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:702
+#: C/goscustdesk.xml:632
 msgid "<primary>fonts</primary> <secondary>window title</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:706
+#: C/goscustdesk.xml:636
 msgid "<primary>fonts</primary> <secondary>terminal</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:710
+#: C/goscustdesk.xml:640
 msgid "<primary>fonts</primary> <secondary>rendering</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:714
+#: C/goscustdesk.xml:644
 msgid ""
 "Use the <guilabel>Fonts</guilabel> tabbed section in the "
 "<application>Appearance</application> preference tool to choose which fonts "
@@ -2801,19 +2734,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:717
+#: C/goscustdesk.xml:647
 msgid "Choosing Fonts"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:718
+#: C/goscustdesk.xml:648
 msgid ""
 "The font selector button shows the name of the font and its point size. The "
 "name is also shown in bold, italic, or regular type."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:719
+#: C/goscustdesk.xml:649
 msgid ""
 "To change the font, click the font selector button. The font picker dialog "
 "opens. Select the font family, style, and point size from the lists. The "
@@ -2822,96 +2755,96 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:720
+#: C/goscustdesk.xml:650
 msgid "You can choose fonts for the following parts of the desktop:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:724
+#: C/goscustdesk.xml:654
 msgid "<guilabel>Application font</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:726
+#: C/goscustdesk.xml:656
 msgid ""
 "This font is used in the menus, toolbars, and dialog boxes of applications."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:730
+#: C/goscustdesk.xml:660
 msgid "<guilabel>Document font</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:732
+#: C/goscustdesk.xml:662
 msgid "This font is used to display documents in applications."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:733
+#: C/goscustdesk.xml:663
 msgid ""
 "In some applications, you can override this choice in the application's "
 "preferences dialog."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:737
+#: C/goscustdesk.xml:667
 msgid "<guilabel>Desktop font</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:739
+#: C/goscustdesk.xml:669
 msgid "This font is used in icon labels on the desktop."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:743
+#: C/goscustdesk.xml:673
 msgid "<guilabel>Window title font</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:745
+#: C/goscustdesk.xml:675
 msgid "This font is used in the titlebars of windows."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:749
+#: C/goscustdesk.xml:679
 msgid "<guilabel>Fixed width font</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:751
+#: C/goscustdesk.xml:681
 msgid ""
 "This font is used in the <application>Terminal</application> application and"
 " applications to do with programming."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:757
+#: C/goscustdesk.xml:687
 msgid "Font Rendering"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:758
+#: C/goscustdesk.xml:688
 msgid ""
 "You can set the following options relating to how fonts are displayed on the"
 " screen:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:762
+#: C/goscustdesk.xml:692
 msgid "<guilabel>Rendering</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:764
+#: C/goscustdesk.xml:694
 msgid ""
 "To specify how to render fonts on your screen, select one of the following "
 "options:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:768
+#: C/goscustdesk.xml:698
 msgid ""
 "<guilabel>Monochrome</guilabel>: Renders fonts in black and white only. The "
 "edges of characters might appear jagged in some cases because the characters"
@@ -2920,14 +2853,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:775
+#: C/goscustdesk.xml:705
 msgid ""
 "<guilabel>Best shapes</guilabel>: Antialiases fonts where possible. Use this"
 " option for standard Cathode Ray Tube (CRT) monitors."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:779
+#: C/goscustdesk.xml:709
 msgid ""
 "<guilabel>Best contrast</guilabel>: Adjusts fonts to give the sharpest "
 "possible contrast, and also antialiases fonts, so that characters have "
@@ -2936,7 +2869,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:785
+#: C/goscustdesk.xml:715
 msgid ""
 "<guilabel>Subpixel smoothing (LCDs)</guilabel>: Uses techniques that exploit"
 " the shape of individual Liquid Crystal Display (LCD) pixels to render fonts"
@@ -2944,33 +2877,33 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:793
+#: C/goscustdesk.xml:723
 msgid "<guibutton>Details</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:795
+#: C/goscustdesk.xml:725
 msgid ""
 "Click on this button to specify further details of how to render fonts on "
 "your screen."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:799
+#: C/goscustdesk.xml:729
 msgid ""
 "<guilabel>Resolution (dots per inch)</guilabel>: Use the spin box to specify"
 " the resolution to use when your screen renders fonts."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:803
+#: C/goscustdesk.xml:733
 msgid ""
 "<guilabel>Smoothing</guilabel>: Select one of the options to specify how to "
 "antialias fonts."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:807
+#: C/goscustdesk.xml:737
 msgid ""
 "<guilabel>Hinting</guilabel>: <firstterm>Hinting</firstterm> is a font-"
 "rendering technique that improves the quality of fonts at small sizes and an"
@@ -2979,7 +2912,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:813
+#: C/goscustdesk.xml:743
 msgid ""
 "<guilabel>Subpixel order</guilabel>: Select one of the options to specify "
 "the subpixel color order for your fonts. Use this option for LCD or flat-"
@@ -2987,31 +2920,31 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:870
+#: C/goscustdesk.xml:800
 msgid "Interface Preferences"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:873
+#: C/goscustdesk.xml:803
 msgid "<primary>toolbars, customizing appearance</primary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:876
+#: C/goscustdesk.xml:806
 msgid ""
 "<primary>preference tools</primary> <secondary>Menus &amp; "
 "Toolbars</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:880
+#: C/goscustdesk.xml:810
 msgid ""
 "<primary>menus</primary> <secondary>in applications, customizing "
 "appearance</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:884
+#: C/goscustdesk.xml:814
 msgid ""
 "You can use the <guilabel>Interface</guilabel> tabbed section in the "
 "<application>Appearance</application> preference tool to customize the "
@@ -3020,7 +2953,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:886
+#: C/goscustdesk.xml:816
 msgid ""
 "As you make changes to the settings, the preview display in the window "
 "updates. This allows you to see the changes if no application windows are "
@@ -3028,31 +2961,31 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:889
+#: C/goscustdesk.xml:819
 msgid "<guilabel>Show icons in menus</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:891
+#: C/goscustdesk.xml:821
 msgid ""
 "Select this option to display an icon beside items in application menus and "
 "the panel menu. Not all menu items have an icon."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:896
+#: C/goscustdesk.xml:826
 msgid "<guilabel>Editable menu shortcut keys</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:897
+#: C/goscustdesk.xml:827
 msgid ""
 "Selecting this option allows you to define new keyboard shortcuts for menu "
 "items."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:898
+#: C/goscustdesk.xml:828
 msgid ""
 "To change an application shortcut key, open the menu, and with the mouse "
 "pointer on the menu item you wish to change, press the new combination of "
@@ -3061,21 +2994,21 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: warning/para
-#: C/goscustdesk.xml:900
+#: C/goscustdesk.xml:830
 msgid ""
 "When using this feature, you will not be warned if assigning a new shortcut "
 "key to a command also removes it from another command."
 msgstr ""
 
 #. (itstool) path: warning/para
-#: C/goscustdesk.xml:901
+#: C/goscustdesk.xml:831
 msgid ""
 "There is no way to restore the original, default keyboard shortcut for a "
 "command."
 msgstr ""
 
 #. (itstool) path: warning/para
-#: C/goscustdesk.xml:902
+#: C/goscustdesk.xml:832
 msgid ""
 "This feature does not maintain shortcuts that are normally common to all "
 "applications, such as "
@@ -3084,26 +3017,26 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:907
+#: C/goscustdesk.xml:837
 msgid "<guilabel>Toolbar button labels</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:909
+#: C/goscustdesk.xml:839
 msgid ""
 "Choose one of the following options to specify what to display on the "
 "toolbars in your MATE-compliant applications:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:913
+#: C/goscustdesk.xml:843
 msgid ""
 "<guilabel>Text Below Icons</guilabel>: Select this option to display "
 "toolbars with text as well as an icon on each button."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:917
+#: C/goscustdesk.xml:847
 msgid ""
 "<guilabel>Text Beside Icons</guilabel>: Select this option to display "
 "toolbars with an icon only on each button, and with text on the most "
@@ -3111,152 +3044,152 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:922
+#: C/goscustdesk.xml:852
 msgid ""
 "<guilabel>Icons Only</guilabel>: Select this option to display toolbars with"
 " an icon only on each button."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:926
+#: C/goscustdesk.xml:856
 msgid ""
 "<guilabel>Text Only</guilabel>: Select this option to display toolbars with "
 "text only on each button."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:936 C/goscustdesk.xml:952
+#: C/goscustdesk.xml:866 C/goscustdesk.xml:882
 msgid "Windows Preferences"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:940
+#: C/goscustdesk.xml:870
 msgid "<primary>window manager</primary> <secondary>customizing</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:944
+#: C/goscustdesk.xml:874
 msgid "<primary>preference tools</primary> <secondary>Windows</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:948
+#: C/goscustdesk.xml:878
 msgid ""
 "Use the <application>Windows</application> preference tool to customize "
 "window behavior for the MATE Desktop."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:950
+#: C/goscustdesk.xml:880
 msgid ""
 "<xref linkend=\"goscustwindows-TBL-14\"/> lists the windows preferences that"
 " you can modify."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:969
+#: C/goscustdesk.xml:899
 msgid "<guilabel>Select windows when the mouse moves over them</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:974
+#: C/goscustdesk.xml:904
 msgid ""
 "Select this option to give focus to a window when you point to the window. "
 "The window retains focus until you point to another window."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:981
+#: C/goscustdesk.xml:911
 msgid "<guilabel>Raise selected windows after an interval</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:986
+#: C/goscustdesk.xml:916
 msgid ""
 "Select this option to raise windows a short time after the window receives "
 "focus."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:992
+#: C/goscustdesk.xml:922
 msgid "<guilabel>Interval before raising</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:997
+#: C/goscustdesk.xml:927
 msgid ""
 "Specify the interval to wait before raising a window that has received "
 "focus."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1003
+#: C/goscustdesk.xml:933
 msgid "<guilabel>Double-click titlebar to perform this action</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1008
+#: C/goscustdesk.xml:938
 msgid ""
 "Select the behavior that you want to occur when you double-click on a window"
 " titlebar. Select one of the following options:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1013
+#: C/goscustdesk.xml:943
 msgid "<guilabel>Maximize</guilabel>: Maximizes the window."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1016
+#: C/goscustdesk.xml:946
 msgid ""
 "<guilabel>Maximize Vertically</guilabel>: Maximizes the window vertically "
 "without changing its width."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1019
+#: C/goscustdesk.xml:949
 msgid ""
 "<guilabel>Maximize Horizontally</guilabel>: Maximizes the window "
 "horizontally without changing its height."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1022
+#: C/goscustdesk.xml:952
 msgid "<guilabel>Minimize</guilabel>: Minimizes the window."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1025
+#: C/goscustdesk.xml:955
 msgid "<guilabel>Roll up</guilabel>: Roll up the window."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1028
+#: C/goscustdesk.xml:958
 msgid "<guilabel>None</guilabel>: Do nothing."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1031
+#: C/goscustdesk.xml:961
 msgid ""
 "If a window is already maximized or rolled up, double-clicking on the "
 "titlebar will return it to its normal state."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1037
+#: C/goscustdesk.xml:967
 msgid ""
 "<guilabel>To move a window, press-and-hold this key then grab the "
 "window</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1042
+#: C/goscustdesk.xml:972
 msgid ""
 "Select the key to press-and-hold when you drag a window to move the window."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:1050
+#: C/goscustdesk.xml:980
 msgid ""
 "The position of the Control, Alt and Super keys on the keyboard can be "
 "modified in the Keyboard Layout Options dialog, see <xref linkend=\"prefs-"
@@ -3264,17 +3197,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1056
+#: C/goscustdesk.xml:986
 msgid "Screensaver Preferences"
 msgstr "സ്ക്രീന്‍സേവറിന്റെ മുന്‍ഗണനകള്‍"
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1057
+#: C/goscustdesk.xml:987
 msgid "<primary>preference tools</primary> <secondary>screensaver</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1061
+#: C/goscustdesk.xml:991
 msgid ""
 "A <firstterm>screensaver</firstterm> displays moving images on your screen "
 "when your computer is not being used. Screensavers also help prevent older "
@@ -3284,7 +3217,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1062
+#: C/goscustdesk.xml:992
 msgid ""
 "Use the <application>Screensaver</application> preference tool to set the "
 "type of screensaver, the time before the screensaver starts, and whether to "
@@ -3292,17 +3225,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1063
+#: C/goscustdesk.xml:993
 msgid "You can modify the following settings:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1066
+#: C/goscustdesk.xml:996
 msgid "Screensaver"
 msgstr "സ്ക്രീന്‍സേവര്‍"
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1067
+#: C/goscustdesk.xml:997
 msgid ""
 "Select the <guilabel>Screensaver theme</guilabel> from the list. A reduced "
 "version of the selected screensaver theme is shown. Press "
@@ -3312,33 +3245,33 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1069
+#: C/goscustdesk.xml:999
 msgid ""
 "The <guilabel>Blank screen</guilabel> theme displays no image and only shows"
 " a black screen."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1070
+#: C/goscustdesk.xml:1000
 msgid ""
 "The <guilabel>Random</guilabel> theme selects a screensaver to display from "
 "the list at random."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1072
+#: C/goscustdesk.xml:1002
 msgid ""
 "Which screensavers are shown in the remainder of the list depends on your "
 "distributor or vendor."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1075
+#: C/goscustdesk.xml:1005
 msgid "Regard the computer as idle after..."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1076
+#: C/goscustdesk.xml:1006
 msgid ""
 "Your computer becomes idle after this amount of time has passed with no "
 "input from you, such as moving the mouse or typing. This may affect power "
@@ -3348,24 +3281,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1079
+#: C/goscustdesk.xml:1009
 msgid "Activate screensaver when computer is idle"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1080
+#: C/goscustdesk.xml:1010
 msgid ""
 "Select this option to have the screensaver start after the set length of "
 "time."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1083
+#: C/goscustdesk.xml:1013
 msgid "Lock screen when screensaver is active"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1084
+#: C/goscustdesk.xml:1014
 msgid ""
 "When this option is selected, the screensaver will prompt you for your "
 "password when you try to return to the desktop. For more on locking your "
@@ -3373,24 +3306,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1090
+#: C/goscustdesk.xml:1020
 msgid "Internet and Network"
 msgstr "ഇന്റര്‍നെറ്റും ശൃംഖലയും"
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1092
+#: C/goscustdesk.xml:1022
 msgid "Network Settings"
 msgstr "ശൃംഖല സജ്ജീകരണങ്ങള്‍"
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1093
+#: C/goscustdesk.xml:1023
 msgid ""
 "The <application>Network Settings</application> allows you to specify the "
 "way your system connects to other computers and to internet."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1094
+#: C/goscustdesk.xml:1024
 msgid ""
 "You will be prompted for the administrator password when you start "
 "<application>Network Settings</application>. This is because the changes "
@@ -3398,45 +3331,45 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1096
+#: C/goscustdesk.xml:1026
 msgid "Getting started"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1097
+#: C/goscustdesk.xml:1027
 msgid ""
 "The <application>Network Settings</application> main window contains four "
 "tabbed sections:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1100
+#: C/goscustdesk.xml:1030
 msgid "<guilabel>Connections</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1102
+#: C/goscustdesk.xml:1032
 msgid ""
 "Shows all network interfaces, it also allows you to modify their settings."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1107
+#: C/goscustdesk.xml:1037
 msgid "<guilabel>General</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1109
+#: C/goscustdesk.xml:1039
 msgid "Allows you to modify your system host name and domain name."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1114
+#: C/goscustdesk.xml:1044
 msgid "<guilabel>DNS</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1116
+#: C/goscustdesk.xml:1046
 msgid ""
 "Contains two sections, the <guilabel>DNS servers</guilabel> are what your "
 "computer use for resolving the IP addresses from the domain names. The "
@@ -3445,27 +3378,27 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1121
+#: C/goscustdesk.xml:1051
 msgid "<guilabel>Hosts</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1123
+#: C/goscustdesk.xml:1053
 msgid "Shows the list of aliases for accessing other computers."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1129 C/gospanel.xml:1605
+#: C/goscustdesk.xml:1059 C/gospanel.xml:1605
 msgid "Usage"
 msgstr "ഉപയോഗം"
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1131
+#: C/goscustdesk.xml:1061
 msgid "To modify a connection settings"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1132
+#: C/goscustdesk.xml:1062
 msgid ""
 "In the <guilabel>Connections</guilabel> section, select the interface you "
 "want to modify and press the <guilabel>Properties</guilabel> button, "
@@ -3473,12 +3406,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1136
+#: C/goscustdesk.xml:1066
 msgid "Ethernet and IRLAN interfaces"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1138
+#: C/goscustdesk.xml:1068
 msgid ""
 "You can modify the way the interface is configured (DHCP or manually), if "
 "the interface is configured manually, you can also modify the interface IP "
@@ -3486,12 +3419,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1143
+#: C/goscustdesk.xml:1073
 msgid "Wireless interfaces"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1145
+#: C/goscustdesk.xml:1075
 msgid ""
 "You can modify the way the interface is configured (DHCP or manually), if "
 "the interface is configured manually, you can also modify the interface IP "
@@ -3500,23 +3433,23 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1150
+#: C/goscustdesk.xml:1080
 msgid "Parallel line interfaces"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1152
+#: C/goscustdesk.xml:1082
 msgid ""
 "You can modify the interface IP address, as well as the remote IP address."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1157
+#: C/goscustdesk.xml:1087
 msgid "PPP/Modem interfaces"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1159
+#: C/goscustdesk.xml:1089
 msgid ""
 "You can modify the modem device, whether you want it to dial using tones or "
 "pulses, the modem volume, the phone number, the username and password that "
@@ -3524,36 +3457,36 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1165
+#: C/goscustdesk.xml:1095
 msgid "To activate or deactivate an interface"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1166
+#: C/goscustdesk.xml:1096
 msgid ""
 "In the <guilabel>Connections</guilabel> section, enable or disable the "
 "checkbox beside the interface."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1169
+#: C/goscustdesk.xml:1099
 msgid "To change your host name and domain name"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1170
+#: C/goscustdesk.xml:1100
 msgid ""
 "In the <guilabel>General</guilabel> section, change the hostname or domain "
 "name text boxes."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1173
+#: C/goscustdesk.xml:1103
 msgid "To add a new domain name server"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1174
+#: C/goscustdesk.xml:1104
 msgid ""
 "In the <guilabel>DNS Servers</guilabel> section, press the "
 "<guilabel>Add</guilabel> button and fill in the new list row with the new "
@@ -3561,24 +3494,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1177
+#: C/goscustdesk.xml:1107
 msgid "To delete a domain name server"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1178
+#: C/goscustdesk.xml:1108
 msgid ""
 "In the <guilabel>DNS Servers</guilabel> section, select a DNS IP address "
 "from the list and press the <guilabel>Delete</guilabel> button."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1181
+#: C/goscustdesk.xml:1111
 msgid "To add a new search domain"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1182
+#: C/goscustdesk.xml:1112
 msgid ""
 "In the <guilabel>Search Domains</guilabel> section, press the "
 "<guilabel>Add</guilabel> button and fill in the new list row with the new "
@@ -3586,24 +3519,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1185
+#: C/goscustdesk.xml:1115
 msgid "To delete a search domain"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1186
+#: C/goscustdesk.xml:1116
 msgid ""
 "In the <guilabel>Search Domains</guilabel> section, select a search domain "
 "from the list and press the <guilabel>Delete</guilabel> button."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1189
+#: C/goscustdesk.xml:1119
 msgid "To add a new host alias"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1190
+#: C/goscustdesk.xml:1120
 msgid ""
 "In the <guilabel>Hosts</guilabel> section, press the "
 "<guilabel>Add</guilabel> button and type an IP address and the aliases that "
@@ -3611,12 +3544,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1193
+#: C/goscustdesk.xml:1123
 msgid "To modify a host alias"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1194
+#: C/goscustdesk.xml:1124
 msgid ""
 "In the <guilabel>Hosts</guilabel> section, select an alias, press the "
 "<guilabel>Properties</guilabel> button from the list and modify the alias "
@@ -3624,24 +3557,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1197
+#: C/goscustdesk.xml:1127
 msgid "To delete a host alias"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1198
+#: C/goscustdesk.xml:1128
 msgid ""
 "In the <guilabel>Hosts</guilabel> section, select an alias from the list and"
 " press the <guilabel>Delete</guilabel> button."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1201
+#: C/goscustdesk.xml:1131
 msgid "To save your current network configuration as a \"Location\""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1202
+#: C/goscustdesk.xml:1132
 msgid ""
 "Press the <guilabel>Add</guilabel> button besides the "
 "<guilabel>Locations</guilabel> menu, specify the location name in the window"
@@ -3649,66 +3582,66 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1205
+#: C/goscustdesk.xml:1135
 msgid "To delete a location"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1206
+#: C/goscustdesk.xml:1136
 msgid ""
 "Press the <guilabel>Remove</guilabel> button besides the "
 "<guilabel>Locations</guilabel> menu, the selected profile will be deleted."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1209
+#: C/goscustdesk.xml:1139
 msgid "To switch to a location"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1210
+#: C/goscustdesk.xml:1140
 msgid ""
 "Select one location from the <guilabel>Locations</guilabel> menu, all the "
 "configuration will be switched automatically to the chosen location."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1216
+#: C/goscustdesk.xml:1146
 msgid "Network Proxy Preferences"
 msgstr "ശൃംഖലയിലെ പ്രോക്സിയുടെ മുന്‍ഗണനകള്‍"
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1219
+#: C/goscustdesk.xml:1149
 msgid ""
 "<primary>preference tools</primary> <secondary>Network Proxy</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1223
+#: C/goscustdesk.xml:1153
 msgid ""
 "<primary>network proxy</primary> <secondary>setting preferences</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1227
+#: C/goscustdesk.xml:1157
 msgid ""
 "<primary>Internet</primary> <secondary>configuring connection</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1231
+#: C/goscustdesk.xml:1161
 msgid "<primary>proxy</primary> <secondary>setting preferences</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1235
+#: C/goscustdesk.xml:1165
 msgid ""
 "The <application>Network Proxy Preferences</application> enables you to "
 "configure how your system connects to the Internet."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1237
+#: C/goscustdesk.xml:1167
 msgid ""
 "You can configure the MATE Desktop to connect to a <firstterm>proxy "
 "server</firstterm>, and specify the details of the proxy server. A proxy "
@@ -3721,7 +3654,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1246
+#: C/goscustdesk.xml:1176
 msgid ""
 "Since it is possible that you need to use a different proxy configuration in"
 " different places, <application>Network Proxy Preferences</application> "
@@ -3733,34 +3666,34 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1254
+#: C/goscustdesk.xml:1184
 msgid "<guilabel>Direct internet connection</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1255
+#: C/goscustdesk.xml:1185
 msgid "Select this option to connect to the Internet without a proxy server."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1259
+#: C/goscustdesk.xml:1189
 msgid "<guilabel>Manual proxy configuration</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1260
+#: C/goscustdesk.xml:1190
 msgid ""
 "Select this option to connect to the Internet through a proxy server and "
 "configure the proxy settings manually."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1265
+#: C/goscustdesk.xml:1195
 msgid "<guilabel>HTTP proxy</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1267
+#: C/goscustdesk.xml:1197
 msgid ""
 "Enter the domain name or IP address of the proxy server to use when you "
 "request an HTTP service. Enter the port number of the HTTP service on the "
@@ -3768,19 +3701,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1270
+#: C/goscustdesk.xml:1200
 msgid ""
 "If the HTTP proxy server requires authentication, click the "
 "<guibutton>Details</guibutton> button to enter your username and password."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1275
+#: C/goscustdesk.xml:1205
 msgid "<guilabel>Secure HTTP proxy</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1276
+#: C/goscustdesk.xml:1206
 msgid ""
 "Enter the domain name or IP address of the proxy server to use when you "
 "request a secure HTTP service. Enter the port number of the secure HTTP "
@@ -3788,12 +3721,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1281
+#: C/goscustdesk.xml:1211
 msgid "<guilabel>FTP proxy</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1282
+#: C/goscustdesk.xml:1212
 msgid ""
 "Enter the domain name or IP address of the proxy server to use when you "
 "request an FTP service. Enter the port number of the FTP service on the "
@@ -3801,12 +3734,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1287
+#: C/goscustdesk.xml:1217
 msgid "<guilabel>Socks host</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1288
+#: C/goscustdesk.xml:1218
 msgid ""
 "Enter the domain name or IP address of the Socks host to use. Enter the port"
 " number for the Socks protocol on the proxy server in the "
@@ -3814,19 +3747,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1293
+#: C/goscustdesk.xml:1223
 msgid "<guilabel>Automatic proxy configuration</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1294
+#: C/goscustdesk.xml:1224
 msgid ""
 "Select this option if you want to connect to the Internet through a proxy "
 "server, and you want to configure the proxy server automatically."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1296
+#: C/goscustdesk.xml:1226
 msgid ""
 "Automatic proxy configuration works by means of a so-called PAC file, which "
 "your browser downloads from a web server. If you don't specify the URL for a"
@@ -3835,19 +3768,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1299
+#: C/goscustdesk.xml:1229
 msgid "<guilabel>Autoconfiguration URL</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1300
+#: C/goscustdesk.xml:1230
 msgid ""
 "Enter the URL of a PAC file that contains the information required to "
 "configure the proxy server automatically."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1305
+#: C/goscustdesk.xml:1235
 msgid ""
 "Set which hosts should not use the proxy in the <guilabel>Ignore Host "
 "List</guilabel> in the <guilabel>Ignored Hosts</guilabel> tabbed section. "
@@ -3856,17 +3789,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1308
+#: C/goscustdesk.xml:1238
 msgid "Remote Desktop Preferences"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1311
+#: C/goscustdesk.xml:1241
 msgid "<primary>setting session sharing preferences</primary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1314
+#: C/goscustdesk.xml:1244
 msgid ""
 "The <application>Remote Desktop</application> preference tool enables you to"
 " share a MATE Desktop session between multiple users, and to set session-"
@@ -3874,7 +3807,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1316
+#: C/goscustdesk.xml:1246
 msgid ""
 "<xref linkend=\"goscustdesk-TBL-91\"/> lists the session-sharing preferences"
 " that you can set. These preferences have a direct impact on the security of"
@@ -3882,41 +3815,41 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1319
+#: C/goscustdesk.xml:1249
 msgid "Session Sharing Preferences"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1336
+#: C/goscustdesk.xml:1266
 msgid "<guilabel>Allow other users to view your desktop</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1341
+#: C/goscustdesk.xml:1271
 msgid ""
 "Select this option to enable remote users to view your session. All "
 "keyboard, pointer, and clipboard events from the remote user are ignored."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1348
+#: C/goscustdesk.xml:1278
 msgid "<guilabel>Allow other users to control your desktop</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1353
+#: C/goscustdesk.xml:1283
 msgid ""
 "Select this option to enable other to access and control your session from a"
 " remote location."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1374
+#: C/goscustdesk.xml:1304
 msgid "<guilabel>When a user tries to view or control your desktop</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1381
+#: C/goscustdesk.xml:1311
 msgid ""
 "<guilabel>Ask you for confirmation:</guilabel> Select this option if you "
 "want remote users to ask you for confirmation when they want to share your "
@@ -3926,7 +3859,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1385
+#: C/goscustdesk.xml:1315
 msgid ""
 "<guilabel>Require the user to enter this password:</guilabel> Select this "
 "option to authenticate the remote user if authentication is used. This "
@@ -3934,48 +3867,48 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1380
+#: C/goscustdesk.xml:1310
 msgid ""
 "Select the following security considerations when a user tries to view or "
 "control your session:<_:itemizedlist-1/>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1392
+#: C/goscustdesk.xml:1322
 msgid "<guilabel>Password</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1397
+#: C/goscustdesk.xml:1327
 msgid ""
 "Enter the password that the client who attempts to view or control your "
 "session must enter."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1407
+#: C/goscustdesk.xml:1337
 msgid "Hardware"
 msgstr "ഹാര്‍ഡ്‌വെയര്‍"
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1409 C/goscustdesk.xml:1451 C/goscustdesk.xml:1457
+#: C/goscustdesk.xml:1339 C/goscustdesk.xml:1381 C/goscustdesk.xml:1387
 msgid "Keyboard Preferences"
 msgstr "കീബോര്‍ഡിന്റെ മുന്‍ഗണനകള്‍"
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1412
+#: C/goscustdesk.xml:1342
 msgid "<primary>preference tools</primary> <secondary>Keyboard</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1416
+#: C/goscustdesk.xml:1346
 msgid ""
 "<primary>keyboard</primary> <secondary>configuring general "
 "preferences</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1420
+#: C/goscustdesk.xml:1350
 msgid ""
 "Use the <application>Keyboard</application> preference tool to modify the "
 "autorepeat preferences for your keyboard, and to configure typing break "
@@ -3983,34 +3916,33 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1450
+#: C/goscustdesk.xml:1380
 msgid ""
-"To open the <link linkend=\"prefs-keyboard-a11y\"><application>Keyboard "
-"<emphasis>Accessibility</emphasis></application> preference tool</link>, "
-"click the <guibutton>Accessibility</guibutton> button."
+"To open the <xref linkend=\"prefs-keyboard-a11y\"/> tool, click the "
+"<guibutton>Accessibility</guibutton> button."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1453
+#: C/goscustdesk.xml:1383
 msgid ""
 "Use the <guilabel>General</guilabel> tabbed section to set general keyboard "
 "preferences."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1455
+#: C/goscustdesk.xml:1385
 msgid ""
 "<xref linkend=\"goscustperiph-TBL-3\"/> lists the keyboard preferences that "
 "you can modify."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1475
+#: C/goscustdesk.xml:1405
 msgid "<guilabel>Key presses repeat when key is held down</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1480
+#: C/goscustdesk.xml:1410
 msgid ""
 "Select this option to enable keyboard repeat. If keyboard repeat is enabled,"
 " when you press-and-hold a key, the action associated with the key is "
@@ -4019,53 +3951,53 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1488 C/goscustdesk.xml:1762 C/goscustdesk.xml:1789
-#: C/goscustdesk.xml:1973
+#: C/goscustdesk.xml:1418 C/goscustdesk.xml:1692 C/goscustdesk.xml:1719
+#: C/goscustdesk.xml:1903
 msgid "<guilabel>Delay</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1493
+#: C/goscustdesk.xml:1423
 msgid ""
 "Select the delay from the time you press a key to the time that the action "
 "repeats."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1499 C/goscustdesk.xml:1520 C/goscustdesk.xml:1961
+#: C/goscustdesk.xml:1429 C/goscustdesk.xml:1450 C/goscustdesk.xml:1891
 msgid "<guilabel>Speed</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1504
+#: C/goscustdesk.xml:1434
 msgid "Select the speed at which the action is repeated."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1509
+#: C/goscustdesk.xml:1439
 msgid "<guilabel>Cursor blinks in text boxes and fields</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1514
+#: C/goscustdesk.xml:1444
 msgid ""
 "Select this option to enable the cursor to blink in fields and text boxes."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1525
+#: C/goscustdesk.xml:1455
 msgid ""
 "Use the slider to specify the speed at which the cursor blinks in fields and"
 " text boxes."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1531 C/goscustdesk.xml:1800
+#: C/goscustdesk.xml:1461 C/goscustdesk.xml:1730
 msgid "<guilabel>Type to test settings</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1536 C/goscustdesk.xml:1805
+#: C/goscustdesk.xml:1466 C/goscustdesk.xml:1735
 msgid ""
 "The test area is an interactive interface so you can see how the keyboard "
 "settings affect the display as you type. Type text in the test area to test "
@@ -4073,50 +4005,50 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1546
+#: C/goscustdesk.xml:1476
 msgid "Keyboard Layouts Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1549
+#: C/goscustdesk.xml:1479
 msgid ""
 "Use the <guilabel>Layouts</guilabel> tabbed section to set your keyboard's "
 "language, and also the make and model of keyboard you are using."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1550
+#: C/goscustdesk.xml:1480
 msgid ""
 "This will allow MATE to make use of special media keys on your keyboard, and"
 " to show the correct characters for your keyboard's language."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1554
+#: C/goscustdesk.xml:1484
 msgid "<guilabel>Keyboard model</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1555
+#: C/goscustdesk.xml:1485
 msgid ""
 "Use the browse button (labeled with the currently selected keyboard model) "
 "to choose another keyboard make and model."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1558
+#: C/goscustdesk.xml:1488
 msgid "<guilabel>Separate layout for each window</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1559
+#: C/goscustdesk.xml:1489
 msgid ""
 "When this option is selected, each window has its own keyboard layout. "
 "Changing to a different layout will only affect the current window."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1561
+#: C/goscustdesk.xml:1491
 msgid ""
 "This allows you to type with a Russian keyboard layout in a word processor, "
 "then switch to your web browser and type with an English keyboard layout, "
@@ -4124,12 +4056,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1564
+#: C/goscustdesk.xml:1494
 msgid "<guilabel>Selected Layouts</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1565
+#: C/goscustdesk.xml:1495
 msgid ""
 "You can switch between selected layouts to change the characters your "
 "keyboard produces when you type. To add a layout, click "
@@ -4138,14 +4070,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1566
+#: C/goscustdesk.xml:1496
 msgid ""
 "To switch between keyboard layouts, use the <application>Keyboard "
 "Indicator</application> panel applet."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1567
+#: C/goscustdesk.xml:1497
 msgid ""
 "To add a layout to the list of selected layouts, click the "
 "<guibutton>Add</guibutton> button. It opens a layout chooser dialog, which "
@@ -4153,33 +4085,33 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1572
+#: C/goscustdesk.xml:1502
 msgid ""
 "Click <guibutton>Reset to Defaults</guibutton> to restore all keyboard "
 "layout settings to their initial state for your system and locale."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1574
+#: C/goscustdesk.xml:1504
 msgid ""
 "Click the <guibutton>Layout Options</guibutton> button to open the "
 "<guilabel>Keyboard Layout Options</guilabel> dialog."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1577
+#: C/goscustdesk.xml:1507
 msgid "Keyboard Layout Options"
 msgstr "കീബോര്‍ഡ് വിന്യാസ ഐച്ഛികങ്ങള്‍"
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1580
+#: C/goscustdesk.xml:1510
 msgid ""
 "The <guilabel>Keyboard Layout Options</guilabel> dialog has options for the "
 "behavior of keyboard modifier keys and certain shortcut options."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1581
+#: C/goscustdesk.xml:1511
 msgid ""
 "Expand each group label to show the available options. A label in boldface "
 "indicates that the options in the group have been changed from the default "
@@ -4187,7 +4119,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:1582
+#: C/goscustdesk.xml:1512
 msgid ""
 "The options shown in this dialog depend on the X windowing system you are "
 "using. Not all the following options might be listed on your system, and not"
@@ -4195,12 +4127,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1590
+#: C/goscustdesk.xml:1520
 msgid "<guilabel>Adding the EuroSign to certain keys</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1592
+#: C/goscustdesk.xml:1522
 msgid ""
 "Use these options to add the Euro currency symbol € to a key as a third-"
 "level character. To access this symbol, you must assign a <guilabel>third "
@@ -4208,12 +4140,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1596
+#: C/goscustdesk.xml:1526
 msgid "<guilabel>Alt/Win key behavior</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1597
+#: C/goscustdesk.xml:1527
 msgid ""
 "This group of options allows you to assign the behavior of Unix modifier "
 "keys Super, Meta, and Hyper to the <keycap>Alt</keycap> and "
@@ -4221,22 +4153,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1602
+#: C/goscustdesk.xml:1532
 msgid "<guilabel>CapsLock key behavior</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1603
+#: C/goscustdesk.xml:1533
 msgid "This group has several options for the <keycap>Caps Lock</keycap> key."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1608
+#: C/goscustdesk.xml:1538
 msgid "<guilabel>Compose key position</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1610
+#: C/goscustdesk.xml:1540
 msgid ""
 "The Compose key allows you to combine two keypresses to make a single "
 "character. This is used to create an accented character that might not be on"
@@ -4245,40 +4177,40 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1614
+#: C/goscustdesk.xml:1544
 msgid "<guilabel>Control key position</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1615
+#: C/goscustdesk.xml:1545
 msgid ""
 "Use this group of options to set the location of the <keycap>Ctrl</keycap> "
 "key to match the layout on older keyboards."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1620
+#: C/goscustdesk.xml:1550
 msgid "<guilabel>Group Shift/Lock behavior</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1621
+#: C/goscustdesk.xml:1551
 msgid ""
 "Select keys or key combinations to switch your keyboard layout when pressed."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1626
+#: C/goscustdesk.xml:1556
 msgid "<guilabel>Miscellaneous compatibility options</guilabel>"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1630
+#: C/goscustdesk.xml:1560
 msgid "<guilabel>Shift with numpad keys works as in MS Windows.</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1632
+#: C/goscustdesk.xml:1562
 msgid ""
 "With this option selected, using <keycap>Shift</keycap> with keys on the "
 "numerical pad when <keycap>NumLock</keycap> is off extends the current "
@@ -4286,7 +4218,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1633
+#: C/goscustdesk.xml:1563
 msgid ""
 "With this option unselected, use <keycap>Shift</keycap> with keys on the "
 "numerical pad to obtain the reverse of the current behavior for that key. "
@@ -4297,26 +4229,26 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1635
+#: C/goscustdesk.xml:1565
 msgid ""
 "<guilabel>Special keys (Ctrl+Alt+&lt;key&gt;) handled in a "
 "server.</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1636
+#: C/goscustdesk.xml:1566
 msgid ""
 "Select this option to have certain keyboard shortcuts passed to the X "
 "windowing system instead of being handled by MATE."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1642
+#: C/goscustdesk.xml:1572
 msgid "<guilabel>Third level choosers</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1644
+#: C/goscustdesk.xml:1574
 msgid ""
 "A <firstterm>third level</firstterm> key allows you to obtain a third "
 "character from a key, in the same way that pressing <keycap>Shift</keycap> "
@@ -4324,40 +4256,40 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1645
+#: C/goscustdesk.xml:1575
 msgid ""
 "Use this group to select a key you want to act as a third level modifier "
 "key."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1646
+#: C/goscustdesk.xml:1576
 msgid ""
 "Pressing the third-level key and <keycap>Shift</keycap> produces a fourth "
 "character from a key."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1647
+#: C/goscustdesk.xml:1577
 msgid ""
 "The third and fourth level characters for your keyboard layout are shown in "
 "the <application>Keyboard Indicator</application> Layout View Window."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:1652
+#: C/goscustdesk.xml:1582
 msgid "<guilabel>Use keyboard LED to show alternative group.</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:1654
+#: C/goscustdesk.xml:1584
 msgid ""
 "Use this option to specify that one of the light indicators on your keyboard"
 " should indicate when an alternative keyboard layout is in use."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:1655
+#: C/goscustdesk.xml:1585
 msgid ""
 "The selected keyboard light will no longer indicate its standard function. "
 "For example, the Caps Lock light will not react to the <keycap>Caps Lock "
@@ -4365,39 +4297,39 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1661
+#: C/goscustdesk.xml:1591
 msgid "Keyboard Accessibility Preferences"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1662
+#: C/goscustdesk.xml:1592
 msgid ""
 "<primary>AccessX</primary> <see>preference tools, Keyboard "
 "Accessibility</see>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1666
+#: C/goscustdesk.xml:1596
 msgid ""
 "<primary>keyboard</primary> <secondary>configuring accessibility "
 "options</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1670
+#: C/goscustdesk.xml:1600
 msgid ""
 "<primary>accessibility</primary> <secondary>configuring keyboard</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:1674
+#: C/goscustdesk.xml:1604
 msgid ""
 "<primary>preference tools</primary> <secondary>Keyboard "
 "Accessibility</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1683
+#: C/goscustdesk.xml:1613
 msgid ""
 "The <guilabel>Accessibility</guilabel> tabbed section allows you to set "
 "options such as filtering out accidental keypresses and using shortcut keys "
@@ -4406,7 +4338,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1685
+#: C/goscustdesk.xml:1615
 msgid ""
 "This section describes each of the preferences you can set. For a more task-"
 "oriented description of keyboard accessibility, see the <citetitle>MATE "
@@ -4414,43 +4346,43 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1687
+#: C/goscustdesk.xml:1617
 msgid ""
 "<xref linkend=\"goscustdesk-TBL-85\"/> lists the accessibility preferences "
 "that you can modify."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1689
+#: C/goscustdesk.xml:1619
 msgid "Accessibility Preferences"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1706
+#: C/goscustdesk.xml:1636
 msgid ""
 "<guilabel>Accessibility features can be toggled with keyboard "
 "shortcuts</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1711
+#: C/goscustdesk.xml:1641
 msgid ""
 "Select this option to show an icon in the notification area that offers "
 "quick access to accessibility features."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1719
+#: C/goscustdesk.xml:1649
 msgid "<guilabel>Simulate simultaneous keypresses</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/indexterm
-#: C/goscustdesk.xml:1722
+#: C/goscustdesk.xml:1652
 msgid "<primary>accessibility</primary> <secondary>sticky keys</secondary>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1728
+#: C/goscustdesk.xml:1658
 msgid ""
 "Select this option to perform multiple simultaneous keypress operations by "
 "pressing the keys in sequence. Alternatively, to enable the sticky keys "
@@ -4458,13 +4390,13 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1735
+#: C/goscustdesk.xml:1665
 msgid ""
 "<guilabel>Disable sticky keys if two keys are pressed together</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1740
+#: C/goscustdesk.xml:1670
 msgid ""
 "Select this option to specify that when you press two keys simultaneously, "
 "you can no longer press keys in sequence to perform multiple simultaneous "
@@ -4472,17 +4404,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1747
+#: C/goscustdesk.xml:1677
 msgid "<guilabel>Only accept long keypresses</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/indexterm
-#: C/goscustdesk.xml:1750
+#: C/goscustdesk.xml:1680
 msgid "<primary>accessibility</primary> <secondary>slow keys</secondary>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1756
+#: C/goscustdesk.xml:1686
 msgid ""
 "Select this option to control the period that you must press-and-hold a key "
 "before acceptance. Alternatively, to enable the slow keys feature, press-"
@@ -4490,38 +4422,38 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1767
+#: C/goscustdesk.xml:1697
 msgid ""
 "Use the slider to specify the period that you must press-and-hold a key "
 "before acceptance."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1774
+#: C/goscustdesk.xml:1704
 msgid "<guilabel>Ignore fast duplicate keypresses</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/indexterm
-#: C/goscustdesk.xml:1777
+#: C/goscustdesk.xml:1707
 msgid "<primary>accessibility</primary> <secondary>bounce keys</secondary>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1783
+#: C/goscustdesk.xml:1713
 msgid ""
 "Select this option to accept a key input and to control the key repeat "
 "characteristics of the keyboard."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1794
+#: C/goscustdesk.xml:1724
 msgid ""
 "Use the slider to specify the interval to wait after the first keypress "
 "before the automatic repeat of a pressed key."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1814
+#: C/goscustdesk.xml:1744
 msgid ""
 "To configure audio feedback for keyboard accessibility features, click the "
 "<guibutton>Audio Feedback</guibutton> button. It opens the "
@@ -4529,52 +4461,52 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1819
+#: C/goscustdesk.xml:1749
 msgid "Keyboard Accessibility Audio Feedback"
 msgstr "കീബോര്‍ഡ് ആക്സസിബിളിറ്റി ഓഡിയോ ഫീഡ്ബാക്ക്"
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1820
+#: C/goscustdesk.xml:1750
 msgid "Configure audio feedback for keyboard accessibility features."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1821
+#: C/goscustdesk.xml:1751
 msgid ""
 "<xref linkend=\"goscustdesk-TBL-86\"/> lists the audio feedback preferences "
 "that you can modify."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1823
+#: C/goscustdesk.xml:1753
 msgid "Audio Feedback Preferences"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1840
+#: C/goscustdesk.xml:1770
 msgid ""
 "<guilabel>Beep when accessibility features are turned on or off</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1845
+#: C/goscustdesk.xml:1775
 msgid ""
 "Select this option for an audible indication when a feature such as sticky "
 "keys or slow keys is activated, or deactivated."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1851
+#: C/goscustdesk.xml:1781
 msgid "<guilabel>Beep when a toggle key is pressed</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/indexterm
-#: C/goscustdesk.xml:1854
+#: C/goscustdesk.xml:1784
 msgid "<primary>accessibility</primary> <secondary>toggle keys</secondary>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1860
+#: C/goscustdesk.xml:1790
 msgid ""
 "Select this option for an audible indication of a toggle keypress. You hear "
 "one beep when a toggle key is turned on. You hear two beeps when a toggle "
@@ -4582,82 +4514,82 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1867
+#: C/goscustdesk.xml:1797
 msgid "<guilabel>Beep when a modifier key is pressed</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1872
+#: C/goscustdesk.xml:1802
 msgid ""
 "Select this option for an audible indication when you press a modifier key."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1878
+#: C/goscustdesk.xml:1808
 msgid "<guilabel>Beep when a key is pressed</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1883
+#: C/goscustdesk.xml:1813
 msgid "Select this option for an audible indication when a key is pressed."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1889
+#: C/goscustdesk.xml:1819
 msgid "<guilabel>Beep when a key is accepted</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1894
+#: C/goscustdesk.xml:1824
 msgid "Select this option for an audible indication when a key is accepted."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1900
+#: C/goscustdesk.xml:1830
 msgid "<guilabel>Beep when a key is rejected</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1905
+#: C/goscustdesk.xml:1835
 msgid "Select this option for an audible indication when a key is rejected."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1914
+#: C/goscustdesk.xml:1844
 msgid "Mouse Keys Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1916
+#: C/goscustdesk.xml:1846
 msgid ""
 "The options in the <guilabel>Mouse Keys</guilabel> tabbed section let you "
 "configure the keyboard as a substitute for the mouse."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1918
+#: C/goscustdesk.xml:1848
 msgid ""
 "<xref linkend=\"goscustdesk-TBL-88\"/> lists the mouse keys preferences that"
 " you can modify."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:1920 C/goscustdesk.xml:1987 C/goscustdesk.xml:1991
+#: C/goscustdesk.xml:1850 C/goscustdesk.xml:1917 C/goscustdesk.xml:1921
 msgid "Typing Break Preferences"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1937
+#: C/goscustdesk.xml:1867
 msgid "<guilabel>Pointer can be controlled using the keypad</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/indexterm
-#: C/goscustdesk.xml:1940
+#: C/goscustdesk.xml:1870
 msgid "<primary>accessibility</primary> <secondary>mouse keys</secondary>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1946
+#: C/goscustdesk.xml:1876
 msgid ""
 "Select this option to make the numeric keypad emulate mouse actions. The "
 "list of keys and their equivalences is in the <citetitle>MATE Desktop "
@@ -4666,33 +4598,33 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1951 C/goscustdesk.xml:2148
+#: C/goscustdesk.xml:1881 C/goscustdesk.xml:2078
 msgid "<guilabel>Acceleration</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1956
+#: C/goscustdesk.xml:1886
 msgid ""
 "Use the slider to specify how long it takes the pointer to accelerate to "
 "maximum speed."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1966
+#: C/goscustdesk.xml:1896
 msgid ""
 "Use the slider to specify the maximum speed that the pointer moves across "
 "the screen."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:1978
+#: C/goscustdesk.xml:1908
 msgid ""
 "Use the slider to specify the period that must pass after a keypress before "
 "the pointer moves."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1989
+#: C/goscustdesk.xml:1919
 msgid ""
 "Configure the Typing Break Preferences to make MATE remind you to rest after"
 " you have been using the keyboard and mouse for a long time. During a Typing"
@@ -4700,56 +4632,56 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:1990
+#: C/goscustdesk.xml:1920
 msgid ""
 "<xref linkend=\"goscustdesk-TBL-87\"/> lists the typing break preferences "
 "that you can modify."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2008
+#: C/goscustdesk.xml:1938
 msgid "<guilabel>Lock screen to enforce typing break</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2013
+#: C/goscustdesk.xml:1943
 msgid "Select this option to lock the screen when you are due a typing break."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2018
+#: C/goscustdesk.xml:1948
 msgid "<guilabel>Work interval lasts</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2023
+#: C/goscustdesk.xml:1953
 msgid ""
 "Use the spin box to specify how long you can work before a typing break "
 "occurs."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2029
+#: C/goscustdesk.xml:1959
 msgid "<guilabel>Break interval lasts</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2034
+#: C/goscustdesk.xml:1964
 msgid "Use the spin box to specify the length of your typing breaks."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2040
+#: C/goscustdesk.xml:1970
 msgid "<guilabel>Allow postponing of breaks</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2045
+#: C/goscustdesk.xml:1975
 msgid "Select this option if you want to be able to postpone typing breaks."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:2052
+#: C/goscustdesk.xml:1982
 msgid ""
 "If you stop using the keyboard and mouse for a length of time equal to the "
 "<guilabel>Break interval</guilabel> setting, the current work interval will "
@@ -4757,47 +4689,47 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2058
+#: C/goscustdesk.xml:1988
 msgid "Mouse Preferences"
 msgstr "മൌസ് മുന്‍‌ഗണനകള്‍"
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2061
+#: C/goscustdesk.xml:1991
 msgid "<primary>preference tools</primary> <secondary>Mouse</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2065
+#: C/goscustdesk.xml:1995
 msgid "<primary>mouse</primary> <secondary>configuring</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2070
+#: C/goscustdesk.xml:2000
 msgid "With the <application>Mouse</application> preference tool you can:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2074
+#: C/goscustdesk.xml:2004
 msgid "configure your mouse for right-hand use or for left-hand use,"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2077
+#: C/goscustdesk.xml:2007
 msgid "specify the speed and sensitivity of mouse movement,"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2080
+#: C/goscustdesk.xml:2010
 msgid "configure mouse accessibility features."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2084
+#: C/goscustdesk.xml:2014
 msgid "General Mouse Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2085
+#: C/goscustdesk.xml:2015
 msgid ""
 "Use the <guilabel>General</guilabel> tabbed section to specify whether the "
 "mouse buttons are configured for left-hand or right-hand use and configure "
@@ -4805,24 +4737,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2088
+#: C/goscustdesk.xml:2018
 msgid ""
 "<xref linkend=\"goscustperiph-TBL-6\"/> lists the general mouse preferences "
 "that you can modify."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2092
+#: C/goscustdesk.xml:2022
 msgid "Mouse Button Preferences"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2109
+#: C/goscustdesk.xml:2039
 msgid "<guilabel>Right-handed</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2114
+#: C/goscustdesk.xml:2044
 msgid ""
 "Select this option to configure your mouse for right-hand use. When you "
 "configure your mouse for right-hand use, the left mouse button is the "
@@ -4830,12 +4762,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2119
+#: C/goscustdesk.xml:2049
 msgid "<guilabel>Left-handed</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2124
+#: C/goscustdesk.xml:2054
 msgid ""
 "Select this option to configure your mouse for left-hand use. When you "
 "configure your mouse for left-hand use, the functions of the left mouse "
@@ -4843,14 +4775,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2131
+#: C/goscustdesk.xml:2061
 msgid ""
 "<guilabel>Show position of pointer when the Control key is "
 "pressed</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2136
+#: C/goscustdesk.xml:2066
 msgid ""
 "Select this option to enable a mouse pointer animation when you press and "
 "release the Control key. This feature can assist you to locate the mouse "
@@ -4858,7 +4790,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:2140
+#: C/goscustdesk.xml:2070
 msgid ""
 "The position of the Control key on the keyboard can be modified in the "
 "Keyboard Layout Options dialog, see <xref linkend=\"prefs-keyboard-"
@@ -4866,43 +4798,43 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2153
+#: C/goscustdesk.xml:2083
 msgid ""
 "Use the slider to specify the speed at which your mouse pointer moves on "
 "your screen when you move your mouse."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2159
+#: C/goscustdesk.xml:2089
 msgid "<guilabel>Sensitivity</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2164
+#: C/goscustdesk.xml:2094
 msgid ""
 "Use the slider to specify how sensitive your mouse pointer is to movements "
 "of your mouse."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2170
+#: C/goscustdesk.xml:2100
 msgid "<guilabel>Threshold</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2175
+#: C/goscustdesk.xml:2105
 msgid ""
 "Use the slider to specify the distance that you must move an item before the"
 " move action is interpreted as a drag-and-drop action."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2182
+#: C/goscustdesk.xml:2112
 msgid "<guilabel>Timeout</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2187
+#: C/goscustdesk.xml:2117
 msgid ""
 "Use the slider to specify the amount of time that can pass between clicks "
 "when you double-click. If the interval between the first and second clicks "
@@ -4911,19 +4843,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2191
+#: C/goscustdesk.xml:2121
 msgid ""
 "Use the light bulb icon to check double-click sensitivity: the light will "
 "light up briefly for a click, but stay lit for a double-click."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2199
+#: C/goscustdesk.xml:2129
 msgid "Mouse Accessibility Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2200
+#: C/goscustdesk.xml:2130
 msgid ""
 "Use the <guilabel>Accessibility</guilabel> tabbed section to configure "
 "accessibility features that can help people who have difficulty with exact "
@@ -4931,54 +4863,54 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2204
+#: C/goscustdesk.xml:2134
 msgid ""
 "Open a contextual menu by clicking and holding the primary mouse button; "
 "this is useful for users that can manipulate only one button."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2213
+#: C/goscustdesk.xml:2143
 msgid "Single click"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2215
+#: C/goscustdesk.xml:2145
 msgid "A single click of the primary mouse button"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2221
+#: C/goscustdesk.xml:2151
 msgid "Double click"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2223
+#: C/goscustdesk.xml:2153
 msgid "A double click of the primary mouse button"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2229
+#: C/goscustdesk.xml:2159
 msgid "Drag click"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2231
+#: C/goscustdesk.xml:2161
 msgid "A click that begins a drag operation"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2237
+#: C/goscustdesk.xml:2167
 msgid "Secondary click"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2239
+#: C/goscustdesk.xml:2169
 msgid "A single click of the secondary mouse button"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2209
+#: C/goscustdesk.xml:2139
 msgid ""
 "Perform different types of mouse button click by software; this useful for "
 "users that are not able to manipulate any buttons. The types of click that "
@@ -4986,52 +4918,52 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2248
+#: C/goscustdesk.xml:2178
 msgid ""
 "<xref linkend=\"goscustdesk-TBL-47\"/> lists the mouse accessibility "
 "preferences that you can modify:"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2250
+#: C/goscustdesk.xml:2180
 msgid "Mouse Motion Preferences"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2267
+#: C/goscustdesk.xml:2197
 msgid ""
 "<guilabel>Trigger secondary click by holding down the primary "
 "button</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2272
+#: C/goscustdesk.xml:2202
 msgid ""
 "Select this option to enable simulated secondary clicks by pressing the "
 "primary mouse button for an extended time."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2277
+#: C/goscustdesk.xml:2207
 msgid ""
 "<guilabel>Delay</guilabel> slider in the <guilabel>Simulated Secondary "
 "Click</guilabel> section"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2282
+#: C/goscustdesk.xml:2212
 msgid ""
 "Use the slider to specify how long the primary button must be pressed to "
 "simulate a secondary click."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2287
+#: C/goscustdesk.xml:2217
 msgid "<guilabel>Initiate click when stopping pointer movement</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2292
+#: C/goscustdesk.xml:2222
 msgid ""
 "Select this option to enable automatic clicks when the mouse stops. Use the "
 "additional preferences in the <guilabel>Dwell Click</guilabel> section to "
@@ -5039,69 +4971,69 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2297
+#: C/goscustdesk.xml:2227
 msgid ""
 "<guilabel>Delay</guilabel> slider in the <guilabel>Dwell Click</guilabel> "
 "section"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2302
+#: C/goscustdesk.xml:2232
 msgid ""
 "Use the slider to specify how long the pointer must remain at rest before an"
 " automatic click will be triggered."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2307
+#: C/goscustdesk.xml:2237
 msgid "<guilabel>Motion threshold</guilabel> slider"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2312
+#: C/goscustdesk.xml:2242
 msgid ""
 "Use the slider to specify how much the pointer may move to still be "
 "considered at rest."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2317
+#: C/goscustdesk.xml:2247
 msgid "<guilabel>Choose type of click beforehand</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2322
+#: C/goscustdesk.xml:2252
 msgid ""
 "Select this option to pick the type of click to perform from a window or "
 "panel applet."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2328
+#: C/goscustdesk.xml:2258
 msgid "<guilabel>Show click type window</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2333
+#: C/goscustdesk.xml:2263
 msgid ""
 "When this option is enabled, the different types of click (single click, "
 "double click, drag click or secondary click) can be selected in a window."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:2335
+#: C/goscustdesk.xml:2265
 msgid ""
 "The <guilabel>Dwell Click</guilabel> panel applet can be used instead of the"
 " window."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2341
+#: C/goscustdesk.xml:2271
 msgid "<guilabel>Choose type of click with mouse gestures</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2346
+#: C/goscustdesk.xml:2276
 msgid ""
 "Select this option to pick the type of click by moving the mouse in a "
 "certain direction. The four combo boxes below this option allow to assign "
@@ -5110,64 +5042,64 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2351
+#: C/goscustdesk.xml:2281
 msgid "<guilabel>Single click</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2356
+#: C/goscustdesk.xml:2286
 msgid "Choose the direction to trigger a single click."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2363
+#: C/goscustdesk.xml:2293
 msgid "<guilabel>Double click</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2368
+#: C/goscustdesk.xml:2298
 msgid "Choose the direction to trigger a double click."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2375
+#: C/goscustdesk.xml:2305
 msgid "<guilabel>Drag click</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2380
+#: C/goscustdesk.xml:2310
 msgid "Choose the direction to trigger a drag click."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2387
+#: C/goscustdesk.xml:2317
 msgid "<guilabel>Secondary click</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2392
+#: C/goscustdesk.xml:2322
 msgid "Choose the direction to trigger a secondary click."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2403
+#: C/goscustdesk.xml:2333
 msgid "Monitors"
 msgstr "മോണിറ്ററുകള്‍"
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2404
+#: C/goscustdesk.xml:2334
 msgid "<primary>preference tools</primary> <secondary>Display</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2408
+#: C/goscustdesk.xml:2338
 msgid ""
 "Use <application>Monitor Preferences</application> to configure the monitors"
 " that your computer uses."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:2410
+#: C/goscustdesk.xml:2340
 msgid ""
 "On most laptop keyboards, you can use the key combination "
 "<keycombo><keycap>Fn</keycap><keycap>F7</keycap></keycombo> to cycle between"
@@ -5176,7 +5108,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2414
+#: C/goscustdesk.xml:2344
 msgid ""
 "Drag the graphical representations of the monitors in the upper left part of"
 " the window to set how your monitors are arranged. <application>Monitor "
@@ -5186,7 +5118,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2419
+#: C/goscustdesk.xml:2349
 msgid ""
 "Changes you make in <application>Monitor Preferences</application> don't "
 "take effect until you click the <guibutton>Apply</guibutton> button. "
@@ -5196,12 +5128,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2426
+#: C/goscustdesk.xml:2356
 msgid "<guilabel>Same image in all monitors</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2427
+#: C/goscustdesk.xml:2357
 msgid ""
 "When this option is selected, your entire desktop will fit on a single "
 "monitor, and every monitor will show the same copy of your desktop. When it "
@@ -5210,24 +5142,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2433
+#: C/goscustdesk.xml:2363
 msgid "<guilabel>Detect monitors</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2434
+#: C/goscustdesk.xml:2364
 msgid ""
 "Click this button to find monitors that have been recently added or plugged "
 "in."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2438
+#: C/goscustdesk.xml:2368
 msgid "<guilabel>Show monitors in panel</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2439
+#: C/goscustdesk.xml:2369
 msgid ""
 "When this option is selected, an icon will be placed on your panel allowing "
 "you to quickly change certain settings without opening <application>Monitor "
@@ -5235,7 +5167,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2445
+#: C/goscustdesk.xml:2375
 msgid ""
 "The following list explains the options you can set for each monitor. The "
 "currently selected monitor is the one whose graphical representation has a "
@@ -5244,24 +5176,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2452
+#: C/goscustdesk.xml:2382
 msgid "<guilabel>On</guilabel> / <guilabel>Off</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2453
+#: C/goscustdesk.xml:2383
 msgid ""
 "Individual monitors can be completely disabled by selecting "
 "<guilabel>Off</guilabel>."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2457
+#: C/goscustdesk.xml:2387
 msgid "<guilabel>Resolution</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2458
+#: C/goscustdesk.xml:2388
 msgid ""
 "Select the resolution to use for the currently selected monitor from the "
 "drop-down list. <emphasis>Resolution</emphasis> refers to the pixel "
@@ -5270,12 +5202,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2466
+#: C/goscustdesk.xml:2396
 msgid "<guilabel>Refresh rate</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2467
+#: C/goscustdesk.xml:2397
 msgid ""
 "Select the refresh rate to use for the currently selected monitor from the "
 "drop-down list. The <emphasis>refresh rate</emphasis> determines how often "
@@ -5285,51 +5217,51 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:2476
+#: C/goscustdesk.xml:2406
 msgid "<guilabel>Rotation</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2477
+#: C/goscustdesk.xml:2407
 msgid ""
 "Select the rotation for the currently selected monitor. This option may not "
 "be supported on all graphics cards."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2483
+#: C/goscustdesk.xml:2413
 msgid "Sound Preferences"
 msgstr "ശബ്ദ മുന്‍ഗണനകള്‍"
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2485
+#: C/goscustdesk.xml:2415
 msgid "<primary>preference tools</primary> <secondary>Sound</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2489
+#: C/goscustdesk.xml:2419
 msgid "<primary>sound</primary> <secondary>setting preferences</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2493
+#: C/goscustdesk.xml:2423
 msgid ""
 "<primary>sound</primary> <secondary>associating events with "
 "sounds</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2497
+#: C/goscustdesk.xml:2427
 msgid "<primary>events, associating sounds with</primary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2500
+#: C/goscustdesk.xml:2430
 msgid "<primary>volume</primary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2503
+#: C/goscustdesk.xml:2433
 msgid ""
 "The <application>Sound</application> preference tool enables you to control "
 "devices and volume for sound input and output. You can also specify which "
@@ -5337,29 +5269,29 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2506
+#: C/goscustdesk.xml:2436
 msgid ""
 "You can customize the settings for the <application>Sound</application> "
 "preference tool in the following functional areas:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2510
+#: C/goscustdesk.xml:2440
 msgid "<guilabel>Sound Events</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2515
+#: C/goscustdesk.xml:2445
 msgid "<guilabel>Input</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2520
+#: C/goscustdesk.xml:2450
 msgid "<guilabel>Output</guilabel>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2525
+#: C/goscustdesk.xml:2455
 msgid ""
 "You can change the overall output volume using the <guilabel>Output "
 "volume</guilabel> slider at the top of the window. The "
@@ -5368,12 +5300,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2527 C/goscustdesk.xml:2530
+#: C/goscustdesk.xml:2457 C/goscustdesk.xml:2460
 msgid "Sound Effects Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2528
+#: C/goscustdesk.xml:2458
 msgid ""
 "A sound theme is collection of sound effects that are associated to various "
 "events, such as opening a dialog, clicking a button or selecting an item in "
@@ -5385,133 +5317,133 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2529
+#: C/goscustdesk.xml:2459
 msgid ""
 "<xref linkend=\"goscustmulti-TBL-6\"/> lists the sound effects preferences "
 "that you can modify."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2547
+#: C/goscustdesk.xml:2477
 msgid "<guilabel>Alert Volume</guilabel> slider"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2550
+#: C/goscustdesk.xml:2480
 msgid ""
 "Use the <guilabel>Alert Volume</guilabel> slider to control the volume for "
 "event sounds."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2552
+#: C/goscustdesk.xml:2482
 msgid ""
 "The <guilabel>Mute</guilabel> checkbox allows to temporarily suppress event "
 "sounds without modifying the current volume."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2559
+#: C/goscustdesk.xml:2489
 msgid "<guilabel>Sound Theme </guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2564
+#: C/goscustdesk.xml:2494
 msgid "Use this combobox to select a different sound theme."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2565
+#: C/goscustdesk.xml:2495
 msgid "Choose <guilabel>No sounds</guilabel> to turn off all event sounds."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2570
+#: C/goscustdesk.xml:2500
 msgid "<guilabel>Choose an alert sound </guilabel> list"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2573
+#: C/goscustdesk.xml:2503
 msgid "Choose an alternative sound for the System Bell from this list."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2574
+#: C/goscustdesk.xml:2504
 msgid "Selecting a list element plays the sound."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2579
+#: C/goscustdesk.xml:2509
 msgid "<guilabel>Enable window and button sounds </guilabel> checkbox"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2582
+#: C/goscustdesk.xml:2512
 msgid ""
 "Uncheck this option if you don't want to hear sounds for window-related "
 "events (such as a dialog or a menu appearing) and button clicks."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2593 C/goscustdesk.xml:2597
+#: C/goscustdesk.xml:2523 C/goscustdesk.xml:2527
 msgid "Sound Input Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2594
+#: C/goscustdesk.xml:2524
 msgid ""
 "Use the <guilabel>Input</guilabel> tabbed section to set your preferences "
 "for sound input."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2596
+#: C/goscustdesk.xml:2526
 msgid ""
 "<xref linkend=\"goscustdesk-TBL-1\"/> lists the sound input preferences that"
 " you can modify."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2614
+#: C/goscustdesk.xml:2544
 msgid "<guilabel>Input volume </guilabel> slider"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2619
+#: C/goscustdesk.xml:2549
 msgid "Use the input volume slider to control the input level."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2620
+#: C/goscustdesk.xml:2550
 msgid ""
 "The <guilabel>Mute </guilabel> checkbox allows to temporarily suppress all "
 "input without disturbing the current input level."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2625
+#: C/goscustdesk.xml:2555
 msgid "<guilabel>Input level</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2630
+#: C/goscustdesk.xml:2560
 msgid ""
 "The <guilabel>Input level</guilabel> display provides visual feedback that "
 "helps to select a suitable input volume."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2636
+#: C/goscustdesk.xml:2566
 msgid "<guilabel>Choose a device for sound input </guilabel> list"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2641
+#: C/goscustdesk.xml:2571
 msgid "Choose the device that you want to receive sound input from."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:2648
+#: C/goscustdesk.xml:2578
 msgid ""
 "Note that the input volume can also be controlled with the microphone icon "
 "that is shown in the notification area of the panel when an application is "
@@ -5519,65 +5451,65 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2653 C/goscustdesk.xml:2658
+#: C/goscustdesk.xml:2583 C/goscustdesk.xml:2588
 msgid "Sound Output Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2654
+#: C/goscustdesk.xml:2584
 msgid ""
 "Use the <guilabel>Output</guilabel> tabbed section to set your preferences "
 "for sound output."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2656
+#: C/goscustdesk.xml:2586
 msgid ""
 "<xref linkend=\"goscustdesk-TBL-2\"/> lists the sound output preferences "
 "that you can modify."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2675
+#: C/goscustdesk.xml:2605
 msgid "<guilabel>Output volume </guilabel> slider"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2680
+#: C/goscustdesk.xml:2610
 msgid "Use the output volume slider to control the overall output volume."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2681
+#: C/goscustdesk.xml:2611
 msgid ""
 "The <guilabel>Mute </guilabel> checkbox allows to temporarily suppress all "
 "output without disturbing the current volume."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2682
+#: C/goscustdesk.xml:2612
 msgid ""
 "Note that the <guilabel>Output volume</guilabel> slider is located above the"
 " tabbed section at the top of the window."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2688
+#: C/goscustdesk.xml:2618
 msgid "<guilabel>Choose a device for sound output </guilabel> list"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2693
+#: C/goscustdesk.xml:2623
 msgid "Choose the device that you want to hear sound output from."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2699
+#: C/goscustdesk.xml:2629
 msgid "<guilabel>Balance </guilabel> slider"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2704
+#: C/goscustdesk.xml:2634
 msgid ""
 "Use the <guilabel>Balance</guilabel> slider to control the left/right "
 "balance of an output device that has more than one channel (e.g. stereo or "
@@ -5585,59 +5517,59 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscustdesk.xml:2712
+#: C/goscustdesk.xml:2642
 msgid ""
 "Note that the output volume can also be controlled with the speaker icon "
 "that is shown in the notification area of the panel."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2716
+#: C/goscustdesk.xml:2646
 msgid "Application Sound Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2717
+#: C/goscustdesk.xml:2647
 msgid ""
 "Use the <guilabel>Applications</guilabel> tabbed section to control the "
 "volume of sound played by individual applications."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2719
+#: C/goscustdesk.xml:2649
 msgid ""
 "Each application that is currently playing sound is identified by its name "
 "and icon."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2733
+#: C/goscustdesk.xml:2663
 msgid "System"
 msgstr "സിസ്റ്റം"
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2735
+#: C/goscustdesk.xml:2665
 msgid "Sessions Preferences"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2738 C/gosstartsession.xml:178
+#: C/goscustdesk.xml:2668 C/gosstartsession.xml:178
 msgid "<primary>preference tools</primary> <secondary>Sessions</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2742
+#: C/goscustdesk.xml:2672
 msgid "<primary>sessions</primary> <secondary>preferences</secondary>"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2746
+#: C/goscustdesk.xml:2676
 msgid ""
 "<primary>startup applications</primary> <secondary>customizing</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2750
+#: C/goscustdesk.xml:2680
 msgid ""
 "The <application>Sessions</application> preference tool enables you to "
 "manage your sessions. You can set session preferences, and specify which "
@@ -5648,67 +5580,67 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2756
+#: C/goscustdesk.xml:2686
 msgid ""
 "You can customize the settings for sessions and startup applications in the "
 "following functional areas:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2760
+#: C/goscustdesk.xml:2690
 msgid "<guilabel>Session Options</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2765
+#: C/goscustdesk.xml:2695
 msgid "<guilabel>Startup Programs</guilabel>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2771
+#: C/goscustdesk.xml:2701
 msgid "Setting Session Preferences"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2772
+#: C/goscustdesk.xml:2702
 msgid "<primary>sessions</primary> <secondary>setting options</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2776
+#: C/goscustdesk.xml:2706
 msgid ""
 "Use the <guilabel>Session Options</guilabel> tabbed section to manage "
 "multiple sessions, and to set preferences for the current session."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2778
+#: C/goscustdesk.xml:2708
 msgid ""
 "<xref linkend=\"goscustsession-TBL-11\"/> lists the session options that you"
 " can modify."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2780
+#: C/goscustdesk.xml:2710
 msgid "Session Options"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2797
+#: C/goscustdesk.xml:2727
 msgid ""
 "<guilabel>Automatically remember running applications when logging "
 "out</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/indexterm
-#: C/goscustdesk.xml:2802 C/goscustdesk.xml:2821
+#: C/goscustdesk.xml:2732 C/goscustdesk.xml:2751
 msgid ""
 "<primary>startup applications</primary> <secondary>session-"
 "managed</secondary>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2806
+#: C/goscustdesk.xml:2736
 msgid ""
 "Select this option if you want the session manager to save the state of your"
 " session when logging out. The session manager saves the session-managed "
@@ -5718,12 +5650,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2816
+#: C/goscustdesk.xml:2746
 msgid "<guilabel>Remember currently running applications</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2825
+#: C/goscustdesk.xml:2755
 msgid ""
 "Select this option if you want the session manager to save the current state"
 " of your session. The session manager saves the session-managed applications"
@@ -5733,19 +5665,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2838
+#: C/goscustdesk.xml:2768
 msgid "Configuring Startup Applications"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/goscustdesk.xml:2839
+#: C/goscustdesk.xml:2769
 msgid ""
 "<primary>startup applications</primary> <secondary>non-session-"
 "managed</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2843
+#: C/goscustdesk.xml:2773
 msgid ""
 "Use the <guilabel>Startup Programs</guilabel> tabbed section of the "
 "<application>Sessions</application> preference tool to specify non-session-"
@@ -5757,38 +5689,38 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2850
+#: C/goscustdesk.xml:2780
 msgid ""
 "You can also start session-managed applications automatically. For more "
 "information, see <xref linkend=\"goscustsession-16\"/>."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscustdesk.xml:2852
+#: C/goscustdesk.xml:2782
 msgid ""
 "<xref linkend=\"goscustsession-TBL-19\"/> lists the startup applications "
 "preferences that you can modify."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscustdesk.xml:2854
+#: C/goscustdesk.xml:2784
 msgid "Startup Programs Preferences"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2871
+#: C/goscustdesk.xml:2801
 msgid "<guilabel> Additional startup programs</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscustdesk.xml:2876
+#: C/goscustdesk.xml:2806
 msgid ""
 "Use this table to manage non-session-managed startup applications as "
 "follows:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2880
+#: C/goscustdesk.xml:2810
 msgid ""
 "To add a startup application, click on the <guibutton>Add</guibutton> "
 "button. The <guilabel>New Startup Program</guilabel> dialog is displayed. "
@@ -5799,7 +5731,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2883
+#: C/goscustdesk.xml:2813
 msgid ""
 "To edit a startup application, select the startup application, then click on"
 " the <guibutton>Edit</guibutton> button. The <guilabel>Edit Startup "
@@ -5808,7 +5740,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscustdesk.xml:2889
+#: C/goscustdesk.xml:2819
 msgid ""
 "To delete a startup application, select the startup application, then click "
 "on the <guilabel>Remove</guilabel> button."
@@ -6138,7 +6070,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:265
+#: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:264
 #: C/gosdconf.xml:19
 msgid "Introduction"
 msgstr "അവതരണം"
@@ -6232,9 +6164,8 @@ msgid ""
 "<application>Caja</application> is always running while you are using MATE. "
 "To open a new <application>Caja</application> window, double-click on an "
 "appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or "
-"<guimenuitem>Computer</guimenuitem>, or choose an item from <link linkend"
-"=\"places-menu\"><guimenuitem>Places</guimenuitem> menu</link> on the top "
-"panel."
+"<guimenuitem>Computer</guimenuitem>, or choose an item from <xref linkend"
+"=\"places-menu\"/> on the top panel."
 msgstr ""
 
 #. (itstool) path: section/para
@@ -6475,10 +6406,9 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:157
 msgid ""
-"Choose an item from the <link linkend=\"places-"
-"menu\"><guimenuitem>Places</guimenuitem> menu</link> on the top panel. Your "
-"Home Folder and folders you have bookmarked are listed here. For more on "
-"bookmarks, see <xref linkend=\"caja-bookmarks\"/>."
+"Choose an item from the <xref linkend=\"places-menu\"/> on the top panel. "
+"Your Home Folder and folders you have bookmarked are listed here. For more "
+"on bookmarks, see <xref linkend=\"caja-bookmarks\"/>."
 msgstr ""
 
 #. (itstool) path: section/para
@@ -6583,7 +6513,7 @@ msgstr ""
 
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
-#: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:320
+#: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:319
 msgid "Menubar"
 msgstr ""
 
@@ -6911,8 +6841,8 @@ msgstr ""
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
 #. (itstool) path: para/interface
-#: C/goscaja.xml:416 C/gostools.xml:379 C/gostools.xml:637 C/gostools.xml:661
-#: C/gostools.xml:685
+#: C/goscaja.xml:416 C/gostools.xml:378 C/gostools.xml:636 C/gostools.xml:660
+#: C/gostools.xml:684
 msgid "Toolbar"
 msgstr ""
 
@@ -7713,8 +7643,8 @@ msgstr ""
 msgid ""
 "If you open an executable text file, that is, one that Caja considers can be"
 " run as a program, then you will be asked what you want to do: run it, or "
-"display it in a text editor. You can modify this behavior in the <link "
-"linkend=\"caja-preferences\">File Management preferences</link>."
+"display it in a text editor. You can modify this behavior in <xref linkend"
+"=\"caja-preferences\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -8343,7 +8273,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:151
+#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:150
 msgid "Option"
 msgstr ""
 
@@ -9831,7 +9761,7 @@ msgid "Select the file that you want to change."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2190 C/goscaja.xml:2715
+#: C/goscaja.xml:2190 C/goscaja.xml:2233 C/goscaja.xml:2304 C/goscaja.xml:2715
 msgid ""
 "Choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
@@ -9907,15 +9837,6 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2230
 msgid "Select the folder that you want to change."
-msgstr ""
-
-#. (itstool) path: listitem/para
-#: C/goscaja.xml:2233 C/goscaja.xml:2304
-msgid ""
-"Choose "
-"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
-" The <link linkend=\"caja-properties\">properties window</link> for the item"
-" is displayed."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -10852,8 +10773,7 @@ msgstr ""
 #: C/goscaja.xml:2753
 msgid ""
 "Right-click on the item, then choose <guimenuitem>Properties</guimenuitem>. "
-"The <link linkend=\"caja-properties\">properties window</link> for the item "
-"is displayed."
+"The <xref linkend=\"caja-properties\"/> for the item is displayed."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -13059,7 +12979,7 @@ msgstr ""
 #: C/gosoverview.xml:125
 msgid ""
 "Click on the <guibutton>Show Desktop</guibutton> button at the far left of "
-"the <link linkend=\"bottom-panel\">bottom panel</link>."
+"the <xref linkend=\"bottom-panel\"/>."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -13340,9 +13260,9 @@ msgstr ""
 #: C/gosoverview.xml:236
 msgid ""
 "Drag one of the borders to expand or contract the window on that side. Drag "
-"a corner to change two sides at once. The <link linkend=\"mouse-"
-"pointers\">resize pointer</link> appears when your mouse is in the correct "
-"position to begin the drag action."
+"a corner to change two sides at once. The resize pointer (see <xref linkend"
+"=\"mouse-pointers\"/>) appears when your mouse is in the correct position to"
+" begin the drag action."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -13369,9 +13289,8 @@ msgid ""
 "Click on the Minimize button in the titlebar, the leftmost of the group of "
 "three on the right. This removes the window from view. The window can be "
 "restored to its previous position and size on the screen from the "
-"<firstterm>window list</firstterm> on the <link "
-"linkend=\"gospanel-3\">bottom edge panel</link> or the <firstterm>window "
-"selector</firstterm> in the top panel."
+"<firstterm>window list</firstterm> on the <xref linkend=\"bottom-panel\"/> "
+"or the <firstterm>window selector</firstterm> in the top panel."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -13519,9 +13438,8 @@ msgstr ""
 #. (itstool) path: note/para
 #: C/gosoverview.xml:318
 msgid ""
-"You can customize the shortcut used to perform this action with the <link "
-"linkend=\"prefs-keyboard-shortcuts\">Keyboard Shortcuts preference "
-"tool</link>."
+"You can customize the shortcut used to perform this action with the <xref "
+"linkend=\"prefs-keyboard-shortcuts\"/> tool."
 msgstr ""
 
 #. (itstool) path: section/indexterm
@@ -13545,13 +13463,13 @@ msgstr ""
 msgid ""
 "By default, four workspaces are available. You can switch between them with "
 "the <application>Workspace Switcher</application> applet at the right of the"
-" <link linkend=\"bottom-panel\">bottom panel</link>. This shows a "
-"representation of your workspaces, by default a row of four rectangles. "
-"Click on one to switch to that workspace. In <xref linkend=\"gosoverview-"
-"FIG-42\"/>, <application>Workspace Switcher</application> contains four "
-"workspaces. The first three workspaces contain open windows. The last "
-"workspace does not contain currently open windows. The currently active "
-"workspace is highlighted."
+" <xref linkend=\"bottom-panel\"/>. This shows a representation of your "
+"workspaces, by default a row of four rectangles. Click on one to switch to "
+"that workspace. In <xref linkend=\"gosoverview-FIG-42\"/>, "
+"<application>Workspace Switcher</application> contains four workspaces. The "
+"first three workspaces contain open windows. The last workspace does not "
+"contain currently open windows. The currently active workspace is "
+"highlighted."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -13747,12 +13665,12 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:414
 msgid ""
-"<link linkend=\"caja\"><application>Caja File Manager</application></link> "
+"<application>Caja File Manager</application> (see <xref linkend=\"caja\"/>) "
 "displays your folders and their contents. Use this to copy, move and "
 "classify your files, and to access CDs, USB flash drives, and any other "
-"removable media. When you choose an item from the <link linkend=\"places-"
-"menu\"><guimenu>Places</guimenu> menu</link>, a <application>Caja File "
-"Manager</application> window opens showing that location."
+"removable media. When you choose an item from the <xref linkend=\"places-"
+"menu\"/>, a <application>Caja File Manager</application> window opens "
+"showing that location."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -13812,9 +13730,8 @@ msgstr ""
 #: C/gosoverview.xml:429
 msgid ""
 "MATE-compliant applications have a consistent look-and-feel. You can use the"
-" <link linkend=\"prefs-theme\"><application>Appearance</application> "
-"preference tool</link> to change the look-and-feel of your MATE-compliant "
-"applications."
+" <xref linkend=\"prefs-theme\"/> tool to change the look-and-feel of your "
+"MATE-compliant applications."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -13968,8 +13885,8 @@ msgstr ""
 msgid ""
 "Open an item in the left-hand pane. This pane lists places such as your "
 "Documents folder, your Home Folder, media such as CDs and flash drives, "
-"places on your network, and your <link linkend=\"caja-"
-"bookmarks\">bookmarks</link>."
+"places on your network, and your bookmarks (see <xref linkend=\"caja-"
+"bookmarks\"/> for more on bookmarks)."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -14186,8 +14103,8 @@ msgstr ""
 #: C/gosoverview.xml:527
 msgid ""
 "The expanded <guilabel>Save File</guilabel> dialog has the same features as "
-"the <link linkend=\"filechooser-open\"><guilabel>Open File</guilabel> "
-"dialog</link>, such as filtering, find-as-you-type, and adding and removing "
+"the <guilabel>Open File</guilabel> dialog (see <xref linkend=\"filechooser-"
+"open\"/>), such as filtering, find-as-you-type, and adding and removing "
 "bookmarks."
 msgstr ""
 
@@ -14647,10 +14564,9 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:268
 msgid ""
-"Select this option to have the panel use the settings in the <link linkend"
-"=\"prefs-theme\"><application>Appearance</application> preference "
-"tool</link>. This keeps your panel's background looking the same as the rest"
-" of the desktop and applications."
+"Select this option to have the panel use the settings in the <xref linkend"
+"=\"prefs-theme\"/> tool. This keeps your panel's background looking the same"
+" as the rest of the desktop and applications."
 msgstr ""
 
 #. (itstool) path: entry/para
@@ -14715,10 +14631,10 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:322
 msgid ""
-"You can drag a color or a pattern from the <link linkend=\"caja-backgrounds-"
-"and-emblems\"><guilabel>Backgrounds and Emblems</guilabel> dialog</link> in "
-"<application>Caja</application> file manager to a panel to set it as the "
-"background."
+"You can drag a color or a pattern from the <guilabel>Backgrounds and "
+"Emblems</guilabel> dialog (see <xref linkend=\"caja-backgrounds-and-"
+"emblems\"/>) in <application>Caja</application> file manager to a panel to "
+"set it as the background."
 msgstr ""
 
 #. (itstool) path: section/para
@@ -14795,8 +14711,8 @@ msgid ""
 "You can set a panel to autohide. When you set autohide, the panel hides "
 "automatically when the mouse is not pointing to the panel. The panel "
 "reappears when you point to the part of the screen where the panel resides. "
-"To set your panel to autohide, <link linkend=\"panel-properties\">modify the"
-" properties</link> of the panel."
+"To set your panel to autohide, modify the properties of the panel as per the"
+" instructions in <xref linkend=\"panel-properties\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -14917,9 +14833,9 @@ msgstr ""
 msgid ""
 "Some applets have popup menus of applet-specific commands that open when you"
 " right-click on particular parts of the applet. For example, the "
-"<application><link linkend=\"windowlist\">Window List</link></application> "
-"applet has a vertical handle on the left side, and buttons that represent "
-"your windows on the right side. To open the panel object popup menu for the "
+"<application><xref linkend=\"windowlist\"/></application> applet has a "
+"vertical handle on the left side, and buttons that represent your windows on"
+" the right side. To open the panel object popup menu for the "
 "<application>Window List</application> applet, you must right-click on the "
 "handle. If you right-click on a button on the right side, a popup menu for "
 "the button opens."
@@ -14964,8 +14880,8 @@ msgstr ""
 #: C/gospanel.xml:476
 msgid ""
 "The <guilabel>Add to Panel</guilabel> dialog opens.The available panel "
-"objects are listed alphabetically, with <link "
-"linkend=\"launchers\">launchers</link> at the top."
+"objects are listed alphabetically, with <xref linkend=\"launchers\"/> at the"
+" top."
 msgstr ""
 
 #. (itstool) path: tip/para
@@ -15434,8 +15350,8 @@ msgstr ""
 #: C/gospanel.xml:741
 msgid ""
 "Right-click on any vacant space on the panel, then choose <guimenu>Add to "
-"Panel</guimenu>. The <link linkend=\"panels-addobject\"><guilabel>Add to "
-"Panel</guilabel> dialog</link> opens."
+"Panel</guimenu>. The <guilabel>Add to Panel</guilabel> dialog opens (see "
+"<xref linkend=\"panels-addobject\"/>)."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -15963,10 +15879,9 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1110
 msgid ""
-"Opens the <link linkend=\"prefs-"
-"screensaver\"><application>Screensaver</application> preference tool</link>,"
-" with which you can configure the type of screensaver that is displayed when"
-" you lock the screen."
+"Opens the <xref linkend=\"prefs-screensaver\"/> tool, with which you can "
+"configure the type of screensaver that is displayed when you lock the "
+"screen."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -17479,9 +17394,9 @@ msgstr ""
 #: C/gosstartsession.xml:326
 msgid ""
 "Before you end a session, you might want to save your current settings so "
-"that you can restore the session later. In the <link linkend=\"prefs-"
-"sessions\"><application>Sessions</application></link> preference tool, you "
-"can select an option to automatically save your current settings."
+"that you can restore the session later. In the <xref linkend=\"prefs-"
+"sessions\"/> tool, you can select an option to automatically save your "
+"current settings."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -17541,9 +17456,8 @@ msgstr ""
 msgid ""
 "Press <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo>. You can "
 "change the shortcut keys that display the <guilabel>Run "
-"Application</guilabel> dialog in the <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Keyboard Shortcuts</application> preference "
-"tool</link>."
+"Application</guilabel> dialog in the <application><xref linkend=\"prefs-"
+"keyboard-shortcuts\"/></application> tool."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -17666,18 +17580,17 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gostools.xml:124
 msgid ""
-"You can use the <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Keyboard Shortcuts</application> preference "
-"tool</link> to modify the default shortcut keys."
+"You can use the <application><xref linkend=\"prefs-keyboard-"
+"shortcuts\"/></application> tool to modify the default shortcut keys."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:128
+#: C/gostools.xml:127
 msgid "From the Menubar"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:129
+#: C/gostools.xml:128
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Applications</guimenu><guimenuitem>Accessories</guimenuitem>"
@@ -17685,12 +17598,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:133
+#: C/gostools.xml:132
 msgid "From the Terminal"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:134
+#: C/gostools.xml:133
 msgid ""
 "You can use the <command>mate-screenshot</command> command to take a "
 "screenshot. The <command>mate-screenshot</command> command takes a "
@@ -17700,29 +17613,29 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:140
+#: C/gostools.xml:139
 msgid ""
 "You can also use options on the <command>mate-screenshot</command> command "
 "as follows:"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:161
+#: C/gostools.xml:160
 msgid "<command>--window</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:166
+#: C/gostools.xml:165
 msgid "Takes a screenshot of the window that has focus."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:171
+#: C/gostools.xml:170
 msgid "<command>--delay=<replaceable>seconds</replaceable></command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:176
+#: C/gostools.xml:175
 msgid ""
 "Takes a screenshot after the specified number of seconds, and displays the "
 "<guilabel>Save Screenshot</guilabel> dialog. Use the <guilabel>Save "
@@ -17730,67 +17643,67 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:186
+#: C/gostools.xml:185
 msgid "<command>--include-border</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:191
+#: C/gostools.xml:190
 msgid "Takes a screenshot including the border of the window."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:196
+#: C/gostools.xml:195
 msgid "<command>--remove-border</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:201
+#: C/gostools.xml:200
 msgid "Takes a screenshot without the border of the window."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:206
+#: C/gostools.xml:205
 msgid "<command>--border-effect=shadow</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:211
+#: C/gostools.xml:210
 msgid "Takes a screenshot and adds a shadow bevel effect around it."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:216
+#: C/gostools.xml:215
 msgid "<command>--border-effect=border</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:221
+#: C/gostools.xml:220
 msgid "Takes a screenshot and adds a border effect around it."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:226
+#: C/gostools.xml:225
 msgid "<command>--interactive</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:231
+#: C/gostools.xml:230
 msgid "Opens a window that lets you set options before taking the screenshot."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:236
+#: C/gostools.xml:235
 msgid "<command>--help</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:241
+#: C/gostools.xml:240
 msgid "Displays the options for the command."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:250
+#: C/gostools.xml:249
 msgid ""
 "When you take a screenshot, the <guilabel>Save Screenshot</guilabel> dialog "
 "opens. To save the screenshot as an image file, enter the filename for the "
@@ -17801,17 +17714,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:259
+#: C/gostools.xml:258
 msgid "Yelp Help Browser"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/gostools.xml:260
+#: C/gostools.xml:259
 msgid "<primary>Yelp</primary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:266
+#: C/gostools.xml:265
 msgid ""
 "The <application>Yelp Help Browser</application> application allows you to "
 "view documentation regarding MATE and other components through a variety of "
@@ -17822,7 +17735,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:273
+#: C/gostools.xml:272
 msgid ""
 "<application>Yelp Help Browser</application> is internationalized, meaning "
 "that it has support to view documents in different languages. The documents "
@@ -17831,56 +17744,56 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:281
+#: C/gostools.xml:280
 msgid "Starting Yelp"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:283
+#: C/gostools.xml:282
 msgid "To Start <application>Yelp Help Browser</application>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:284
+#: C/gostools.xml:283
 msgid ""
 "You can start <application>Yelp Help Browser</application> in the following "
 "ways:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:288
+#: C/gostools.xml:287
 msgid "<guimenu>System</guimenu> Menu"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:291
+#: C/gostools.xml:290
 msgid "Choose <application>Help</application>"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:296
+#: C/gostools.xml:295
 msgid "Command Line"
 msgstr "ആജ്ഞാ സ്ഥാനം"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:299
+#: C/gostools.xml:298
 msgid "Execute the following command: <command>yelp</command>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:306
+#: C/gostools.xml:305
 msgid "Interface"
 msgstr "സമ്പർക്കമുഖം"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:307
+#: C/gostools.xml:306
 msgid ""
 "When you start <application>Yelp Help Browser</application>, you will see "
 "the following window appear."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:310
+#: C/gostools.xml:309
 msgid "<application>Yelp Help Browser</application> Window"
 msgstr ""
 
@@ -17889,7 +17802,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:313
+#: C/gostools.xml:312
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_window.png' "
@@ -17897,42 +17810,42 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:310
+#: C/gostools.xml:309
 msgid ""
 "<_:figure-1/><application>Yelp Help Browser</application> contains the "
 "following elements in <xref linkend=\"fig-yelp-window\"/>"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:325
+#: C/gostools.xml:324
 msgid "<guimenu>File</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:328
+#: C/gostools.xml:327
 msgid ""
 "Use this menu to Open a New Window, view the About this Document page, Print"
 " the current document, or Close the window."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:335
+#: C/gostools.xml:334
 msgid "<guimenu>Edit</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:338
+#: C/gostools.xml:337
 msgid ""
 "Use this menu to Copy, Select all, Find..., or to set your Preferences."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:344
+#: C/gostools.xml:343
 msgid "<guimenu>Go</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:347
+#: C/gostools.xml:346
 msgid ""
 "Use this menu to navigate Back, Forward, to the Help Topics page. When "
 "viewing a DocBook document, use this menu to navigate to the Next Section, "
@@ -17940,22 +17853,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:355
+#: C/gostools.xml:354
 msgid "<guimenu>Bookmarks</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:358
+#: C/gostools.xml:357
 msgid "Use this menu to Add Bookmark(s), or Edit Bookmark(s)."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:364
+#: C/gostools.xml:363
 msgid "<guimenu>Help</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:367
+#: C/gostools.xml:366
 msgid ""
 "View information about Yelp Help Browser and contributors to the project "
 "through the <guimenuitem>About</guimenuitem> menuitem. Open this document "
@@ -17964,44 +17877,44 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:384
+#: C/gostools.xml:383
 msgid "<guibutton>Back</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:387
+#: C/gostools.xml:386
 msgid "Use this button to navigate back in your document history."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:393
+#: C/gostools.xml:392
 msgid "<guibutton>Forward</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:396
+#: C/gostools.xml:395
 msgid "Use this button to navigate forward in your document history."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:402
+#: C/gostools.xml:401
 msgid "<guibutton>Help Topics</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:405
+#: C/gostools.xml:404
 msgid ""
 "Use this button to return to the main table of contents (shown in <xref "
 "linkend=\"fig-yelp-window\"/>)."
 msgstr ""
 
 #. (itstool) path: term/interface
-#: C/gostools.xml:414
+#: C/gostools.xml:413
 msgid "Browser Pane"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:417
+#: C/gostools.xml:416
 msgid ""
 "The browser pane is where you will be presented with the table of contents "
 "or the documentation. Use the table of contents to navigate to the "
@@ -18009,47 +17922,47 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:428
+#: C/gostools.xml:427
 msgid "Using Yelp"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:430
+#: C/gostools.xml:429
 msgid "Open a Document"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:435
+#: C/gostools.xml:434
 msgid ""
 "In an application, click <menuchoice> <guimenu>Help</guimenu> "
 "<guimenuitem>Contents</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:443
+#: C/gostools.xml:442
 msgid "Use the Table of Contents to navigate to the desired document."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:446
+#: C/gostools.xml:445
 msgid ""
 "You can drag a Docbook XML file from Caja to the Yelp window or launcher."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:449
+#: C/gostools.xml:448
 msgid "Press the <keycap>F1</keycap> key."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:431
+#: C/gostools.xml:430
 msgid ""
 "To open a document in <application>Yelp Help Browser</application>: "
 "<_:itemizedlist-1/>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:454
+#: C/gostools.xml:453
 msgid ""
 "Alternatively, you may view a particular document by invoking Yelp Help "
 "Browser from the command line or dragging files to Yelp. See <xref linkend"
@@ -18057,147 +17970,147 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:458
+#: C/gostools.xml:457
 msgid "Open a New Window"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:459
+#: C/gostools.xml:458
 msgid "To open a new window:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:463
+#: C/gostools.xml:462
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>New "
 "Window</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:471
+#: C/gostools.xml:470
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>N</keycap></keycombo>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:477
+#: C/gostools.xml:476
 msgid "About This Document"
 msgstr "ഈ ഫയലിനെക്കുറിച്ചു്"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:478
+#: C/gostools.xml:477
 msgid "To view information about the currently open document:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:482
+#: C/gostools.xml:481
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>About This "
 "Document</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gostools.xml:489
+#: C/gostools.xml:488
 msgid ""
 "This option is only available for DocBook documentation. Legal notices and "
 "documentation contributors are usually listed in this section."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:495
+#: C/gostools.xml:494
 msgid "Print a Page"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:496
+#: C/gostools.xml:495
 msgid ""
 "To print any page that you are able to view in <application>Yelp Help "
 "Browser</application>:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:500
+#: C/gostools.xml:499
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print this "
 "Page</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:509
+#: C/gostools.xml:508
 msgid "Print a Document"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:510
+#: C/gostools.xml:509
 msgid "To print an entire document:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:514
+#: C/gostools.xml:513
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print this "
 "Document</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gostools.xml:521
+#: C/gostools.xml:520
 msgid "This option is only available for DocBook documentation."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:526
+#: C/gostools.xml:525
 msgid "Close a Window"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:527
+#: C/gostools.xml:526
 msgid ""
 "To close a window in <application>Yelp Help Browser</application>, do the "
 "following:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:531
+#: C/gostools.xml:530
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Close "
 "Window</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:539
+#: C/gostools.xml:538
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>W</keycap></keycombo>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:545
+#: C/gostools.xml:544
 msgid "Set Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:546
+#: C/gostools.xml:545
 msgid ""
 "To set your preferences in <application>Yelp Help Browser</application>:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:550
+#: C/gostools.xml:549
 msgid ""
 "Click <menuchoice> <guimenu>Edit</guimenu> "
 "<guimenuitem>Preferences</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:548
+#: C/gostools.xml:547
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-preferences\"/>:"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:558
+#: C/gostools.xml:557
 msgid "<application>Yelp Help Browser</application> Preferences Window"
 msgstr ""
 
@@ -18206,7 +18119,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:561
+#: C/gostools.xml:560
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_preferences.png' "
@@ -18214,26 +18127,26 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:558
+#: C/gostools.xml:557
 msgid ""
 "<_:figure-1/>The options that are available in this dialog have the "
 "following functions:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:569
+#: C/gostools.xml:568
 msgid "<guilabel>Use system fonts</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:572
+#: C/gostools.xml:571
 msgid ""
 "Check this option to display documentation using the default fonts used by "
 "the MATE Desktop."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:575
+#: C/gostools.xml:574
 msgid ""
 "To choose your own fonts to display documentation, uncheck this option and "
 "click on the buttons next to the text <guilabel>Variable Width</guilabel> or"
@@ -18241,24 +18154,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:582
+#: C/gostools.xml:581
 msgid "<guilabel>Variable Width</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:585
+#: C/gostools.xml:584
 msgid ""
 "This is the font to use when a static or fixed width font is not required. "
 "The majority of text will be of this type."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:592
+#: C/gostools.xml:591
 msgid "<guilabel>Fixed Width</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:595
+#: C/gostools.xml:594
 msgid ""
 "This is the font to use when all text characters need to be of the same "
 "size. This font is usually used to indicate commands, program blocks, or "
@@ -18266,12 +18179,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:606
+#: C/gostools.xml:605
 msgid "<guilabel>Browse with caret</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:609
+#: C/gostools.xml:608
 msgid ""
 "Click this option if you would like see a caret or cursor in the <xref "
 "linkend=\"yelp-browser-pane\"/>. This allows you to browse the document more"
@@ -18279,196 +18192,196 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:618
+#: C/gostools.xml:617
 msgid "Go Back in Document History"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:619
+#: C/gostools.xml:618
 msgid "To go back in the document history:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:623
+#: C/gostools.xml:622
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Back</guimenuitem> "
 "</menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:631
+#: C/gostools.xml:630
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Left</keycap></keycombo>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:636
+#: C/gostools.xml:635
 msgid "Use the <guibutton>Back</guibutton> button in the <_:interface-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:642
+#: C/gostools.xml:641
 msgid "Go Forward in Document History"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:643
+#: C/gostools.xml:642
 msgid "To go forward in the document history:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:647
+#: C/gostools.xml:646
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Forward</guimenuitem> "
 "</menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:655
+#: C/gostools.xml:654
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Right</keycap></keycombo>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:660
+#: C/gostools.xml:659
 msgid "Use the <guibutton>Forward</guibutton> button in the <_:interface-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:666
+#: C/gostools.xml:665
 msgid "Go to Help Topics"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:667
+#: C/gostools.xml:666
 msgid "To go to the Help Topics:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:671
+#: C/gostools.xml:670
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Help "
 "Topics</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:679
+#: C/gostools.xml:678
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Home</keycap></keycombo>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:684
+#: C/gostools.xml:683
 msgid ""
 "Use the <guibutton>Help Topics</guibutton> button in the <_:interface-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:690
+#: C/gostools.xml:689
 msgid "Go to Previous Section"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:691
+#: C/gostools.xml:690
 msgid "To go to the previous section:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:695
+#: C/gostools.xml:694
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Previous "
 "Section</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:703
+#: C/gostools.xml:702
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Up</keycap></keycombo>"
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gostools.xml:707 C/gostools.xml:731 C/gostools.xml:750
+#: C/gostools.xml:706 C/gostools.xml:730 C/gostools.xml:749
 msgid "This option is only available in DocBook formatted documents."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:712
+#: C/gostools.xml:711
 msgid "Go to Next Section"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:715
+#: C/gostools.xml:714
 msgid "To go to the next section:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:719
+#: C/gostools.xml:718
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Next "
 "Section</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:727
+#: C/gostools.xml:726
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Down</keycap></keycombo>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:736
+#: C/gostools.xml:735
 msgid "Go to Contents"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:739
+#: C/gostools.xml:738
 msgid "To go to the contents for a document:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:743
+#: C/gostools.xml:742
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Contents</guimenuitem>"
 " </menuchoice>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:755
+#: C/gostools.xml:754
 msgid "Add a Bookmark"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:758
+#: C/gostools.xml:757
 msgid "To add a bookmark for a particular document:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:762
+#: C/gostools.xml:761
 msgid ""
 "Click <menuchoice> <guimenu>Bookmarks</guimenu> <guimenuitem>Add "
 "Bookmark</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:770
+#: C/gostools.xml:769
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:760
+#: C/gostools.xml:759
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-add-bookmark\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:775
+#: C/gostools.xml:774
 msgid "Add Bookmark Window"
 msgstr ""
 
@@ -18477,7 +18390,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:778
+#: C/gostools.xml:777
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_add_bookmark.png' "
@@ -18485,7 +18398,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:775
+#: C/gostools.xml:774
 msgid ""
 "<_:figure-1/>Enter your desired bookmark title in to the "
 "<guilabel>Title</guilabel> text entry field. Then click "
@@ -18494,31 +18407,31 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:787
+#: C/gostools.xml:786
 msgid "Edit Bookmarks"
 msgstr "ബുക്ക് മാര്‍ക്കുകളില്‍ മാറ്റം വരുത്തുക"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:788
+#: C/gostools.xml:787
 msgid "To edit your collection of bookmarks:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:792
+#: C/gostools.xml:791
 msgid ""
 "Click <menuchoice> <guimenu>Bookmarks</guimenu> <guimenuitem>Edit "
 "Bookmarks...</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:799
+#: C/gostools.xml:798
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>B</keycap></keycombo>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:790
+#: C/gostools.xml:789
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-edit-bookmarks\"/>."
@@ -18526,7 +18439,7 @@ msgstr ""
 
 #. (itstool) path: info/title
 #. (itstool) path: para/interface
-#: C/gostools.xml:804 C/gostools.xml:841
+#: C/gostools.xml:803 C/gostools.xml:840
 msgid "Edit Bookmarks Window"
 msgstr ""
 
@@ -18535,7 +18448,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:807
+#: C/gostools.xml:806
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_edit_bookmarks.png' "
@@ -18543,85 +18456,85 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:804
+#: C/gostools.xml:803
 msgid ""
 "<_:figure-1/>You can manage your bookmarks using this window in the "
 "following ways:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:815
+#: C/gostools.xml:814
 msgid "<guibutton>Open</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:818
+#: C/gostools.xml:817
 msgid "Use this button to open the selected bookmark in a new window."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:824
+#: C/gostools.xml:823
 msgid "<guibutton>Rename</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:827
+#: C/gostools.xml:826
 msgid "Use this button to rename the title of your bookmark."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:833
+#: C/gostools.xml:832
 msgid "<guibutton>Remove</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:836
+#: C/gostools.xml:835
 msgid "Use this button to delete the bookmark from your collection."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:813
+#: C/gostools.xml:812
 msgid ""
 "<_:variablelist-1/>Once you are finished managing your bookmarks, click the "
 "<guibutton>Close</guibutton> button to exit the <_:interface-2/>."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:845
+#: C/gostools.xml:844
 msgid "Get Help"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:846
+#: C/gostools.xml:845
 msgid ""
 "To get help to use <application>Yelp Help Browser</application> (and see "
 "this document):"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:851
+#: C/gostools.xml:850
 msgid ""
 "Click <menuchoice> <guimenu>Help</guimenu> "
 "<guimenuitem>Contents</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:863
+#: C/gostools.xml:862
 msgid "Advanced Features"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:865
+#: C/gostools.xml:864
 msgid "Opening Specific Documents"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:867
+#: C/gostools.xml:866
 msgid "Opening Documents from the File Manager"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:868
+#: C/gostools.xml:867
 msgid ""
 "To open a document, such as an XML file, from the file manager, open the "
 "document in <application>Caja</application> File Manager, or drag the icon "
@@ -18630,12 +18543,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:872
+#: C/gostools.xml:871
 msgid "Using the Command Line to Open Documents"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:873
+#: C/gostools.xml:872
 msgid ""
 "Yelp Help Browser supports opening documents from the command line. There "
 "are a number of URIs (Uniform Resource Identifiers) that can be used. These "
@@ -18643,17 +18556,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:879
+#: C/gostools.xml:878
 msgid "<option>file:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:882
+#: C/gostools.xml:881
 msgid "Use this URI when you want to access a file with yelp, for example:"
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:885
+#: C/gostools.xml:884
 #, no-wrap
 msgid ""
 "<userinput>yelp file:///usr/share/help/C/mate-control-center/config-"
@@ -18661,43 +18574,43 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:891
+#: C/gostools.xml:890
 msgid "<option>help:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:894
+#: C/gostools.xml:893
 msgid ""
 "Use this URI when you want to access MATE help documents, which are "
 "typically written in DocBook format."
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:897
+#: C/gostools.xml:896
 #, no-wrap
 msgid "<userinput>yelp help:mate-terminal</userinput>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:899
+#: C/gostools.xml:898
 msgid ""
 "If you want to open the help document at a particular section, append a "
 "slash to the end of the URI, followed by the section id."
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:902
+#: C/gostools.xml:901
 #, no-wrap
 msgid "<userinput>yelp help:mate-user-guide/yelp-advanced-cmdline</userinput>"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:907
+#: C/gostools.xml:906
 msgid "<option>man:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:910
+#: C/gostools.xml:909
 msgid ""
 "Use this URI when you want to access a particular man page. You can append "
 "the section of the man page you would like to view if there are multiple man"
@@ -18707,18 +18620,18 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:917
+#: C/gostools.xml:916
 #, no-wrap
 msgid "<userinput>yelp man:mate-panel</userinput>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:919
+#: C/gostools.xml:918
 msgid "or"
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:921
+#: C/gostools.xml:920
 #, no-wrap
 msgid ""
 "<userinput>yelp 'man:intro(1)'</userinput>\n"
@@ -18726,28 +18639,28 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:927
+#: C/gostools.xml:926
 msgid "<option>info:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:930
+#: C/gostools.xml:929
 msgid "Use this URI when you want to access a particular GNU info page."
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:933
+#: C/gostools.xml:932
 #, no-wrap
 msgid "<userinput>yelp info:make</userinput>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:940
+#: C/gostools.xml:939
 msgid "Refreshing Content on Demand"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:941
+#: C/gostools.xml:940
 msgid ""
 "<application>Yelp Help Browser</application> supports the "
 "<keycombo><keycap>Ctrl</keycap><keycap>R</keycap></keycombo> shortcut keys, "
@@ -18756,12 +18669,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:948
+#: C/gostools.xml:947
 msgid "More Information"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:949
+#: C/gostools.xml:948
 msgid ""
 "This section details some helper applications which <application>Yelp Help "
 "Browser</application> uses, and provides resources where you can get more "
@@ -18769,12 +18682,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:953
+#: C/gostools.xml:952
 msgid "Scrollkeeper"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:954
+#: C/gostools.xml:953
 msgid ""
 "<application>Yelp Help Browser</application> uses scrollkeeper to generate "
 "the table of contents for DocBook and HTML documentation, and also keep "
@@ -18782,37 +18695,37 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:959
+#: C/gostools.xml:958
 msgid "MATE Documentation Utilites"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:960
+#: C/gostools.xml:959
 msgid ""
 "The documentation distributed with MATE uses this set of utilities for a "
 "variety of things:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:965
+#: C/gostools.xml:964
 msgid "Ease translation of documents to different languages."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:969
+#: C/gostools.xml:968
 msgid ""
 "Provide a set of tools to help package and install documentation into the "
 "correct location and register the documentation with scrollkeeper."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:975
+#: C/gostools.xml:974
 msgid ""
 "Perform conversion from DocBook format to a format suitable for display."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:963
+#: C/gostools.xml:962
 msgid ""
 "<_:itemizedlist-1/><application>Yelp Help Browser</application> relies on "
 "<link xlink:href=\"help:mate-doc-xslt\">MATE XSLT Stylesheets</link> to "
@@ -18823,12 +18736,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:983
+#: C/gostools.xml:982
 msgid "Homepage and Mailing List"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:984
+#: C/gostools.xml:983
 msgid ""
 "For further information on <application>Yelp Help Browser</application>, "
 "please visit the Documentation Project homepage, <uri xlink:href=\"http"
@@ -18838,12 +18751,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:989
+#: C/gostools.xml:988
 msgid "Joining the MATE Documentation Project"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:990
+#: C/gostools.xml:989
 msgid ""
 "If you are interested in helping produce and update documentation for the "
 "MATE project, please visit the Documentation Project homepage: <uri "
@@ -20792,44 +20705,32 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosfeedback.xml:21
+#: C/gosfeedback.xml:22
 msgid ""
-"The easiest way to report bugs is by using <application>Bug "
-"Buddy</application>, MATE's built-in bug reporting tool. This will launch "
-"automatically in the event that an application crashes. The details MATE "
-"developers need are automatically collected, but you can further help by "
-"giving information about what you were doing when the crash took place."
+"The easiest way to report bugs is by connecting to the <link "
+"xlink:href=\"https://github.com/mate-desktop/\">MATE bug tracking "
+"database</link>, where you can also browse the list of known bugs. You will "
+"need to register before you can submit any bugs this way."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosfeedback.xml:24
-msgid ""
-"You can also submit bugs and browse the list of known bugs by connecting to "
-"the <link xlink:href=\"https://github.com/mate-desktop/\">MATE bug tracking "
-"database</link>. You will need to register before you can submit any bugs "
-"this way."
-msgstr ""
-
-#. (itstool) path: section/para
-#: C/gosfeedback.xml:30
+#: C/gosfeedback.xml:27
 msgid ""
 "Please note that some of MATE applications are developed outside of MATE, or"
 " by commercial companies (these products are still free software). For "
 "example, <application>blueman</application>, a bluetooth application, is "
 "developed at <link xlink:href=\"https://github.com/blueman-"
 "project/blueman/\">GitHub</link>. Bug reports and comments about these "
-"products should be directed to the respective organization or company. If "
-"you are using <application>Bug Buddy</application>, it will automatically "
-"send bug reports to the correct database."
+"products should be directed to the respective organization or company."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosfeedback.xml:43
+#: C/gosfeedback.xml:38
 msgid "Suggestions and Comments"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosfeedback.xml:45
+#: C/gosfeedback.xml:40
 msgid ""
 "If you have a suggestion or want to request a new feature for one of the "
 "applications, it can also be done using the bug tracking database. Submit "
@@ -20839,12 +20740,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosfeedback.xml:54
+#: C/gosfeedback.xml:49
 msgid "Documentation Comments"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosfeedback.xml:56
+#: C/gosfeedback.xml:51
 msgid ""
 "If you found an inaccuracy or misprint in one of MATE documents, or have any"
 " comments or suggestions about documentation, please let us know! The "
@@ -20857,7 +20758,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosfeedback.xml:67
+#: C/gosfeedback.xml:62
 msgid ""
 "Alternatively, you can just send your comments by email to the <link "
 "xlink:href=\"http://ml.mate-desktop.org/listinfo\">MATE Documentation "
@@ -20865,19 +20766,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosfeedback.xml:75
+#: C/gosfeedback.xml:70
 msgid "Joining the MATE Project"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosfeedback.xml:76
+#: C/gosfeedback.xml:71
 msgid ""
 "We hope you enjoy using MATE and that you find working with MATE productive."
 " However, there is always room for improvement."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosfeedback.xml:77
+#: C/gosfeedback.xml:72
 msgid ""
 "MATE invites you to join our free software community if you have some spare "
 "time. There are many different fields. MATE needs programmers, but it also "
@@ -20886,14 +20787,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosfeedback.xml:78
+#: C/gosfeedback.xml:73
 msgid ""
-"For more information on joining MATE, please visit <link "
-"xlink:href=\"http://live.gnome.org/JoinMate\">http://live.gnome.org/JoinMate</link>."
+"For more information on how you can get in touch with our community, please "
+"visit <link xlink:href=\"https://mate-desktop.org/community/\">https://mate-"
+"desktop.org/community/</link>."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosfeedback.xml:79
+#: C/gosfeedback.xml:74
+msgid ""
+"You are always welcome to make pull requests at our <link "
+"xlink:href=\"https://github.com/mate-desktop\">GitHub</link> repo."
+msgstr ""
+
+#. (itstool) path: section/para
+#: C/gosfeedback.xml:75
 msgid ""
 "For more information on giving feedback on MATE, such as bug reports, "
 "suggestions, and corrections to documentation, see <xref linkend=\"feedback-"
