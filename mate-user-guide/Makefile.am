@@ -79,6 +79,4 @@ HELP_LINGUAS = $(if $(IGNORE_HELP_LINGUAS), \
 	$(filter-out $(IGNORE_HELP_LINGUAS),$(subst /,,$(dir $(wildcard */*.po)))), \
 	$(subst /,,$(dir $(wildcard */*.po))) )
 
-@INTLTOOL_DESKTOP_RULE@
-
 -include $(top_srcdir)/git.mk
