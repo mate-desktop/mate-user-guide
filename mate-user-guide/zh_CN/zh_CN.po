@@ -3,21 +3,22 @@
 # nyanyh <rebuilty@gmail.com>, 2019
 # 玉堂白鹤 <yjwork@qq.com>, 2019
 # Mingye Wang <arthur200126@gmail.com>, 2019
-# CNAmira <forucial@icloud.com>, 2019
 # Christopher Meng <i@cicku.me>, 2019
 # Martin Wimpress <code@flexion.org>, 2019
 # Mingcong Bai <jeffbai@aosc.xyz>, 2019
 # Stefano Karapetsas <stefano@karapetsas.com>, 2019
 # liushuyu011 <liushuyu011@gmail.com>, 2019
-# Wolfgang Ulbrich <mate@raveit.de>, 2019
 # biqiu-ssw <shenshuaiwen@gmail.com>, 2019
+# zhineng404 <zhinengge@gmail.com>, 2019
+# yetist <yetist@gmail.com>, 2019
+# Wolfgang Ulbrich <mate@raveit.de>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2019-03-09 23:45+0100\n"
+"POT-Creation-Date: 2019-04-22 15:09+0200\n"
 "PO-Revision-Date: 2019-03-16 17:25+0000\n"
-"Last-Translator: biqiu-ssw <shenshuaiwen@gmail.com>, 2019\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/mate/teams/13566/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,6 +30,7 @@ msgstr ""
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
+"翻译者\n"
 "Christopher Meng <i@cicku.me>, 2012-2013\n"
 "ravix <dr.neemous@gmail.com>, 2013\n"
 "Dianjin Wang <1132321739qq@gmail.com>, 2012\n"
@@ -40,7 +42,11 @@ msgstr ""
 "白铭骢 <jeffbai@aosc.xyz>, 2015-2016\n"
 "刘子兴 <liushuyu@aosc.xyz>, 2015-2016\n"
 "比丘<shenshuaiwen@gmail.com>,2018-2019\n"
-"李克卿<auroracloud4096@gmail.com>,2018"
+"李克卿<auroracloud4096@gmail.com>,2018\n"
+"\n"
+"一个匿名的译者留言:  \n"
+"如果您也想对MATE贡献中文翻译的才华,不要忘了进入这个网址: https://www.transifex.com/mate/MATE/translate/#zh_CN/ \n"
+"让我们共聚一心, 创造奇迹! 谢谢."
 
 #. (itstool) path: book/title
 #: C/index.docbook:7
@@ -58,7 +64,7 @@ msgstr "MATE 用户指南是一个详细叙述了 MATE 桌面环境一般使用�
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
 msgid "<year>2019</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgstr "<year>2019</year> <holder>MATE 文档项目</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -68,7 +74,7 @@ msgstr "<year>2005</year> <holder>Shaun McCance</holder>"
 #. (itstool) path: info/copyright
 #: C/index.docbook:22
 msgid "<year>2004</year> <holder>Sun Microsystems</holder>"
-msgstr "<year>2004</year> <holder>Sun Microsystems</holder>"
+msgstr "<year>2004</year> <holder>Sun 微系统</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:26
@@ -87,6 +93,8 @@ msgid ""
 "<orgname>MATE Documentation Project</orgname> <affiliation> <orgname>MATE "
 "Desktop</orgname> </affiliation>"
 msgstr ""
+"<orgname>MATE 文档项目</orgname> <affiliation> <orgname>MATE 桌面</orgname> "
+"</affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:44
@@ -95,6 +103,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
 "</affiliation>"
 msgstr ""
+"<personname> <firstname>Wolfgang</firstname> <surname>Ulbrich</surname> "
+"</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
+"</affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:53
@@ -103,6 +114,9 @@ msgid ""
 "Team</surname> </personname> <affiliation> <orgname>Sun "
 "Microsystems</orgname> </affiliation>"
 msgstr ""
+"<personname> <firstname>Sun</firstname> <surname>GNOME 文档团队</surname> "
+"</personname> <affiliation> <orgname>Sun Microsystems</orgname> "
+"</affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:62
@@ -111,6 +125,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>shaunm@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Shaun</firstname> <surname>McCance</surname> "
+"</personname> <affiliation> <orgname>GNOME 文档项目</orgname> </affiliation> "
+"<email>shaunm@gnome.org</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:72
@@ -119,6 +136,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> "
 "<email>karderio@gmail.com</email>"
 msgstr ""
+"<personname> <surname>Karderio</surname> </personname> <affiliation> "
+"<orgname>GNOME 文档项目</orgname> </affiliation> "
+"<email>karderio@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:81
@@ -127,6 +147,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>jnoreiko@yahoo.com</email>"
 msgstr ""
+"<personname> <firstname>Joachim</firstname> <surname>Noreiko</surname> "
+"</personname> <affiliation> <orgname>GNOME 文档项目</orgname> </affiliation> "
+"<email>jnoreiko@yahoo.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:91
@@ -135,6 +158,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>esodan@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>Daniel</firstname> <surname>Espinosa Ortiz</surname>"
+" </personname> <affiliation> <orgname>GNOME 文档项目</orgname> </affiliation> "
+"<email>esodan@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:101
@@ -143,6 +169,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>mate@nextreality.net</email>"
 msgstr ""
+"<personname> <firstname>Brent</firstname> <surname>Smith</surname> "
+"</personname> <affiliation> <orgname>GNOME 文档项目</orgname> </affiliation> "
+"<email>mate@nextreality.net</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:111
@@ -151,6 +180,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>tim@tjl2.com</email>"
 msgstr ""
+"<personname> <firstname>Tim</firstname> <surname>Littlemore</surname> "
+"</personname> <affiliation> <orgname>GNOME 文档项目</orgname> </affiliation> "
+"<email>tim@tjl2.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:121
@@ -159,6 +191,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>john.stowers@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>John</firstname> <surname>Stowers</surname> "
+"</personname> <affiliation> <orgname>GNOME 文档项目</orgname> </affiliation> "
+"<email>john.stowers@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:131
@@ -167,6 +202,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>nigel.tao@myrealbox.com</email>"
 msgstr ""
+"<personname> <firstname>Nigel</firstname> <surname>Tao</surname> "
+"</personname> <affiliation> <orgname>GNOME 文档项目</orgname> </affiliation> "
+"<email>nigel.tao@myrealbox.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:141
@@ -175,6 +213,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Ubuntu Documentation Project</orgname> "
 "</affiliation> <email>mdke@ubuntu.com</email>"
 msgstr ""
+"<personname> <firstname>Matthew</firstname> <surname>East</surname> "
+"</personname> <affiliation> <orgname>Ubuntu 文档项目</orgname> </affiliation> "
+"<email>mdke@ubuntu.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:151
@@ -183,6 +224,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Project</orgname> </affiliation>"
 " <email>carlosg@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Carlos</firstname> <surname>Garnacho Parro</surname>"
+" </personname> <affiliation> <orgname>GNOME 项目</orgname> </affiliation> "
+"<email>carlosg@gnome.org</email>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:171
@@ -233,6 +277,7 @@ msgstr ""
 msgid ""
 "<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.8</revnumber> <date>9月 2004 </date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:202 C/index.docbook:210 C/index.docbook:218
@@ -245,53 +290,54 @@ msgstr "Sun Microsystems"
 #: C/index.docbook:198
 msgid ""
 "<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>2.7</revnumber> <date>9月 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
 msgid ""
 "<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>2.6</revnumber> <date>8月 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
 msgid ""
 "<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>2.5</revnumber> <date>3月 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
 msgid ""
 "<revnumber>2.4</revnumber> <date>January 2003</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>2.4</revnumber> <date>1月 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:230
 msgid ""
 "<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.3</revnumber> <date>10月 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
 msgid ""
 "<revnumber>2.2</revnumber> <date>August 2002</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>2.2</revnumber> <date>8月 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:246
 msgid ""
 "<revnumber>2.1</revnumber> <date>August 2002</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>2.1</revnumber> <date>8月 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:254
 msgid "<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>1.0</revnumber> <date>5月 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
 msgid "This manual describes version 1.22 of the MATE desktop."
-msgstr ""
+msgstr "本手册介绍了MATE桌面的1.22版。"
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:4
@@ -304,6 +350,9 @@ msgid ""
 "xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">link</link> or in "
 "the file COPYING-DOCS distributed with this manual."
 msgstr ""
+"根据GNU自由文档许可证（GFDL），版本1.1或自由软件基金会发布的任何更新版本的条款，不允许复制，分发和/或修改本文档，没有不可变章节，没有封面文本，以及没有封底文字。您可以在此<link"
+" xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">链接</link"
+">或随本手册分发的COPYING-DOCS文件中找到GFDL的副本。"
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:13
@@ -382,6 +431,8 @@ msgid ""
 "manual, follow the directions in the <link xlink:href=\"help:mate-user-"
 "guide/feedback\">MATE Feedback Page</link>."
 msgstr ""
+"要报告有关MATE桌面或本手册的错误或提出建议，请按照<link xlink:href=\"help:mate-user-"
+"guide/feedback\">MATE反馈页面</link>中的说明进行操作。"
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:6
@@ -453,6 +504,7 @@ msgid ""
 "mouse. If you use a left-handed mouse, see the paragraph on setting mouse "
 "orientation below."
 msgstr ""
+"本手册中的说明适用于三种按键右手鼠标设备，这是最常见的类型。如果您使用其他类型的鼠标或指针设备，则应注意在鼠标上找到相应的按钮。如果您使用左手鼠标，请参阅下面设置鼠标方向的段落。"
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:65
@@ -460,7 +512,7 @@ msgid ""
 "If you set your mouse device to be left-handed, you should reverse the mouse"
 " button conventions used in this manual. This is normally also implied in "
 "most documentation and in many applications."
-msgstr ""
+msgstr "如果将鼠标设备设置为左手，则应反转本手册中使用的鼠标按键约定。这通常也隐含在大多数文档和许多应用程序中。"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:69
@@ -1332,7 +1384,7 @@ msgstr "快捷键"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:586 C/gosbasic.xml:714 C/gospanel.xml:1075 C/gostools.xml:98
-#: C/gostools.xml:154
+#: C/gostools.xml:153
 msgid "Function"
 msgstr "功能"
 
@@ -1512,7 +1564,7 @@ msgid ""
 "Resize the currently focused window. After pressing this shortcut, you can "
 "resize the window using either the mouse or the arrow keys. To finish "
 "resizing, click the mouse or press any key on the keyboard."
-msgstr ""
+msgstr "调整当前焦点窗口的大小。按下此快捷方式后，您可以使用鼠标或箭头键调整窗口大小。要完成调整大小，请单击鼠标或按键盘上的任意键。"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:780
@@ -1724,12 +1776,12 @@ msgstr "不选菜单项而关闭菜单，或者取消一个拖动操作"
 #. (itstool) path: info/title
 #: C/gosbasic.xml:1002
 msgid "Access Keys"
-msgstr "访问键"
+msgstr "访问密钥"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:1008
 msgid "<primary>access keys</primary>"
-msgstr "<primary>access 键</primary>"
+msgstr "<primary>访问密钥</primary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:1012
@@ -1801,6 +1853,9 @@ msgid ""
 "common to all windows such as the way in which you select them with the "
 "mouse."
 msgstr ""
+"首选项工具是一个小应用程序，允许您更改MATE桌面中的设置。每个首选项工具都涵盖了计算机的特定方面。例如，使用 "
+"<application>鼠标</application>首选项工具，您可以将鼠标设置为左手或右手使用，或更改屏幕上指针的速度。使用 "
+"<application>窗口</application> 首选项工具，您可以设置所有窗口共有的行为，例如使用鼠标选择它们的方式。"
 
 #. (itstool) path: chapter/para
 #: C/goscustdesk.xml:27
@@ -2019,7 +2074,7 @@ msgid ""
 "Double-click on the shortcut that you want to edit. If you are using the "
 "keyboard, use the arrow keys to select the shortcut and press "
 "<keycap>Return</keycap>."
-msgstr ""
+msgstr "双击要编辑的快捷方式。如果您使用键盘，请使用箭头键选择快捷方式，然后按 <keycap>回车键</keycap>."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:121
@@ -2054,11 +2109,11 @@ msgstr "桌面"
 #: C/goscustdesk.xml:132
 msgid ""
 "These are general shortcuts for the whole desktop, such as logging out, "
-"<link linkend=\"lock-screen\">locking the screen</link>, opening the <link "
-"linkend=\"menubar\">panel menubar</link>, or launching a web browser."
+"locking your screen (see <xref linkend=\"lock-screen\"/>), opening the panel"
+" menubar (see <xref linkend=\"menubar\"/>), or launching a web browser."
 msgstr ""
-"桌面上的常用快捷键，像退出，<link linkend=\"lock-screen\">锁定屏幕</link>，打开 <link "
-"linkend=\"menubar\">面板菜单</link>，或者启动网页浏览器。"
+"这些是整个桌面的常规快捷方式，例如注销，锁定屏幕(请参阅<xref linkend=\"lock-screen\"/>), "
+"打开面板菜单栏(请参阅<xref linkend=\"menubar\"/>), 或启动网络浏览器."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:134
@@ -2137,13 +2192,13 @@ msgstr "首选应用程序"
 msgid ""
 "<primary>preference tools</primary> <secondary>Preferred "
 "Applications</secondary>"
-msgstr ""
+msgstr "<primary>偏好工具</primary> <secondary>首选应用</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:163
 msgid ""
 "<primary>default applications</primary> <see>preferred applications</see>"
-msgstr ""
+msgstr "<primary>默认应用</primary> <see>首选应用</see>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:167
@@ -2226,7 +2281,7 @@ msgstr "自定义命令选项"
 msgid ""
 "<primary>preferred applications</primary> <secondary>custom "
 "command</secondary>"
-msgstr ""
+msgstr "<primary>首选应用</primary> <secondary>自定义命令</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:209
@@ -2292,12 +2347,12 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:264
 msgid "<guilabel>Run at start (Accessibility only)</guilabel>"
-msgstr ""
+msgstr "<guilabel>在开始时运行（仅限辅助可访问性功能）</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:269
 msgid "Select this option to run the command as soon as your session begins."
-msgstr ""
+msgstr "选择此选项可在会话开始后立即运行该命令。"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:279
@@ -2345,31 +2400,31 @@ msgstr "主题首选项"
 #: C/goscustdesk.xml:304
 msgid ""
 "<primary>themes</primary> <secondary>setting controls options</secondary>"
-msgstr ""
+msgstr "<primary>主题</primary> <secondary>设置控件选项</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:308
 msgid ""
 "<primary>themes</primary> <secondary>setting window frame "
 "options</secondary>"
-msgstr ""
+msgstr "<primary>主题</primary> <secondary>设置窗口框架选项</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:312
 msgid "<primary>themes</primary> <secondary>setting icons options</secondary>"
-msgstr ""
+msgstr "<primary>主题</primary> <secondary>设置图标选项</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:316
 msgid ""
 "<primary>windows</primary> <secondary>setting frame theme "
 "options</secondary>"
-msgstr ""
+msgstr "<primary>窗口</primary> <secondary>设置框架主题选项</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:320
 msgid "<primary>preference tools</primary> <secondary>Theme</secondary>"
-msgstr ""
+msgstr "<primary>偏好工具</primary> <secondary>主题</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:325
@@ -2381,8 +2436,8 @@ msgid ""
 "themes. The list of available themes includes several themes for users with "
 "accessibility requirements."
 msgstr ""
-"主题是一组协调的设置，指定 MATE "
-"桌面每个部分的外观可视性。您可以选择主题来改变外观。您可以从一个主题列表中选择。列表中可用的主题包括几种用户可能需要的主题。"
+"主题是一组协调设置，用于指定MATE桌面的一部分的视觉外观。您可以选择主题来更改MATE桌面的外观。使用<application>主题</application>"
+" 选项卡式部分选择主题。您可以从可用主题列表中进行选择。可用主题列表包括具有可访问性或辅助功能要求的用户的几个主题。 "
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:330
@@ -2399,7 +2454,7 @@ msgstr "控件"
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:335
 msgid "<primary>GTK+ themes</primary><see>themes, controls options</see>"
-msgstr ""
+msgstr "<primary>GTK+ 主题</primary><see>主题,控制选项</see>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:336
@@ -2407,6 +2462,7 @@ msgid ""
 "<primary>themes</primary><secondary>controls "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>主题</primary><secondary>控制选项</secondary><tertiary>介绍</tertiary>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:335
@@ -2420,6 +2476,7 @@ msgid ""
 "setting from the <guilabel>Controls</guilabel> tabbed section in the "
 "<guilabel>Customize Theme</guilabel> window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>主题的控件设置决定了窗口，面板和小程序的视觉外观。控件设置还确定窗口，面板和小程序上显示的符合MATE的界面项的可视外观，例如菜单，图标和按钮。某些控件设置选项可用于满足特殊的辅助可访问性功能需求。您可以从<guilabel>定制主题</guilabel>窗口中的<guilabel>控制</guilabel>选项卡部分为控件设置选择一个选项。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:346
@@ -2432,11 +2489,12 @@ msgid ""
 "<primary>themes</primary><secondary>color "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>主题</primary><secondary>颜色选项</secondary><tertiary>介绍</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:348
 msgid "<primary>color themes</primary><see>themes, color options</see>"
-msgstr ""
+msgstr "<primary>颜色主题</primary><see>主题,控制选项</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:348
@@ -2446,6 +2504,7 @@ msgid ""
 "colors from the <guilabel>Colors</guilabel> tabbed section in the "
 "<guilabel>Customize Theme</guilabel> window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>主题的颜色设置确定各种用户界面元素的颜色。您可以从<guilabel>定制主题</guilabel>窗口的<guilabel>颜色</guilabel>选项卡部分中选择几对颜色。"
 
 #. (itstool) path: note/para
 #: C/goscustdesk.xml:350
@@ -2465,11 +2524,12 @@ msgid ""
 "<primary>themes</primary><secondary>window frame "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>主题</primary><secondary>窗口框架选项</secondary><tertiary>介绍</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:357
 msgid "<primary>Marco themes</primary><see>themes, window frame options</see>"
-msgstr ""
+msgstr "<primary>框架主题</primary><see>主题,窗口框架选项</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:357
@@ -2480,6 +2540,7 @@ msgid ""
 "Border</guilabel> tabbed section in the <guilabel>Customize Theme</guilabel>"
 " window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>主题的窗口框架设置仅确定窗口周围框架的外观。您可以从<guilabel>定制主题</guilabel>窗口中的<guilabel>窗口边缘</guilabel>选项卡部分为窗口框架设置选择一个选项。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:363
@@ -2492,11 +2553,12 @@ msgid ""
 "<primary>themes</primary><secondary>icons "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>主题</primary><secondary>图标选项</secondary><tertiary>介绍</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:365
 msgid "<primary>icon themes</primary><see>themes, icons options</see>"
-msgstr ""
+msgstr "<primary>图标主题</primary><see>主题,图标选项</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:365
@@ -2506,6 +2568,7 @@ msgid ""
 " an option for the icon setting from the <guilabel>Icons</guilabel> tabbed "
 "section in the <guilabel>Customize Theme</guilabel> window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>主题的图标设置决定了面板和桌面背景上图标的外观。您可以从<guilabel>自定义主题</guilabel>窗口中的<guilabel>图标</guilabel>选项卡部分为图标设置选择一个选项。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:371
@@ -2518,11 +2581,12 @@ msgid ""
 "<primary>themes</primary><secondary>pointer "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>主题</primary><secondary>指针选项</secondary><tertiary>介绍</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:373
 msgid "<primary>pointer themes</primary><see>themes, pointer options</see>"
-msgstr ""
+msgstr "<primary>指针主题</primary><see>主题,指针选项</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:373
@@ -2532,6 +2596,7 @@ msgid ""
 "for setting the pointer from the <guilabel>Pointer</guilabel> tabbed section"
 " in the <guilabel>Customize Theme</guilabel> window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>主题的指针设置确定鼠标指针的外观和大小。您可以从<guilabel>定制主题</guilabel>窗口的<guilabel>指针</guilabel>选项卡式部分中选择用于设置指针的选项。"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:378
@@ -2720,31 +2785,31 @@ msgstr "桌面背景首选项"
 #: C/goscustdesk.xml:523
 msgid ""
 "<primary>desktop</primary> <secondary>customizing background</secondary>"
-msgstr ""
+msgstr "<primary>桌面</primary><secondary>定制背景</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:527
 msgid ""
 "<primary>MATE Desktop preference tools</primary> <see>preference tools</see>"
-msgstr ""
+msgstr "<primary>MATE 桌面选项工具</primary> <see>选项工具</see>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:531
 msgid "<primary>preference tools</primary> <secondary>Background</secondary>"
-msgstr ""
+msgstr "<primary>选项工具</primary> <secondary>背景</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:535
 msgid ""
 "<primary>backgrounds</primary> <secondary>customizing desktop "
 "background</secondary>"
-msgstr ""
+msgstr "<primary>背景</primary> <secondary>定制桌面背景</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:539
 msgid ""
-"The <link linkend=\"overview-desktop\">desktop</link> background is the "
-"image or color that is applied to your desktop. You can open "
+"The <xref linkend=\"overview-desktop\"/> background is the image or color "
+"that is applied to your desktop. You can open "
 "<guilabel>Background</guilabel> tabbed section in the "
 "<application>Appearance</application> preference tool by right-clicking on "
 "the desktop and choosing <guimenuitem>Change Desktop "
@@ -2752,11 +2817,8 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice>"
 " menu."
 msgstr ""
-"<link linkend=\"overview-desktop\">桌面</link> 背景是应用于桌面上的一幅图片或颜色。您可以在桌面点右键，选 "
-"<guimenuitem>更改桌面背景</guimenuitem>，打开 "
-"<application>桌面背景首选项</application>，也可以从菜单 "
-"<menuchoice><guimenu>系统</guimenu><guisubmenu>首选项</guisubmenu></menuchoice> "
-"里打开。"
+"<xref linkend=\"overview-"
+"desktop\"/>背景是应用于桌面的图像或颜色。您可以在<application>外观</application>首选项工具中打开<guilabel>背景</guilabel>选项卡部分，方法是右键单击桌面并选择<guimenuitem>更改桌面背景</guimenuitem>以及<menuchoice><guimenu>系统</guimenu><guisubmenu>选项</guisubmenu></menuchoice>菜单。"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:541
@@ -2783,14 +2845,12 @@ msgstr "为桌面背景选择一种颜色。您可以选择单色，或使用两
 #. (itstool) path: tip/para
 #: C/goscustdesk.xml:555
 msgid ""
-"You can also drag a color or a pattern to the desktop from the <link linkend"
-"=\"caja-backgrounds-and-emblems\"><guilabel>Backgrounds and "
-"Emblems</guilabel> dialog</link> in the <application>Caja</application> file"
-" manager."
+"You can also drag a color or a pattern to the desktop from the "
+"<guilabel>Backgrounds and Emblems</guilabel> dialog in the "
+"<application>Caja</application> file manager (see <xref linkend=\"caja-"
+"backgrounds-and-emblems\"/>)."
 msgstr ""
-"您也可以在 <application>Caja</application> 文件管理器里的 <link linkend=\"caja-"
-"backgrounds-and-emblems\"><guilabel>背景和徽标</guilabel>对话框</link> "
-"里拖动一个颜色或图案到桌面。"
+"您还可以从<application>Caja</application>文件管理器中的<guilabel>背景和徽标</guilabel>对话框中将颜色或图案拖到桌面上（参见3）。"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:557
@@ -2802,7 +2862,7 @@ msgstr "<xref linkend=\"goscustdesk-TBL-14\"/> 列出了您可以设置的背景
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:576
 msgid "<guibutton>Desktop Background</guibutton>"
-msgstr ""
+msgstr "<guibutton>桌面背景</guibutton>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:581
@@ -2814,7 +2874,7 @@ msgstr "从列表里选择一幅图片。另外您也可以点 <guibutton>添加
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:587
 msgid "<guilabel>Style</guilabel>"
-msgstr ""
+msgstr "<guilabel>风格</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:592
@@ -2893,7 +2953,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:644
 msgid "<guilabel>Colors</guilabel>"
-msgstr ""
+msgstr "<guilabel>颜色</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:649
@@ -3270,7 +3330,7 @@ msgstr "当您改变设置时，效果立刻显示在窗口中。这可以使您
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:889
 msgid "<guilabel>Show icons in menus</guilabel>"
-msgstr ""
+msgstr "<guilabel>在菜单中显示图标</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:891
@@ -4279,13 +4339,9 @@ msgstr "使用 <application>键盘</application> 选项工具，为键盘设置�
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1450
 msgid ""
-"To open the <link linkend=\"prefs-keyboard-a11y\"><application>Keyboard "
-"<emphasis>Accessibility</emphasis></application> preference tool</link>, "
-"click the <guibutton>Accessibility</guibutton> button."
+"To open the <xref linkend=\"prefs-keyboard-a11y\"/> tool, click the "
+"<guibutton>Accessibility</guibutton> button."
 msgstr ""
-"要打开 <link linkend=\"prefs-keyboard-"
-"a11y\"><application>键盘<emphasis>辅助功能</emphasis></application>首选项工具</link>，点击"
-" <guibutton>辅助功能</guibutton> 标签。"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1453
@@ -6494,7 +6550,7 @@ msgid ""
 msgstr "这一章讲解怎样在 <application>Caja</application> 文件管理器中管理文件。"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:265
+#: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:264
 #: C/gosdconf.xml:19
 msgid "Introduction"
 msgstr "介绍"
@@ -6591,15 +6647,9 @@ msgid ""
 "<application>Caja</application> is always running while you are using MATE. "
 "To open a new <application>Caja</application> window, double-click on an "
 "appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or "
-"<guimenuitem>Computer</guimenuitem>, or choose an item from <link linkend"
-"=\"places-menu\"><guimenuitem>Places</guimenuitem> menu</link> on the top "
-"panel."
+"<guimenuitem>Computer</guimenuitem>, or choose an item from <xref linkend"
+"=\"places-menu\"/> on the top panel."
 msgstr ""
-"当您使用 MATE 时，<application>Caja</application> 文件管理器就开始运行。要打开一个新的 "
-"<application>Caja</application> 窗口，可以在桌面双击一个应用程序图标，比如 "
-"<guimenuitem>主文件夹</guimenuitem> 或者 <guimenuitem>计算机</guimenuitem> ，或者在顶部面板的 "
-"<link linkend=\"places-menu\"><guimenuitem>位置</guimenuitem>菜单</link> "
-"里选择一个项目。"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:71
@@ -6846,13 +6896,10 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:157
 msgid ""
-"Choose an item from the <link linkend=\"places-"
-"menu\"><guimenuitem>Places</guimenuitem> menu</link> on the top panel. Your "
-"Home Folder and folders you have bookmarked are listed here. For more on "
-"bookmarks, see <xref linkend=\"caja-bookmarks\"/>."
+"Choose an item from the <xref linkend=\"places-menu\"/> on the top panel. "
+"Your Home Folder and folders you have bookmarked are listed here. For more "
+"on bookmarks, see <xref linkend=\"caja-bookmarks\"/>."
 msgstr ""
-"从顶部面板的 <link linkend=\"places-menu\"><guimenuitem>位置</guimenuitem> 菜单</link>"
-" 里选择一项。您的主文件夹，书签文件夹都在这里。更多书签相关信息，请参阅： <xref linkend=\"caja-bookmarks\"/>。"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:160
@@ -6962,7 +7009,7 @@ msgstr "组件"
 
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
-#: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:320
+#: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:319
 msgid "Menubar"
 msgstr "菜单栏"
 
@@ -7316,8 +7363,8 @@ msgstr "文件浏览器窗口组成"
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
 #. (itstool) path: para/interface
-#: C/goscaja.xml:416 C/gostools.xml:379 C/gostools.xml:637 C/gostools.xml:661
-#: C/gostools.xml:685
+#: C/goscaja.xml:416 C/gostools.xml:378 C/gostools.xml:636 C/gostools.xml:660
+#: C/gostools.xml:684
 msgid "Toolbar"
 msgstr "工具栏"
 
@@ -8183,8 +8230,8 @@ msgstr ""
 msgid ""
 "If you open an executable text file, that is, one that Caja considers can be"
 " run as a program, then you will be asked what you want to do: run it, or "
-"display it in a text editor. You can modify this behavior in the <link "
-"linkend=\"caja-preferences\">File Management preferences</link>."
+"display it in a text editor. You can modify this behavior in <xref linkend"
+"=\"caja-preferences\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -8856,7 +8903,7 @@ msgid ""
 msgstr "从子菜单中选择合适的一项，下表描述了这些项目："
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:151
+#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:150
 msgid "Option"
 msgstr "选项"
 
@@ -10431,7 +10478,7 @@ msgid "Select the file that you want to change."
 msgstr "选中文件。"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2190 C/goscaja.xml:2715
+#: C/goscaja.xml:2190 C/goscaja.xml:2233 C/goscaja.xml:2304 C/goscaja.xml:2715
 msgid ""
 "Choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
@@ -10508,18 +10555,6 @@ msgstr "要改变文件夹的权限，请按下面步骤操作："
 #: C/goscaja.xml:2230
 msgid "Select the folder that you want to change."
 msgstr "选中文件夹。"
-
-#. (itstool) path: listitem/para
-#: C/goscaja.xml:2233 C/goscaja.xml:2304
-msgid ""
-"Choose "
-"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
-" The <link linkend=\"caja-properties\">properties window</link> for the item"
-" is displayed."
-msgstr ""
-"点击 "
-"<menuchoice><guimenu>文件</guimenu><guimenuitem>属性</guimenuitem></menuchoice>。将显示"
-" <link linkend=\"caja-properties\">属性窗口</link>。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2239
@@ -10841,7 +10876,7 @@ msgstr "在名称文本框中，输入书签的名称。"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2403
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>定位</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2408
@@ -11507,11 +11542,8 @@ msgstr "选中项目"
 #: C/goscaja.xml:2753
 msgid ""
 "Right-click on the item, then choose <guimenuitem>Properties</guimenuitem>. "
-"The <link linkend=\"caja-properties\">properties window</link> for the item "
-"is displayed."
+"The <xref linkend=\"caja-properties\"/> for the item is displayed."
 msgstr ""
-"在该项目上点右键，然后选择 <guimenuitem>属性</guimenuitem>。将显示 <link linkend=\"caja-"
-"properties\">属性窗口</link>。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2756
@@ -12920,7 +12952,7 @@ msgstr "选择此项，显示项目大小。"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3607 C/goscaja.xml:3757
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>类型</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3612
@@ -13856,10 +13888,8 @@ msgstr "当您使用计算机的时候，桌面可能会被各个窗口挡住。
 #: C/gosoverview.xml:125
 msgid ""
 "Click on the <guibutton>Show Desktop</guibutton> button at the far left of "
-"the <link linkend=\"bottom-panel\">bottom panel</link>."
+"the <xref linkend=\"bottom-panel\"/>."
 msgstr ""
-"点击 <link linkend=\"bottom-panel\">底部面板</link> 最左边的 "
-"<guibutton>显示桌面</guibutton>按钮。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:126
@@ -14161,12 +14191,10 @@ msgstr "改变窗口大小"
 #: C/gosoverview.xml:236
 msgid ""
 "Drag one of the borders to expand or contract the window on that side. Drag "
-"a corner to change two sides at once. The <link linkend=\"mouse-"
-"pointers\">resize pointer</link> appears when your mouse is in the correct "
-"position to begin the drag action."
+"a corner to change two sides at once. The resize pointer (see <xref linkend"
+"=\"mouse-pointers\"/>) appears when your mouse is in the correct position to"
+" begin the drag action."
 msgstr ""
-"拖动一个边框，可以扩大或缩小窗口。拖动一个角可以同时改变宽和高。当您把鼠标移到恰当的位置时，鼠标指针会变成 <link linkend=\"mouse-"
-"pointers\">改变大小指针</link>。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:238
@@ -14192,13 +14220,9 @@ msgid ""
 "Click on the Minimize button in the titlebar, the leftmost of the group of "
 "three on the right. This removes the window from view. The window can be "
 "restored to its previous position and size on the screen from the "
-"<firstterm>window list</firstterm> on the <link "
-"linkend=\"gospanel-3\">bottom edge panel</link> or the <firstterm>window "
-"selector</firstterm> in the top panel."
+"<firstterm>window list</firstterm> on the <xref linkend=\"bottom-panel\"/> "
+"or the <firstterm>window selector</firstterm> in the top panel."
 msgstr ""
-"点击标题栏上的最小化按钮(在标题栏右边三个按钮中的第一个)，这将从桌面上隐藏窗口。可以从 <link "
-"linkend=\"gospanel-3\">底部面板</link>的<firstterm>窗口列表</firstterm>，或者在上面板的<firstterm>窗口选择</firstterm>"
-" 里点击恢复。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:247
@@ -14359,12 +14383,9 @@ msgstr ""
 #. (itstool) path: note/para
 #: C/gosoverview.xml:318
 msgid ""
-"You can customize the shortcut used to perform this action with the <link "
-"linkend=\"prefs-keyboard-shortcuts\">Keyboard Shortcuts preference "
-"tool</link>."
+"You can customize the shortcut used to perform this action with the <xref "
+"linkend=\"prefs-keyboard-shortcuts\"/> tool."
 msgstr ""
-"您可以自定义快捷键，执行下面的操作： <link linkend=\"prefs-keyboard-"
-"shortcuts\">键盘快捷键设置工具</link>。"
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:330
@@ -14388,17 +14409,14 @@ msgstr ""
 msgid ""
 "By default, four workspaces are available. You can switch between them with "
 "the <application>Workspace Switcher</application> applet at the right of the"
-" <link linkend=\"bottom-panel\">bottom panel</link>. This shows a "
-"representation of your workspaces, by default a row of four rectangles. "
-"Click on one to switch to that workspace. In <xref linkend=\"gosoverview-"
-"FIG-42\"/>, <application>Workspace Switcher</application> contains four "
-"workspaces. The first three workspaces contain open windows. The last "
-"workspace does not contain currently open windows. The currently active "
-"workspace is highlighted."
+" <xref linkend=\"bottom-panel\"/>. This shows a representation of your "
+"workspaces, by default a row of four rectangles. Click on one to switch to "
+"that workspace. In <xref linkend=\"gosoverview-FIG-42\"/>, "
+"<application>Workspace Switcher</application> contains four workspaces. The "
+"first three workspaces contain open windows. The last workspace does not "
+"contain currently open windows. The currently active workspace is "
+"highlighted."
 msgstr ""
-"默认情况下有两个工作区，您可以在它们之间切换，可以在底部面板的右侧，点击 <application>工作区切换器</application> "
-"按钮，它代表着每个工作区。默认是一排矩形。单击其中一个，可以切换到相应的工作区。在 <xref linkend=\"gosoverview-"
-"FIG-42\"/>，<application>工作区切换器</application> 包括两个工作区，当前显示的工作区是高亮显示的。"
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:338
@@ -14615,17 +14633,13 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:414
 msgid ""
-"<link linkend=\"caja\"><application>Caja File Manager</application></link> "
+"<application>Caja File Manager</application> (see <xref linkend=\"caja\"/>) "
 "displays your folders and their contents. Use this to copy, move and "
 "classify your files, and to access CDs, USB flash drives, and any other "
-"removable media. When you choose an item from the <link linkend=\"places-"
-"menu\"><guimenu>Places</guimenu> menu</link>, a <application>Caja File "
-"Manager</application> window opens showing that location."
+"removable media. When you choose an item from the <xref linkend=\"places-"
+"menu\"/>, a <application>Caja File Manager</application> window opens "
+"showing that location."
 msgstr ""
-"<link linkend=\"caja\"><application>Caja 文件管理器</application></link> "
-"显示文件夹及其内容，可以拷贝，移动，归类文件；并且可以访问光盘，USB 设备，或其他可移动介质。当您从<link linkend=\"places-"
-"menu\"><guimenu>位置</guimenu>菜单</link> 里选择了一项，<application>Caja "
-"文件管理器</application> 将会打开，并显示里面的内容。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:415
@@ -14690,10 +14704,9 @@ msgstr "统一的外观"
 #: C/gosoverview.xml:429
 msgid ""
 "MATE-compliant applications have a consistent look-and-feel. You can use the"
-" <link linkend=\"prefs-theme\"><application>Appearance</application> "
-"preference tool</link> to change the look-and-feel of your MATE-compliant "
-"applications."
-msgstr "MATE 兼容的应用程序有一个统一的外观。程序使用外观首选项来设置。您可以使用下面的工具来设置MATE 兼容的应用程序的外观："
+" <xref linkend=\"prefs-theme\"/> tool to change the look-and-feel of your "
+"MATE-compliant applications."
+msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:432
@@ -14858,11 +14871,9 @@ msgstr "打开一个文件夹，列出里面的内容。"
 msgid ""
 "Open an item in the left-hand pane. This pane lists places such as your "
 "Documents folder, your Home Folder, media such as CDs and flash drives, "
-"places on your network, and your <link linkend=\"caja-"
-"bookmarks\">bookmarks</link>."
+"places on your network, and your bookmarks (see <xref linkend=\"caja-"
+"bookmarks\"/> for more on bookmarks)."
 msgstr ""
-"在左边栏列表里打开一个项目。这是位置列表，包括“文档”、“主文件夹”、光盘、USB 闪存盘、网络，以及 <link linkend=\"caja-"
-"bookmarks\">书签</link>等。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:478
@@ -15101,12 +15112,10 @@ msgstr ""
 #: C/gosoverview.xml:527
 msgid ""
 "The expanded <guilabel>Save File</guilabel> dialog has the same features as "
-"the <link linkend=\"filechooser-open\"><guilabel>Open File</guilabel> "
-"dialog</link>, such as filtering, find-as-you-type, and adding and removing "
+"the <guilabel>Open File</guilabel> dialog (see <xref linkend=\"filechooser-"
+"open\"/>), such as filtering, find-as-you-type, and adding and removing "
 "bookmarks."
 msgstr ""
-"<guilabel>另存为</guilabel> 对话框与 <link linkend=\"filechooser-"
-"open\"><guilabel>打开</guilabel></link> 对话框有一些相似的地方，像文件过滤器，即输即查，添加和删除书签等。"
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:530
@@ -15592,14 +15601,10 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:268
 msgid ""
-"Select this option to have the panel use the settings in the <link linkend"
-"=\"prefs-theme\"><application>Appearance</application> preference "
-"tool</link>. This keeps your panel's background looking the same as the rest"
-" of the desktop and applications."
+"Select this option to have the panel use the settings in the <xref linkend"
+"=\"prefs-theme\"/> tool. This keeps your panel's background looking the same"
+" as the rest of the desktop and applications."
 msgstr ""
-"选择这个选项，面板将使用 <link linkend=\"prefs-"
-"theme\"><application>主题</application>首选项工具</link> "
-"里的设置。这这将保持您的面板的背景看起来是桌面和应用程序的其余部分。"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:273
@@ -15668,14 +15673,11 @@ msgstr "您可以从 <application>Caja</application> 文件管理器里拖动一
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:322
 msgid ""
-"You can drag a color or a pattern from the <link linkend=\"caja-backgrounds-"
-"and-emblems\"><guilabel>Backgrounds and Emblems</guilabel> dialog</link> in "
-"<application>Caja</application> file manager to a panel to set it as the "
-"background."
+"You can drag a color or a pattern from the <guilabel>Backgrounds and "
+"Emblems</guilabel> dialog (see <xref linkend=\"caja-backgrounds-and-"
+"emblems\"/>) in <application>Caja</application> file manager to a panel to "
+"set it as the background."
 msgstr ""
-"您可以在 <application>Caja</application><link linkend=\"caja-backgrounds-and-"
-"emblems\"> 文件管理器中的 <guilabel>背景和徽标</guilabel> 对话框</link> "
-"里拖动一个颜色或徽标，到按钮上来设置面板的背景。"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:326
@@ -15751,11 +15753,9 @@ msgid ""
 "You can set a panel to autohide. When you set autohide, the panel hides "
 "automatically when the mouse is not pointing to the panel. The panel "
 "reappears when you point to the part of the screen where the panel resides. "
-"To set your panel to autohide, <link linkend=\"panel-properties\">modify the"
-" properties</link> of the panel."
+"To set your panel to autohide, modify the properties of the panel as per the"
+" instructions in <xref linkend=\"panel-properties\"/>."
 msgstr ""
-"您可以设置面板自动隐藏。设置自动隐藏后，当鼠标离开，面板就会自动隐藏。当鼠标指针移过来时，面板又会重新显示。要设置面板自动隐藏，请参阅：<link "
-"linkend=\"panel-properties\">设置属性</link>。"
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:362
@@ -15879,17 +15879,13 @@ msgstr "要在一个按钮上显示该对象的属性菜单，或者移动这个
 msgid ""
 "Some applets have popup menus of applet-specific commands that open when you"
 " right-click on particular parts of the applet. For example, the "
-"<application><link linkend=\"windowlist\">Window List</link></application> "
-"applet has a vertical handle on the left side, and buttons that represent "
-"your windows on the right side. To open the panel object popup menu for the "
+"<application><xref linkend=\"windowlist\"/></application> applet has a "
+"vertical handle on the left side, and buttons that represent your windows on"
+" the right side. To open the panel object popup menu for the "
 "<application>Window List</application> applet, you must right-click on the "
 "handle. If you right-click on a button on the right side, a popup menu for "
 "the button opens."
 msgstr ""
-"一些小程序有一个属性菜单，当您在按钮上点右键时会弹出这个菜单。例如，<application><link "
-"linkend=\"windowlist\">窗口列表</link></application> "
-"小程序边上有一个垂直的竖线手柄，右边是代表窗口的按钮。要打开 <application>窗口列表</application> "
-"小程序的属性菜单，您必须要在边上的手柄上点右键，如果您点到了里边的按钮上，那么出来的是这个按钮的属性菜单。"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:448
@@ -15932,11 +15928,9 @@ msgstr "选择 <guisubmenu>添加到面板</guisubmenu>。"
 #: C/gospanel.xml:476
 msgid ""
 "The <guilabel>Add to Panel</guilabel> dialog opens.The available panel "
-"objects are listed alphabetically, with <link "
-"linkend=\"launchers\">launchers</link> at the top."
+"objects are listed alphabetically, with <xref linkend=\"launchers\"/> at the"
+" top."
 msgstr ""
-"打开 <guilabel>添加到面板</guilabel> 对话框，中间按字母顺序列出了可用的对象按钮，<link "
-"linkend=\"launchers\">应用程序启动器</link> 排在最前面。"
 
 #. (itstool) path: tip/para
 #: C/gospanel.xml:477
@@ -16414,11 +16408,9 @@ msgstr "从面板的属性菜单"
 #: C/gospanel.xml:741
 msgid ""
 "Right-click on any vacant space on the panel, then choose <guimenu>Add to "
-"Panel</guimenu>. The <link linkend=\"panels-addobject\"><guilabel>Add to "
-"Panel</guilabel> dialog</link> opens."
+"Panel</guimenu>. The <guilabel>Add to Panel</guilabel> dialog opens (see "
+"<xref linkend=\"panels-addobject\"/>)."
 msgstr ""
-"在面板的空白处点右键，然后选择 <guimenu>添加到面板</guimenu> 命令。将打开 <link linkend=\"panels-"
-"addobject\"><guilabel>添加到面板</guilabel>对话框</link>。"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:743
@@ -16981,13 +16973,10 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1110
 msgid ""
-"Opens the <link linkend=\"prefs-"
-"screensaver\"><application>Screensaver</application> preference tool</link>,"
-" with which you can configure the type of screensaver that is displayed when"
-" you lock the screen."
+"Opens the <xref linkend=\"prefs-screensaver\"/> tool, with which you can "
+"configure the type of screensaver that is displayed when you lock the "
+"screen."
 msgstr ""
-"打开 <link linkend=\"prefs-"
-"screensaver\"><application>屏幕保护程序</application>选项工具</link>，您可以设置屏幕锁定时的屏幕保护类型。"
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1118
@@ -18602,13 +18591,10 @@ msgstr "当您退出时有程序仍然有未保存的工作时，程序会提示
 #: C/gosstartsession.xml:326
 msgid ""
 "Before you end a session, you might want to save your current settings so "
-"that you can restore the session later. In the <link linkend=\"prefs-"
-"sessions\"><application>Sessions</application></link> preference tool, you "
-"can select an option to automatically save your current settings."
+"that you can restore the session later. In the <xref linkend=\"prefs-"
+"sessions\"/> tool, you can select an option to automatically save your "
+"current settings."
 msgstr ""
-"在您结束一个会话之前，您可能希望保存当前的设置一边以便在下次使用的时候恢复。在 <link linkend=\"prefs-"
-"sessions\"><application>会话</application></link> "
-"首选项工具中，您可以设定一个选项让系统自动保存您的当前设置。"
 
 #. (itstool) path: info/title
 #: C/gostools.xml:7
@@ -18672,14 +18658,9 @@ msgstr "使用快捷键"
 msgid ""
 "Press <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo>. You can "
 "change the shortcut keys that display the <guilabel>Run "
-"Application</guilabel> dialog in the <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Keyboard Shortcuts</application> preference "
-"tool</link>."
+"Application</guilabel> dialog in the <application><xref linkend=\"prefs-"
+"keyboard-shortcuts\"/></application> tool."
 msgstr ""
-"按下 <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo> 键。您可以在 <link"
-" linkend=\"prefs-keyboard-"
-"shortcuts\"><application>快捷键</application>设置工具</link> 中，更改打开 "
-"<guilabel>运行程序</guilabel> 对话框的快捷键。"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:28
@@ -18807,20 +18788,17 @@ msgstr "对活动窗口截图。"
 #. (itstool) path: listitem/para
 #: C/gostools.xml:124
 msgid ""
-"You can use the <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Keyboard Shortcuts</application> preference "
-"tool</link> to modify the default shortcut keys."
+"You can use the <application><xref linkend=\"prefs-keyboard-"
+"shortcuts\"/></application> tool to modify the default shortcut keys."
 msgstr ""
-"您可以使用 <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>快捷键</application>设置工具</link> 来修改默认快捷键设置。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:128
+#: C/gostools.xml:127
 msgid "From the Menubar"
 msgstr "从菜单栏"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:129
+#: C/gostools.xml:128
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Applications</guimenu><guimenuitem>Accessories</guimenuitem>"
@@ -18828,12 +18806,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:133
+#: C/gostools.xml:132
 msgid "From the Terminal"
 msgstr "从终端"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:134
+#: C/gostools.xml:133
 msgid ""
 "You can use the <command>mate-screenshot</command> command to take a "
 "screenshot. The <command>mate-screenshot</command> command takes a "
@@ -18846,29 +18824,29 @@ msgstr ""
 "<guilabel>保存图像</guilabel> 对话框来保存图像。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:140
+#: C/gostools.xml:139
 msgid ""
 "You can also use options on the <command>mate-screenshot</command> command "
 "as follows:"
 msgstr "您也可以像下面这样，在 <command>mate-screenshot</command> 命令中使用选项参数。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:161
+#: C/gostools.xml:160
 msgid "<command>--window</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:166
+#: C/gostools.xml:165
 msgid "Takes a screenshot of the window that has focus."
 msgstr "对当前窗口截图。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:171
+#: C/gostools.xml:170
 msgid "<command>--delay=<replaceable>seconds</replaceable></command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:176
+#: C/gostools.xml:175
 msgid ""
 "Takes a screenshot after the specified number of seconds, and displays the "
 "<guilabel>Save Screenshot</guilabel> dialog. Use the <guilabel>Save "
@@ -18878,67 +18856,67 @@ msgstr ""
 "对话框来保存抓图。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:186
+#: C/gostools.xml:185
 msgid "<command>--include-border</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:191
+#: C/gostools.xml:190
 msgid "Takes a screenshot including the border of the window."
 msgstr "包含窗口边框。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:196
+#: C/gostools.xml:195
 msgid "<command>--remove-border</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:201
+#: C/gostools.xml:200
 msgid "Takes a screenshot without the border of the window."
 msgstr "不包含窗口边框。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:206
+#: C/gostools.xml:205
 msgid "<command>--border-effect=shadow</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:211
+#: C/gostools.xml:210
 msgid "Takes a screenshot and adds a shadow bevel effect around it."
 msgstr "抓图并在图片四周添加立体阴影效果。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:216
+#: C/gostools.xml:215
 msgid "<command>--border-effect=border</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:221
+#: C/gostools.xml:220
 msgid "Takes a screenshot and adds a border effect around it."
 msgstr "抓图并在图片四周添加边框效果。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:226
+#: C/gostools.xml:225
 msgid "<command>--interactive</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:231
+#: C/gostools.xml:230
 msgid "Opens a window that lets you set options before taking the screenshot."
 msgstr "进行屏幕抓图前打开一个窗口以便您设置选项。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:236
+#: C/gostools.xml:235
 msgid "<command>--help</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:241
+#: C/gostools.xml:240
 msgid "Displays the options for the command."
 msgstr "显示命令的选项。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:250
+#: C/gostools.xml:249
 msgid ""
 "When you take a screenshot, the <guilabel>Save Screenshot</guilabel> dialog "
 "opens. To save the screenshot as an image file, enter the filename for the "
@@ -18951,17 +18929,17 @@ msgstr ""
 "对话框会打开。要保存抓图为一个图片文件，请输入文件名并且在下拉菜单中为它选择一个保存位置。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:259
+#: C/gostools.xml:258
 msgid "Yelp Help Browser"
 msgstr "Yelp 帮助浏览器"
 
 #. (itstool) path: section/indexterm
-#: C/gostools.xml:260
+#: C/gostools.xml:259
 msgid "<primary>Yelp</primary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:266
+#: C/gostools.xml:265
 msgid ""
 "The <application>Yelp Help Browser</application> application allows you to "
 "view documentation regarding MATE and other components through a variety of "
@@ -18975,7 +18953,7 @@ msgstr ""
 "页面的支持可以作为可选组件编译进去）。尽管支持多种不同格式，Yelp 尽可能提供统一的阅读界面。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:273
+#: C/gostools.xml:272
 msgid ""
 "<application>Yelp Help Browser</application> is internationalized, meaning "
 "that it has support to view documents in different languages. The documents "
@@ -18984,56 +18962,56 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:281
+#: C/gostools.xml:280
 msgid "Starting Yelp"
 msgstr "启动 Yelp"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:283
+#: C/gostools.xml:282
 msgid "To Start <application>Yelp Help Browser</application>"
 msgstr "要启动 <application>Yelp 帮助浏览器</application>"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:284
+#: C/gostools.xml:283
 msgid ""
 "You can start <application>Yelp Help Browser</application> in the following "
 "ways:"
 msgstr "您可以通过以下方式启动 <application>Yelp 帮助浏览器</application>："
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:288
+#: C/gostools.xml:287
 msgid "<guimenu>System</guimenu> Menu"
 msgstr "<guimenu>系统</guimenu> 菜单"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:291
+#: C/gostools.xml:290
 msgid "Choose <application>Help</application>"
 msgstr "选择 <application>帮助</application>"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:296
+#: C/gostools.xml:295
 msgid "Command Line"
 msgstr "命令行"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:299
+#: C/gostools.xml:298
 msgid "Execute the following command: <command>yelp</command>"
 msgstr "执行下列命令：<command>yelp</command>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:306
+#: C/gostools.xml:305
 msgid "Interface"
 msgstr "界面"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:307
+#: C/gostools.xml:306
 msgid ""
 "When you start <application>Yelp Help Browser</application>, you will see "
 "the following window appear."
 msgstr "当您启动 <application>Yelp 帮助浏览器</application> 时，您将看到下列窗口。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:310
+#: C/gostools.xml:309
 msgid "<application>Yelp Help Browser</application> Window"
 msgstr "<application>Yelp 帮助浏览器</application> 窗口"
 
@@ -19042,7 +19020,7 @@ msgstr "<application>Yelp 帮助浏览器</application> 窗口"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:313
+#: C/gostools.xml:312
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_window.png' "
@@ -19050,42 +19028,42 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:310
+#: C/gostools.xml:309
 msgid ""
 "<_:figure-1/><application>Yelp Help Browser</application> contains the "
 "following elements in <xref linkend=\"fig-yelp-window\"/>"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:325
+#: C/gostools.xml:324
 msgid "<guimenu>File</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:328
+#: C/gostools.xml:327
 msgid ""
 "Use this menu to Open a New Window, view the About this Document page, Print"
 " the current document, or Close the window."
 msgstr "使用这个菜单来打开新窗口、查看关于这个文档页面、打印当前文档或者关闭窗口。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:335
+#: C/gostools.xml:334
 msgid "<guimenu>Edit</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:338
+#: C/gostools.xml:337
 msgid ""
 "Use this menu to Copy, Select all, Find..., or to set your Preferences."
 msgstr "使用这个菜单来复制贝、全选、搜索... 或者可以设置程序的首选项。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:344
+#: C/gostools.xml:343
 msgid "<guimenu>Go</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:347
+#: C/gostools.xml:346
 msgid ""
 "Use this menu to navigate Back, Forward, to the Help Topics page. When "
 "viewing a DocBook document, use this menu to navigate to the Next Section, "
@@ -19093,22 +19071,22 @@ msgid ""
 msgstr "使用这个菜单来后退、前进、以及进入帮助主题页面。当查看一个 DocBook 文档时，使用这个菜单导航到下一个章节、前一个章节或者到达目录。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:355
+#: C/gostools.xml:354
 msgid "<guimenu>Bookmarks</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:358
+#: C/gostools.xml:357
 msgid "Use this menu to Add Bookmark(s), or Edit Bookmark(s)."
 msgstr "使用此菜单添加或编辑书签。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:364
+#: C/gostools.xml:363
 msgid "<guimenu>Help</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:367
+#: C/gostools.xml:366
 msgid ""
 "View information about Yelp Help Browser and contributors to the project "
 "through the <guimenuitem>About</guimenuitem> menuitem. Open this document "
@@ -19119,44 +19097,44 @@ msgstr ""
 "<guimenuitem>内容</guimenuitem> 菜单项或者按下 <keycap>F1</keycap> 键来打开这个文档。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:384
+#: C/gostools.xml:383
 msgid "<guibutton>Back</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:387
+#: C/gostools.xml:386
 msgid "Use this button to navigate back in your document history."
 msgstr "使用此按钮在您的文档历史中后退。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:393
+#: C/gostools.xml:392
 msgid "<guibutton>Forward</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:396
+#: C/gostools.xml:395
 msgid "Use this button to navigate forward in your document history."
 msgstr "在文档历史中使用这个按钮来向前导航。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:402
+#: C/gostools.xml:401
 msgid "<guibutton>Help Topics</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:405
+#: C/gostools.xml:404
 msgid ""
 "Use this button to return to the main table of contents (shown in <xref "
 "linkend=\"fig-yelp-window\"/>)."
 msgstr "使用这个按钮回到目录(在<xref linkend=\"fig-yelp-window\"/> 中显示)。"
 
 #. (itstool) path: term/interface
-#: C/gostools.xml:414
+#: C/gostools.xml:413
 msgid "Browser Pane"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:417
+#: C/gostools.xml:416
 msgid ""
 "The browser pane is where you will be presented with the table of contents "
 "or the documentation. Use the table of contents to navigate to the "
@@ -19164,47 +19142,47 @@ msgid ""
 msgstr "您将在浏览栏看到目录或者文档。使用目录导航到您想查看的文档。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:428
+#: C/gostools.xml:427
 msgid "Using Yelp"
 msgstr "使用 Yelp"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:430
+#: C/gostools.xml:429
 msgid "Open a Document"
 msgstr "打开文档"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:435
+#: C/gostools.xml:434
 msgid ""
 "In an application, click <menuchoice> <guimenu>Help</guimenu> "
 "<guimenuitem>Contents</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:443
+#: C/gostools.xml:442
 msgid "Use the Table of Contents to navigate to the desired document."
 msgstr "使用目录访问您想查看的文档。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:446
+#: C/gostools.xml:445
 msgid ""
 "You can drag a Docbook XML file from Caja to the Yelp window or launcher."
 msgstr "您可以从文件浏览器窗口拖动一个 Docbook XML 文件到 Yelp 窗口或启动器图标上。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:449
+#: C/gostools.xml:448
 msgid "Press the <keycap>F1</keycap> key."
 msgstr "按 <keycap>F1</keycap>。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:431
+#: C/gostools.xml:430
 msgid ""
 "To open a document in <application>Yelp Help Browser</application>: "
 "<_:itemizedlist-1/>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:454
+#: C/gostools.xml:453
 msgid ""
 "Alternatively, you may view a particular document by invoking Yelp Help "
 "Browser from the command line or dragging files to Yelp. See <xref linkend"
@@ -19214,147 +19192,147 @@ msgstr ""
 "=\"yelp-open-specific\"/>。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:458
+#: C/gostools.xml:457
 msgid "Open a New Window"
 msgstr "打开新窗口"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:459
+#: C/gostools.xml:458
 msgid "To open a new window:"
 msgstr "要打开新窗口："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:463
+#: C/gostools.xml:462
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>New "
 "Window</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:471
+#: C/gostools.xml:470
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>N</keycap></keycombo>"
 msgstr "使用组合键 <keycombo><keycap>Ctrl</keycap><keycap>N</keycap></keycombo>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:477
+#: C/gostools.xml:476
 msgid "About This Document"
 msgstr "关于此文档"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:478
+#: C/gostools.xml:477
 msgid "To view information about the currently open document:"
 msgstr "查看关于当前已打开文档的信息："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:482
+#: C/gostools.xml:481
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>About This "
 "Document</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gostools.xml:489
+#: C/gostools.xml:488
 msgid ""
 "This option is only available for DocBook documentation. Legal notices and "
 "documentation contributors are usually listed in this section."
 msgstr "这个选项只对 DocBook 文档有效。法律声明和文档贡献者常在这个部分列出。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:495
+#: C/gostools.xml:494
 msgid "Print a Page"
 msgstr "打印页面"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:496
+#: C/gostools.xml:495
 msgid ""
 "To print any page that you are able to view in <application>Yelp Help "
 "Browser</application>:"
 msgstr "打印任何您在 <application>Yelp 帮助浏览器</application> 中浏览的页面："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:500
+#: C/gostools.xml:499
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print this "
 "Page</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:509
+#: C/gostools.xml:508
 msgid "Print a Document"
 msgstr "打印文档"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:510
+#: C/gostools.xml:509
 msgid "To print an entire document:"
 msgstr "要打印整个文档："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:514
+#: C/gostools.xml:513
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print this "
 "Document</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gostools.xml:521
+#: C/gostools.xml:520
 msgid "This option is only available for DocBook documentation."
 msgstr "这个选项只对 DocBook 文档有效。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:526
+#: C/gostools.xml:525
 msgid "Close a Window"
 msgstr "关闭窗口"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:527
+#: C/gostools.xml:526
 msgid ""
 "To close a window in <application>Yelp Help Browser</application>, do the "
 "following:"
 msgstr "要关闭 <application>Yelp 帮助浏览器</application>的一个窗口，操作如下："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:531
+#: C/gostools.xml:530
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Close "
 "Window</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:539
+#: C/gostools.xml:538
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>W</keycap></keycombo>"
 msgstr "使用组合键 <keycombo><keycap>Ctrl</keycap><keycap>W</keycap></keycombo>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:545
+#: C/gostools.xml:544
 msgid "Set Preferences"
 msgstr "设定首选项"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:546
+#: C/gostools.xml:545
 msgid ""
 "To set your preferences in <application>Yelp Help Browser</application>:"
 msgstr "要在 <application>Yelp 帮助浏览器</application> 中设置相关参数选项："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:550
+#: C/gostools.xml:549
 msgid ""
 "Click <menuchoice> <guimenu>Edit</guimenu> "
 "<guimenuitem>Preferences</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:548
+#: C/gostools.xml:547
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-preferences\"/>:"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:558
+#: C/gostools.xml:557
 msgid "<application>Yelp Help Browser</application> Preferences Window"
 msgstr "<application>Yelp 帮助浏览器</application> 首选项窗口"
 
@@ -19363,7 +19341,7 @@ msgstr "<application>Yelp 帮助浏览器</application> 首选项窗口"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:561
+#: C/gostools.xml:560
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_preferences.png' "
@@ -19371,26 +19349,26 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:558
+#: C/gostools.xml:557
 msgid ""
 "<_:figure-1/>The options that are available in this dialog have the "
 "following functions:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:569
+#: C/gostools.xml:568
 msgid "<guilabel>Use system fonts</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:572
+#: C/gostools.xml:571
 msgid ""
 "Check this option to display documentation using the default fonts used by "
 "the MATE Desktop."
 msgstr "选中此项，使用 MATE 桌面默认字体来显示文档。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:575
+#: C/gostools.xml:574
 msgid ""
 "To choose your own fonts to display documentation, uncheck this option and "
 "click on the buttons next to the text <guilabel>Variable Width</guilabel> or"
@@ -19400,24 +19378,24 @@ msgstr ""
 "<guilabel>等宽字体</guilabel> 旁边的按钮。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:582
+#: C/gostools.xml:581
 msgid "<guilabel>Variable Width</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:585
+#: C/gostools.xml:584
 msgid ""
 "This is the font to use when a static or fixed width font is not required. "
 "The majority of text will be of this type."
 msgstr "这是在不需要使用固定或等宽字体时使用的字体。大部分的文本都会是这种字体。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:592
+#: C/gostools.xml:591
 msgid "<guilabel>Fixed Width</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:595
+#: C/gostools.xml:594
 msgid ""
 "This is the font to use when all text characters need to be of the same "
 "size. This font is usually used to indicate commands, program blocks, or "
@@ -19425,12 +19403,12 @@ msgid ""
 msgstr "这是在所有文本字符需要使用相同大小时使用的字体。这种字体通常被用来显示命令、程序块或者任何归入这些类别的其他文本。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:606
+#: C/gostools.xml:605
 msgid "<guilabel>Browse with caret</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:609
+#: C/gostools.xml:608
 msgid ""
 "Click this option if you would like see a caret or cursor in the <xref "
 "linkend=\"yelp-browser-pane\"/>. This allows you to browse the document more"
@@ -19440,82 +19418,82 @@ msgstr ""
 "pane\"/>中看到光标，请点击这个选项。在文档中显示光标的位置有助于您更容易的浏览文档。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:618
+#: C/gostools.xml:617
 msgid "Go Back in Document History"
 msgstr "在文档历史中后退"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:619
+#: C/gostools.xml:618
 msgid "To go back in the document history:"
 msgstr "要在文档历史中后退："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:623
+#: C/gostools.xml:622
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Back</guimenuitem> "
 "</menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:631
+#: C/gostools.xml:630
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Left</keycap></keycombo>"
 msgstr "使用组合键 <keycombo><keycap>Alt</keycap><keycap>Left</keycap></keycombo>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:636
+#: C/gostools.xml:635
 msgid "Use the <guibutton>Back</guibutton> button in the <_:interface-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:642
+#: C/gostools.xml:641
 msgid "Go Forward in Document History"
 msgstr "在文档历史中前进"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:643
+#: C/gostools.xml:642
 msgid "To go forward in the document history:"
 msgstr "要在文档历史中前进："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:647
+#: C/gostools.xml:646
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Forward</guimenuitem> "
 "</menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:655
+#: C/gostools.xml:654
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Right</keycap></keycombo>"
 msgstr "使用组合键 <keycombo><keycap>Alt</keycap><keycap>右方向键</keycap></keycombo>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:660
+#: C/gostools.xml:659
 msgid "Use the <guibutton>Forward</guibutton> button in the <_:interface-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:666
+#: C/gostools.xml:665
 msgid "Go to Help Topics"
 msgstr "转到帮助主题"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:667
+#: C/gostools.xml:666
 msgid "To go to the Help Topics:"
 msgstr "要转到帮助主题："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:671
+#: C/gostools.xml:670
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Help "
 "Topics</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:679
+#: C/gostools.xml:678
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Home</keycap></keycombo>"
@@ -19523,114 +19501,114 @@ msgstr ""
 "使用组合键 <keycombo><keycap>Alt</keycap><keycap>Home 键</keycap></keycombo>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:684
+#: C/gostools.xml:683
 msgid ""
 "Use the <guibutton>Help Topics</guibutton> button in the <_:interface-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:690
+#: C/gostools.xml:689
 msgid "Go to Previous Section"
 msgstr "回到上前一节"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:691
+#: C/gostools.xml:690
 msgid "To go to the previous section:"
 msgstr "要回到上一节："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:695
+#: C/gostools.xml:694
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Previous "
 "Section</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:703
+#: C/gostools.xml:702
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Up</keycap></keycombo>"
 msgstr "使用组合键 <keycombo><keycap>Alt</keycap><keycap>上方向键</keycap></keycombo>"
 
 #. (itstool) path: note/para
-#: C/gostools.xml:707 C/gostools.xml:731 C/gostools.xml:750
+#: C/gostools.xml:706 C/gostools.xml:730 C/gostools.xml:749
 msgid "This option is only available in DocBook formatted documents."
 msgstr "这个选项只对 DocBook 文档有效。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:712
+#: C/gostools.xml:711
 msgid "Go to Next Section"
 msgstr "转到下一节"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:715
+#: C/gostools.xml:714
 msgid "To go to the next section:"
 msgstr "要转到下一节："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:719
+#: C/gostools.xml:718
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Next "
 "Section</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:727
+#: C/gostools.xml:726
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Down</keycap></keycombo>"
 msgstr "使用组合键<keycombo><keycap>Alt</keycap><keycap>下方向键</keycap></keycombo>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:736
+#: C/gostools.xml:735
 msgid "Go to Contents"
 msgstr "转到目录"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:739
+#: C/gostools.xml:738
 msgid "To go to the contents for a document:"
 msgstr "要转到文档的目录："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:743
+#: C/gostools.xml:742
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Contents</guimenuitem>"
 " </menuchoice>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:755
+#: C/gostools.xml:754
 msgid "Add a Bookmark"
 msgstr "添加书签"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:758
+#: C/gostools.xml:757
 msgid "To add a bookmark for a particular document:"
 msgstr "为特定的文档添加书签："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:762
+#: C/gostools.xml:761
 msgid ""
 "Click <menuchoice> <guimenu>Bookmarks</guimenu> <guimenuitem>Add "
 "Bookmark</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:770
+#: C/gostools.xml:769
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo>"
 msgstr "使用组合键 <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo>"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:760
+#: C/gostools.xml:759
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-add-bookmark\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:775
+#: C/gostools.xml:774
 msgid "Add Bookmark Window"
 msgstr "添加书签窗口"
 
@@ -19639,7 +19617,7 @@ msgstr "添加书签窗口"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:778
+#: C/gostools.xml:777
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_add_bookmark.png' "
@@ -19647,7 +19625,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:775
+#: C/gostools.xml:774
 msgid ""
 "<_:figure-1/>Enter your desired bookmark title in to the "
 "<guilabel>Title</guilabel> text entry field. Then click "
@@ -19656,31 +19634,31 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:787
+#: C/gostools.xml:786
 msgid "Edit Bookmarks"
 msgstr "编辑书签"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:788
+#: C/gostools.xml:787
 msgid "To edit your collection of bookmarks:"
 msgstr "要编辑您收藏的书签："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:792
+#: C/gostools.xml:791
 msgid ""
 "Click <menuchoice> <guimenu>Bookmarks</guimenu> <guimenuitem>Edit "
 "Bookmarks...</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:799
+#: C/gostools.xml:798
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>B</keycap></keycombo>"
 msgstr "使用键组合 <keycombo><keycap>Ctrl</keycap><keycap>B</keycap></keycombo>"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:790
+#: C/gostools.xml:789
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-edit-bookmarks\"/>."
@@ -19688,7 +19666,7 @@ msgstr ""
 
 #. (itstool) path: info/title
 #. (itstool) path: para/interface
-#: C/gostools.xml:804 C/gostools.xml:841
+#: C/gostools.xml:803 C/gostools.xml:840
 msgid "Edit Bookmarks Window"
 msgstr "编辑书签窗口"
 
@@ -19697,7 +19675,7 @@ msgstr "编辑书签窗口"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:807
+#: C/gostools.xml:806
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_edit_bookmarks.png' "
@@ -19705,85 +19683,85 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:804
+#: C/gostools.xml:803
 msgid ""
 "<_:figure-1/>You can manage your bookmarks using this window in the "
 "following ways:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:815
+#: C/gostools.xml:814
 msgid "<guibutton>Open</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:818
+#: C/gostools.xml:817
 msgid "Use this button to open the selected bookmark in a new window."
 msgstr "使用这个按钮来在新窗口中打开选择的书签。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:824
+#: C/gostools.xml:823
 msgid "<guibutton>Rename</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:827
+#: C/gostools.xml:826
 msgid "Use this button to rename the title of your bookmark."
 msgstr "使用此按钮来重命名书签的名称。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:833
+#: C/gostools.xml:832
 msgid "<guibutton>Remove</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:836
+#: C/gostools.xml:835
 msgid "Use this button to delete the bookmark from your collection."
 msgstr "使用此按钮来删除收藏夹中的书签。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:813
+#: C/gostools.xml:812
 msgid ""
 "<_:variablelist-1/>Once you are finished managing your bookmarks, click the "
 "<guibutton>Close</guibutton> button to exit the <_:interface-2/>."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:845
+#: C/gostools.xml:844
 msgid "Get Help"
 msgstr "获得帮助"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:846
+#: C/gostools.xml:845
 msgid ""
 "To get help to use <application>Yelp Help Browser</application> (and see "
 "this document):"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:851
+#: C/gostools.xml:850
 msgid ""
 "Click <menuchoice> <guimenu>Help</guimenu> "
 "<guimenuitem>Contents</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:863
+#: C/gostools.xml:862
 msgid "Advanced Features"
 msgstr "高级特性"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:865
+#: C/gostools.xml:864
 msgid "Opening Specific Documents"
 msgstr "打开指定文档"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:867
+#: C/gostools.xml:866
 msgid "Opening Documents from the File Manager"
 msgstr "从文件管理器打开文档"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:868
+#: C/gostools.xml:867
 msgid ""
 "To open a document, such as an XML file, from the file manager, open the "
 "document in <application>Caja</application> File Manager, or drag the icon "
@@ -19795,12 +19773,12 @@ msgstr ""
 "<application>Yelp</application> 文件面板或启动器上。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:872
+#: C/gostools.xml:871
 msgid "Using the Command Line to Open Documents"
 msgstr "使用命令行打开文档"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:873
+#: C/gostools.xml:872
 msgid ""
 "Yelp Help Browser supports opening documents from the command line. There "
 "are a number of URIs (Uniform Resource Identifiers) that can be used. These "
@@ -19808,17 +19786,17 @@ msgid ""
 msgstr "Yelp 帮助浏览器支持从命令行打开文件。有一些 URI (统一资源标识符)可供使用，包括："
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:879
+#: C/gostools.xml:878
 msgid "<option>file:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:882
+#: C/gostools.xml:881
 msgid "Use this URI when you want to access a file with yelp, for example:"
 msgstr "使用这个 URI 以用 yelp 打开一个文档，比如："
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:885
+#: C/gostools.xml:884
 #, no-wrap
 msgid ""
 "<userinput>yelp file:///usr/share/help/C/mate-control-center/config-"
@@ -19826,43 +19804,43 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:891
+#: C/gostools.xml:890
 msgid "<option>help:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:894
+#: C/gostools.xml:893
 msgid ""
 "Use this URI when you want to access MATE help documents, which are "
 "typically written in DocBook format."
 msgstr "但当您想打开典型的 DocBook 格式的 MATE 帮助文档时请使用这个 URI。"
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:897
+#: C/gostools.xml:896
 #, no-wrap
 msgid "<userinput>yelp help:mate-terminal</userinput>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:899
+#: C/gostools.xml:898
 msgid ""
 "If you want to open the help document at a particular section, append a "
 "slash to the end of the URI, followed by the section id."
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:902
+#: C/gostools.xml:901
 #, no-wrap
 msgid "<userinput>yelp help:mate-user-guide/yelp-advanced-cmdline</userinput>"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:907
+#: C/gostools.xml:906
 msgid "<option>man:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:910
+#: C/gostools.xml:909
 msgid ""
 "Use this URI when you want to access a particular man page. You can append "
 "the section of the man page you would like to view if there are multiple man"
@@ -19872,18 +19850,18 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:917
+#: C/gostools.xml:916
 #, no-wrap
 msgid "<userinput>yelp man:mate-panel</userinput>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:919
+#: C/gostools.xml:918
 msgid "or"
 msgstr "或"
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:921
+#: C/gostools.xml:920
 #, no-wrap
 msgid ""
 "<userinput>yelp 'man:intro(1)'</userinput>\n"
@@ -19891,28 +19869,28 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:927
+#: C/gostools.xml:926
 msgid "<option>info:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:930
+#: C/gostools.xml:929
 msgid "Use this URI when you want to access a particular GNU info page."
 msgstr "当您想访问特定的 GNU info 页时，使用此链接。"
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:933
+#: C/gostools.xml:932
 #, no-wrap
 msgid "<userinput>yelp info:make</userinput>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:940
+#: C/gostools.xml:939
 msgid "Refreshing Content on Demand"
 msgstr "实时刷新内容"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:941
+#: C/gostools.xml:940
 msgid ""
 "<application>Yelp Help Browser</application> supports the "
 "<keycombo><keycap>Ctrl</keycap><keycap>R</keycap></keycombo> shortcut keys, "
@@ -19924,12 +19902,12 @@ msgstr ""
 "快捷键，用于重新载入当前已打开的 DocBook 文档。这使开发者能够查看他们对文档做出的修改。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:948
+#: C/gostools.xml:947
 msgid "More Information"
 msgstr "更多信息"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:949
+#: C/gostools.xml:948
 msgid ""
 "This section details some helper applications which <application>Yelp Help "
 "Browser</application> uses, and provides resources where you can get more "
@@ -19937,12 +19915,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:953
+#: C/gostools.xml:952
 msgid "Scrollkeeper"
 msgstr "Scrollkeeper"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:954
+#: C/gostools.xml:953
 msgid ""
 "<application>Yelp Help Browser</application> uses scrollkeeper to generate "
 "the table of contents for DocBook and HTML documentation, and also keep "
@@ -19952,37 +19930,37 @@ msgstr ""
 "文档的目录表，并使每个文档的翻译明了。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:959
+#: C/gostools.xml:958
 msgid "MATE Documentation Utilites"
 msgstr "MATE 文档实用工具"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:960
+#: C/gostools.xml:959
 msgid ""
 "The documentation distributed with MATE uses this set of utilities for a "
 "variety of things:"
 msgstr "MATE 的文档使用这套通用规则："
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:965
+#: C/gostools.xml:964
 msgid "Ease translation of documents to different languages."
 msgstr "容易将文档翻译成不同的语言。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:969
+#: C/gostools.xml:968
 msgid ""
 "Provide a set of tools to help package and install documentation into the "
 "correct location and register the documentation with scrollkeeper."
 msgstr "提供一套工具协助包和安装文档的正确定位并注册文档到 scrollerper。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:975
+#: C/gostools.xml:974
 msgid ""
 "Perform conversion from DocBook format to a format suitable for display."
 msgstr "把 DocBook 的格式转换为另一种适合显示的格式。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:963
+#: C/gostools.xml:962
 msgid ""
 "<_:itemizedlist-1/><application>Yelp Help Browser</application> relies on "
 "<link xlink:href=\"help:mate-doc-xslt\">MATE XSLT Stylesheets</link> to "
@@ -19993,12 +19971,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:983
+#: C/gostools.xml:982
 msgid "Homepage and Mailing List"
 msgstr "主页与邮件列表"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:984
+#: C/gostools.xml:983
 msgid ""
 "For further information on <application>Yelp Help Browser</application>, "
 "please visit the Documentation Project homepage, <uri xlink:href=\"http"
@@ -20008,12 +19986,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:989
+#: C/gostools.xml:988
 msgid "Joining the MATE Documentation Project"
 msgstr "加入 MATE 文档项目"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:990
+#: C/gostools.xml:989
 msgid ""
 "If you are interested in helping produce and update documentation for the "
 "MATE project, please visit the Documentation Project homepage: <uri "

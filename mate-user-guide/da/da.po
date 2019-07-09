@@ -1,15 +1,15 @@
 # Translators:
-# Wolfgang Ulbrich <mate@raveit.de>, 2019
 # Martin Wimpress <code@flexion.org>, 2019
-# Joe Hansen <joedalton2@yahoo.dk>, 2019
 # Stefano Karapetsas <stefano@karapetsas.com>, 2019
+# Joe Hansen <joedalton2@yahoo.dk>, 2019
+# Wolfgang Ulbrich <mate@raveit.de>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2019-03-09 23:45+0100\n"
+"POT-Creation-Date: 2019-04-22 15:09+0200\n"
 "PO-Revision-Date: 2019-03-16 17:25+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>, 2019\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2019\n"
 "Language-Team: Danish (https://www.transifex.com/mate/teams/13566/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1529,7 +1529,7 @@ msgstr "Genvejstast"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:586 C/gosbasic.xml:714 C/gospanel.xml:1075 C/gostools.xml:98
-#: C/gostools.xml:154
+#: C/gostools.xml:153
 msgid "Function"
 msgstr "Funktion"
 
@@ -2336,12 +2336,12 @@ msgstr "Skrivebord"
 #: C/goscustdesk.xml:132
 msgid ""
 "These are general shortcuts for the whole desktop, such as logging out, "
-"<link linkend=\"lock-screen\">locking the screen</link>, opening the <link "
-"linkend=\"menubar\">panel menubar</link>, or launching a web browser."
+"locking your screen (see <xref linkend=\"lock-screen\"/>), opening the panel"
+" menubar (see <xref linkend=\"menubar\"/>), or launching a web browser."
 msgstr ""
-"Der er generelle genvej for hele skrivebordet, såsom at logge ud, <link "
-"linkend=\"lock-screen\">låse skærmen</link>, åbne <link "
-"linkend=\"menubar\">panelmenulinjen</link> eller starte en internetbrowser."
+"Der er generelle genvej for hele skrivebordet, såsom at logge ud, låse "
+"skærmen (se <xref linkend=\"lock-screen\"/>), åbne panelmenulinjen (se <xref"
+" linkend=\"menubar\"/>) eller starte en internetbrowser."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:134
@@ -3153,8 +3153,8 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:539
 msgid ""
-"The <link linkend=\"overview-desktop\">desktop</link> background is the "
-"image or color that is applied to your desktop. You can open "
+"The <xref linkend=\"overview-desktop\"/> background is the image or color "
+"that is applied to your desktop. You can open "
 "<guilabel>Background</guilabel> tabbed section in the "
 "<application>Appearance</application> preference tool by right-clicking on "
 "the desktop and choosing <guimenuitem>Change Desktop "
@@ -3162,8 +3162,8 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice>"
 " menu."
 msgstr ""
-"<link linkend=\"overview-desktop\">Skrivebordsbaggrunden</link> er billedet "
-"eller farven på dit skrivebord. Du kan åbne fanebladet "
+"<xref linkend=\"overview-desktop\"/>Skrivebordsbaggrunden er billedet eller "
+"farven på dit skrivebord. Du kan åbne fanebladet "
 "<guilabel>Baggrund</guilabel> i præferenceværktøjet "
 "<application>Udseende</application> ved at højreklikke på skrivebordet og "
 "vælge <guimenuitem>Ændr skrivebordsbaggrund</guimenuitem>, samt fra menuen "
@@ -3201,15 +3201,15 @@ msgstr ""
 #. (itstool) path: tip/para
 #: C/goscustdesk.xml:555
 msgid ""
-"You can also drag a color or a pattern to the desktop from the <link linkend"
-"=\"caja-backgrounds-and-emblems\"><guilabel>Backgrounds and "
-"Emblems</guilabel> dialog</link> in the <application>Caja</application> file"
-" manager."
+"You can also drag a color or a pattern to the desktop from the "
+"<guilabel>Backgrounds and Emblems</guilabel> dialog in the "
+"<application>Caja</application> file manager (see <xref linkend=\"caja-"
+"backgrounds-and-emblems\"/>)."
 msgstr ""
 "Du kan også trække en farve eller et mønster til skrivebordet fra dialogen "
-"<link linkend=\"caja-backgrounds-and-emblems\"><guilabel>Baggrund og "
-"emblemer</guilabel></link> i filhåndteringen "
-"<application>Caja</application>."
+"<guilabel>Baggrund og emblemer</guilabel> i filhåndteringen "
+"<application>Caja</application> (se <xref linkend=\"caja-backgrounds-and-"
+"emblems\"/>)."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:557
@@ -4941,13 +4941,11 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1450
 msgid ""
-"To open the <link linkend=\"prefs-keyboard-a11y\"><application>Keyboard "
-"<emphasis>Accessibility</emphasis></application> preference tool</link>, "
-"click the <guibutton>Accessibility</guibutton> button."
+"To open the <xref linkend=\"prefs-keyboard-a11y\"/> tool, click the "
+"<guibutton>Accessibility</guibutton> button."
 msgstr ""
-"For at åbne præferenceværktøjet <link linkend=\"prefs-keyboard-"
-"a11y\"><application>Tastatur<emphasis>tilgængelighed</emphasis></application></link>,"
-" klikkes på knappen <guibutton>Tilgængelighed</guibutton>."
+"For at åbne værktøjet <xref linkend=\"prefs-keyboard-a11y\"/>, klik på "
+"knappen <guibutton>Tilgængelighed</guibutton>."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1453
@@ -7564,7 +7562,7 @@ msgstr ""
 "<application>Caja</application> anvendes."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:265
+#: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:264
 #: C/gosdconf.xml:19
 msgid "Introduction"
 msgstr "Indledning"
@@ -7671,16 +7669,14 @@ msgid ""
 "<application>Caja</application> is always running while you are using MATE. "
 "To open a new <application>Caja</application> window, double-click on an "
 "appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or "
-"<guimenuitem>Computer</guimenuitem>, or choose an item from <link linkend"
-"=\"places-menu\"><guimenuitem>Places</guimenuitem> menu</link> on the top "
-"panel."
+"<guimenuitem>Computer</guimenuitem>, or choose an item from <xref linkend"
+"=\"places-menu\"/> on the top panel."
 msgstr ""
 "<application>Caja</application> kører altid mens du bruger MATE. For at åbne"
 " et nyt <application>Caja</application>-vindue, dobbeltklik på et passende "
 "ikon på skrivebordet såsom <guimenuitem>Hjem</guimenuitem> eller "
-"<guimenuitem>Computer</guimenuitem>, eller vælg et element fra menuen <link "
-"linkend=\"places-menu\"><guimenuitem>Steder</guimenuitem></link> i "
-"toppanelet."
+"<guimenuitem>Computer</guimenuitem>, eller vælg et element fra <xref linkend"
+"=\"places-menu\"/> på toppanelet."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:71
@@ -7988,13 +7984,11 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:157
 msgid ""
-"Choose an item from the <link linkend=\"places-"
-"menu\"><guimenuitem>Places</guimenuitem> menu</link> on the top panel. Your "
-"Home Folder and folders you have bookmarked are listed here. For more on "
-"bookmarks, see <xref linkend=\"caja-bookmarks\"/>."
+"Choose an item from the <xref linkend=\"places-menu\"/> on the top panel. "
+"Your Home Folder and folders you have bookmarked are listed here. For more "
+"on bookmarks, see <xref linkend=\"caja-bookmarks\"/>."
 msgstr ""
-"Vælg et element fra menuen <link linkend=\"places-"
-"menu\"><guimenuitem>Steder</guimenuitem> </link> på toppanelet. Din "
+"Vælg et element fra <xref linkend=\"places-menu\"/> på toppanelet. Din "
 "hjemmemappe og mapper du har bogmærket vises her. For yderligere information"
 " om bogmærker, se <xref linkend=\"caja-bookmarks\"/>."
 
@@ -8129,7 +8123,7 @@ msgstr "Komponent"
 
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
-#: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:320
+#: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:319
 msgid "Menubar"
 msgstr "Menubjælke"
 
@@ -8521,8 +8515,8 @@ msgstr "Vindueskomponenterne for filbrowseren"
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
 #. (itstool) path: para/interface
-#: C/goscaja.xml:416 C/gostools.xml:379 C/gostools.xml:637 C/gostools.xml:661
-#: C/gostools.xml:685
+#: C/goscaja.xml:416 C/gostools.xml:378 C/gostools.xml:636 C/gostools.xml:660
+#: C/gostools.xml:684
 msgid "Toolbar"
 msgstr "Værktøjslinje"
 
@@ -9505,14 +9499,13 @@ msgstr ""
 msgid ""
 "If you open an executable text file, that is, one that Caja considers can be"
 " run as a program, then you will be asked what you want to do: run it, or "
-"display it in a text editor. You can modify this behavior in the <link "
-"linkend=\"caja-preferences\">File Management preferences</link>."
+"display it in a text editor. You can modify this behavior in <xref linkend"
+"=\"caja-preferences\"/>."
 msgstr ""
 "Hvis du åbner en kørbar tekstfil, det vil sige en, som Caja anser kan "
 "afvikles som et program, så vil du blive spurgt om, hvad du ønsker at gøre: "
 "kør den, eller vis den i et tekstredigeringsprogram. Du kan ændre denne "
-"opførsel i <link linkend=\"caja-preferences\">Indstillinger for "
-"filhåndtering</link>."
+"opførsel i <xref linkend=\"caja-preferences\"/>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:892
@@ -10308,7 +10301,7 @@ msgstr ""
 " tabel:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:151
+#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:150
 msgid "Option"
 msgstr "Indstilling"
 
@@ -12111,7 +12104,7 @@ msgid "Select the file that you want to change."
 msgstr "Vælg filen du ønsker at ændre."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2190 C/goscaja.xml:2715
+#: C/goscaja.xml:2190 C/goscaja.xml:2233 C/goscaja.xml:2304 C/goscaja.xml:2715
 msgid ""
 "Choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
@@ -12199,19 +12192,6 @@ msgstr "For at ændre rettighederne for en mappe, udfør de følgende trin:"
 #: C/goscaja.xml:2230
 msgid "Select the folder that you want to change."
 msgstr "Vælg mappen du ønsker at ændre."
-
-#. (itstool) path: listitem/para
-#: C/goscaja.xml:2233 C/goscaja.xml:2304
-msgid ""
-"Choose "
-"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
-" The <link linkend=\"caja-properties\">properties window</link> for the item"
-" is displayed."
-msgstr ""
-"Vælg "
-"<menuchoice><guimenu>Fil</guimenu><guimenuitem>Egenskaber</guimenuitem></menuchoice>."
-" <link linkend=\"caja-properties\">egenskabervinduet</link> for elementet "
-"vises."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2239
@@ -13335,11 +13315,10 @@ msgstr "Vælg elementet du ønsker at tilføje et emblem."
 #: C/goscaja.xml:2753
 msgid ""
 "Right-click on the item, then choose <guimenuitem>Properties</guimenuitem>. "
-"The <link linkend=\"caja-properties\">properties window</link> for the item "
-"is displayed."
+"The <xref linkend=\"caja-properties\"/> for the item is displayed."
 msgstr ""
-"Højreklik på elementet, vælg <guimenuitem>Egenskaber.</guimenuitem> Vinduet "
-"<link linkend=\"caja-properties\">egenskaber</link> for elementet vises."
+"Højreklik på elementet, vælg <guimenuitem>Egenskaber</guimenuitem>. <xref "
+"linkend=\"caja-properties\"/> for elementet vises."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2756
@@ -16064,10 +16043,10 @@ msgstr ""
 #: C/gosoverview.xml:125
 msgid ""
 "Click on the <guibutton>Show Desktop</guibutton> button at the far left of "
-"the <link linkend=\"bottom-panel\">bottom panel</link>."
+"the <xref linkend=\"bottom-panel\"/>."
 msgstr ""
 "Klik på knappen <guibutton>Vis skrivebord</guibutton> længst til venstre i "
-"det <link linkend=\"bottom-panel\">nederste panel</link>."
+"<xref linkend=\"bottom-panel\"/>."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:126
@@ -16439,14 +16418,14 @@ msgstr "Ændr størrelse på vinduet"
 #: C/gosoverview.xml:236
 msgid ""
 "Drag one of the borders to expand or contract the window on that side. Drag "
-"a corner to change two sides at once. The <link linkend=\"mouse-"
-"pointers\">resize pointer</link> appears when your mouse is in the correct "
-"position to begin the drag action."
+"a corner to change two sides at once. The resize pointer (see <xref linkend"
+"=\"mouse-pointers\"/>) appears when your mouse is in the correct position to"
+" begin the drag action."
 msgstr ""
 "Træk en af kanterne for at udvide eller indskrænke vinduet på den side. Træk"
-" et hjørne for at ændre to sider på samme tid. <link linkend=\"mouse-"
-"pointers\">Ændr markør</link> vises når din mus er i den korrekte position "
-"til at begynde træk-handlingen."
+" et hjørne for at ændre to sider på samme tid. Ændr markør (se <xref linkend"
+"=\"mouse-pointers\"/>) vises, når din mus er i den korrekte position til at "
+"begynde træk-handlingen."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:238
@@ -16481,16 +16460,14 @@ msgid ""
 "Click on the Minimize button in the titlebar, the leftmost of the group of "
 "three on the right. This removes the window from view. The window can be "
 "restored to its previous position and size on the screen from the "
-"<firstterm>window list</firstterm> on the <link "
-"linkend=\"gospanel-3\">bottom edge panel</link> or the <firstterm>window "
-"selector</firstterm> in the top panel."
+"<firstterm>window list</firstterm> on the <xref linkend=\"bottom-panel\"/> "
+"or the <firstterm>window selector</firstterm> in the top panel."
 msgstr ""
 "Klik på knappen Minimer i titellinjen, den længst mod venstre i gruppen af "
 "tre til højre. Dette fjerner vinduet fra visning. Vinduet kan gendannes til "
 "sin tidligere position og størrelse på skærmen fra "
-"<firstterm>vindueslisten</firstterm> på det <link "
-"linkend=\"gospanel-3\">nederste kantpanel</link> eller fra "
-"<firstterm>vinduesvælgeren</firstterm> i det øverste panel."
+"<firstterm>vindueslisten</firstterm> på <xref linkend=\"bottom-panel\"/> "
+"eller fra <firstterm>vinduesvælgeren</firstterm> i det øverste panel."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:247
@@ -16684,13 +16661,11 @@ msgstr ""
 #. (itstool) path: note/para
 #: C/gosoverview.xml:318
 msgid ""
-"You can customize the shortcut used to perform this action with the <link "
-"linkend=\"prefs-keyboard-shortcuts\">Keyboard Shortcuts preference "
-"tool</link>."
+"You can customize the shortcut used to perform this action with the <xref "
+"linkend=\"prefs-keyboard-shortcuts\"/> tool."
 msgstr ""
 "Du kan tilpasse genvejen brugt til at udføre denne handling med "
-"præferenceværktøjet <link linkend=\"prefs-keyboard-"
-"shortcuts\">Tastaturgenveje</link>."
+"præferenceværktøjet <xref linkend=\"prefs-keyboard-shortcuts\"/>."
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:330
@@ -16719,23 +16694,23 @@ msgstr ""
 msgid ""
 "By default, four workspaces are available. You can switch between them with "
 "the <application>Workspace Switcher</application> applet at the right of the"
-" <link linkend=\"bottom-panel\">bottom panel</link>. This shows a "
-"representation of your workspaces, by default a row of four rectangles. "
-"Click on one to switch to that workspace. In <xref linkend=\"gosoverview-"
-"FIG-42\"/>, <application>Workspace Switcher</application> contains four "
-"workspaces. The first three workspaces contain open windows. The last "
-"workspace does not contain currently open windows. The currently active "
-"workspace is highlighted."
+" <xref linkend=\"bottom-panel\"/>. This shows a representation of your "
+"workspaces, by default a row of four rectangles. Click on one to switch to "
+"that workspace. In <xref linkend=\"gosoverview-FIG-42\"/>, "
+"<application>Workspace Switcher</application> contains four workspaces. The "
+"first three workspaces contain open windows. The last workspace does not "
+"contain currently open windows. The currently active workspace is "
+"highlighted."
 msgstr ""
 "Som standard er fire arbejdsrum tilgængelige. Du kan skifte mellem dem med "
 "panelprogrammet <application>Skift af arbejdsrum</application> til højre i "
-"<link linkend=\"bottom-panel\">bundpanelet</link>. Dette viser en "
-"repræsentation af dine arbejdsrum, som standard en række med fire "
-"rektangler. Klik på en for at skifte til det arbejdsrum. I <xref linkend"
-"=\"gosoverview-FIG-42\"/>, indeholder <application>Skift af "
-"arbejdsrum</application> fire arbejdsrum. De første tre arbejdsrum "
-"indeholder åbne vinduer. Det sidste arbejdsrum indeholder ikke nogle åbne "
-"vinduer. Det aktuelt aktive arbejdsrum er fremhævet."
+"<xref linkend=\"bottom-panel\"/>. Dette viser en repræsentation af dine "
+"arbejdsrum, som standard en række med fire rektangler. Klik på en for at "
+"skifte til det arbejdsrum. I <xref linkend=\"gosoverview-FIG-42\"/>, "
+"indeholder <application>Skift af arbejdsrum</application> fire arbejdsrum. "
+"De første tre arbejdsrum indeholder åbne vinduer. Det sidste arbejdsrum "
+"indeholder ikke nogle åbne vinduer. Det aktuelt aktive arbejdsrum er "
+"fremhævet."
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:338
@@ -16988,20 +16963,19 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:414
 msgid ""
-"<link linkend=\"caja\"><application>Caja File Manager</application></link> "
+"<application>Caja File Manager</application> (see <xref linkend=\"caja\"/>) "
 "displays your folders and their contents. Use this to copy, move and "
 "classify your files, and to access CDs, USB flash drives, and any other "
-"removable media. When you choose an item from the <link linkend=\"places-"
-"menu\"><guimenu>Places</guimenu> menu</link>, a <application>Caja File "
-"Manager</application> window opens showing that location."
+"removable media. When you choose an item from the <xref linkend=\"places-"
+"menu\"/>, a <application>Caja File Manager</application> window opens "
+"showing that location."
 msgstr ""
-"<link linkend=\"caja\"><application>Filhåndteringen "
-"Caja</application></link> viser dine mapper og deres indhold. Brug denne til"
-" at kopiere, flytte og klassificere dine filer, og til at tilgå cd'er, USB-"
-"drev og andre eksterne medier. Når du vælger et element fra menuen <link "
-"linkend=\"places-menu\"><guimenu>Steder</guimenu> </link>, så åbnes et "
-"vindue i <application>filhåndteringen Caja</application>, som viser det "
-"sted."
+"<application>Filhåndteringen Caja</application> (se <xref "
+"linkend=\"caja\"/>) viser dine mapper og deres indhold. Brug denne til at "
+"kopiere, flytte og klassificere dine filer, og til at tilgå cd'er, USB-drev "
+"og andre eksterne medier. Når du vælger et element fra menuen <xref linkend"
+"=\"places-menu\"/>, så åbnes et vindue i <application>filhåndteringen "
+"Caja</application>, som viser det sted."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:415
@@ -17079,14 +17053,12 @@ msgstr "Ens udseende"
 #: C/gosoverview.xml:429
 msgid ""
 "MATE-compliant applications have a consistent look-and-feel. You can use the"
-" <link linkend=\"prefs-theme\"><application>Appearance</application> "
-"preference tool</link> to change the look-and-feel of your MATE-compliant "
-"applications."
+" <xref linkend=\"prefs-theme\"/> tool to change the look-and-feel of your "
+"MATE-compliant applications."
 msgstr ""
-"MATE-overholdende programmer har et ens udseende. Du kan bruge "
-"præferenceværktøjet <link linkend=\"prefs-"
-"theme\"><application>Udseende</application></link> til at ændre udseendet på"
-" dine MATE-overholdende programmer."
+"MATE-overholdende programmer har et ens udseende. Du kan bruge værktøjet "
+"<xref linkend=\"prefs-theme\"/> til at ændre udseendet på dine MATE-"
+"overholdende programmer."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:432
@@ -17278,12 +17250,13 @@ msgstr "Åbn en mappe som er vist i det nuværende sted."
 msgid ""
 "Open an item in the left-hand pane. This pane lists places such as your "
 "Documents folder, your Home Folder, media such as CDs and flash drives, "
-"places on your network, and your <link linkend=\"caja-"
-"bookmarks\">bookmarks</link>."
+"places on your network, and your bookmarks (see <xref linkend=\"caja-"
+"bookmarks\"/> for more on bookmarks)."
 msgstr ""
 "Åbn et element i det venstre panel. Dette panel viser steder såsom din "
 "dokumentmappe, din hjemmemappe, medier såsom cd'er og flaskdrev, steder på "
-"dit netværk og dine <link linkend=\"caja-bookmarks\">bogmærker</link>."
+"dit netværk og dine bogmærker (se <xref linkend=\"caja-bookmarks\"/> for "
+"detaljer om bogmærker)."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:478
@@ -17569,14 +17542,14 @@ msgstr ""
 #: C/gosoverview.xml:527
 msgid ""
 "The expanded <guilabel>Save File</guilabel> dialog has the same features as "
-"the <link linkend=\"filechooser-open\"><guilabel>Open File</guilabel> "
-"dialog</link>, such as filtering, find-as-you-type, and adding and removing "
+"the <guilabel>Open File</guilabel> dialog (see <xref linkend=\"filechooser-"
+"open\"/>), such as filtering, find-as-you-type, and adding and removing "
 "bookmarks."
 msgstr ""
 "Den udvidede dialog <guilabel>Gem fil</guilabel> har de samme funktioner som"
-" dialogen <link linkend=\"filechooser-open\"><guilabel>Åbn "
-"fil</guilabel></link>, såsom filtrering, find mens du taster og tilføjelse "
-"og fjernelse af bogmærker."
+" dialogen <guilabel>Åbn fil</guilabel> (se <xref linkend=\"filechooser-"
+"open\"/>), såsom filtrering, find mens du taster og tilføjelse og fjernelse "
+"af bogmærker."
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:530
@@ -18138,15 +18111,13 @@ msgstr "<guilabel>Ingen (brug systemtema)</guilabel>"
 #. (itstool) path: entry/para
 #: C/gospanel.xml:268
 msgid ""
-"Select this option to have the panel use the settings in the <link linkend"
-"=\"prefs-theme\"><application>Appearance</application> preference "
-"tool</link>. This keeps your panel's background looking the same as the rest"
-" of the desktop and applications."
+"Select this option to have the panel use the settings in the <xref linkend"
+"=\"prefs-theme\"/> tool. This keeps your panel's background looking the same"
+" as the rest of the desktop and applications."
 msgstr ""
 "Vælg denne indstilling for at få panelet til at bruge indstillingerne i "
-"præferenceværktøjet <link linkend=\"prefs-"
-"theme\"><application>Udseende</application></link>. Dette får dit panels "
-"baggrund til at ligne resten af skrivebordet og resten af programmerne."
+"værktøjet <xref linkend=\"prefs-theme\"/>. Dette får dit panels baggrund til"
+" at ligne resten af skrivebordet og resten af programmerne."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:273
@@ -18225,16 +18196,15 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:322
 msgid ""
-"You can drag a color or a pattern from the <link linkend=\"caja-backgrounds-"
-"and-emblems\"><guilabel>Backgrounds and Emblems</guilabel> dialog</link> in "
-"<application>Caja</application> file manager to a panel to set it as the "
-"background."
+"You can drag a color or a pattern from the <guilabel>Backgrounds and "
+"Emblems</guilabel> dialog (see <xref linkend=\"caja-backgrounds-and-"
+"emblems\"/>) in <application>Caja</application> file manager to a panel to "
+"set it as the background."
 msgstr ""
-"Du kan trække en farve eller et mønster fra <link linkend=\"caja-"
-"backgrounds-and-emblems\"><guilabel>Baggrunde og "
-"Emblemer</guilabel>-dialogen</link> i filhåndteringen "
-"<application>Caja</application> til et panel for at angive disse som "
-"baggrunden."
+"Du kan trække en farve eller et mønster fra dialogen <guilabel>Baggrunde og "
+"Emblemer</guilabel> (se <xref linkend=\"caja-backgrounds-and-emblems\"/> i "
+"filhåndteringen <application>Caja</application> til et panel for at angive "
+"disse som baggrunden."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:326
@@ -18328,14 +18298,15 @@ msgid ""
 "You can set a panel to autohide. When you set autohide, the panel hides "
 "automatically when the mouse is not pointing to the panel. The panel "
 "reappears when you point to the part of the screen where the panel resides. "
-"To set your panel to autohide, <link linkend=\"panel-properties\">modify the"
-" properties</link> of the panel."
+"To set your panel to autohide, modify the properties of the panel as per the"
+" instructions in <xref linkend=\"panel-properties\"/>."
 msgstr ""
 "Du kan indstille et panel til automatisk skjulning. Når du angiver "
 "automatisk skjulning, så skjules panelet automatisk når musen ikke peger på "
 "panelet. Panelet dukker op igen, når du peger på den del af skærmen hvor "
-"panelet befinder sig. For at indstille dit panel til automatisk skjulning, "
-"<link linkend=\"panel-properties\">ændr egenskaberne </link> for panelet."
+"panelet befinder sig. For at indstille dit panel til automatisk skjul ændres"
+" egenskaberne for panelet jævnfør instruktionerne i <xref linkend=\"panel-"
+"properties\"/>."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:362
@@ -18475,19 +18446,19 @@ msgstr ""
 msgid ""
 "Some applets have popup menus of applet-specific commands that open when you"
 " right-click on particular parts of the applet. For example, the "
-"<application><link linkend=\"windowlist\">Window List</link></application> "
-"applet has a vertical handle on the left side, and buttons that represent "
-"your windows on the right side. To open the panel object popup menu for the "
+"<application><xref linkend=\"windowlist\"/></application> applet has a "
+"vertical handle on the left side, and buttons that represent your windows on"
+" the right side. To open the panel object popup menu for the "
 "<application>Window List</application> applet, you must right-click on the "
 "handle. If you right-click on a button on the right side, a popup menu for "
 "the button opens."
 msgstr ""
 "Nogle panelprogrammer har pop op-menuer med panelprogramspecifikke "
 "kommandoer, der åbne når du højreklikker på bestemte dele af "
-"panelprogrammet. For eksempel har panelprogrammet <application><link "
-"linkend=\"windowlist\">Vinduesliste</link></application> et lodret håndtag "
-"på venstre side og knapper der repræsenterer dine vinduer på højre side. For"
-" at åbne panelobjektets pop op-menu for panelprogrammet "
+"panelprogrammet. For eksempel har panelprogrammet <application><xref "
+"linkend=\"windowlist\"/></application> et lodret håndtag på venstre side og "
+"knapper der repræsenterer dine vinduer på højre side. For at åbne "
+"panelobjektets pop op-menu for panelprogrammet "
 "<application>Vinduesliste</application>, du skal højreklikke på håndtaget. "
 "Hvis du højreklikker på en knap på højre side vil en pop op-menu for knappen"
 " åbne."
@@ -18538,12 +18509,11 @@ msgstr "Vælg <guisubmenu>Tilføj til panel</guisubmenu>."
 #: C/gospanel.xml:476
 msgid ""
 "The <guilabel>Add to Panel</guilabel> dialog opens.The available panel "
-"objects are listed alphabetically, with <link "
-"linkend=\"launchers\">launchers</link> at the top."
+"objects are listed alphabetically, with <xref linkend=\"launchers\"/> at the"
+" top."
 msgstr ""
 "Dialogen <guilabel>Tilføj til panel</guilabel> åbner. De tilgængelige "
-"panelobjekter vises alfabetisk, med <link "
-"linkend=\"launchers\">startere</link> øverst."
+"panelobjekter vises alfabetisk, med <xref linkend=\"launchers\"/> øverst."
 
 #. (itstool) path: tip/para
 #: C/gospanel.xml:477
@@ -19105,12 +19075,12 @@ msgstr "Fra panelets pop op-menu"
 #: C/gospanel.xml:741
 msgid ""
 "Right-click on any vacant space on the panel, then choose <guimenu>Add to "
-"Panel</guimenu>. The <link linkend=\"panels-addobject\"><guilabel>Add to "
-"Panel</guilabel> dialog</link> opens."
+"Panel</guimenu>. The <guilabel>Add to Panel</guilabel> dialog opens (see "
+"<xref linkend=\"panels-addobject\"/>)."
 msgstr ""
 "Højreklik på en ledig plads i panelet, vælg så <guimenu>Tilføj til "
-"panel</guimenu>. Dialogen <link linkend=\"panels-"
-"addobject\"><guilabel>Tilføj til panel</guilabel></link>åbner sig."
+"panel</guimenu>. Dialogen <guilabel>Tilføj til panel</guilabel>åbner sig (se"
+" <xref linkend=\"panels-addobject\"/>)."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:743
@@ -19740,14 +19710,12 @@ msgstr "<guimenuitem>Egenskaber</guimenuitem>"
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1110
 msgid ""
-"Opens the <link linkend=\"prefs-"
-"screensaver\"><application>Screensaver</application> preference tool</link>,"
-" with which you can configure the type of screensaver that is displayed when"
-" you lock the screen."
+"Opens the <xref linkend=\"prefs-screensaver\"/> tool, with which you can "
+"configure the type of screensaver that is displayed when you lock the "
+"screen."
 msgstr ""
-"Åbner præferenceværktøjet for <link linkend=\"prefs-"
-"screensaver\"><application>Pauseskærm</application></link>, som du kan bruge"
-" til at konfigurere typen af pauseskærm, som vises når du låser skærmen."
+"Åbner værktøjet for <xref linkend=\"prefs-screensaver\"/>, som du kan bruge "
+"til at konfigurere typen af pauseskærm, som vises når du låser skærmen."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1118
@@ -21622,14 +21590,14 @@ msgstr ""
 #: C/gosstartsession.xml:326
 msgid ""
 "Before you end a session, you might want to save your current settings so "
-"that you can restore the session later. In the <link linkend=\"prefs-"
-"sessions\"><application>Sessions</application></link> preference tool, you "
-"can select an option to automatically save your current settings."
+"that you can restore the session later. In the <xref linkend=\"prefs-"
+"sessions\"/> tool, you can select an option to automatically save your "
+"current settings."
 msgstr ""
 "Før du afslutter en session, så kan du gemme dine nuværende indstillinger, "
-"så du kan gendanne sessionen senere. I præferenceværktøjet <link linkend"
-"=\"prefs-sessions\"><application>Sessioner</application></link> kan du vælge"
-" en indstilling til automatisk at gemme dine nuværende indstillinger."
+"så du kan gendanne sessionen senere. I værktøjet <xref linkend=\"prefs-"
+"sessions\"/> kan du vælge en indstilling til automatisk at gemme dine "
+"nuværende indstillinger."
 
 #. (itstool) path: info/title
 #: C/gostools.xml:7
@@ -21696,14 +21664,13 @@ msgstr "Brug af genvejstaster"
 msgid ""
 "Press <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo>. You can "
 "change the shortcut keys that display the <guilabel>Run "
-"Application</guilabel> dialog in the <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Keyboard Shortcuts</application> preference "
-"tool</link>."
+"Application</guilabel> dialog in the <application><xref linkend=\"prefs-"
+"keyboard-shortcuts\"/></application> tool."
 msgstr ""
 "Tryk <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo>. Du kan "
 "ændre genvejstasterne som viser dialogen <guilabel>Kør program</guilabel> i "
-"præferenceværktøjet <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Tastaturgenveje</application> </link>."
+"værktøjet <application><xref linkend=\"prefs-keyboard-"
+"shortcuts\"/></application>."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:28
@@ -21849,21 +21816,19 @@ msgstr "Tag et skærmbillede af det aktive vindue."
 #. (itstool) path: listitem/para
 #: C/gostools.xml:124
 msgid ""
-"You can use the <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Keyboard Shortcuts</application> preference "
-"tool</link> to modify the default shortcut keys."
+"You can use the <application><xref linkend=\"prefs-keyboard-"
+"shortcuts\"/></application> tool to modify the default shortcut keys."
 msgstr ""
-"Du kan bruge præferenceværktøjet <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Genvejstaster</application> </link> til at ændre "
-"standardgenvejene."
+"Du kan bruge værktøjet <application><xref linkend=\"prefs-keyboard-"
+"shortcuts\"/></application>  til at ændre standardgenvejene."
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:128
+#: C/gostools.xml:127
 msgid "From the Menubar"
 msgstr "Fra menulinjen"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:129
+#: C/gostools.xml:128
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Applications</guimenu><guimenuitem>Accessories</guimenuitem>"
@@ -21874,12 +21839,12 @@ msgstr ""
 " <guimenuitem>Gem skærmbillede</guimenuitem></menuchoice>."
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:133
+#: C/gostools.xml:132
 msgid "From the Terminal"
 msgstr "Fra terminalen"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:134
+#: C/gostools.xml:133
 msgid ""
 "You can use the <command>mate-screenshot</command> command to take a "
 "screenshot. The <command>mate-screenshot</command> command takes a "
@@ -21894,7 +21859,7 @@ msgstr ""
 "gemme skærmbilledet."
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:140
+#: C/gostools.xml:139
 msgid ""
 "You can also use options on the <command>mate-screenshot</command> command "
 "as follows:"
@@ -21902,22 +21867,22 @@ msgstr ""
 "Du kan også bruge tilvalg for kommandoen <command>mate-screenshot</command>:"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:161
+#: C/gostools.xml:160
 msgid "<command>--window</command>"
 msgstr "<command>--window</command>"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:166
+#: C/gostools.xml:165
 msgid "Takes a screenshot of the window that has focus."
 msgstr "Tager et skærmbillede af vinduet i fokus"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:171
+#: C/gostools.xml:170
 msgid "<command>--delay=<replaceable>seconds</replaceable></command>"
 msgstr "<command>--delay=<replaceable>sekunder</replaceable></command>"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:176
+#: C/gostools.xml:175
 msgid ""
 "Takes a screenshot after the specified number of seconds, and displays the "
 "<guilabel>Save Screenshot</guilabel> dialog. Use the <guilabel>Save "
@@ -21928,68 +21893,68 @@ msgstr ""
 "skærmbillede</guilabel> til at gemme skærmbilledet."
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:186
+#: C/gostools.xml:185
 msgid "<command>--include-border</command>"
 msgstr "<command>--include-border</command>"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:191
+#: C/gostools.xml:190
 msgid "Takes a screenshot including the border of the window."
 msgstr "Tag et skærmbillede inklusiv vindueskanten."
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:196
+#: C/gostools.xml:195
 msgid "<command>--remove-border</command>"
 msgstr "<command>--remove-border</command>"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:201
+#: C/gostools.xml:200
 msgid "Takes a screenshot without the border of the window."
 msgstr "Tag et skærmbillede uden vindueskanten."
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:206
+#: C/gostools.xml:205
 msgid "<command>--border-effect=shadow</command>"
 msgstr "<command>--border-effect=shadow</command>"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:211
+#: C/gostools.xml:210
 msgid "Takes a screenshot and adds a shadow bevel effect around it."
 msgstr ""
 "Tager et skærmbillede og tilføjer en skrå skyggeeffekt omkring billedet."
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:216
+#: C/gostools.xml:215
 msgid "<command>--border-effect=border</command>"
 msgstr "<command>--border-effect=border</command>"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:221
+#: C/gostools.xml:220
 msgid "Takes a screenshot and adds a border effect around it."
 msgstr "Tager et skærmbillede og tilføjer en kant omkring billedet."
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:226
+#: C/gostools.xml:225
 msgid "<command>--interactive</command>"
 msgstr "<command>--interactive</command>"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:231
+#: C/gostools.xml:230
 msgid "Opens a window that lets you set options before taking the screenshot."
 msgstr "Åbner et vindue og lader dig angive tilvalg før skærmbilledet laves."
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:236
+#: C/gostools.xml:235
 msgid "<command>--help</command>"
 msgstr "<command>--help</command>"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:241
+#: C/gostools.xml:240
 msgid "Displays the options for the command."
 msgstr "Viser tilvalgene for kommandoen."
 
 #. (itstool) path: section/para
-#: C/gostools.xml:250
+#: C/gostools.xml:249
 msgid ""
 "When you take a screenshot, the <guilabel>Save Screenshot</guilabel> dialog "
 "opens. To save the screenshot as an image file, enter the filename for the "
@@ -22007,17 +21972,17 @@ msgstr ""
 "med træk og slip."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:259
+#: C/gostools.xml:258
 msgid "Yelp Help Browser"
 msgstr "Yelp - hjælpebrowser"
 
 #. (itstool) path: section/indexterm
-#: C/gostools.xml:260
+#: C/gostools.xml:259
 msgid "<primary>Yelp</primary>"
 msgstr "<primary>Yelp</primary>"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:266
+#: C/gostools.xml:265
 msgid ""
 "The <application>Yelp Help Browser</application> application allows you to "
 "view documentation regarding MATE and other components through a variety of "
@@ -22035,7 +22000,7 @@ msgstr ""
 "dokumentformat."
 
 #. (itstool) path: section/para
-#: C/gostools.xml:273
+#: C/gostools.xml:272
 msgid ""
 "<application>Yelp Help Browser</application> is internationalized, meaning "
 "that it has support to view documents in different languages. The documents "
@@ -22048,17 +22013,17 @@ msgstr ""
 "sprog og korrekt installeret for at hjælpebrowseren Yelp kan se dem."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:281
+#: C/gostools.xml:280
 msgid "Starting Yelp"
 msgstr "Start Yelp"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:283
+#: C/gostools.xml:282
 msgid "To Start <application>Yelp Help Browser</application>"
 msgstr "For at starte <application>Yelp - hjælpebrowseren</application>"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:284
+#: C/gostools.xml:283
 msgid ""
 "You can start <application>Yelp Help Browser</application> in the following "
 "ways:"
@@ -22067,32 +22032,32 @@ msgstr ""
 "måder:"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:288
+#: C/gostools.xml:287
 msgid "<guimenu>System</guimenu> Menu"
 msgstr "<guimenu>System</guimenu> Menu"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:291
+#: C/gostools.xml:290
 msgid "Choose <application>Help</application>"
 msgstr "Vælg <application>Hjælp</application>"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:296
+#: C/gostools.xml:295
 msgid "Command Line"
 msgstr "Kommandolinje"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:299
+#: C/gostools.xml:298
 msgid "Execute the following command: <command>yelp</command>"
 msgstr "Kør den følgende kommando: <command>yelp</command>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:306
+#: C/gostools.xml:305
 msgid "Interface"
 msgstr "Grænseflade"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:307
+#: C/gostools.xml:306
 msgid ""
 "When you start <application>Yelp Help Browser</application>, you will see "
 "the following window appear."
@@ -22101,7 +22066,7 @@ msgstr ""
 "det følgende vindue."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:310
+#: C/gostools.xml:309
 msgid "<application>Yelp Help Browser</application> Window"
 msgstr "<application>Yelp - hjælpebrowser</application>-vindue"
 
@@ -22110,7 +22075,7 @@ msgstr "<application>Yelp - hjælpebrowser</application>-vindue"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:313
+#: C/gostools.xml:312
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_window.png' "
@@ -22120,7 +22085,7 @@ msgstr ""
 "md5='c7138987ae131fe2c57846a281245d31'"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:310
+#: C/gostools.xml:309
 msgid ""
 "<_:figure-1/><application>Yelp Help Browser</application> contains the "
 "following elements in <xref linkend=\"fig-yelp-window\"/>"
@@ -22129,12 +22094,12 @@ msgstr ""
 "følgende elementer i <xref linkend=\"fig-yelp-window\"/>"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:325
+#: C/gostools.xml:324
 msgid "<guimenu>File</guimenu>"
 msgstr "<guimenu>Fil</guimenu>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:328
+#: C/gostools.xml:327
 msgid ""
 "Use this menu to Open a New Window, view the About this Document page, Print"
 " the current document, or Close the window."
@@ -22143,12 +22108,12 @@ msgstr ""
 "udskrive det nuværende dokument eller lukke vinduet."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:335
+#: C/gostools.xml:334
 msgid "<guimenu>Edit</guimenu>"
 msgstr "<guimenu>Rediger</guimenu>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:338
+#: C/gostools.xml:337
 msgid ""
 "Use this menu to Copy, Select all, Find..., or to set your Preferences."
 msgstr ""
@@ -22156,12 +22121,12 @@ msgstr ""
 "præferencer."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:344
+#: C/gostools.xml:343
 msgid "<guimenu>Go</guimenu>"
 msgstr "<guimenu>Gå til</guimenu>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:347
+#: C/gostools.xml:346
 msgid ""
 "Use this menu to navigate Back, Forward, to the Help Topics page. When "
 "viewing a DocBook document, use this menu to navigate to the Next Section, "
@@ -22172,22 +22137,22 @@ msgstr ""
 "næste afsnit, forrige afsnit eller til indholdet."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:355
+#: C/gostools.xml:354
 msgid "<guimenu>Bookmarks</guimenu>"
 msgstr "<guimenu>Bogmærker</guimenu>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:358
+#: C/gostools.xml:357
 msgid "Use this menu to Add Bookmark(s), or Edit Bookmark(s)."
 msgstr "Brug denne menu til at tilføje bogmærker, eller redigere bogmærker."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:364
+#: C/gostools.xml:363
 msgid "<guimenu>Help</guimenu>"
 msgstr "<guimenu>Hjælp</guimenu>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:367
+#: C/gostools.xml:366
 msgid ""
 "View information about Yelp Help Browser and contributors to the project "
 "through the <guimenuitem>About</guimenuitem> menuitem. Open this document "
@@ -22200,32 +22165,32 @@ msgstr ""
 "<keycap>F1</keycap>."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:384
+#: C/gostools.xml:383
 msgid "<guibutton>Back</guibutton>"
 msgstr "<guibutton>Tilbage</guibutton>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:387
+#: C/gostools.xml:386
 msgid "Use this button to navigate back in your document history."
 msgstr "Brug denne knap til at navigere tilbage i din dokumenthistorik."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:393
+#: C/gostools.xml:392
 msgid "<guibutton>Forward</guibutton>"
 msgstr "<guibutton>Fremad</guibutton>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:396
+#: C/gostools.xml:395
 msgid "Use this button to navigate forward in your document history."
 msgstr "Brug denne knap til at navigere fremad i din dokumenthistorik."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:402
+#: C/gostools.xml:401
 msgid "<guibutton>Help Topics</guibutton>"
 msgstr "<guibutton>Hjælpeemner</guibutton>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:405
+#: C/gostools.xml:404
 msgid ""
 "Use this button to return to the main table of contents (shown in <xref "
 "linkend=\"fig-yelp-window\"/>)."
@@ -22234,12 +22199,12 @@ msgstr ""
 "linkend=\"fig-yelp-window\"/>)."
 
 #. (itstool) path: term/interface
-#: C/gostools.xml:414
+#: C/gostools.xml:413
 msgid "Browser Pane"
 msgstr "Filvælgerpanel"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:417
+#: C/gostools.xml:416
 msgid ""
 "The browser pane is where you will be presented with the table of contents "
 "or the documentation. Use the table of contents to navigate to the "
@@ -22250,17 +22215,17 @@ msgstr ""
 "dokumentationen du har behov for."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:428
+#: C/gostools.xml:427
 msgid "Using Yelp"
 msgstr "Brug af Yelp"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:430
+#: C/gostools.xml:429
 msgid "Open a Document"
 msgstr "Åbn et dokument"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:435
+#: C/gostools.xml:434
 msgid ""
 "In an application, click <menuchoice> <guimenu>Help</guimenu> "
 "<guimenuitem>Contents</guimenuitem> </menuchoice>"
@@ -22269,24 +22234,24 @@ msgstr ""
 "<guimenuitem>Indhold</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:443
+#: C/gostools.xml:442
 msgid "Use the Table of Contents to navigate to the desired document."
 msgstr "Brug indholdsfortegnelsen til at navigere til det ønskede dokument."
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:446
+#: C/gostools.xml:445
 msgid ""
 "You can drag a Docbook XML file from Caja to the Yelp window or launcher."
 msgstr ""
 "Du kan trække en Docbook XML-fil fra Caja til Yelp-vinduet eller genvejen."
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:449
+#: C/gostools.xml:448
 msgid "Press the <keycap>F1</keycap> key."
 msgstr "Tryk på tasten <keycap>F1</keycap>."
 
 #. (itstool) path: section/para
-#: C/gostools.xml:431
+#: C/gostools.xml:430
 msgid ""
 "To open a document in <application>Yelp Help Browser</application>: "
 "<_:itemizedlist-1/>"
@@ -22295,7 +22260,7 @@ msgstr ""
 "<_:itemizedlist-1/>"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:454
+#: C/gostools.xml:453
 msgid ""
 "Alternatively, you may view a particular document by invoking Yelp Help "
 "Browser from the command line or dragging files to Yelp. See <xref linkend"
@@ -22306,17 +22271,17 @@ msgstr ""
 "open-specific\"/> for mere om dette."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:458
+#: C/gostools.xml:457
 msgid "Open a New Window"
 msgstr "Åbn et nyt vindue"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:459
+#: C/gostools.xml:458
 msgid "To open a new window:"
 msgstr "For at åbne et nyt vindue:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:463
+#: C/gostools.xml:462
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>New "
 "Window</guimenuitem> </menuchoice>"
@@ -22325,7 +22290,7 @@ msgstr ""
 "vindue</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:471
+#: C/gostools.xml:470
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>N</keycap></keycombo>"
@@ -22334,17 +22299,17 @@ msgstr ""
 "<keycombo><keycap>Ctrl</keycap><keycap>N</keycap></keycombo>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:477
+#: C/gostools.xml:476
 msgid "About This Document"
 msgstr "Om dette dokument"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:478
+#: C/gostools.xml:477
 msgid "To view information about the currently open document:"
 msgstr "For at se information om det åbne dokument:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:482
+#: C/gostools.xml:481
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>About This "
 "Document</guimenuitem> </menuchoice>"
@@ -22353,7 +22318,7 @@ msgstr ""
 "dokument</guimenuitem> </menuchoice>"
 
 #. (itstool) path: note/para
-#: C/gostools.xml:489
+#: C/gostools.xml:488
 msgid ""
 "This option is only available for DocBook documentation. Legal notices and "
 "documentation contributors are usually listed in this section."
@@ -22362,12 +22327,12 @@ msgstr ""
 "bemærkninger og dokumentationsbidragydere er normalt vist i dette afsnit."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:495
+#: C/gostools.xml:494
 msgid "Print a Page"
 msgstr "Udskriv en side"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:496
+#: C/gostools.xml:495
 msgid ""
 "To print any page that you are able to view in <application>Yelp Help "
 "Browser</application>:"
@@ -22376,7 +22341,7 @@ msgstr ""
 "hjælpebrowser</application>:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:500
+#: C/gostools.xml:499
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print this "
 "Page</guimenuitem> </menuchoice>"
@@ -22385,17 +22350,17 @@ msgstr ""
 "side</guimenuitem> </menuchoice>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:509
+#: C/gostools.xml:508
 msgid "Print a Document"
 msgstr "Udskriv et dokument"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:510
+#: C/gostools.xml:509
 msgid "To print an entire document:"
 msgstr "For at udskrive et helt dokument"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:514
+#: C/gostools.xml:513
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print this "
 "Document</guimenuitem> </menuchoice>"
@@ -22404,17 +22369,17 @@ msgstr ""
 "dokument</guimenuitem> </menuchoice>"
 
 #. (itstool) path: note/para
-#: C/gostools.xml:521
+#: C/gostools.xml:520
 msgid "This option is only available for DocBook documentation."
 msgstr "Denne indstilling er kun tilgængelige for DocBook-dokumentation"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:526
+#: C/gostools.xml:525
 msgid "Close a Window"
 msgstr "Luk et vindue"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:527
+#: C/gostools.xml:526
 msgid ""
 "To close a window in <application>Yelp Help Browser</application>, do the "
 "following:"
@@ -22423,7 +22388,7 @@ msgstr ""
 "Yelp</application>:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:531
+#: C/gostools.xml:530
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Close "
 "Window</guimenuitem> </menuchoice>"
@@ -22432,7 +22397,7 @@ msgstr ""
 "vindue</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:539
+#: C/gostools.xml:538
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>W</keycap></keycombo>"
@@ -22441,12 +22406,12 @@ msgstr ""
 "<keycombo><keycap>Ctrl</keycap><keycap>W</keycap></keycombo>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:545
+#: C/gostools.xml:544
 msgid "Set Preferences"
 msgstr "Angiv præferencer"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:546
+#: C/gostools.xml:545
 msgid ""
 "To set your preferences in <application>Yelp Help Browser</application>:"
 msgstr ""
@@ -22454,7 +22419,7 @@ msgstr ""
 "hjælpebrowser</application>:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:550
+#: C/gostools.xml:549
 msgid ""
 "Click <menuchoice> <guimenu>Edit</guimenu> "
 "<guimenuitem>Preferences</guimenuitem> </menuchoice>"
@@ -22463,7 +22428,7 @@ msgstr ""
 "<guimenuitem>Præferencer</guimenuitem> </menuchoice>"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:548
+#: C/gostools.xml:547
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-preferences\"/>:"
@@ -22472,7 +22437,7 @@ msgstr ""
 "preferences\"/>:"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:558
+#: C/gostools.xml:557
 msgid "<application>Yelp Help Browser</application> Preferences Window"
 msgstr "<application>Yelp - hjælpebrowser</application>-præferencevindue"
 
@@ -22481,7 +22446,7 @@ msgstr "<application>Yelp - hjælpebrowser</application>-præferencevindue"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:561
+#: C/gostools.xml:560
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_preferences.png' "
@@ -22491,7 +22456,7 @@ msgstr ""
 "md5='b8beb6c866957938b5e39bc7f72611ec'"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:558
+#: C/gostools.xml:557
 msgid ""
 "<_:figure-1/>The options that are available in this dialog have the "
 "following functions:"
@@ -22500,12 +22465,12 @@ msgstr ""
 "følgende funktioner:"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:569
+#: C/gostools.xml:568
 msgid "<guilabel>Use system fonts</guilabel>"
 msgstr "<guilabel>Brug systemskrifttyper</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:572
+#: C/gostools.xml:571
 msgid ""
 "Check this option to display documentation using the default fonts used by "
 "the MATE Desktop."
@@ -22514,7 +22479,7 @@ msgstr ""
 "standardskrifttyperne brugt af MATE-skrivebordet."
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:575
+#: C/gostools.xml:574
 msgid ""
 "To choose your own fonts to display documentation, uncheck this option and "
 "click on the buttons next to the text <guilabel>Variable Width</guilabel> or"
@@ -22525,12 +22490,12 @@ msgstr ""
 "<guilabel>Variabel bredde</guilabel> eller <guilabel>Fast bredde</guilabel>."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:582
+#: C/gostools.xml:581
 msgid "<guilabel>Variable Width</guilabel>"
 msgstr "<guilabel>Variabel bredde</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:585
+#: C/gostools.xml:584
 msgid ""
 "This is the font to use when a static or fixed width font is not required. "
 "The majority of text will be of this type."
@@ -22539,12 +22504,12 @@ msgstr ""
 "krævet. Hovedparten af al tekst vil være af denne type."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:592
+#: C/gostools.xml:591
 msgid "<guilabel>Fixed Width</guilabel>"
 msgstr "<guilabel>Fast bredde</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:595
+#: C/gostools.xml:594
 msgid ""
 "This is the font to use when all text characters need to be of the same "
 "size. This font is usually used to indicate commands, program blocks, or "
@@ -22555,12 +22520,12 @@ msgstr ""
 "programblokke eller anden tekst, som falder under disse kategorier."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:606
+#: C/gostools.xml:605
 msgid "<guilabel>Browse with caret</guilabel>"
 msgstr "<guilabel>Gennemse med caret</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:609
+#: C/gostools.xml:608
 msgid ""
 "Click this option if you would like see a caret or cursor in the <xref "
 "linkend=\"yelp-browser-pane\"/>. This allows you to browse the document more"
@@ -22571,17 +22536,17 @@ msgstr ""
 "gennemse dokumentet ved at vise hvor markøret er placeret i dokumentet."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:618
+#: C/gostools.xml:617
 msgid "Go Back in Document History"
 msgstr "Gå tilbage i dokumenthistorikken"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:619
+#: C/gostools.xml:618
 msgid "To go back in the document history:"
 msgstr "For at gå tilbage i dokumenthistorikken:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:623
+#: C/gostools.xml:622
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Back</guimenuitem> "
 "</menuchoice>"
@@ -22590,7 +22555,7 @@ msgstr ""
 "</menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:631
+#: C/gostools.xml:630
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Left</keycap></keycombo>"
@@ -22599,22 +22564,22 @@ msgstr ""
 "<keycombo><keycap>Alt</keycap><keycap>Venstre</keycap></keycombo>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:636
+#: C/gostools.xml:635
 msgid "Use the <guibutton>Back</guibutton> button in the <_:interface-1/>"
 msgstr "Brug tasten <guibutton>Tilbage</guibutton> i <_:interface-1/>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:642
+#: C/gostools.xml:641
 msgid "Go Forward in Document History"
 msgstr "Gå fremad i dokumenthistorikken"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:643
+#: C/gostools.xml:642
 msgid "To go forward in the document history:"
 msgstr "For at gå fremad i dokumenthistorikken:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:647
+#: C/gostools.xml:646
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Forward</guimenuitem> "
 "</menuchoice>"
@@ -22623,7 +22588,7 @@ msgstr ""
 "</menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:655
+#: C/gostools.xml:654
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Right</keycap></keycombo>"
@@ -22632,22 +22597,22 @@ msgstr ""
 "<keycombo><keycap>Alt</keycap><keycap>Højre</keycap></keycombo>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:660
+#: C/gostools.xml:659
 msgid "Use the <guibutton>Forward</guibutton> button in the <_:interface-1/>"
 msgstr "Brug tasten <guibutton>Fremad</guibutton> i <_:interface-1/>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:666
+#: C/gostools.xml:665
 msgid "Go to Help Topics"
 msgstr "Gå til hjælpeemner"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:667
+#: C/gostools.xml:666
 msgid "To go to the Help Topics:"
 msgstr "For at gå til hjælpeemnerne:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:671
+#: C/gostools.xml:670
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Help "
 "Topics</guimenuitem> </menuchoice>"
@@ -22656,7 +22621,7 @@ msgstr ""
 "<guimenuitem>Hjælpeemner</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:679
+#: C/gostools.xml:678
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Home</keycap></keycombo>"
@@ -22665,23 +22630,23 @@ msgstr ""
 "<keycombo><keycap>Alt</keycap><keycap>Hjem</keycap></keycombo>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:684
+#: C/gostools.xml:683
 msgid ""
 "Use the <guibutton>Help Topics</guibutton> button in the <_:interface-1/>"
 msgstr "Brug tasten <guibutton>Hjælpeemner</guibutton> i <_:interface-1/>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:690
+#: C/gostools.xml:689
 msgid "Go to Previous Section"
 msgstr "Gå til forrige afsnit"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:691
+#: C/gostools.xml:690
 msgid "To go to the previous section:"
 msgstr "For at gå til det forrige afsnit:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:695
+#: C/gostools.xml:694
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Previous "
 "Section</guimenuitem> </menuchoice>"
@@ -22690,7 +22655,7 @@ msgstr ""
 "afsnit</guimenuitem></menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:703
+#: C/gostools.xml:702
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Up</keycap></keycombo>"
@@ -22699,22 +22664,22 @@ msgstr ""
 "<keycombo><keycap>Alt</keycap><keycap>Op</keycap></keycombo>"
 
 #. (itstool) path: note/para
-#: C/gostools.xml:707 C/gostools.xml:731 C/gostools.xml:750
+#: C/gostools.xml:706 C/gostools.xml:730 C/gostools.xml:749
 msgid "This option is only available in DocBook formatted documents."
 msgstr "Denne mulighed er kun tilgængelig i DocBook-formaterede dokumenter."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:712
+#: C/gostools.xml:711
 msgid "Go to Next Section"
 msgstr "Gå til næste afsnit"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:715
+#: C/gostools.xml:714
 msgid "To go to the next section:"
 msgstr "For at gå til næste afsnit:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:719
+#: C/gostools.xml:718
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Next "
 "Section</guimenuitem> </menuchoice>"
@@ -22723,7 +22688,7 @@ msgstr ""
 "afsnit</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:727
+#: C/gostools.xml:726
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Down</keycap></keycombo>"
@@ -22732,17 +22697,17 @@ msgstr ""
 "<keycombo><keycap>Alt</keycap><keycap>Ned</keycap></keycombo>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:736
+#: C/gostools.xml:735
 msgid "Go to Contents"
 msgstr "Gå til indhold"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:739
+#: C/gostools.xml:738
 msgid "To go to the contents for a document:"
 msgstr "For at gå til indholdet for et dokument:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:743
+#: C/gostools.xml:742
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Contents</guimenuitem>"
 " </menuchoice>"
@@ -22751,17 +22716,17 @@ msgstr ""
 "<guimenuitem>Indhold</guimenuitem></menuchoice>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:755
+#: C/gostools.xml:754
 msgid "Add a Bookmark"
 msgstr "Tilføj et bogmærke"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:758
+#: C/gostools.xml:757
 msgid "To add a bookmark for a particular document:"
 msgstr "For at tilføje et bogmærke til et bestemt dokument:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:762
+#: C/gostools.xml:761
 msgid ""
 "Click <menuchoice> <guimenu>Bookmarks</guimenu> <guimenuitem>Add "
 "Bookmark</guimenuitem> </menuchoice>"
@@ -22770,7 +22735,7 @@ msgstr ""
 "bogmærke</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:770
+#: C/gostools.xml:769
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo>"
@@ -22779,7 +22744,7 @@ msgstr ""
 "<keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo>"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:760
+#: C/gostools.xml:759
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-add-bookmark\"/>."
@@ -22788,7 +22753,7 @@ msgstr ""
 "bookmark\"/>."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:775
+#: C/gostools.xml:774
 msgid "Add Bookmark Window"
 msgstr "Tilføj bogmærkevindue"
 
@@ -22797,7 +22762,7 @@ msgstr "Tilføj bogmærkevindue"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:778
+#: C/gostools.xml:777
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_add_bookmark.png' "
@@ -22807,7 +22772,7 @@ msgstr ""
 "md5='562a62662f47655337c9bf341ef69f6e'"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:775
+#: C/gostools.xml:774
 msgid ""
 "<_:figure-1/>Enter your desired bookmark title in to the "
 "<guilabel>Title</guilabel> text entry field. Then click "
@@ -22820,17 +22785,17 @@ msgstr ""
 "afbryde forespørgslen."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:787
+#: C/gostools.xml:786
 msgid "Edit Bookmarks"
 msgstr "Rediger bogmærker"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:788
+#: C/gostools.xml:787
 msgid "To edit your collection of bookmarks:"
 msgstr "For at redigere din samling af bogmærker:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:792
+#: C/gostools.xml:791
 msgid ""
 "Click <menuchoice> <guimenu>Bookmarks</guimenu> <guimenuitem>Edit "
 "Bookmarks...</guimenuitem> </menuchoice>"
@@ -22839,7 +22804,7 @@ msgstr ""
 "bogmærker ...</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:799
+#: C/gostools.xml:798
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>B</keycap></keycombo>"
@@ -22848,7 +22813,7 @@ msgstr ""
 "<keycombo><keycap>Ctrl</keycap><keycap>B</keycap></keycombo>"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:790
+#: C/gostools.xml:789
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-edit-bookmarks\"/>."
@@ -22858,7 +22823,7 @@ msgstr ""
 
 #. (itstool) path: info/title
 #. (itstool) path: para/interface
-#: C/gostools.xml:804 C/gostools.xml:841
+#: C/gostools.xml:803 C/gostools.xml:840
 msgid "Edit Bookmarks Window"
 msgstr "Rediger bogmærkevindue"
 
@@ -22867,7 +22832,7 @@ msgstr "Rediger bogmærkevindue"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:807
+#: C/gostools.xml:806
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_edit_bookmarks.png' "
@@ -22877,7 +22842,7 @@ msgstr ""
 "md5='6fb478c10bb9df68dc8d82f3ed4ac89b'"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:804
+#: C/gostools.xml:803
 msgid ""
 "<_:figure-1/>You can manage your bookmarks using this window in the "
 "following ways:"
@@ -22886,37 +22851,37 @@ msgstr ""
 "måder:"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:815
+#: C/gostools.xml:814
 msgid "<guibutton>Open</guibutton>"
 msgstr "<guibutton>Åbn</guibutton>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:818
+#: C/gostools.xml:817
 msgid "Use this button to open the selected bookmark in a new window."
 msgstr "Brug denne knap til at åbne det valgte bogmærke i et nyt vindue."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:824
+#: C/gostools.xml:823
 msgid "<guibutton>Rename</guibutton>"
 msgstr "<guibutton>Omdøb</guibutton>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:827
+#: C/gostools.xml:826
 msgid "Use this button to rename the title of your bookmark."
 msgstr "Brug denne knap til at omdøbe titlen på dit bogmærke."
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:833
+#: C/gostools.xml:832
 msgid "<guibutton>Remove</guibutton>"
 msgstr "<guibutton>Fjern</guibutton>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:836
+#: C/gostools.xml:835
 msgid "Use this button to delete the bookmark from your collection."
 msgstr "Brug denne knap til at slette bogmærket fra din samling."
 
 #. (itstool) path: section/para
-#: C/gostools.xml:813
+#: C/gostools.xml:812
 msgid ""
 "<_:variablelist-1/>Once you are finished managing your bookmarks, click the "
 "<guibutton>Close</guibutton> button to exit the <_:interface-2/>."
@@ -22925,12 +22890,12 @@ msgstr ""
 "på knappen <guibutton>Luk</guibutton> for at afslutte <_:interface-2/>."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:845
+#: C/gostools.xml:844
 msgid "Get Help"
 msgstr "Få hjælp"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:846
+#: C/gostools.xml:845
 msgid ""
 "To get help to use <application>Yelp Help Browser</application> (and see "
 "this document):"
@@ -22939,7 +22904,7 @@ msgstr ""
 "se dette dokument):"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:851
+#: C/gostools.xml:850
 msgid ""
 "Click <menuchoice> <guimenu>Help</guimenu> "
 "<guimenuitem>Contents</guimenuitem> </menuchoice>"
@@ -22948,22 +22913,22 @@ msgstr ""
 "<guimenuitem>Indhold</guimenuitem> </menuchoice>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:863
+#: C/gostools.xml:862
 msgid "Advanced Features"
 msgstr "Avancerede funktioner"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:865
+#: C/gostools.xml:864
 msgid "Opening Specific Documents"
 msgstr "Åbne specifikt dokument"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:867
+#: C/gostools.xml:866
 msgid "Opening Documents from the File Manager"
 msgstr "Åbne dokumenter fra filhåndteringen"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:868
+#: C/gostools.xml:867
 msgid ""
 "To open a document, such as an XML file, from the file manager, open the "
 "document in <application>Caja</application> File Manager, or drag the icon "
@@ -22976,12 +22941,12 @@ msgstr ""
 "<application>Yelp</application> eller genvejen."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:872
+#: C/gostools.xml:871
 msgid "Using the Command Line to Open Documents"
 msgstr "Brug af kommandolinjen til at åbne dokumenter"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:873
+#: C/gostools.xml:872
 msgid ""
 "Yelp Help Browser supports opening documents from the command line. There "
 "are a number of URIs (Uniform Resource Identifiers) that can be used. These "
@@ -22992,17 +22957,17 @@ msgstr ""
 " inkluderer:"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:879
+#: C/gostools.xml:878
 msgid "<option>file:</option>"
 msgstr "<option>fil:</option>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:882
+#: C/gostools.xml:881
 msgid "Use this URI when you want to access a file with yelp, for example:"
 msgstr "Brug denne URI hvis du ønsker at tilgå en fil med yelp, for eksempel:"
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:885
+#: C/gostools.xml:884
 #, no-wrap
 msgid ""
 "<userinput>yelp file:///usr/share/help/C/mate-control-center/config-"
@@ -23012,12 +22977,12 @@ msgstr ""
 "mouse.xml</userinput>"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:891
+#: C/gostools.xml:890
 msgid "<option>help:</option>"
 msgstr "<option>hjælp:</option>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:894
+#: C/gostools.xml:893
 msgid ""
 "Use this URI when you want to access MATE help documents, which are "
 "typically written in DocBook format."
@@ -23026,13 +22991,13 @@ msgstr ""
 "skrevet i DocBook-format."
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:897
+#: C/gostools.xml:896
 #, no-wrap
 msgid "<userinput>yelp help:mate-terminal</userinput>"
 msgstr "<userinput>yelp help:mate-terminal</userinput>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:899
+#: C/gostools.xml:898
 msgid ""
 "If you want to open the help document at a particular section, append a "
 "slash to the end of the URI, followed by the section id."
@@ -23041,19 +23006,19 @@ msgstr ""
 "til slutningen af URI'en, efterfulgt af afsnits-id'et."
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:902
+#: C/gostools.xml:901
 #, no-wrap
 msgid "<userinput>yelp help:mate-user-guide/yelp-advanced-cmdline</userinput>"
 msgstr ""
 "<userinput>yelp help:mate-user-guide/yelp-advanced-cmdline</userinput>"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:907
+#: C/gostools.xml:906
 msgid "<option>man:</option>"
 msgstr "<option>man:</option>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:910
+#: C/gostools.xml:909
 msgid ""
 "Use this URI when you want to access a particular man page. You can append "
 "the section of the man page you would like to view if there are multiple man"
@@ -23068,18 +23033,18 @@ msgstr ""
 "parenteserne."
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:917
+#: C/gostools.xml:916
 #, no-wrap
 msgid "<userinput>yelp man:mate-panel</userinput>"
 msgstr "<userinput>yelp man:mate-panel</userinput>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:919
+#: C/gostools.xml:918
 msgid "or"
 msgstr "eller"
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:921
+#: C/gostools.xml:920
 #, no-wrap
 msgid ""
 "<userinput>yelp 'man:intro(1)'</userinput>\n"
@@ -23089,29 +23054,29 @@ msgstr ""
 "<userinput>yelp 'man:intro(2)'</userinput>"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:927
+#: C/gostools.xml:926
 msgid "<option>info:</option>"
 msgstr "<option>info:</option>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:930
+#: C/gostools.xml:929
 msgid "Use this URI when you want to access a particular GNU info page."
 msgstr ""
 "Brug denne URI hvis du forventer at tilgå en bestemt GNU-informationsside."
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:933
+#: C/gostools.xml:932
 #, no-wrap
 msgid "<userinput>yelp info:make</userinput>"
 msgstr "<userinput>yelp info:make</userinput>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:940
+#: C/gostools.xml:939
 msgid "Refreshing Content on Demand"
 msgstr "Opdaterer indhold efter behov"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:941
+#: C/gostools.xml:940
 msgid ""
 "<application>Yelp Help Browser</application> supports the "
 "<keycombo><keycap>Ctrl</keycap><keycap>R</keycap></keycombo> shortcut keys, "
@@ -23124,12 +23089,12 @@ msgstr ""
 "ændringer til dokumenterne, mens de laves.."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:948
+#: C/gostools.xml:947
 msgid "More Information"
 msgstr "Yderligere information"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:949
+#: C/gostools.xml:948
 msgid ""
 "This section details some helper applications which <application>Yelp Help "
 "Browser</application> uses, and provides resources where you can get more "
@@ -23140,12 +23105,12 @@ msgstr ""
 "information om <application>Yelp - hjælpebrowser</application>."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:953
+#: C/gostools.xml:952
 msgid "Scrollkeeper"
 msgstr "Scrollkeeper"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:954
+#: C/gostools.xml:953
 msgid ""
 "<application>Yelp Help Browser</application> uses scrollkeeper to generate "
 "the table of contents for DocBook and HTML documentation, and also keep "
@@ -23156,12 +23121,12 @@ msgstr ""
 "også styr på oversættelser for hvert dokument."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:959
+#: C/gostools.xml:958
 msgid "MATE Documentation Utilites"
 msgstr "Redskaber til MATE-dokumentationen"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:960
+#: C/gostools.xml:959
 msgid ""
 "The documentation distributed with MATE uses this set of utilities for a "
 "variety of things:"
@@ -23170,12 +23135,12 @@ msgstr ""
 "formål:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:965
+#: C/gostools.xml:964
 msgid "Ease translation of documents to different languages."
 msgstr "Nem oversættelse af dokumenter til forskellige sprog."
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:969
+#: C/gostools.xml:968
 msgid ""
 "Provide a set of tools to help package and install documentation into the "
 "correct location and register the documentation with scrollkeeper."
@@ -23185,14 +23150,14 @@ msgstr ""
 "scrollkeeper."
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:975
+#: C/gostools.xml:974
 msgid ""
 "Perform conversion from DocBook format to a format suitable for display."
 msgstr ""
 "Udfør konvertering fra formatet DocBook til et format egnet til visning."
 
 #. (itstool) path: section/para
-#: C/gostools.xml:963
+#: C/gostools.xml:962
 msgid ""
 "<_:itemizedlist-1/><application>Yelp Help Browser</application> relies on "
 "<link xlink:href=\"help:mate-doc-xslt\">MATE XSLT Stylesheets</link> to "
@@ -23209,12 +23174,12 @@ msgstr ""
 "hjælpesystemet."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:983
+#: C/gostools.xml:982
 msgid "Homepage and Mailing List"
 msgstr "Hjemmeside og postliste"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:984
+#: C/gostools.xml:983
 msgid ""
 "For further information on <application>Yelp Help Browser</application>, "
 "please visit the Documentation Project homepage, <uri xlink:href=\"http"
@@ -23230,12 +23195,12 @@ msgstr ""
 "/mate-dev</uri>."
 
 #. (itstool) path: info/title
-#: C/gostools.xml:989
+#: C/gostools.xml:988
 msgid "Joining the MATE Documentation Project"
 msgstr "Slut dig til MATE-dokumentationsprojektet"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:990
+#: C/gostools.xml:989
 msgid ""
 "If you are interested in helping produce and update documentation for the "
 "MATE project, please visit the Documentation Project homepage: <uri "
@@ -25722,10 +25687,10 @@ msgid ""
 "determine what to do when you open a file. For more on this, see <xref "
 "linkend=\"caja-open-file\"/>."
 msgstr ""
-"Filendelsen kan identificere filtypen. Filhåndteringen <application>Caja "
-"bruger denne information til at bestemme hvad der skal ske, når du åbner en "
-"fil. For yderligere information om dette, se  <xref linkend=\"caja-open-"
-"file\"/>."
+"Filendelsen kan identificere filtypen. <application>Filhåndteringen "
+"Caja</application> bruger denne information til at bestemme hvad der skal "
+"ske, når du åbner en fil. For yderligere information om dette, se  <xref "
+"linkend=\"caja-open-file\"/>."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:59

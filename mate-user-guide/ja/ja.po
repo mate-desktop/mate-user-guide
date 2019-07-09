@@ -11,13 +11,14 @@
 # shinmili <rmsk.pl.ur.lpt@gmail.com>, 2019
 # Wolfgang Ulbrich <mate@raveit.de>, 2019
 # 323484, 2019
+# Aefgh Threenine <aefgh3962@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"POT-Creation-Date: 2019-03-09 23:45+0100\n"
+"POT-Creation-Date: 2019-04-22 15:09+0200\n"
 "PO-Revision-Date: 2019-03-16 17:25+0000\n"
-"Last-Translator: 323484, 2019\n"
+"Last-Translator: Aefgh Threenine <aefgh3962@gmail.com>, 2019\n"
 "Language-Team: Japanese (https://www.transifex.com/mate/teams/13566/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -69,12 +70,12 @@ msgstr ""
 #. (itstool) path: info/copyright
 #: C/index.docbook:22
 msgid "<year>2004</year> <holder>Sun Microsystems</holder>"
-msgstr ""
+msgstr "<year>2004</year> <holder>Sun Microsystems</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:26
 msgid "<year>2003</year> <holder>Sun Microsystems</holder>"
-msgstr ""
+msgstr "<year>2003</year> <holder>Sun Microsystems</holder>"
 
 #. (itstool) path: publisher/publishername
 #. (itstool) path: revdescription/para
@@ -207,7 +208,7 @@ msgstr "Karderio"
 #: C/index.docbook:227 C/index.docbook:235 C/index.docbook:243
 #: C/index.docbook:251 C/index.docbook:259
 msgid "GNOME Documentation Project"
-msgstr ""
+msgstr "GNOME ドキュメンテーション・プロジェクト"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:175
@@ -1319,7 +1320,7 @@ msgstr "ショートカット・キー"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:586 C/gosbasic.xml:714 C/gospanel.xml:1075 C/gostools.xml:98
-#: C/gostools.xml:154
+#: C/gostools.xml:153
 msgid "Function"
 msgstr "機能"
 
@@ -2035,11 +2036,9 @@ msgstr "デスクトップ"
 #: C/goscustdesk.xml:132
 msgid ""
 "These are general shortcuts for the whole desktop, such as logging out, "
-"<link linkend=\"lock-screen\">locking the screen</link>, opening the <link "
-"linkend=\"menubar\">panel menubar</link>, or launching a web browser."
+"locking your screen (see <xref linkend=\"lock-screen\"/>), opening the panel"
+" menubar (see <xref linkend=\"menubar\"/>), or launching a web browser."
 msgstr ""
-"例えばログアウトするとか<link linkend=\"lock-screen\">画面をロックする</link>とか、<link "
-"linkend=\"menubar\">パネルのメニューバー</link>を開くとかウェブ・ブラウザを起動するといったデスクトップ全体に作用する一般的なショートカットです。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:134
@@ -2704,8 +2703,8 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:539
 msgid ""
-"The <link linkend=\"overview-desktop\">desktop</link> background is the "
-"image or color that is applied to your desktop. You can open "
+"The <xref linkend=\"overview-desktop\"/> background is the image or color "
+"that is applied to your desktop. You can open "
 "<guilabel>Background</guilabel> tabbed section in the "
 "<application>Appearance</application> preference tool by right-clicking on "
 "the desktop and choosing <guimenuitem>Change Desktop "
@@ -2743,10 +2742,10 @@ msgstr ""
 #. (itstool) path: tip/para
 #: C/goscustdesk.xml:555
 msgid ""
-"You can also drag a color or a pattern to the desktop from the <link linkend"
-"=\"caja-backgrounds-and-emblems\"><guilabel>Backgrounds and "
-"Emblems</guilabel> dialog</link> in the <application>Caja</application> file"
-" manager."
+"You can also drag a color or a pattern to the desktop from the "
+"<guilabel>Backgrounds and Emblems</guilabel> dialog in the "
+"<application>Caja</application> file manager (see <xref linkend=\"caja-"
+"backgrounds-and-emblems\"/>)."
 msgstr ""
 
 #. (itstool) path: section/para
@@ -4253,12 +4252,9 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1450
 msgid ""
-"To open the <link linkend=\"prefs-keyboard-a11y\"><application>Keyboard "
-"<emphasis>Accessibility</emphasis></application> preference tool</link>, "
-"click the <guibutton>Accessibility</guibutton> button."
+"To open the <xref linkend=\"prefs-keyboard-a11y\"/> tool, click the "
+"<guibutton>Accessibility</guibutton> button."
 msgstr ""
-"この設定ツールから<link linkend=\"prefs-keyboard-"
-"a11y\"><application>キーボードの<emphasis>操作性</emphasis></application>の設定ツール</link>を開く場合は<guibutton>アクセシビリティ</guibutton>というボタンをクリックしてください。"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1453
@@ -6478,7 +6474,7 @@ msgid ""
 msgstr "この章では <application>Caja</application> ファイル・マネージャの使い方について説明します。"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:265
+#: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:264
 #: C/gosdconf.xml:19
 msgid "Introduction"
 msgstr "はじめに"
@@ -6577,15 +6573,9 @@ msgid ""
 "<application>Caja</application> is always running while you are using MATE. "
 "To open a new <application>Caja</application> window, double-click on an "
 "appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or "
-"<guimenuitem>Computer</guimenuitem>, or choose an item from <link linkend"
-"=\"places-menu\"><guimenuitem>Places</guimenuitem> menu</link> on the top "
-"panel."
+"<guimenuitem>Computer</guimenuitem>, or choose an item from <xref linkend"
+"=\"places-menu\"/> on the top panel."
 msgstr ""
-"MATE を利用している間、<application>Caja</application> はずっと動作しています。新しく "
-"<application>Caja</application> ウィンドウを開く場合は、デスクトップ上にある "
-"<guimenuitem>ホーム</guimenuitem>や<guimenuitem>コンピュータ</guimenuitem>といったアイコンをダブル・クリックするか、またはトップ・パネルにある<link"
-" linkend=\"places-"
-"menu\"><guimenuitem>場所</guimenuitem>メニュー</link>からアイテムを選択してください。"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:71
@@ -6835,15 +6825,10 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:157
 msgid ""
-"Choose an item from the <link linkend=\"places-"
-"menu\"><guimenuitem>Places</guimenuitem> menu</link> on the top panel. Your "
-"Home Folder and folders you have bookmarked are listed here. For more on "
-"bookmarks, see <xref linkend=\"caja-bookmarks\"/>."
+"Choose an item from the <xref linkend=\"places-menu\"/> on the top panel. "
+"Your Home Folder and folders you have bookmarked are listed here. For more "
+"on bookmarks, see <xref linkend=\"caja-bookmarks\"/>."
 msgstr ""
-"トップ・パネルの<link linkend=\"places-"
-"menu\"><guimenuitem>場所</guimenuitem>メニュー</link>からアイテムを選択する "
-"(ここにはホーム・フォルダとブックマークに登録したフォルダが一覧表示される; ブックマークについて詳細は「<xref linkend=\"caja-"
-"bookmarks\"/>」を参照のこと)"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:160
@@ -6956,7 +6941,7 @@ msgstr "コンポーネント"
 
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
-#: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:320
+#: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:319
 msgid "Menubar"
 msgstr "メニューバー"
 
@@ -7307,8 +7292,8 @@ msgstr "ファイル・ブラウザのウィンドウを構成するコンポー
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
 #. (itstool) path: para/interface
-#: C/goscaja.xml:416 C/gostools.xml:379 C/gostools.xml:637 C/gostools.xml:661
-#: C/gostools.xml:685
+#: C/goscaja.xml:416 C/gostools.xml:378 C/gostools.xml:636 C/gostools.xml:660
+#: C/gostools.xml:684
 msgid "Toolbar"
 msgstr "ツールバー"
 
@@ -8168,8 +8153,8 @@ msgstr ""
 msgid ""
 "If you open an executable text file, that is, one that Caja considers can be"
 " run as a program, then you will be asked what you want to do: run it, or "
-"display it in a text editor. You can modify this behavior in the <link "
-"linkend=\"caja-preferences\">File Management preferences</link>."
+"display it in a text editor. You can modify this behavior in <xref linkend"
+"=\"caja-preferences\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -8859,7 +8844,7 @@ msgid ""
 msgstr "次の表で説明したサブメニューから妥当なオプションを選択してください:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:151
+#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:150
 msgid "Option"
 msgstr "オプション"
 
@@ -10428,7 +10413,7 @@ msgid "Select the file that you want to change."
 msgstr "変更したいファイルを選択してください。"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2190 C/goscaja.xml:2715
+#: C/goscaja.xml:2190 C/goscaja.xml:2233 C/goscaja.xml:2304 C/goscaja.xml:2715
 msgid ""
 "Choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
@@ -10506,17 +10491,6 @@ msgstr "フォルダのアクセス権を変更するには、以下の手順を
 #: C/goscaja.xml:2230
 msgid "Select the folder that you want to change."
 msgstr "変更したいフォルダを選択してください。"
-
-#. (itstool) path: listitem/para
-#: C/goscaja.xml:2233 C/goscaja.xml:2304
-msgid ""
-"Choose "
-"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
-" The <link linkend=\"caja-properties\">properties window</link> for the item"
-" is displayed."
-msgstr ""
-"<menuchoice><guimenu>ファイル</guimenu><guimenuitem>プロパティ</guimenuitem></menuchoice>を選択してください。そのアイテムに関する<link"
-" linkend=\"caja-properties\">プロパティ・ウィンドウ</link>が表示されます。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2239
@@ -11498,11 +11472,8 @@ msgstr "エンブレムを付与する先のアイテムを選択する"
 #: C/goscaja.xml:2753
 msgid ""
 "Right-click on the item, then choose <guimenuitem>Properties</guimenuitem>. "
-"The <link linkend=\"caja-properties\">properties window</link> for the item "
-"is displayed."
+"The <xref linkend=\"caja-properties\"/> for the item is displayed."
 msgstr ""
-"アイテムの上で右クリックして<guimenuitem>プロパティ</guimenuitem>を選択する (このアイテムに対する<link linkend"
-"=\"caja-properties\">プロパティ・ウィンドウ</link>が表示される)"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2756
@@ -13822,10 +13793,8 @@ msgstr ""
 #: C/gosoverview.xml:125
 msgid ""
 "Click on the <guibutton>Show Desktop</guibutton> button at the far left of "
-"the <link linkend=\"bottom-panel\">bottom panel</link>."
+"the <xref linkend=\"bottom-panel\"/>."
 msgstr ""
-"画面の下側にある<link linkend=\"bottom-"
-"panel\">ボトム・エッジ・パネル</link>の<guibutton>デスクトップの表示</guibutton>ボタンをクリックする"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:126
@@ -14132,12 +14101,10 @@ msgstr "ウィンドウ・サイズの変更"
 #: C/gosoverview.xml:236
 msgid ""
 "Drag one of the borders to expand or contract the window on that side. Drag "
-"a corner to change two sides at once. The <link linkend=\"mouse-"
-"pointers\">resize pointer</link> appears when your mouse is in the correct "
-"position to begin the drag action."
+"a corner to change two sides at once. The resize pointer (see <xref linkend"
+"=\"mouse-pointers\"/>) appears when your mouse is in the correct position to"
+" begin the drag action."
 msgstr ""
-"ウィンドウの境界部分をドラッグして広げたり縮めたりできます。ウィンドウの隅をドラッグすると一度に二つの境界線を広げたり縮めることができます。マウスを使い正しい位置でドラッグを開始するとマウスのポインタが<link"
-" linkend=\"mouse-pointers\">サイズ変更ポインタ</link>に変わります。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:238
@@ -14163,13 +14130,9 @@ msgid ""
 "Click on the Minimize button in the titlebar, the leftmost of the group of "
 "three on the right. This removes the window from view. The window can be "
 "restored to its previous position and size on the screen from the "
-"<firstterm>window list</firstterm> on the <link "
-"linkend=\"gospanel-3\">bottom edge panel</link> or the <firstterm>window "
-"selector</firstterm> in the top panel."
+"<firstterm>window list</firstterm> on the <xref linkend=\"bottom-panel\"/> "
+"or the <firstterm>window selector</firstterm> in the top panel."
 msgstr ""
-"タイトルバーの右側にある三つのボタンのうち一番左側にある最小化ボタンをクリックしてください。すると、そのウィンドウがデスクトップから消えます。<link"
-" "
-"linkend=\"gospanel-3\">ボトム・エッジ・パネル</link>にある<firstterm>ウィンドウの一覧</firstterm>、あるいはパネルの中にある<firstterm>ウィンドウ・セレクタ</firstterm>からウィンドウを元の位置に元の状態に戻すことができます。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:247
@@ -14332,12 +14295,9 @@ msgstr ""
 #. (itstool) path: note/para
 #: C/gosoverview.xml:318
 msgid ""
-"You can customize the shortcut used to perform this action with the <link "
-"linkend=\"prefs-keyboard-shortcuts\">Keyboard Shortcuts preference "
-"tool</link>."
+"You can customize the shortcut used to perform this action with the <xref "
+"linkend=\"prefs-keyboard-shortcuts\"/> tool."
 msgstr ""
-"<link linkend=\"prefs-keyboard-"
-"shortcuts\">キーボード・ショートカットの設定ツール</link>を利用して、このキーボード操作をお好みの設定することができます。"
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:330
@@ -14361,18 +14321,14 @@ msgstr ""
 msgid ""
 "By default, four workspaces are available. You can switch between them with "
 "the <application>Workspace Switcher</application> applet at the right of the"
-" <link linkend=\"bottom-panel\">bottom panel</link>. This shows a "
-"representation of your workspaces, by default a row of four rectangles. "
-"Click on one to switch to that workspace. In <xref linkend=\"gosoverview-"
-"FIG-42\"/>, <application>Workspace Switcher</application> contains four "
-"workspaces. The first three workspaces contain open windows. The last "
-"workspace does not contain currently open windows. The currently active "
-"workspace is highlighted."
+" <xref linkend=\"bottom-panel\"/>. This shows a representation of your "
+"workspaces, by default a row of four rectangles. Click on one to switch to "
+"that workspace. In <xref linkend=\"gosoverview-FIG-42\"/>, "
+"<application>Workspace Switcher</application> contains four workspaces. The "
+"first three workspaces contain open windows. The last workspace does not "
+"contain currently open windows. The currently active workspace is "
+"highlighted."
 msgstr ""
-"デフォルトで4つのワークスペースを利用できます。<link linkend=\"bottom-"
-"panel\">ボトム・エッジ・パネル</link>の右端にある<application>ワークスペース切り替え器</application>というアプレットを使ってワークスペースを切り換えることができます。このアプレットは、デフォルトの場合だと、利用可能なワークスペースを4列の矩形で表現したものです。その矩形のいずれかをクリックするとワークスペースが切り替わります。<xref"
-" linkend=\"gosoverview-FIG-42\"/> "
-"に示す<application>ワークスペース切り替え器</application>には4つのワークスペースが含まれています。最初の3つのワークスペースにはウィンドウがいくつか開かれています。最後のワークスペースは現在のところウィンドウは何も開かれていません。現在利用しているワークスペースが強調表示されています。"
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:338
@@ -14582,18 +14538,13 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:414
 msgid ""
-"<link linkend=\"caja\"><application>Caja File Manager</application></link> "
+"<application>Caja File Manager</application> (see <xref linkend=\"caja\"/>) "
 "displays your folders and their contents. Use this to copy, move and "
 "classify your files, and to access CDs, USB flash drives, and any other "
-"removable media. When you choose an item from the <link linkend=\"places-"
-"menu\"><guimenu>Places</guimenu> menu</link>, a <application>Caja File "
-"Manager</application> window opens showing that location."
+"removable media. When you choose an item from the <xref linkend=\"places-"
+"menu\"/>, a <application>Caja File Manager</application> window opens "
+"showing that location."
 msgstr ""
-"<link linkend=\"caja\"><application>Caja "
-"ファイル・マネージャ</application></link>はフォルダとその内容を表示します。ファイルのコピー、移動あるいは分類、CD や USB "
-"のフラッシュドライブや他のリムーバブル・メディアにアクセスするには、ファイルマネージャを利用してください。<link linkend=\"places-"
-"menu\"><guimenu>場所</guimenu>メニュー</link>から任意のアイテムを選択すると<application>Caja "
-"ファイル・マネージャ</application>のウィンドウが開き、その場所を表示します。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:415
@@ -14659,12 +14610,9 @@ msgstr "統一感のあるルック&amp;フィール"
 #: C/gosoverview.xml:429
 msgid ""
 "MATE-compliant applications have a consistent look-and-feel. You can use the"
-" <link linkend=\"prefs-theme\"><application>Appearance</application> "
-"preference tool</link> to change the look-and-feel of your MATE-compliant "
-"applications."
+" <xref linkend=\"prefs-theme\"/> tool to change the look-and-feel of your "
+"MATE-compliant applications."
 msgstr ""
-"MATE対応アプリケーションは統一感のある一貫したルック&amp;フィールを持ちます。<link linkend=\"prefs-"
-"theme\"><application>外観</application>設定ツール</link>使えば、MATE対応アプリケーションのルック&amp;フィールを変更することができます。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:432
@@ -14829,12 +14777,9 @@ msgstr "現在の場所にある任意のフォルダを開いてください。
 msgid ""
 "Open an item in the left-hand pane. This pane lists places such as your "
 "Documents folder, your Home Folder, media such as CDs and flash drives, "
-"places on your network, and your <link linkend=\"caja-"
-"bookmarks\">bookmarks</link>."
+"places on your network, and your bookmarks (see <xref linkend=\"caja-"
+"bookmarks\"/> for more on bookmarks)."
 msgstr ""
-"左側のペインにある項目を開いてください。このペインには、ドキュメント・フォルダ、ホーム・フォルダ、CD "
-"やフラッシュドライブのようなリムーバブルメディア、ネットワーク上の場所および<link linkend=\"caja-"
-"bookmarks\">ブックマーク</link>といった項目が一覧表示されています。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:478
@@ -15072,13 +15017,10 @@ msgstr ""
 #: C/gosoverview.xml:527
 msgid ""
 "The expanded <guilabel>Save File</guilabel> dialog has the same features as "
-"the <link linkend=\"filechooser-open\"><guilabel>Open File</guilabel> "
-"dialog</link>, such as filtering, find-as-you-type, and adding and removing "
+"the <guilabel>Open File</guilabel> dialog (see <xref linkend=\"filechooser-"
+"open\"/>), such as filtering, find-as-you-type, and adding and removing "
 "bookmarks."
 msgstr ""
-"<guilabel>他のフォルダ</guilabel>のラベルをクリックして表示されるブラウザは、フィルタリングや入力しながら検索する、ブックマークの追加や削除といった、<link"
-" linkend=\"filechooser-"
-"open\"><guilabel>ファイルを開く</guilabel>ダイアログ</link>と同等の機能があります。"
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:530
@@ -15574,14 +15516,10 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:268
 msgid ""
-"Select this option to have the panel use the settings in the <link linkend"
-"=\"prefs-theme\"><application>Appearance</application> preference "
-"tool</link>. This keeps your panel's background looking the same as the rest"
-" of the desktop and applications."
+"Select this option to have the panel use the settings in the <xref linkend"
+"=\"prefs-theme\"/> tool. This keeps your panel's background looking the same"
+" as the rest of the desktop and applications."
 msgstr ""
-"<link linkend=\"prefs-"
-"appearance\"><application>外観の設定</application></link>ツールで指定した設定をパネルで利用するには、このオプションを選択してください。"
-" パネルの背景は、デスクトップやアプリケーションの背景と同様の見栄えが維持されます。"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:273
@@ -15650,14 +15588,11 @@ msgstr "<application>Caja</application> ファイル・マネージャから画�
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:322
 msgid ""
-"You can drag a color or a pattern from the <link linkend=\"caja-backgrounds-"
-"and-emblems\"><guilabel>Backgrounds and Emblems</guilabel> dialog</link> in "
-"<application>Caja</application> file manager to a panel to set it as the "
-"background."
+"You can drag a color or a pattern from the <guilabel>Backgrounds and "
+"Emblems</guilabel> dialog (see <xref linkend=\"caja-backgrounds-and-"
+"emblems\"/>) in <application>Caja</application> file manager to a panel to "
+"set it as the background."
 msgstr ""
-"<application>Caja</application> ファイル・マネージャの<link linkend=\"caja-backgrounds-"
-"and-"
-"emblems\"><guilabel>背景とエンブレム</guilabel>のダイアログ</link>から色やパターンをドラッグすることができます。"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:326
@@ -15738,11 +15673,9 @@ msgid ""
 "You can set a panel to autohide. When you set autohide, the panel hides "
 "automatically when the mouse is not pointing to the panel. The panel "
 "reappears when you point to the part of the screen where the panel resides. "
-"To set your panel to autohide, <link linkend=\"panel-properties\">modify the"
-" properties</link> of the panel."
+"To set your panel to autohide, modify the properties of the panel as per the"
+" instructions in <xref linkend=\"panel-properties\"/>."
 msgstr ""
-"パネルを自動的に隠すように設定できます。自動的に隠すように設定するとマウスがパネルを指していない時に自動的にパネルが隠れます。パネルの一部が表示されている部分にマウスのポインタを移動すると、再びパネルが表示されます。パネルを自動的に隠すように設定するには、パネルの<link"
-" linkend=\"panel-properties\">プロパティを変更</link>してください。"
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:362
@@ -15869,16 +15802,13 @@ msgstr ""
 msgid ""
 "Some applets have popup menus of applet-specific commands that open when you"
 " right-click on particular parts of the applet. For example, the "
-"<application><link linkend=\"windowlist\">Window List</link></application> "
-"applet has a vertical handle on the left side, and buttons that represent "
-"your windows on the right side. To open the panel object popup menu for the "
+"<application><xref linkend=\"windowlist\"/></application> applet has a "
+"vertical handle on the left side, and buttons that represent your windows on"
+" the right side. To open the panel object popup menu for the "
 "<application>Window List</application> applet, you must right-click on the "
 "handle. If you right-click on a button on the right side, a popup menu for "
 "the button opens."
 msgstr ""
-"いくつかのアプレットは独自のポップアップ・メニューを持っており、特定の場所を右クリックすると表示されるようになっています。たとえば、<application><link"
-" "
-"linkend=\"windowlist\">ウィンドウの一覧</link></application>アプレットの左端には縦棒のハンドルが付いており、その右側にはお使いのウィンドウを表すボタンがいくつか並んでいます。この<application>ウィンドウの一覧</application>アプレットのポップアップ・メニューを開くには、ハンドルの上で右クリックしなければなりません。右側に並んでいるボタンの上で右クリックしても、そのボタンのポップアップ・メニューが表示されるだけです。"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:448
@@ -15920,11 +15850,9 @@ msgstr "<guisubmenu>パネルへ追加...</guisubmenu>を選択します。"
 #: C/gospanel.xml:476
 msgid ""
 "The <guilabel>Add to Panel</guilabel> dialog opens.The available panel "
-"objects are listed alphabetically, with <link "
-"linkend=\"launchers\">launchers</link> at the top."
+"objects are listed alphabetically, with <xref linkend=\"launchers\"/> at the"
+" top."
 msgstr ""
-"<guilabel>パネルへ追加</guilabel>ダイアログが開き、利用できるパネル・オブジェクトが50音順で一覧表示されます。先頭の方には<link"
-" linkend=\"launchers\">ランチャ</link>に関連するオブジェクトがあります。"
 
 #. (itstool) path: tip/para
 #: C/gospanel.xml:477
@@ -16414,11 +16342,9 @@ msgstr "【パネルのポップアップ・メニューから】"
 #: C/gospanel.xml:741
 msgid ""
 "Right-click on any vacant space on the panel, then choose <guimenu>Add to "
-"Panel</guimenu>. The <link linkend=\"panels-addobject\"><guilabel>Add to "
-"Panel</guilabel> dialog</link> opens."
+"Panel</guimenu>. The <guilabel>Add to Panel</guilabel> dialog opens (see "
+"<xref linkend=\"panels-addobject\"/>)."
 msgstr ""
-"パネルの中で空いている部分を右クリックして<guimenu>パネルへ追加...</guimenu> を選択します。すると、<link linkend"
-"=\"panels-addobject\"><guilabel>パネルへ追加</guilabel>ダイアログ</link>が表示されます。"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:743
@@ -16981,13 +16907,10 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1110
 msgid ""
-"Opens the <link linkend=\"prefs-"
-"screensaver\"><application>Screensaver</application> preference tool</link>,"
-" with which you can configure the type of screensaver that is displayed when"
-" you lock the screen."
+"Opens the <xref linkend=\"prefs-screensaver\"/> tool, with which you can "
+"configure the type of screensaver that is displayed when you lock the "
+"screen."
 msgstr ""
-"<link linkend=\"prefs-screensaver\"><application>MATE "
-"スクリーンセーバー</application>の設定ツール</link>を開き、画面をロックした時に表示するスクリーンセーバーの種類を指定することができる"
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1118
@@ -18608,13 +18531,10 @@ msgstr ""
 #: C/gosstartsession.xml:326
 msgid ""
 "Before you end a session, you might want to save your current settings so "
-"that you can restore the session later. In the <link linkend=\"prefs-"
-"sessions\"><application>Sessions</application></link> preference tool, you "
-"can select an option to automatically save your current settings."
+"that you can restore the session later. In the <xref linkend=\"prefs-"
+"sessions\"/> tool, you can select an option to automatically save your "
+"current settings."
 msgstr ""
-"セッションを終了する前に、現在のセッション情報を保存したいという場合があるかもしれません。保存しておくと、後でそのセッションに復帰することができます。<link"
-" linkend=\"prefs-"
-"sessions\"><application>セッション</application></link>の設定ツールで、現在のセッションを自動的に保存するかどうか選択することができます。"
 
 #. (itstool) path: info/title
 #: C/gostools.xml:7
@@ -18677,13 +18597,9 @@ msgstr "【ショートカット・キーを使って】"
 msgid ""
 "Press <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo>. You can "
 "change the shortcut keys that display the <guilabel>Run "
-"Application</guilabel> dialog in the <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Keyboard Shortcuts</application> preference "
-"tool</link>."
+"Application</guilabel> dialog in the <application><xref linkend=\"prefs-"
+"keyboard-shortcuts\"/></application> tool."
 msgstr ""
-"キーボードから <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo> "
-"を押下してください。「<link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>キーボードのショートカット</application>」を設定するツール</link>から「<guilabel>アプリケーションの実行</guilabel>」を起動するショートカット・キーを変更することもできます。"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:28
@@ -18812,20 +18728,17 @@ msgstr "アクティブなウィンドウのスクリーンショットを取得
 #. (itstool) path: listitem/para
 #: C/gostools.xml:124
 msgid ""
-"You can use the <link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>Keyboard Shortcuts</application> preference "
-"tool</link> to modify the default shortcut keys."
+"You can use the <application><xref linkend=\"prefs-keyboard-"
+"shortcuts\"/></application> tool to modify the default shortcut keys."
 msgstr ""
-"これらのデフォルトの設定は「<link linkend=\"prefs-keyboard-"
-"shortcuts\"><application>キーボードのショートカット</application>」を設定するツール</link>から変更できます。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:128
+#: C/gostools.xml:127
 msgid "From the Menubar"
 msgstr "【メニューバーから】"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:129
+#: C/gostools.xml:128
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Applications</guimenu><guimenuitem>Accessories</guimenuitem>"
@@ -18833,12 +18746,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:133
+#: C/gostools.xml:132
 msgid "From the Terminal"
 msgstr "【端末から】"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:134
+#: C/gostools.xml:133
 msgid ""
 "You can use the <command>mate-screenshot</command> command to take a "
 "screenshot. The <command>mate-screenshot</command> command takes a "
@@ -18851,29 +18764,29 @@ msgstr ""
 "コマンドは画面全体のスクリーンショットを撮った後に、「<guilabel>スクリーンショットの保存</guilabel>」ダイアログを開きます。取得したスクリーンショットを保存する際は、このダイアログを利用してください。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:140
+#: C/gostools.xml:139
 msgid ""
 "You can also use options on the <command>mate-screenshot</command> command "
 "as follows:"
 msgstr "次に示すオプションを <command>mate-screenshot</command> コマンドに指定できます:"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:161
+#: C/gostools.xml:160
 msgid "<command>--window</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:166
+#: C/gostools.xml:165
 msgid "Takes a screenshot of the window that has focus."
 msgstr "フォーカスを持つウィンドウのスクリーンショットを取得します。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:171
+#: C/gostools.xml:170
 msgid "<command>--delay=<replaceable>seconds</replaceable></command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:176
+#: C/gostools.xml:175
 msgid ""
 "Takes a screenshot after the specified number of seconds, and displays the "
 "<guilabel>Save Screenshot</guilabel> dialog. Use the <guilabel>Save "
@@ -18883,67 +18796,67 @@ msgstr ""
 "が経過したらスクリーンショットを取得し、「<guilabel>スクリーンショットの保存</guilabel>」ダイアログを開きます。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:186
+#: C/gostools.xml:185
 msgid "<command>--include-border</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:191
+#: C/gostools.xml:190
 msgid "Takes a screenshot including the border of the window."
 msgstr "ウィンドウの境界線を含んだスクリーンショットを取得します。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:196
+#: C/gostools.xml:195
 msgid "<command>--remove-border</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:201
+#: C/gostools.xml:200
 msgid "Takes a screenshot without the border of the window."
 msgstr "ウィンドウの境界線なしでスクリーンショットを取得します。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:206
+#: C/gostools.xml:205
 msgid "<command>--border-effect=shadow</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:211
+#: C/gostools.xml:210
 msgid "Takes a screenshot and adds a shadow bevel effect around it."
 msgstr "スクリーンショットを取得し、その周囲に傾斜した影を追加します。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:216
+#: C/gostools.xml:215
 msgid "<command>--border-effect=border</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:221
+#: C/gostools.xml:220
 msgid "Takes a screenshot and adds a border effect around it."
 msgstr "スクリーンショットを取得し、その周囲に境界線を追加します。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:226
+#: C/gostools.xml:225
 msgid "<command>--interactive</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:231
+#: C/gostools.xml:230
 msgid "Opens a window that lets you set options before taking the screenshot."
 msgstr "スクリーンショットを取得する前にオプションを設定するためのウィンドウを開きます。"
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:236
+#: C/gostools.xml:235
 msgid "<command>--help</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/gostools.xml:241
+#: C/gostools.xml:240
 msgid "Displays the options for the command."
 msgstr "このコマンドのオプションの一覧を表示します。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:250
+#: C/gostools.xml:249
 msgid ""
 "When you take a screenshot, the <guilabel>Save Screenshot</guilabel> dialog "
 "opens. To save the screenshot as an image file, enter the filename for the "
@@ -18955,17 +18868,17 @@ msgstr ""
 "スクリーンショットを取得すると、「<guilabel>スクリーンショットの保存</guilabel>」ダイアログが開きます。スクリーンショットを画像ファイルとして保存するには、そのファイル名を入力して保存先をドロップダウンリストから選択し「<guilabel>保存</guilabel>」ボタンをクリックしてください。「<guilabel>クリップボードにコピーする</guilabel>」ボタンを利用してクリップボードに画像をコピーすることやドラッグ・アンド・ドロップによって他のアプリケーションに転送することもできます。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:259
+#: C/gostools.xml:258
 msgid "Yelp Help Browser"
 msgstr "Yelp ヘルプ・ブラウザ"
 
 #. (itstool) path: section/indexterm
-#: C/gostools.xml:260
+#: C/gostools.xml:259
 msgid "<primary>Yelp</primary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:266
+#: C/gostools.xml:265
 msgid ""
 "The <application>Yelp Help Browser</application> application allows you to "
 "view documentation regarding MATE and other components through a variety of "
@@ -18980,7 +18893,7 @@ msgstr ""
 "があります。様々な書式をサポートしているにもかかわらず、Yelp は可能な限り統一したスタイルで表示するようになっています。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:273
+#: C/gostools.xml:272
 msgid ""
 "<application>Yelp Help Browser</application> is internationalized, meaning "
 "that it has support to view documents in different languages. The documents "
@@ -18989,56 +18902,56 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:281
+#: C/gostools.xml:280
 msgid "Starting Yelp"
 msgstr "Yelp の起動"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:283
+#: C/gostools.xml:282
 msgid "To Start <application>Yelp Help Browser</application>"
 msgstr "<application>Yelp ヘルプ・ブラウザ</application>を起動する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:284
+#: C/gostools.xml:283
 msgid ""
 "You can start <application>Yelp Help Browser</application> in the following "
 "ways:"
 msgstr "次に示す手順のいずれかで <application>Yelp ヘルプ・ブラウザ</application>を起動できます:"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:288
+#: C/gostools.xml:287
 msgid "<guimenu>System</guimenu> Menu"
 msgstr "【<guimenu>システム</guimenu>・メニューから】"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:291
+#: C/gostools.xml:290
 msgid "Choose <application>Help</application>"
 msgstr "<guimenuitem>ヘルプ</guimenuitem>を選択してください。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:296
+#: C/gostools.xml:295
 msgid "Command Line"
 msgstr "【コマンドラインから】"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:299
+#: C/gostools.xml:298
 msgid "Execute the following command: <command>yelp</command>"
 msgstr "次のコマンドを実行してください: <command>yelp</command>"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:306
+#: C/gostools.xml:305
 msgid "Interface"
 msgstr "ユーザ・インタフェース"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:307
+#: C/gostools.xml:306
 msgid ""
 "When you start <application>Yelp Help Browser</application>, you will see "
 "the following window appear."
 msgstr "<application>Yelp ヘルプ・ブラウザ</application> を起動すると、次に示すようなウィンドウが開きます。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:310
+#: C/gostools.xml:309
 msgid "<application>Yelp Help Browser</application> Window"
 msgstr "<application>Yelp ヘルプ・ブラウザ</application>のウィンドウ"
 
@@ -19047,7 +18960,7 @@ msgstr "<application>Yelp ヘルプ・ブラウザ</application>のウィンド�
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:313
+#: C/gostools.xml:312
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_window.png' "
@@ -19055,19 +18968,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:310
+#: C/gostools.xml:309
 msgid ""
 "<_:figure-1/><application>Yelp Help Browser</application> contains the "
 "following elements in <xref linkend=\"fig-yelp-window\"/>"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:325
+#: C/gostools.xml:324
 msgid "<guimenu>File</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:328
+#: C/gostools.xml:327
 msgid ""
 "Use this menu to Open a New Window, view the About this Document page, Print"
 " the current document, or Close the window."
@@ -19075,12 +18988,12 @@ msgstr ""
 "新しいウィンドウを開く時や「このドキュメントについて」のページを表示する時、あるいはドキュメントを印刷したり、ウィンドウを閉じる際に、このメニューを利用します。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:335
+#: C/gostools.xml:334
 msgid "<guimenu>Edit</guimenu>"
 msgstr "<guimenu>編集</guimenu>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:338
+#: C/gostools.xml:337
 msgid ""
 "Use this menu to Copy, Select all, Find..., or to set your Preferences."
 msgstr ""
@@ -19088,12 +19001,12 @@ msgstr ""
 "の設定を変更する際に、このメニューを利用します。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:344
+#: C/gostools.xml:343
 msgid "<guimenu>Go</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:347
+#: C/gostools.xml:346
 msgid ""
 "Use this menu to navigate Back, Forward, to the Help Topics page. When "
 "viewing a DocBook document, use this menu to navigate to the Next Section, "
@@ -19103,22 +19016,22 @@ msgstr ""
 "形式のドキュメントを閲覧する際は、このメニューを使って次のセクションや前のセクションへ移動したり、目次へジャンプすることができます。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:355
+#: C/gostools.xml:354
 msgid "<guimenu>Bookmarks</guimenu>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:358
+#: C/gostools.xml:357
 msgid "Use this menu to Add Bookmark(s), or Edit Bookmark(s)."
 msgstr "現在閲覧しているページをブックマークに追加したり、既に登録したブックマークを編集する際に、このメニューを利用してください。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:364
+#: C/gostools.xml:363
 msgid "<guimenu>Help</guimenu>"
 msgstr "<guimenu>ヘルプ</guimenu>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:367
+#: C/gostools.xml:366
 msgid ""
 "View information about Yelp Help Browser and contributors to the project "
 "through the <guimenuitem>About</guimenuitem> menuitem. Open this document "
@@ -19130,32 +19043,32 @@ msgstr ""
 " <keycap>F1</keycap> キーで表示できます。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:384
+#: C/gostools.xml:383
 msgid "<guibutton>Back</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:387
+#: C/gostools.xml:386
 msgid "Use this button to navigate back in your document history."
 msgstr "閲覧したドキュメントの履歴をさかのぼって表示する際に、このボタンを利用してください。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:393
+#: C/gostools.xml:392
 msgid "<guibutton>Forward</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:396
+#: C/gostools.xml:395
 msgid "Use this button to navigate forward in your document history."
 msgstr "閲覧したドキュメントの履歴を進ませて表示する際に、このボタンを利用してください。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:402
+#: C/gostools.xml:401
 msgid "<guibutton>Help Topics</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:405
+#: C/gostools.xml:404
 msgid ""
 "Use this button to return to the main table of contents (shown in <xref "
 "linkend=\"fig-yelp-window\"/>)."
@@ -19164,12 +19077,12 @@ msgstr ""
 "に戻る際に、このボタンを利用してください。"
 
 #. (itstool) path: term/interface
-#: C/gostools.xml:414
+#: C/gostools.xml:413
 msgid "Browser Pane"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:417
+#: C/gostools.xml:416
 msgid ""
 "The browser pane is where you will be presented with the table of contents "
 "or the documentation. Use the table of contents to navigate to the "
@@ -19177,47 +19090,47 @@ msgid ""
 msgstr "閲覧ペインは目次やドキュメントの内容を表示する場所です。必要なドキュメントをたどる際に目次を利用してみてください。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:428
+#: C/gostools.xml:427
 msgid "Using Yelp"
 msgstr "Yelp の使い方"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:430
+#: C/gostools.xml:429
 msgid "Open a Document"
 msgstr "ドキュメントを開く"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:435
+#: C/gostools.xml:434
 msgid ""
 "In an application, click <menuchoice> <guimenu>Help</guimenu> "
 "<guimenuitem>Contents</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:443
+#: C/gostools.xml:442
 msgid "Use the Table of Contents to navigate to the desired document."
 msgstr "希望するドキュメントに移動するには、目次を利用してください。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:446
+#: C/gostools.xml:445
 msgid ""
 "You can drag a Docbook XML file from Caja to the Yelp window or launcher."
 msgstr "Docbook XML ファイルを Caja から Yelpのウィンドウかランチャにドラッグできます。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:449
+#: C/gostools.xml:448
 msgid "Press the <keycap>F1</keycap> key."
 msgstr "<keycap>F1</keycap> キーを押下してください。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:431
+#: C/gostools.xml:430
 msgid ""
 "To open a document in <application>Yelp Help Browser</application>: "
 "<_:itemizedlist-1/>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:454
+#: C/gostools.xml:453
 msgid ""
 "Alternatively, you may view a particular document by invoking Yelp Help "
 "Browser from the command line or dragging files to Yelp. See <xref linkend"
@@ -19227,24 +19140,24 @@ msgstr ""
 "にドラッグしてください。詳細は「<xref linkend=\"yelp-open-specific\"/>」をご覧ください。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:458
+#: C/gostools.xml:457
 msgid "Open a New Window"
 msgstr "新しいウィンドウを開く"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:459
+#: C/gostools.xml:458
 msgid "To open a new window:"
 msgstr "新しいウィンドウを開くには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:463
+#: C/gostools.xml:462
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>New "
 "Window</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:471
+#: C/gostools.xml:470
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>N</keycap></keycombo>"
@@ -19253,24 +19166,24 @@ msgstr ""
 "を押下してください。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:477
+#: C/gostools.xml:476
 msgid "About This Document"
 msgstr "このドキュメントについて"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:478
+#: C/gostools.xml:477
 msgid "To view information about the currently open document:"
 msgstr "現在開いているドキュメントに関する情報を表示するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:482
+#: C/gostools.xml:481
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>About This "
 "Document</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gostools.xml:489
+#: C/gostools.xml:488
 msgid ""
 "This option is only available for DocBook documentation. Legal notices and "
 "documentation contributors are usually listed in this section."
@@ -19279,67 +19192,67 @@ msgstr ""
 "形式のドキュメントでしか利用できません。通常、商標とドキュメント作成に貢献した人達のクレジットは、このセクションに記述されています。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:495
+#: C/gostools.xml:494
 msgid "Print a Page"
 msgstr "ページを印刷する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:496
+#: C/gostools.xml:495
 msgid ""
 "To print any page that you are able to view in <application>Yelp Help "
 "Browser</application>:"
 msgstr "<application>Yelp ヘルプ・ブラウザ</application>に表示しているページを印刷するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:500
+#: C/gostools.xml:499
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print this "
 "Page</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:509
+#: C/gostools.xml:508
 msgid "Print a Document"
 msgstr "ドキュメントを印刷する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:510
+#: C/gostools.xml:509
 msgid "To print an entire document:"
 msgstr "ドキュメント一式を印刷するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:514
+#: C/gostools.xml:513
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print this "
 "Document</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gostools.xml:521
+#: C/gostools.xml:520
 msgid "This option is only available for DocBook documentation."
 msgstr "このオプションは DocBook 形式のドキュメントでしか利用できません。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:526
+#: C/gostools.xml:525
 msgid "Close a Window"
 msgstr "ウィンドウを閉じる"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:527
+#: C/gostools.xml:526
 msgid ""
 "To close a window in <application>Yelp Help Browser</application>, do the "
 "following:"
 msgstr "<application>Yelp ヘルプ・ブラウザ</application>を閉じるには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:531
+#: C/gostools.xml:530
 msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Close "
 "Window</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:539
+#: C/gostools.xml:538
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>W</keycap></keycombo>"
@@ -19348,32 +19261,32 @@ msgstr ""
 "を押下してください。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:545
+#: C/gostools.xml:544
 msgid "Set Preferences"
 msgstr "設定を変更する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:546
+#: C/gostools.xml:545
 msgid ""
 "To set your preferences in <application>Yelp Help Browser</application>:"
 msgstr "<application>Yelp ヘルプ・ブラウザ</application>の設定を変更するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:550
+#: C/gostools.xml:549
 msgid ""
 "Click <menuchoice> <guimenu>Edit</guimenu> "
 "<guimenuitem>Preferences</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:548
+#: C/gostools.xml:547
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-preferences\"/>:"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:558
+#: C/gostools.xml:557
 msgid "<application>Yelp Help Browser</application> Preferences Window"
 msgstr "<application>Yelp ヘルプ・ブラウザ</application>の設定ダイアログ"
 
@@ -19382,7 +19295,7 @@ msgstr "<application>Yelp ヘルプ・ブラウザ</application>の設定ダイ�
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:561
+#: C/gostools.xml:560
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_preferences.png' "
@@ -19390,26 +19303,26 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:558
+#: C/gostools.xml:557
 msgid ""
 "<_:figure-1/>The options that are available in this dialog have the "
 "following functions:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:569
+#: C/gostools.xml:568
 msgid "<guilabel>Use system fonts</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:572
+#: C/gostools.xml:571
 msgid ""
 "Check this option to display documentation using the default fonts used by "
 "the MATE Desktop."
 msgstr "このオプションを有効にすると、MATE デスクトップで使用しているデフォルトのフォントを使ってドキュメントを表示します。"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:575
+#: C/gostools.xml:574
 msgid ""
 "To choose your own fonts to display documentation, uncheck this option and "
 "click on the buttons next to the text <guilabel>Variable Width</guilabel> or"
@@ -19418,24 +19331,24 @@ msgstr ""
 "別のフォントを使ってドキュメントを表示する際は、このオプションのチェックを外してを無効にし、<guilabel>可変幅</guilabel>か<guilabel>塔幅</guilabel>というラベルの横にあるボタンをクリックしてください。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:582
+#: C/gostools.xml:581
 msgid "<guilabel>Variable Width</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:585
+#: C/gostools.xml:584
 msgid ""
 "This is the font to use when a static or fixed width font is not required. "
 "The majority of text will be of this type."
 msgstr "これは、ドキュメントから固定または等幅のフォントを要求されない時に使用するフォントです。ほとんどの文字列がこの種類に相当します。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:592
+#: C/gostools.xml:591
 msgid "<guilabel>Fixed Width</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:595
+#: C/gostools.xml:594
 msgid ""
 "This is the font to use when all text characters need to be of the same "
 "size. This font is usually used to indicate commands, program blocks, or "
@@ -19444,12 +19357,12 @@ msgstr ""
 "これは、文字をすべて同じ大きさにする必要がある時に使用するフォントです。通常、このフォントはコマンドを表す文字列とか、プログラムのコード、あるいはこれらの類に該当するその他の文字列を表示する際に使用します。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:606
+#: C/gostools.xml:605
 msgid "<guilabel>Browse with caret</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:609
+#: C/gostools.xml:608
 msgid ""
 "Click this option if you would like see a caret or cursor in the <xref "
 "linkend=\"yelp-browser-pane\"/>. This allows you to browse the document more"
@@ -19459,24 +19372,24 @@ msgstr ""
 "の中にキャレットまたはカーソルを表示したい場合は、このオプションを有効にしてください。キャレット・モードにしてドキュメントの中にあるカーソルを意識することで、さらにドキュメントが閲覧しやすくなります。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:618
+#: C/gostools.xml:617
 msgid "Go Back in Document History"
 msgstr "ドキュメントの履歴をさかのぼる"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:619
+#: C/gostools.xml:618
 msgid "To go back in the document history:"
 msgstr "ドキュメントの閲覧履歴をさかのぼって表示するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:623
+#: C/gostools.xml:622
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Back</guimenuitem> "
 "</menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:631
+#: C/gostools.xml:630
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Left</keycap></keycombo>"
@@ -19485,29 +19398,29 @@ msgstr ""
 "を押下するか、あるいは"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:636
+#: C/gostools.xml:635
 msgid "Use the <guibutton>Back</guibutton> button in the <_:interface-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:642
+#: C/gostools.xml:641
 msgid "Go Forward in Document History"
 msgstr "ドキュメントの履歴を進ませる"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:643
+#: C/gostools.xml:642
 msgid "To go forward in the document history:"
 msgstr "ドキュメントの閲覧履歴を進ませて表示するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:647
+#: C/gostools.xml:646
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Forward</guimenuitem> "
 "</menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:655
+#: C/gostools.xml:654
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Right</keycap></keycombo>"
@@ -19516,29 +19429,29 @@ msgstr ""
 "を押下するか、あるいは"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:660
+#: C/gostools.xml:659
 msgid "Use the <guibutton>Forward</guibutton> button in the <_:interface-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:666
+#: C/gostools.xml:665
 msgid "Go to Help Topics"
 msgstr "ヘルプのトピックへ移動する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:667
+#: C/gostools.xml:666
 msgid "To go to the Help Topics:"
 msgstr "ヘルプのトピックへ移動するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:671
+#: C/gostools.xml:670
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Help "
 "Topics</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:679
+#: C/gostools.xml:678
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Home</keycap></keycombo>"
@@ -19547,30 +19460,30 @@ msgstr ""
 "を押下するか、あるいは"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:684
+#: C/gostools.xml:683
 msgid ""
 "Use the <guibutton>Help Topics</guibutton> button in the <_:interface-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:690
+#: C/gostools.xml:689
 msgid "Go to Previous Section"
 msgstr "前のセクションへ移動する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:691
+#: C/gostools.xml:690
 msgid "To go to the previous section:"
 msgstr "前のセクションへ移動するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:695
+#: C/gostools.xml:694
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Previous "
 "Section</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:703
+#: C/gostools.xml:702
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Up</keycap></keycombo>"
@@ -19579,29 +19492,29 @@ msgstr ""
 "を押下してください。"
 
 #. (itstool) path: note/para
-#: C/gostools.xml:707 C/gostools.xml:731 C/gostools.xml:750
+#: C/gostools.xml:706 C/gostools.xml:730 C/gostools.xml:749
 msgid "This option is only available in DocBook formatted documents."
 msgstr "このオプションは DocBook 形式のドキュメントでしか利用できません。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:712
+#: C/gostools.xml:711
 msgid "Go to Next Section"
 msgstr "次のセクションへ移動する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:715
+#: C/gostools.xml:714
 msgid "To go to the next section:"
 msgstr "次のセクションへ移動するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:719
+#: C/gostools.xml:718
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Next "
 "Section</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:727
+#: C/gostools.xml:726
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Alt</keycap><keycap>Down</keycap></keycombo>"
@@ -19610,41 +19523,41 @@ msgstr ""
 "を押下してください。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:736
+#: C/gostools.xml:735
 msgid "Go to Contents"
 msgstr "目次へ移動する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:739
+#: C/gostools.xml:738
 msgid "To go to the contents for a document:"
 msgstr "ドキュメントの目次へ移動するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:743
+#: C/gostools.xml:742
 msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Contents</guimenuitem>"
 " </menuchoice>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:755
+#: C/gostools.xml:754
 msgid "Add a Bookmark"
 msgstr "ブックマークを追加する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:758
+#: C/gostools.xml:757
 msgid "To add a bookmark for a particular document:"
 msgstr "特定のドキュメントをブックマークとして追加するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:762
+#: C/gostools.xml:761
 msgid ""
 "Click <menuchoice> <guimenu>Bookmarks</guimenu> <guimenuitem>Add "
 "Bookmark</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:770
+#: C/gostools.xml:769
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo>"
@@ -19653,14 +19566,14 @@ msgstr ""
 "を押下してください。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:760
+#: C/gostools.xml:759
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-add-bookmark\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:775
+#: C/gostools.xml:774
 msgid "Add Bookmark Window"
 msgstr "ブックマークを追加するダイアログ"
 
@@ -19669,7 +19582,7 @@ msgstr "ブックマークを追加するダイアログ"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:778
+#: C/gostools.xml:777
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_add_bookmark.png' "
@@ -19677,7 +19590,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:775
+#: C/gostools.xml:774
 msgid ""
 "<_:figure-1/>Enter your desired bookmark title in to the "
 "<guilabel>Title</guilabel> text entry field. Then click "
@@ -19686,24 +19599,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:787
+#: C/gostools.xml:786
 msgid "Edit Bookmarks"
 msgstr "ブックマークの編集"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:788
+#: C/gostools.xml:787
 msgid "To edit your collection of bookmarks:"
 msgstr "ブックマークを編集するには:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:792
+#: C/gostools.xml:791
 msgid ""
 "Click <menuchoice> <guimenu>Bookmarks</guimenu> <guimenuitem>Edit "
 "Bookmarks...</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:799
+#: C/gostools.xml:798
 msgid ""
 "Use the key combination "
 "<keycombo><keycap>Ctrl</keycap><keycap>B</keycap></keycombo>"
@@ -19712,7 +19625,7 @@ msgstr ""
 "を押下してください。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:790
+#: C/gostools.xml:789
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-edit-bookmarks\"/>."
@@ -19720,7 +19633,7 @@ msgstr ""
 
 #. (itstool) path: info/title
 #. (itstool) path: para/interface
-#: C/gostools.xml:804 C/gostools.xml:841
+#: C/gostools.xml:803 C/gostools.xml:840
 msgid "Edit Bookmarks Window"
 msgstr "ブックマークの編集ダイアログ"
 
@@ -19729,7 +19642,7 @@ msgstr "ブックマークの編集ダイアログ"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gostools.xml:807
+#: C/gostools.xml:806
 msgctxt "_"
 msgid ""
 "external ref='figures/yelp_edit_bookmarks.png' "
@@ -19737,85 +19650,85 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gostools.xml:804
+#: C/gostools.xml:803
 msgid ""
 "<_:figure-1/>You can manage your bookmarks using this window in the "
 "following ways:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:815
+#: C/gostools.xml:814
 msgid "<guibutton>Open</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:818
+#: C/gostools.xml:817
 msgid "Use this button to open the selected bookmark in a new window."
 msgstr "新しいウィンドウの中に選択したブックマークを表示する際は、このボタンをクリックしてください。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:824
+#: C/gostools.xml:823
 msgid "<guibutton>Rename</guibutton>"
 msgstr "<guibutton>名前の変更</guibutton>"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:827
+#: C/gostools.xml:826
 msgid "Use this button to rename the title of your bookmark."
 msgstr "ブックマークの題名を変更する際は、このボタンをクリックしてください。"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:833
+#: C/gostools.xml:832
 msgid "<guibutton>Remove</guibutton>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:836
+#: C/gostools.xml:835
 msgid "Use this button to delete the bookmark from your collection."
 msgstr "選択したブックマークを削除する際は、このボタンをクリックしてください。"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:813
+#: C/gostools.xml:812
 msgid ""
 "<_:variablelist-1/>Once you are finished managing your bookmarks, click the "
 "<guibutton>Close</guibutton> button to exit the <_:interface-2/>."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:845
+#: C/gostools.xml:844
 msgid "Get Help"
 msgstr "ヘルプを取得する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:846
+#: C/gostools.xml:845
 msgid ""
 "To get help to use <application>Yelp Help Browser</application> (and see "
 "this document):"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:851
+#: C/gostools.xml:850
 msgid ""
 "Click <menuchoice> <guimenu>Help</guimenu> "
 "<guimenuitem>Contents</guimenuitem> </menuchoice>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:863
+#: C/gostools.xml:862
 msgid "Advanced Features"
 msgstr "いろいろな拡張機能"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:865
+#: C/gostools.xml:864
 msgid "Opening Specific Documents"
 msgstr "指定したドキュメントを開く"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:867
+#: C/gostools.xml:866
 msgid "Opening Documents from the File Manager"
 msgstr "ファイル・マネージャからドキュメントを開く"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:868
+#: C/gostools.xml:867
 msgid ""
 "To open a document, such as an XML file, from the file manager, open the "
 "document in <application>Caja</application> File Manager, or drag the icon "
@@ -19827,12 +19740,12 @@ msgstr ""
 "<application>Yelp</application> の閲覧ペインまたはランチャにドラッグドロップしてください。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:872
+#: C/gostools.xml:871
 msgid "Using the Command Line to Open Documents"
 msgstr "コマンドラインからドキュメントを開く"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:873
+#: C/gostools.xml:872
 msgid ""
 "Yelp Help Browser supports opening documents from the command line. There "
 "are a number of URIs (Uniform Resource Identifiers) that can be used. These "
@@ -19842,17 +19755,17 @@ msgstr ""
 "Resource Identifier</firstterm>) の種類をサポートしています。例えば:"
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:879
+#: C/gostools.xml:878
 msgid "<option>file:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:882
+#: C/gostools.xml:881
 msgid "Use this URI when you want to access a file with yelp, for example:"
 msgstr "Yelp からファイルを開く際は、この URI を指定してください。例えば:"
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:885
+#: C/gostools.xml:884
 #, no-wrap
 msgid ""
 "<userinput>yelp file:///usr/share/help/C/mate-control-center/config-"
@@ -19860,43 +19773,43 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:891
+#: C/gostools.xml:890
 msgid "<option>help:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:894
+#: C/gostools.xml:893
 msgid ""
 "Use this URI when you want to access MATE help documents, which are "
 "typically written in DocBook format."
 msgstr "MATE のヘルプ・ドキュメント (基本的に DocBook 形式) を開く際は、この URI を指定してください。例えば:"
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:897
+#: C/gostools.xml:896
 #, no-wrap
 msgid "<userinput>yelp help:mate-terminal</userinput>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:899
+#: C/gostools.xml:898
 msgid ""
 "If you want to open the help document at a particular section, append a "
 "slash to the end of the URI, followed by the section id."
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:902
+#: C/gostools.xml:901
 #, no-wrap
 msgid "<userinput>yelp help:mate-user-guide/yelp-advanced-cmdline</userinput>"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:907
+#: C/gostools.xml:906
 msgid "<option>man:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:910
+#: C/gostools.xml:909
 msgid ""
 "Use this URI when you want to access a particular man page. You can append "
 "the section of the man page you would like to view if there are multiple man"
@@ -19906,18 +19819,18 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:917
+#: C/gostools.xml:916
 #, no-wrap
 msgid "<userinput>yelp man:mate-panel</userinput>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:919
+#: C/gostools.xml:918
 msgid "or"
 msgstr "または"
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:921
+#: C/gostools.xml:920
 #, no-wrap
 msgid ""
 "<userinput>yelp 'man:intro(1)'</userinput>\n"
@@ -19925,28 +19838,28 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gostools.xml:927
+#: C/gostools.xml:926
 msgid "<option>info:</option>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:930
+#: C/gostools.xml:929
 msgid "Use this URI when you want to access a particular GNU info page."
 msgstr "GNU の info ページを開く際に、この URI を指定してください。"
 
 #. (itstool) path: listitem/screen
-#: C/gostools.xml:933
+#: C/gostools.xml:932
 #, no-wrap
 msgid "<userinput>yelp info:make</userinput>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:940
+#: C/gostools.xml:939
 msgid "Refreshing Content on Demand"
 msgstr "オンデマンドで内容を更新する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:941
+#: C/gostools.xml:940
 msgid ""
 "<application>Yelp Help Browser</application> supports the "
 "<keycombo><keycap>Ctrl</keycap><keycap>R</keycap></keycombo> shortcut keys, "
@@ -19959,12 +19872,12 @@ msgstr ""
 "形式のドキュメントを再読み込みし内容を更新できるようになっています。これにより開発者は自分が作成し変更したドキュメントを直ぐに更新し、内容を確認できます。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:948
+#: C/gostools.xml:947
 msgid "More Information"
 msgstr "その他の情報"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:949
+#: C/gostools.xml:948
 msgid ""
 "This section details some helper applications which <application>Yelp Help "
 "Browser</application> uses, and provides resources where you can get more "
@@ -19972,12 +19885,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:953
+#: C/gostools.xml:952
 msgid "Scrollkeeper"
 msgstr "Scrollkeeper"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:954
+#: C/gostools.xml:953
 msgid ""
 "<application>Yelp Help Browser</application> uses scrollkeeper to generate "
 "the table of contents for DocBook and HTML documentation, and also keep "
@@ -19987,24 +19900,24 @@ msgstr ""
 "形式のドキュメントから目次を生成し、各国語に翻訳されたドキュメントが格納されているフォルダを取得します。"
 
 #. (itstool) path: info/title
-#: C/gostools.xml:959
+#: C/gostools.xml:958
 msgid "MATE Documentation Utilites"
 msgstr "MATE ドキュメント用のユーティリティ"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:960
+#: C/gostools.xml:959
 msgid ""
 "The documentation distributed with MATE uses this set of utilities for a "
 "variety of things:"
 msgstr "MATE から配布されているドキュメントは、次に示す目的のためにこのユーティリティを利用しています:"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:965
+#: C/gostools.xml:964
 msgid "Ease translation of documents to different languages."
 msgstr "ドキュメントを他の言語に手軽に翻訳できる仕組みを提供するため"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:969
+#: C/gostools.xml:968
 msgid ""
 "Provide a set of tools to help package and install documentation into the "
 "correct location and register the documentation with scrollkeeper."
@@ -20012,13 +19925,13 @@ msgstr ""
 "ドキュメントをパッケージ化したり、システムの妥当な場所にインストールし Scrollkeeper を使って全ドキュメントの目録に登録するのを支援するため"
 
 #. (itstool) path: listitem/para
-#: C/gostools.xml:975
+#: C/gostools.xml:974
 msgid ""
 "Perform conversion from DocBook format to a format suitable for display."
 msgstr "DocBook 形式から表示に適した形式に変換するため"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:963
+#: C/gostools.xml:962
 msgid ""
 "<_:itemizedlist-1/><application>Yelp Help Browser</application> relies on "
 "<link xlink:href=\"help:mate-doc-xslt\">MATE XSLT Stylesheets</link> to "
@@ -20029,12 +19942,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:983
+#: C/gostools.xml:982
 msgid "Homepage and Mailing List"
 msgstr "ホームページとメーリング・リスト"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:984
+#: C/gostools.xml:983
 msgid ""
 "For further information on <application>Yelp Help Browser</application>, "
 "please visit the Documentation Project homepage, <uri xlink:href=\"http"
@@ -20044,12 +19957,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gostools.xml:989
+#: C/gostools.xml:988
 msgid "Joining the MATE Documentation Project"
 msgstr "MATE ドキュメンテーション・プロジェクトに参加する"
 
 #. (itstool) path: section/para
-#: C/gostools.xml:990
+#: C/gostools.xml:989
 msgid ""
 "If you are interested in helping produce and update documentation for the "
 "MATE project, please visit the Documentation Project homepage: <uri "
