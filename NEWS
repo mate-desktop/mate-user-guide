@@ -1,3 +1,8 @@
+### mate-user-guide 1.23.1
+
+    tx: sync with fixed translations from transifex
+    gosoverview.xml: Reduce link attributes
+
 ### mate-user-guide 1.23.0
 
   * tx: sync with transifex
