@@ -7,13 +7,14 @@
 # Stefano Karapetsas <stefano@karapetsas.com>, 2019
 # Wolfgang Ulbrich <mate@raveit.de>, 2019
 # مهدي السطيفي <chinoune.mehdi@gmail.com>, 2019
+# Ahmad Dakhlallah <andy.afef@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2019-04-22 15:09+0200\n"
 "PO-Revision-Date: 2019-03-16 17:25+0000\n"
-"Last-Translator: مهدي السطيفي <chinoune.mehdi@gmail.com>, 2019\n"
+"Last-Translator: Ahmad Dakhlallah <andy.afef@gmail.com>, 2019\n"
 "Language-Team: Arabic (https://www.transifex.com/mate/teams/13566/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -65,7 +66,7 @@ msgstr ""
 #. (itstool) path: revdescription/para
 #: C/index.docbook:32 C/index.docbook:172
 msgid "MATE Documentation Project"
-msgstr ""
+msgstr "مشروع دليل MATE"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:38
@@ -192,7 +193,7 @@ msgstr ""
 #: C/index.docbook:227 C/index.docbook:235 C/index.docbook:243
 #: C/index.docbook:251 C/index.docbook:259
 msgid "GNOME Documentation Project"
-msgstr ""
+msgstr "مشروع دليل GNOME"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:175

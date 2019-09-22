@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Joeke de Graaf <mappack@null.net>, 2019
+# 62197a8afd75a0a64478212fcb55f596, 2019
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-22 15:09+0200\n"
 "PO-Revision-Date: 2019-03-16 17:18+0000\n"
-"Last-Translator: Joeke de Graaf <mappack@null.net>, 2019\n"
+"Last-Translator: 62197a8afd75a0a64478212fcb55f596, 2019\n"
 "Language-Team: Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

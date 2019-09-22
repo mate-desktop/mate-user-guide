@@ -3941,7 +3941,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1392
 msgid "<guilabel>Password</guilabel>"
-msgstr ""
+msgstr "<guilabel>የ መግቢያ ቃል</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1397
@@ -10197,7 +10197,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2392 C/goscaja.xml:3737
 msgid "<guilabel>Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>ስም</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2397
@@ -10209,7 +10209,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2403
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>አካባቢ</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2408
@@ -12157,7 +12157,7 @@ msgstr "መረጃ"
 #: C/goscaja.xml:3597 C/goscaja.xml:3747 C/gospanel.xml:189
 #: C/gospanel.xml:1420
 msgid "<guilabel>Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>መጠን</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3602 C/goscaja.xml:3752
@@ -12167,7 +12167,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3607 C/goscaja.xml:3757
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>አይነት</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3612

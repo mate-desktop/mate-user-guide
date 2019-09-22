@@ -2,13 +2,14 @@
 # Martin Wimpress <code@flexion.org>, 2019
 # Stefano Karapetsas <stefano@karapetsas.com>, 2019
 # Andi Chandler <andi@gowling.com>, 2019
+# Steven Maddox <s.maddox@lantizia.me.uk>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2019-04-22 15:09+0200\n"
 "PO-Revision-Date: 2019-03-16 17:25+0000\n"
-"Last-Translator: Andi Chandler <andi@gowling.com>, 2019\n"
+"Last-Translator: Steven Maddox <s.maddox@lantizia.me.uk>, 2019\n"
 "Language-Team: English (United Kingdom) (https://www.transifex.com/mate/teams/13566/en_GB/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -6244,6 +6245,10 @@ msgid ""
 " access to the users Home Folder, Trash, and also removable media such as "
 "floppy disks, CDs and USB flash drives."
 msgstr ""
+"Every user has a Home Folder. The Home Folder contains all user's files. The"
+" desktop is another folder. The desktop contains special icons allowing easy"
+" access to the users Home Folder, Bin, and also removable media such as "
+"floppy disks, CDs and USB flash drives."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:70
@@ -9388,7 +9393,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:1927
 msgid "Moving a File or Folder to Trash"
-msgstr ""
+msgstr "Moving a File or Folder to Bin"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:1928
@@ -9396,12 +9401,14 @@ msgid ""
 "<primary>file manager</primary> <secondary>Trash</secondary> "
 "<see>Trash</see>"
 msgstr ""
+"<primary>file manager</primary> <secondary>Bin</secondary> <see>Bin</see>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:1933
 msgid ""
 "<primary>Trash</primary> <secondary>moving files or folders to</secondary>"
 msgstr ""
+"<primary>Bin</primary> <secondary>moving files or folders to</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1937
@@ -9409,6 +9416,8 @@ msgid ""
 "To move a file or folder to <guilabel>Trash</guilabel> perform the following"
 " steps:"
 msgstr ""
+"To move a file or folder to <guilabel>Bin</guilabel> perform the following "
+"steps:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1941
@@ -9416,6 +9425,7 @@ msgid ""
 "Select the file or folder that you want to move to "
 "<guilabel>Trash</guilabel>."
 msgstr ""
+"Select the file or folder that you want to move to <guilabel>Bin</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1944
@@ -9424,6 +9434,9 @@ msgid ""
 "Trash</guimenuitem></menuchoice>. Alternatively, right-click on the file or "
 "folder, then choose <guimenuitem>Move to Trash</guimenuitem>."
 msgstr ""
+"Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Move to "
+"Bin</guimenuitem></menuchoice>. Alternatively, right-click on the file or "
+"folder, then choose <guimenuitem>Move to Bin</guimenuitem>."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1948
@@ -9431,6 +9444,8 @@ msgid ""
 "Alternatively, you can drag the file or folder to the "
 "<guilabel>Trash</guilabel> object on the desktop."
 msgstr ""
+"Alternatively, you can drag the file or folder to the "
+"<guilabel>Bin</guilabel> object on the desktop."
 
 #. (itstool) path: note/para
 #: C/goscaja.xml:1950
@@ -9441,6 +9456,11 @@ msgid ""
 "file or folder permanently from the removable media, you must empty "
 "<guilabel>Trash</guilabel>."
 msgstr ""
+"When you move a file or folder from a removable media to "
+"<guilabel>Bin</guilabel>, the file or folder is stored in a "
+"<guilabel>Bin</guilabel> location on the removable media. To remove the file"
+" or folder permanently from the removable media, you must empty "
+"<guilabel>Bin</guilabel>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1956
@@ -9464,6 +9484,11 @@ msgid ""
 " Trash</guilabel> option in the <guilabel>File Management "
 "Preferences</guilabel> dialog."
 msgstr ""
+"When you delete a file or folder, the file or folder is not moved to "
+"<guilabel>Bin</guilabel>, but is deleted from your file system immediately. "
+"The <guimenuitem>Delete</guimenuitem> menu item is only available if you "
+"select the <guilabel>Include a Delete command that bypasses Bin</guilabel> "
+"option in the <guilabel>File Management Preferences</guilabel> dialog."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1967
@@ -9490,6 +9515,8 @@ msgid ""
 "This shortcut is independent from the <guilabel>Include a Delete command "
 "that bypasses Trash</guilabel> option."
 msgstr ""
+"This shortcut is independent from the <guilabel>Include a Delete command "
+"that bypasses Bin</guilabel> option."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1977
@@ -10255,7 +10282,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:2424
 msgid "Using Trash"
-msgstr ""
+msgstr "Using Bin"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -10276,11 +10303,14 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Trash icon, "
 "empty.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/caja_trash_launcher.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Bin icon, "
+"empty.</phrase> </textobject>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2437
 msgid "<primary>Trash</primary> <secondary>introduction</secondary>"
-msgstr ""
+msgstr "<primary>Bin</primary> <secondary>introduction</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2441
@@ -10290,11 +10320,15 @@ msgid ""
 "This two-stage process is in case you change your mind, or accidentally "
 "remove the wrong file."
 msgstr ""
+"Bin is a special folder that holds files that you no longer want to keep. "
+"Files in the Bin are not deleted permanently until you empty the bin. This "
+"two-stage process is in case you change your mind, or accidentally remove "
+"the wrong file."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2444
 msgid "You can move the following items to <guilabel>Trash</guilabel>:"
-msgstr ""
+msgstr "You can move the following items to <guilabel>Bin</guilabel>:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2447
@@ -10314,16 +10348,20 @@ msgid ""
 "<guilabel>Trash</guilabel>. When you empty <guilabel>Trash</guilabel>, you "
 "delete the contents of <guilabel>Trash</guilabel> permanently."
 msgstr ""
+"If you need to retrieve a file from <guilabel>Bin</guilabel>, you can "
+"display <guilabel>Bin</guilabel> and move the file out of "
+"<guilabel>Bin</guilabel>. When you empty <guilabel>Bin</guilabel>, you "
+"delete the contents of <guilabel>Bin</guilabel> permanently."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:2460
 msgid "To Display Trash"
-msgstr ""
+msgstr "To Display Bin"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2461
 msgid "<primary>Trash</primary> <secondary>displaying</secondary>"
-msgstr ""
+msgstr "<primary>Bin</primary> <secondary>displaying</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2465
@@ -10331,6 +10369,8 @@ msgid ""
 "You can display the contents of <guilabel>Trash</guilabel> in the following "
 "ways:"
 msgstr ""
+"You can display the contents of <guilabel>Bin</guilabel> in the following "
+"ways:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2469 C/goscaja.xml:2494
@@ -10344,6 +10384,9 @@ msgid ""
 "<menuchoice><guimenu>Go</guimenu><guimenuitem>Trash</guimenuitem></menuchoice>."
 " The contents of <guilabel>Trash</guilabel> are displayed in the window."
 msgstr ""
+"Choose "
+"<menuchoice><guimenu>Go</guimenu><guimenuitem>Bin</guimenuitem></menuchoice>."
+" The contents of <guilabel>Bin</guilabel> are displayed in the window."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2474
@@ -10357,6 +10400,9 @@ msgid ""
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Trash</guimenuitem></menuchoice>."
 " The contents of <guilabel>Trash</guilabel> are displayed in the window."
 msgstr ""
+"Choose "
+"<menuchoice><guimenu>Places</guimenu><guimenuitem>Bin</guimenuitem></menuchoice>."
+" The contents of <guilabel>Bin</guilabel> are displayed in the window."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2479 C/goscaja.xml:2499
@@ -10366,17 +10412,17 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2480
 msgid "Double-click on the <guilabel>Trash</guilabel> object on the desktop."
-msgstr ""
+msgstr "Double-click on the <guilabel>Bin</guilabel> object on the desktop."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:2484
 msgid "To Empty Trash"
-msgstr ""
+msgstr "To Empty Bin"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2486
 msgid "<primary>Trash</primary> <secondary>emptying</secondary>"
-msgstr ""
+msgstr "<primary>Bin</primary> <secondary>emptying</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2490
@@ -10384,6 +10430,8 @@ msgid ""
 "You can empty the contents of <guilabel>Trash</guilabel> in the following "
 "ways:"
 msgstr ""
+"You can empty the contents of <guilabel>Bin</guilabel> in the following "
+"ways:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2495
@@ -10391,6 +10439,8 @@ msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Empty "
 "Trash</guimenuitem></menuchoice>."
 msgstr ""
+"Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Empty "
+"Bin</guimenuitem></menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2500
@@ -10398,6 +10448,8 @@ msgid ""
 "Right-click on the <guilabel>Trash</guilabel> object, then choose "
 "<guimenuitem>Empty Trash</guimenuitem>."
 msgstr ""
+"Right-click on the <guilabel>Bin</guilabel> object, then choose "
+"<guimenuitem>Empty Bin</guimenuitem>."
 
 #. (itstool) path: caution/para
 #: C/goscaja.xml:2504
@@ -10405,6 +10457,8 @@ msgid ""
 "When you empty trash, you destroy all files in the trash. Be sure that the "
 "trash only contains files you no longer need."
 msgstr ""
+"When you empty the bin, you destroy all files in the bin. Be sure that the "
+"bin only contains files you no longer need."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:2511
@@ -11810,7 +11864,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3326
 msgid "The behavior of files and folders, executable text files, and Trash."
-msgstr ""
+msgstr "The behaviour of files and folders, executable text files, and Bin."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3329
@@ -12081,7 +12135,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3530
 msgid "<guilabel>Ask before emptying the Trash or deleting files</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ask before emptying the Bin or deleting files</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3532
@@ -12090,11 +12144,14 @@ msgid ""
 "<guilabel>Trash</guilabel> is emptied, or files are deleted. Leave this "
 "selected unless you have good reason not to."
 msgstr ""
+"Select this option to display a confirmation message before "
+"<guilabel>Bin</guilabel> is emptied, or files are deleted. Leave this "
+"selected unless you have good reason not to."
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3536
 msgid "<guilabel>Include a Delete command that bypasses Trash</guilabel>"
-msgstr ""
+msgstr "<guilabel>Include a Delete command that bypasses Bin</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3538

@@ -7,7 +7,7 @@
 # Andres Sanchez <blackatze93@gmail.com>, 2019
 # Benjamin Perez Carrillo <benperezc@gmail.com>, 2019
 # Martin Wimpress <code@flexion.org>, 2019
-# Fito JB, 2019
+# Adolfo Jayme-Barrientos, 2019
 # Stefano Karapetsas <stefano@karapetsas.com>, 2019
 # David García-Abad <dgarciabad@gmail.com>, 2019
 # Joel Barrios <darkshram@gmail.com>, 2019
@@ -3395,7 +3395,7 @@ msgid ""
 "In some applications, you can override this choice in the application's "
 "preferences dialog."
 msgstr ""
-"En algunas aplucaciones, puede invalidar esta selección en el diálogo de "
+"En algunas aplicaciones, puede anular esta selección en el diálogo de "
 "preferencias de la propia aplicación."
 
 #. (itstool) path: varlistentry/term
@@ -3472,7 +3472,7 @@ msgstr ""
 "<guilabel>Monocromo</guilabel>: Representa las tipografías solo en blanco y "
 "negro. Los bordes de los caracteres puede que parezcan dentados en algunos "
 "casos debido a que no se ha aplicado el suavizado de contorno. El "
-"<firstterm>suavizado de contorno</firstterm> es un efecto que se aplica a "
+"<firstterm>suavizado del contorno</firstterm> es un efecto que se aplica a "
 "los bordes de los caracteres para hacerlos parecer más suaves."
 
 #. (itstool) path: listitem/para
@@ -3505,10 +3505,10 @@ msgid ""
 " the shape of individual Liquid Crystal Display (LCD) pixels to render fonts"
 " smoothly. Use this option for LCD or flat-screen displays."
 msgstr ""
-"<guilabel>Suavizado de subpíxeles (LCD)</guilabel>: Usa técnicas que "
+"<guilabel>Suavizado de los subpíxeles (LCD)</guilabel>: Usa técnicas que "
 "aprovechan la forma de los píxeles individuales de las pantallas de cristal "
 "líquido (LCD) para representar las tipografías con más suavidad. Use esta "
-"opción para para pantallas LCD o pantallas planas."
+"opción para para pantallas planas o LCD."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:793
@@ -3540,7 +3540,7 @@ msgid ""
 "<guilabel>Smoothing</guilabel>: Select one of the options to specify how to "
 "antialias fonts."
 msgstr ""
-"<guilabel>Suavizado de contorno</guilabel>: Seleccione una de las opciones "
+"<guilabel>Suavizado del contorno</guilabel>: Seleccione una de las opciones "
 "para especificar cómo suavizar el contorno de las tipografías."
 
 #. (itstool) path: listitem/para
@@ -3566,7 +3566,7 @@ msgid ""
 msgstr ""
 "<guilabel>Orden de los subpíxeles</guilabel>: Seleccione una de las opciones"
 " para especificar el orden del color de los subpíxeles para las tipografías."
-" Use esta opción para pantallas LCD o planas."
+" Use esta opción para pantallas planas o LCD."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:870
@@ -13825,7 +13825,7 @@ msgid ""
 "Port to connect to on the server. This should only be used if it is "
 "necessary to change the default port, you would normally leave this blank."
 msgstr ""
-"Puerto para conectarse al servidor. Esta opción sólo debe usarse si es "
+"Puerto para conectarse al servidor. Esta opción solo debe usarse si es "
 "necesario cambiar el puerto predeterminado, normalmente se deja en blanco."
 
 #. (itstool) path: entry/para

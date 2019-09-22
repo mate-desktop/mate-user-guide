@@ -16,13 +16,14 @@
 # Wolfgang Ulbrich <mate@raveit.de>, 2019
 # Halan Germano Bacca <halangermano@hotmail.com.br>, 2019
 # 58fae44c6c4ff84516f8c8656a7fb14d, 2019
+# George salu da silva <algoritmo.linux@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "POT-Creation-Date: 2019-04-22 15:09+0200\n"
 "PO-Revision-Date: 2019-03-16 17:25+0000\n"
-"Last-Translator: 58fae44c6c4ff84516f8c8656a7fb14d, 2019\n"
+"Last-Translator: George salu da silva <algoritmo.linux@gmail.com>, 2019\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -76,7 +77,7 @@ msgstr ""
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
 msgid "<year>2019</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgstr "<year>2019</year> <holder>MATE Projeto de Documentação</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -105,6 +106,8 @@ msgid ""
 "<orgname>MATE Documentation Project</orgname> <affiliation> <orgname>MATE "
 "Desktop</orgname> </affiliation>"
 msgstr ""
+"<orgname>MATE Projeto de documentação</orgname> <affiliation> <orgname>MATE "
+"Desktop</orgname> </affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:44
@@ -113,6 +116,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
 "</affiliation>"
 msgstr ""
+"<personname> <firstname>Wolfgang</firstname> <surname>Ulbrich</surname> "
+"</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
+"</affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:53
@@ -121,6 +127,9 @@ msgid ""
 "Team</surname> </personname> <affiliation> <orgname>Sun "
 "Microsystems</orgname> </affiliation>"
 msgstr ""
+"<personname> <firstname>Sun</firstname> <surname>GNOME Equipe de "
+"documentação</surname> </personname> <affiliation> <orgname>Sun "
+"Microsystems</orgname> </affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:62
@@ -129,6 +138,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>shaunm@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Shaun</firstname> <surname>McCance</surname> "
+"</personname> <affiliation> <orgname>GNOME Projeto de documentação</orgname>"
+" </affiliation> <email>shaunm@gnome.org</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:72
@@ -137,6 +149,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> "
 "<email>karderio@gmail.com</email>"
 msgstr ""
+"<personname> <surname>Karderio</surname> </personname> <affiliation> "
+"<orgname>GNOME Projeto de documentação</orgname> </affiliation> "
+"<email>karderio@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:81
@@ -145,6 +160,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>jnoreiko@yahoo.com</email>"
 msgstr ""
+"<personname> <firstname>Joachim</firstname> <surname>Noreiko</surname> "
+"</personname> <affiliation> <orgname>GNOME Projeto de documentação</orgname>"
+" </affiliation> <email>jnoreiko@yahoo.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:91
@@ -153,6 +171,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>esodan@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>Daniel</firstname> <surname>Espinosa Ortiz</surname>"
+" </personname> <affiliation> <orgname>GNOME Projeto de "
+"documentação</orgname> </affiliation> <email>esodan@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:101
@@ -161,6 +182,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>mate@nextreality.net</email>"
 msgstr ""
+"<personname> <firstname>Brent</firstname> <surname>Smith</surname> "
+"</personname> <affiliation> <orgname>GNOME Projeto de documentação</orgname>"
+" </affiliation> <email>mate@nextreality.net</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:111
@@ -169,6 +193,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>tim@tjl2.com</email>"
 msgstr ""
+"<personname> <firstname>Tim</firstname> <surname>Littlemore</surname> "
+"</personname> <affiliation> <orgname>GNOME Projeto de documentação</orgname>"
+" </affiliation> <email>tim@tjl2.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:121
@@ -177,6 +204,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>john.stowers@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>John</firstname> <surname>Stowers</surname> "
+"</personname> <affiliation> <orgname>GNOME Projeto de documentação</orgname>"
+" </affiliation> <email>john.stowers@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:131
@@ -185,6 +215,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>nigel.tao@myrealbox.com</email>"
 msgstr ""
+"<personname> <firstname>Nigel</firstname> <surname>Tao</surname> "
+"</personname> <affiliation> <orgname>GNOME Projeto de documentação</orgname>"
+" </affiliation> <email>nigel.tao@myrealbox.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:141
@@ -193,6 +226,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Ubuntu Documentation Project</orgname> "
 "</affiliation> <email>mdke@ubuntu.com</email>"
 msgstr ""
+"<personname> <firstname>Matthew</firstname> <surname>East</surname> "
+"</personname> <affiliation> <orgname>Ubuntu Projeto de "
+"documentação</orgname> </affiliation> <email>mdke@ubuntu.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:151
@@ -201,6 +237,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Project</orgname> </affiliation>"
 " <email>carlosg@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Carlos</firstname> <surname>Garnacho Parro</surname>"
+" </personname> <affiliation> <orgname>GNOME Projeto</orgname> </affiliation>"
+" <email>carlosg@gnome.org</email>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:171
@@ -251,6 +290,7 @@ msgstr ""
 msgid ""
 "<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.8</revnumber> <date>Setembro 2004</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:202 C/index.docbook:210 C/index.docbook:218
@@ -264,47 +304,55 @@ msgstr "Sun Microsystems"
 msgid ""
 "<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.7</revnumber> <date>Setembro 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
 msgid ""
 "<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.6</revnumber> <date>Agosto 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
 msgid ""
 "<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.5</revnumber> <date>Março 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
 msgid ""
 "<revnumber>2.4</revnumber> <date>January 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.4</revnumber> <date>Janeiro 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:230
 msgid ""
 "<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.3</revnumber> <date>Outubro 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
 msgid ""
 "<revnumber>2.2</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.2</revnumber> <date>Agosto 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:246
 msgid ""
 "<revnumber>2.1</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.1</revnumber> <date>Agosto 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:254
 msgid "<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>1.0</revnumber> <date>Maio 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
@@ -3278,12 +3326,12 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:694
 msgid "<primary>fonts</primary> <secondary>desktop</secondary>"
-msgstr ""
+msgstr "<primary>fonts</primary> <secondary>desktop</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:698
 msgid "<primary>fonts</primary> <secondary>applications</secondary>"
-msgstr ""
+msgstr "<primary>fonts</primary> <secondary>aplicações</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:702
@@ -3293,7 +3341,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:706
 msgid "<primary>fonts</primary> <secondary>terminal</secondary>"
-msgstr ""
+msgstr "<primary>fonts</primary> <secondary>terminal</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:710
@@ -7216,6 +7264,8 @@ msgid ""
 "external ref='figures/caja_always_use_browser.png' "
 "md5='19e041314b3a9c8844180f7bf0ef6282'"
 msgstr ""
+"external ref='figures/caja_always_use_browser.png' "
+"md5='19e041314b3a9c8844180f7bf0ef6282'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:80
@@ -7287,6 +7337,8 @@ msgid ""
 "external ref='figures/caja_browser_mode.png' "
 "md5='44b92e32cdc342cd5624b1be5626386d'"
 msgstr ""
+"external ref='figures/caja_browser_mode.png' "
+"md5='44b92e32cdc342cd5624b1be5626386d'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:100
@@ -7346,6 +7398,8 @@ msgid ""
 "external ref='figures/caja_spatial_mode.png' "
 "md5='f2f8e037d14274ac04e1df45664f2103'"
 msgstr ""
+"external ref='figures/caja_spatial_mode.png' "
+"md5='f2f8e037d14274ac04e1df45664f2103'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:120 C/goscaja.xml:181
@@ -7487,6 +7541,8 @@ msgid ""
 "external ref='figures/caja_spatial_view.png' "
 "md5='08673c38f4b4327f94f298c73b0d270b'"
 msgstr ""
+"external ref='figures/caja_spatial_view.png' "
+"md5='08673c38f4b4327f94f298c73b0d270b'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:167
@@ -8316,6 +8372,8 @@ msgid ""
 "external ref='figures/caja_button_bar.png' "
 "md5='447c19259a84de017f4431ea205bed03'"
 msgstr ""
+"external ref='figures/caja_button_bar.png' "
+"md5='447c19259a84de017f4431ea205bed03'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:609
@@ -8400,6 +8458,8 @@ msgid ""
 "external ref='figures/caja_go_to_location.png' "
 "md5='f5731ef77db819a54be69cab8806529a'"
 msgstr ""
+"external ref='figures/caja_go_to_location.png' "
+"md5='f5731ef77db819a54be69cab8806529a'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:628
@@ -8446,6 +8506,8 @@ msgid ""
 "external ref='figures/caja_search_bar.png' "
 "md5='60a9a159dee2d7ad5c035ed794845798'"
 msgstr ""
+"external ref='figures/caja_search_bar.png' "
+"md5='60a9a159dee2d7ad5c035ed794845798'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:644 C/goscaja.xml:982
@@ -9193,6 +9255,8 @@ msgid ""
 "external ref='figures/caja_search_results.png' "
 "md5='cdb07b97b638c6157d40d57373fcc5d4'"
 msgstr ""
+"external ref='figures/caja_search_results.png' "
+"md5='cdb07b97b638c6157d40d57373fcc5d4'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:995
@@ -9231,6 +9295,8 @@ msgid ""
 "external ref='figures/caja_refine_search.png' "
 "md5='c3d58f408fd7ec2f6965a0f06e05c43e'"
 msgstr ""
+"external ref='figures/caja_refine_search.png' "
+"md5='c3d58f408fd7ec2f6965a0f06e05c43e'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1008
@@ -9273,6 +9339,8 @@ msgid ""
 "external ref='figures/caja_restore_saved_search.png' "
 "md5='1b7dbb7d82639abe4d9f8cc75bc2c80f'"
 msgstr ""
+"external ref='figures/caja_restore_saved_search.png' "
+"md5='1b7dbb7d82639abe4d9f8cc75bc2c80f'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1028
@@ -9562,6 +9630,8 @@ msgid ""
 "external ref='figures/caja_spatial_icon_view.png' "
 "md5='c2dd3a38476c26a924c2673c6bb6de93'"
 msgstr ""
+"external ref='figures/caja_spatial_icon_view.png' "
+"md5='c2dd3a38476c26a924c2673c6bb6de93'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1151
@@ -9599,6 +9669,8 @@ msgid ""
 "external ref='figures/caja_spatial_list_view.png' "
 "md5='99693c429ea6f6889793a85b0c8fb099'"
 msgstr ""
+"external ref='figures/caja_spatial_list_view.png' "
+"md5='99693c429ea6f6889793a85b0c8fb099'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1167
@@ -9972,6 +10044,8 @@ msgid ""
 "external ref='figures/caja_zoom_out_button.png' "
 "md5='372c3f4288c029af11bac9c9012f7d8c'"
 msgstr ""
+"external ref='figures/caja_zoom_out_button.png' "
+"md5='372c3f4288c029af11bac9c9012f7d8c'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1391
@@ -10002,6 +10076,8 @@ msgid ""
 "external ref='figures/caja_normal_size_button.png' "
 "md5='5bf2b3af293a950536ca593cd49b2f5e'"
 msgstr ""
+"external ref='figures/caja_normal_size_button.png' "
+"md5='5bf2b3af293a950536ca593cd49b2f5e'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1411
@@ -10037,6 +10113,8 @@ msgid ""
 "external ref='figures/caja_zoom_in_button.png' "
 "md5='0369994f20b3221243b5b7550a5a9318'"
 msgstr ""
+"external ref='figures/caja_zoom_in_button.png' "
+"md5='0369994f20b3221243b5b7550a5a9318'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1433
@@ -11945,6 +12023,8 @@ msgid ""
 "external ref='figures/caja_trash_launcher.png' "
 "md5='42951c298a8bc2e3cd779e636e64efcd'"
 msgstr ""
+"external ref='figures/caja_trash_launcher.png' "
+"md5='42951c298a8bc2e3cd779e636e64efcd'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2428
@@ -12407,6 +12487,8 @@ msgid ""
 "external ref='figures/caja_emblem.png' "
 "md5='4dfffab4440360f5b2a307b42fa50691'"
 msgstr ""
+"external ref='figures/caja_emblem.png' "
+"md5='4dfffab4440360f5b2a307b42fa50691'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2602
@@ -12484,6 +12566,8 @@ msgid ""
 "external ref='figures/caja_link_emblem.png' "
 "md5='7fefb663977d2a003bc86b8eb61e9100'"
 msgstr ""
+"external ref='figures/caja_link_emblem.png' "
+"md5='7fefb663977d2a003bc86b8eb61e9100'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2649
@@ -12514,6 +12598,8 @@ msgid ""
 "external ref='figures/caja_nowrite_emblem.png' "
 "md5='06a5b7050d82e38d2f54048a1f698092'"
 msgstr ""
+"external ref='figures/caja_nowrite_emblem.png' "
+"md5='06a5b7050d82e38d2f54048a1f698092'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2666
@@ -12534,6 +12620,8 @@ msgid ""
 "external ref='figures/caja_noread_emblem.png' "
 "md5='e54419d1a042a072d0a56effcc13278a'"
 msgstr ""
+"external ref='figures/caja_noread_emblem.png' "
+"md5='e54419d1a042a072d0a56effcc13278a'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2683
@@ -15431,6 +15519,8 @@ msgid ""
 "external ref='figures/titlebar_window.png' "
 "md5='b3624c3e2eeb934a16ff5689c8163f44'"
 msgstr ""
+"external ref='figures/titlebar_window.png' "
+"md5='b3624c3e2eeb934a16ff5689c8163f44'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosoverview.xml:202
@@ -15784,6 +15874,8 @@ msgid ""
 "external ref='figures/workspace_switcher_applet.png' "
 "md5='00b75c538008ce6d01801ae2eb907af9'"
 msgstr ""
+"external ref='figures/workspace_switcher_applet.png' "
+"md5='00b75c538008ce6d01801ae2eb907af9'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosoverview.xml:340
@@ -17156,6 +17248,8 @@ msgid ""
 "external ref='figures/four_hide_button.png' "
 "md5='932231a03b23ecdb2563af3460091151'"
 msgstr ""
+"external ref='figures/four_hide_button.png' "
+"md5='932231a03b23ecdb2563af3460091151'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:341
@@ -17500,6 +17594,8 @@ msgid ""
 "external ref='figures/panel_object_popup_menu.png' "
 "md5='35135b4653e42312c3e83f399ec6d406'"
 msgstr ""
+"external ref='figures/panel_object_popup_menu.png' "
+"md5='35135b4653e42312c3e83f399ec6d406'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:515
@@ -17772,6 +17868,8 @@ msgid ""
 "external ref='figures/sample_applet.png' "
 "md5='d61c0b0d5b4a5758c5c8ec210c1682e1'"
 msgstr ""
+"external ref='figures/sample_applet.png' "
+"md5='d61c0b0d5b4a5758c5c8ec210c1682e1'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:681
@@ -18307,6 +18405,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/force_quit.png' md5='4e6cd725cd4977eaeab464ce4ff266ce'"
 msgstr ""
+"external ref='figures/force_quit.png' md5='4e6cd725cd4977eaeab464ce4ff266ce'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1006
@@ -18359,6 +18458,8 @@ msgid ""
 "external ref='figures/lockscreen_icon.png' "
 "md5='a5937cc295f73c51d54a0761ae924000'"
 msgstr ""
+"external ref='figures/lockscreen_icon.png' "
+"md5='a5937cc295f73c51d54a0761ae924000'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1034 C/gosstartsession.xml:139
@@ -18497,6 +18598,8 @@ msgid ""
 "external ref='figures/logout_icon.png' "
 "md5='b695adb45b2eaed0d80203635a70a5bb'"
 msgstr ""
+"external ref='figures/logout_icon.png' "
+"md5='b695adb45b2eaed0d80203635a70a5bb'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1120
@@ -18560,6 +18663,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/run_button.png' md5='68e8f81b231ed542e57349c93241f3f7'"
 msgstr ""
+"external ref='figures/run_button.png' md5='68e8f81b231ed542e57349c93241f3f7'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1153
@@ -18631,6 +18735,8 @@ msgid ""
 "external ref='figures/searchtool_button.png' "
 "md5='e6210d7a387eccba73a76c215f078611'"
 msgstr ""
+"external ref='figures/searchtool_button.png' "
+"md5='e6210d7a387eccba73a76c215f078611'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1188
@@ -18720,6 +18826,8 @@ msgid ""
 "external ref='figures/show_desktop_button.png' "
 "md5='c228bbe71372d2a5afb76c3c7943e739'"
 msgstr ""
+"external ref='figures/show_desktop_button.png' "
+"md5='c228bbe71372d2a5afb76c3c7943e739'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1234
@@ -18871,6 +18979,8 @@ msgid ""
 "external ref='figures/open_drawer.png' "
 "md5='ce13f1ec9eaed826ef4e113de0cd5d9c'"
 msgstr ""
+"external ref='figures/open_drawer.png' "
+"md5='ce13f1ec9eaed826ef4e113de0cd5d9c'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1311
@@ -19142,6 +19252,8 @@ msgid ""
 "external ref='figures/openwindows_menu.png' "
 "md5='5de74eda192636868298a97043530d75'"
 msgstr ""
+"external ref='figures/openwindows_menu.png' "
+"md5='5de74eda192636868298a97043530d75'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1501
@@ -19201,6 +19313,8 @@ msgid ""
 "external ref='figures/notification_area_icon.png' "
 "md5='973b76c720b51d9495208ab2d62ecdec'"
 msgstr ""
+"external ref='figures/notification_area_icon.png' "
+"md5='973b76c720b51d9495208ab2d62ecdec'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1533
@@ -19243,6 +19357,8 @@ msgid ""
 "external ref='figures/menu_bar_applet.png' "
 "md5='8f4bca946498664c1cddd238a5a23498'"
 msgstr ""
+"external ref='figures/menu_bar_applet.png' "
+"md5='8f4bca946498664c1cddd238a5a23498'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1552
@@ -20524,6 +20640,8 @@ msgid ""
 "external ref='figures/yelp_window.png' "
 "md5='c7138987ae131fe2c57846a281245d31'"
 msgstr ""
+"external ref='figures/yelp_window.png' "
+"md5='c7138987ae131fe2c57846a281245d31'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:309
@@ -20874,6 +20992,8 @@ msgid ""
 "external ref='figures/yelp_preferences.png' "
 "md5='b8beb6c866957938b5e39bc7f72611ec'"
 msgstr ""
+"external ref='figures/yelp_preferences.png' "
+"md5='b8beb6c866957938b5e39bc7f72611ec'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:557
@@ -21170,6 +21290,8 @@ msgid ""
 "external ref='figures/yelp_add_bookmark.png' "
 "md5='562a62662f47655337c9bf341ef69f6e'"
 msgstr ""
+"external ref='figures/yelp_add_bookmark.png' "
+"md5='562a62662f47655337c9bf341ef69f6e'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:774
@@ -21230,6 +21352,8 @@ msgid ""
 "external ref='figures/yelp_edit_bookmarks.png' "
 "md5='6fb478c10bb9df68dc8d82f3ed4ac89b'"
 msgstr ""
+"external ref='figures/yelp_edit_bookmarks.png' "
+"md5='6fb478c10bb9df68dc8d82f3ed4ac89b'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:803
@@ -21721,6 +21845,8 @@ msgid ""
 "external ref='figures/org_mate_desktop_background_logical_view.png' "
 "md5='657d280ac9bef4a700c8f46561072828'"
 msgstr ""
+"external ref='figures/org_mate_desktop_background_logical_view.png' "
+"md5='657d280ac9bef4a700c8f46561072828'"
 
 #. (itstool) path: figure/mediaobject
 #: C/gosdconf.xml:94
@@ -21780,6 +21906,8 @@ msgid ""
 "external ref='figures/picture_filename_dconf_key_view.png' "
 "md5='f03c4f0335a297d49495410dc37b5888'"
 msgstr ""
+"external ref='figures/picture_filename_dconf_key_view.png' "
+"md5='f03c4f0335a297d49495410dc37b5888'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosdconf.xml:125
@@ -21902,6 +22030,8 @@ msgid ""
 "external ref='figures/org_mate_desktop_background_only_logical_view.png' "
 "md5='ba63c30934dd9cc0379f54d0cc90850a'"
 msgstr ""
+"external ref='figures/org_mate_desktop_background_only_logical_view.png' "
+"md5='ba63c30934dd9cc0379f54d0cc90850a'"
 
 #. (itstool) path: figure/mediaobject
 #: C/gosdconf.xml:197
@@ -21960,6 +22090,8 @@ msgid ""
 "external ref='figures/picture_filename_dconf_key_edit.png' "
 "md5='6c51950700e166ae8e96193b1ac8d0cc'"
 msgstr ""
+"external ref='figures/picture_filename_dconf_key_edit.png' "
+"md5='6c51950700e166ae8e96193b1ac8d0cc'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosdconf.xml:235
