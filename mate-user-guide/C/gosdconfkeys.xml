@@ -980,7 +980,7 @@ $ gsettings get org.mate.interface file-chooser-backend</screen>
       <varlistentry>
         <term>menubar-accel</term>
         <listitem>
-          <para>(s) Keyboard shortcut to open the menu bars.</para>
+          <para>(s) Keyboard shortcut to open the menus.</para>
           <para its:translate="no">
             <screen>$ dconf read /org/mate/desktop/interface/menubar-accel
 $ gsettings get org.mate.interface menubar-accel</screen>

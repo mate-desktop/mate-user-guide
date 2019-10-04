@@ -49,8 +49,8 @@ these panels.</para>
            
       <variablelist>
       	<varlistentry>
-      		<term><application>Menu Bar</application> applet</term>
-      		<listitem><para>The Menu Bar contains the <guimenu>Applications</guimenu>, <guimenu>Places</guimenu>, and <guimenu>System</guimenu> menus. For more on the menu bar, see <xref linkend="menubar"/>.</para></listitem>
+      		<term><application>Classic Menu</application> applet</term>
+      		<listitem><para>The Classic Menu contains the <guimenu>Applications</guimenu>, <guimenu>Places</guimenu>, and <guimenu>System</guimenu> menus. For more on the classic menu, see <xref linkend="menubar"/>.</para></listitem>
       	</varlistentry>
       	<varlistentry>
       	  <term>A set of application launcher icons</term>
@@ -1267,27 +1267,27 @@ See <xref linkend="panels-addobject"/> for more on this.</para>
     <para>You can add the following types of menu to your panels: </para>
     <itemizedlist>
       <listitem>
-        <para><guimenu>Menu Bar</guimenu>: You can access almost
+        <para><guimenu>Classic Menu</guimenu>: You can access almost
 all the standard applications, commands, and configuration options from
-the menus in the Menu Bar. It contains the <guimenu>Applications</guimenu>, 
+the menus in the Classic Menu. It contains the <guimenu>Applications</guimenu>, 
 <guimenu>Places</guimenu>, and <guimenu>System</guimenu> menus.</para>
-        <para>To add a <guimenu>Menu Bar</guimenu> to a panel, right-click
+        <para>To add a <guimenu>Classic Menu</guimenu> to a panel, right-click
 on any vacant space on the panel. Choose <guimenu>Add to Panel</guimenu>, then 
-choose <application>Menu Bar</application> from the Add to Panel dialog. 
+choose <application>Classic Menu</application> from the Add to Panel dialog. 
 See <xref linkend="panels-addobject"/> for more on this.</para>
       </listitem>
       <listitem>
-        <para><guimenu>Main Menu</guimenu>: The Main Menu contains the same 
-        items as the Menu Bar, but organizes them into one menu instead of three. 
+        <para><guimenu>Compact Menu</guimenu>: The Compact Menu contains the same 
+        items as the Classic Menu, but organizes them into one menu instead of three. 
         It takes up less space on the panels as a result.</para>
-        <para>To add a <guimenu>Main Menu</guimenu> to a panel, right-click
+        <para>To add a <guimenu>Compact Menu</guimenu> to a panel, right-click
 on any vacant space on the panel. Choose <guimenu>Add to Panel</guimenu>, then 
-choose <application>Main Menu</application> from the Add to Panel dialog. 
+choose <application>Compact Menu</application> from the Add to Panel dialog. 
 See <xref linkend="panels-addobject"/> for more on this.</para>
       </listitem>
       <listitem>
-        <para><guimenu>Submenus</guimenu>: You can add a submenu of the Menu Bar 
-        or Main Menu directly to the panel. For example, you can add the <guimenu>Games</guimenu> 
+        <para><guimenu>Submenus</guimenu>: You can add a submenu of the Classic Menu
+        or Compact Menu directly to the panel. For example, you can add the <guimenu>Games</guimenu> 
         submenu of the <guimenu>Applications</guimenu> menu to the panel.</para>
         <para>To add a submenu to a panel, open the submenu, right-click on a launcher, then choose 
 <menuchoice><guimenu>Entire menu</guimenu><guimenuitem>Add this as menu to panel</guimenuitem></menuchoice>. </para>
@@ -1547,22 +1547,22 @@ applet. The graphic above illustrates the CD icon in the <application>Notificati
 Area</application> applet. </para>
     </section>
      
-    <section xml:id="goseditmainmenu-65"><info><title>Menu Bar</title></info>
+    <section xml:id="goseditmainmenu-65"><info><title>Classic Menu</title></info>
       <screenshot>
         <mediaobject>
           <imageobject>
             <imagedata fileref="figures/menu_bar_applet.png" format="PNG"/>
           </imageobject>
           <textobject>
-            <phrase>Menu Bar applet. Menus: Applications, Places, System.</phrase>
+            <phrase>Classic Menu applet. Menus: Applications, Places, System.</phrase>
           </textobject>
         </mediaobject>
       </screenshot>
-      <para>The <application>Menu Bar</application> contains the 
+      <para>The <application>Classic Menu</application> contains the 
       <guimenu>Applications</guimenu>, <guimenu>Places</guimenu>, and 
       <guimenu>System</guimenu> menus. You can access
   almost all the standard applications, commands, and configuration options
-  from the <application>Menu Bar</application>. For more on using the Menu Bar, see <xref linkend="menubar"/>.</para>
+  from the <application>Classic Menu</application>. For more on using the Classic Menu, see <xref linkend="menubar"/>.</para>
     </section>
 
 <!-- This has been pasted from the Window List manual so that the Window List applet help is integrated into the GUG. -->

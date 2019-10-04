@@ -23,17 +23,17 @@
   </indexterm>
   <indexterm>
     <primary>menus</primary>
-    <secondary>Menu Bar</secondary>
-    <see>Menu Bar</see>
+    <secondary>Classic Menu</secondary>
+    <see>Classic Menu</see>
   </indexterm>
   <indexterm>
-    <primary>Menu Bar</primary>
+    <primary>Classic Menu</primary>
     <secondary>introduction</secondary>
   </indexterm>  
 
-  <para>The panel menubar is your main point of access to MATE. Use the <guimenu>Applications</guimenu> menu to launch applications, the <guimenu>Places</guimenu> to open locations on your computer or network, and the <guimenu>System</guimenu> to customize your system, get help with MATE, and log out of MATE or shut down your computer.</para>
+  <para>The classic menu is your main point of access to MATE. Use the <guimenu>Applications</guimenu> menu to launch applications, the <guimenu>Places</guimenu> to open locations on your computer or network, and the <guimenu>System</guimenu> to customize your system, get help with MATE, and log out of MATE or shut down your computer.</para>
   <para>The following sections describe these three menus.</para>
-  <tip><para>By default, the panel menubar is on the <xref linkend="top-panel"/>. But like any other panel object, you can move the menubar to another panel, or have more than one instance of the menubar in your panels. For more on this, see <xref linkend="panel-menus"/>.</para></tip>
+  <tip><para>By default, the classic menu is on the <xref linkend="top-panel"/>. But like any other panel object, you can move the classic menu to another panel, or have more than one instance of the classic menu in your panels. For more on this, see <xref linkend="panel-menus"/>.</para></tip>
 
   <section xml:id="applications-menu"><info><title>Applications Menu</title></info>
     <!-- preserve id for backwards compatibility: 2.12 -->

@@ -54,7 +54,7 @@
     </varlistentry>  
     <varlistentry>
       <term>Panels</term>
-      <listitem><para>The <firstterm>panels</firstterm> are the two bars that run along the top and bottom of the screen. By default, the top panel shows you the MATE main menu bar, the date and time, and a set of application launcher icons, and the bottom panel shows you the list of open windows and the workspace switcher.</para>
+      <listitem><para>The <firstterm>panels</firstterm> are the two bars that run along the top and bottom of the screen. By default, the top panel shows you the MATE Classic Menu, the date and time, and a set of application launcher icons, and the bottom panel shows you the list of open windows and the workspace switcher.</para>
       <para>Panels can be customized to contain a variety of tools, such as other menus and launchers, and small utility applications, called
       <firstterm>panel applets</firstterm>. For example, you can configure
       your panel to display the current weather for your location.  For more
