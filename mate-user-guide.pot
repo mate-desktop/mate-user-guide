@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR MATE Desktop Environment team
+# This file is distributed under the same license as the mate-user-guide package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 10:51+0100\n"
+"Project-Id-Version: mate-user-guide 1.23.1\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/mate-user-guide/issues/"
+"new\n"
+"POT-Creation-Date: 2020-01-13 16:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,10 +17,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../mate-user-guide.desktop.in.in.h:1
+#: mate-user-guide.desktop.in.in:4
 msgid "Help"
 msgstr ""
 
-#: ../mate-user-guide.desktop.in.in.h:2
+#: mate-user-guide.desktop.in.in:5
 msgid "Get help with MATE"
+msgstr ""
+
+#: mate-user-guide.desktop.in.in:6
+msgid "documentation;information;manual;"
+msgstr ""
+
+#: mate-user-guide.desktop.in.in:7
+msgid "help-browser"
 msgstr ""
