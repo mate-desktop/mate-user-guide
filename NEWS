@@ -1,11 +1,19 @@
+### mate-user-guide 1.24.0
+
+  * update translations
+  * Update copyright to 2020
+  * Change language to refer to Classic Menu and Compact Menu
+  * sets the required version for gettext (0.19.8)
+  * migrate from intltool to gettext
+
 ### mate-user-guide 1.23.1
 
-    tx: sync with fixed translations from transifex
-    gosoverview.xml: Reduce link attributes
+  * update translations
+  * gosoverview.xml: Reduce link attributes
 
 ### mate-user-guide 1.23.0
 
-  * tx: sync with transifex
+  * update translations
   * Change url project's website
   * remove live.gnome & update joining MATE section
   * [ci] add CNAME for domain
