@@ -1,17 +1,16 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR MATE Desktop Environment team
+# This file is distributed under the same license as the mate-user-guide package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Cleber Teixeira, 2018
 # 
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 10:51+0100\n"
+"Project-Id-Version: mate-user-guide 1.23.1\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/mate-user-guide/issues/new\n"
+"POT-Creation-Date: 2020-01-13 16:04+0100\n"
 "PO-Revision-Date: 2018-03-12 09:05+0000\n"
 "Last-Translator: Cleber Teixeira, 2018\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)\n"
@@ -21,10 +20,18 @@ msgstr ""
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../mate-user-guide.desktop.in.in.h:1
+#: mate-user-guide.desktop.in.in:4
 msgid "Help"
 msgstr "Ajuda"
 
-#: ../mate-user-guide.desktop.in.in.h:2
+#: mate-user-guide.desktop.in.in:5
 msgid "Get help with MATE"
 msgstr "Obter ajuda com o MATE"
+
+#: mate-user-guide.desktop.in.in:6
+msgid "documentation;information;manual;"
+msgstr ""
+
+#: mate-user-guide.desktop.in.in:7
+msgid "help-browser"
+msgstr ""

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-07-06 11:07+0200\n"
+"POT-Creation-Date: 2020-01-13 16:05+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: Michael Findlay <translate@cobber-linux.org>, 2019\n"
 "Language-Team: English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)\n"
@@ -34,7 +34,7 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2019</year> <holder>MATE Documentation Project</holder>"
+msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
 msgstr ""
 
 #. (itstool) path: info/copyright
@@ -1875,7 +1875,7 @@ msgid "The shortcuts you can customize are grouped as follows:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/goscustdesk.xml:131 C/gosoverview.xml:48
+#: C/goscustdesk.xml:131 C/gosoverview.xml:49
 msgid "Desktop"
 msgstr "Desktop"
 
@@ -5761,18 +5761,19 @@ msgstr ""
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:24
 msgid ""
-"<primary>menus</primary> <secondary>Menu Bar</secondary> <see>Menu Bar</see>"
+"<primary>menus</primary> <secondary>Classic Menu</secondary> <see>Classic "
+"Menu</see>"
 msgstr ""
 
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:29
-msgid "<primary>Menu Bar</primary> <secondary>introduction</secondary>"
+msgid "<primary>Classic Menu</primary> <secondary>introduction</secondary>"
 msgstr ""
 
 #. (itstool) path: chapter/para
 #: C/goseditmainmenu.xml:34
 msgid ""
-"The panel menubar is your main point of access to MATE. Use the "
+"The classic menu is your main point of access to MATE. Use the "
 "<guimenu>Applications</guimenu> menu to launch applications, the "
 "<guimenu>Places</guimenu> to open locations on your computer or network, and"
 " the <guimenu>System</guimenu> to customize your system, get help with MATE,"
@@ -5787,10 +5788,10 @@ msgstr ""
 #. (itstool) path: tip/para
 #: C/goseditmainmenu.xml:36
 msgid ""
-"By default, the panel menubar is on the <xref linkend=\"top-panel\"/>. But "
-"like any other panel object, you can move the menubar to another panel, or "
-"have more than one instance of the menubar in your panels. For more on this,"
-" see <xref linkend=\"panel-menus\"/>."
+"By default, the classic menu is on the <xref linkend=\"top-panel\"/>. But "
+"like any other panel object, you can move the classic menu to another panel,"
+" or have more than one instance of the classic menu in your panels. For more"
+" on this, see <xref linkend=\"panel-menus\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -6067,7 +6068,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:45 C/gosoverview.xml:31 C/gospanel.xml:19 C/gostools.xml:264
+#: C/goscaja.xml:45 C/gosoverview.xml:32 C/gospanel.xml:19 C/gostools.xml:264
 #: C/gosdconf.xml:19
 msgid "Introduction"
 msgstr "Introduction"
@@ -12754,12 +12755,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:6
+#: C/gosoverview.xml:7
 msgid "Desktop Overview"
 msgstr ""
 
 #. (itstool) path: highlights/para
-#: C/gosoverview.xml:22
+#: C/gosoverview.xml:23
 msgid ""
 "This chapter introduces you to some of the very basic components of the "
 "desktop. These components include <glossterm>Windows</glossterm>, "
@@ -12769,7 +12770,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gosoverview.xml:25
+#: C/gosoverview.xml:26
 msgid ""
 "This chapter describes the default configuration of MATE. Your vendor or "
 "system administrator may have configured your desktop to look different from"
@@ -12777,24 +12778,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/gosoverview.xml:36
+#: C/gosoverview.xml:37
 msgid "<primary>MATE Desktop components, introducing</primary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:40
+#: C/gosoverview.xml:41
 msgid ""
 "When you start a desktop session for the first time, you should see a "
 "default startup screen, with panels, windows, and various icons."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:44
+#: C/gosoverview.xml:45
 msgid "The major components of the MATE Desktop are as follows:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:49
+#: C/gosoverview.xml:50
 msgid ""
 "The desktop itself is behind all the other components on the desktop. You "
 "can place objects on the desktop to access your files and directories "
@@ -12803,22 +12804,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:55
+#: C/gosoverview.xml:56
 msgid "Panels"
 msgstr "Panels"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:56
+#: C/gosoverview.xml:57
 msgid ""
 "The <firstterm>panels</firstterm> are the two bars that run along the top "
-"and bottom of the screen. By default, the top panel shows you the MATE main "
-"menu bar, the date and time, and a set of application launcher icons, and "
-"the bottom panel shows you the list of open windows and the workspace "
+"and bottom of the screen. By default, the top panel shows you the MATE "
+"Classic Menu, the date and time, and a set of application launcher icons, "
+"and the bottom panel shows you the list of open windows and the workspace "
 "switcher."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:57
+#: C/gosoverview.xml:58
 msgid ""
 "Panels can be customized to contain a variety of tools, such as other menus "
 "and launchers, and small utility applications, called <firstterm>panel "
@@ -12829,12 +12830,12 @@ msgstr ""
 
 #. (itstool) path: varlistentry/term
 #. (itstool) path: info/title
-#: C/gosoverview.xml:64 C/gosoverview.xml:137
+#: C/gosoverview.xml:65 C/gosoverview.xml:138
 msgid "Windows"
 msgstr "Windows"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:65
+#: C/gosoverview.xml:66
 msgid ""
 "Most applications run inside of one or more windows. You can display "
 "multiple windows on your desktop at the same time. Windows can be resized "
@@ -12846,12 +12847,12 @@ msgstr ""
 
 #. (itstool) path: varlistentry/term
 #. (itstool) path: info/title
-#: C/gosoverview.xml:75 C/gosoverview.xml:326
+#: C/gosoverview.xml:76 C/gosoverview.xml:327
 msgid "Workspaces"
 msgstr "Workspaces"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:76
+#: C/gosoverview.xml:77
 msgid ""
 "You can subdivide your desktop into separate "
 "<firstterm>workspaces</firstterm>. Each workspace can contain several "
@@ -12860,12 +12861,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:84
+#: C/gosoverview.xml:85
 msgid "File Manager"
 msgstr "File Manager"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:85
+#: C/gosoverview.xml:86
 msgid ""
 "The <application>Caja</application> file manager provides access to your "
 "files, folders, and applications. You can manage the contents of folders in "
@@ -12874,12 +12875,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:93
+#: C/gosoverview.xml:94
 msgid "Control Center"
 msgstr "Control Centre"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:94
+#: C/gosoverview.xml:95
 msgid ""
 "You can customize your computer using the <application>Control "
 "Center</application>, which can be found in the <guimenu>System</guimenu> "
@@ -12889,7 +12890,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:104
+#: C/gosoverview.xml:105
 msgid ""
 "Your vendor or system administrator can make configuration changes to suit "
 "your needs, so your desktop might not match exactly what is described in "
@@ -12898,12 +12899,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:110
+#: C/gosoverview.xml:111
 msgid "The Desktop"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:113
+#: C/gosoverview.xml:114
 msgid ""
 "The desktop lies behind all other components on your screen. When no windows"
 " are visible, the desktop is that part of the screen between the top and "
@@ -12912,17 +12913,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:114
+#: C/gosoverview.xml:115
 msgid "The desktop also has several special objects on it:"
 msgstr ""
 
 #. (itstool) path: para/interface
-#: C/gosoverview.xml:116
+#: C/gosoverview.xml:117
 msgid "Computer"
 msgstr "Computer"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:116
+#: C/gosoverview.xml:117
 msgid ""
 "The <_:interface-1/> icon gives you access to CDs, removable media such as "
 "floppy disks, and also the entire filesystem (also known as the root "
@@ -12932,12 +12933,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: para/interface
-#: C/gosoverview.xml:117
+#: C/gosoverview.xml:118
 msgid "<replaceable>username</replaceable>'s Home"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:117
+#: C/gosoverview.xml:118
 msgid ""
 "Your Home Folder, labeled <_:interface-1/>, where all of your personal files"
 " are kept. You can also open this folder from the <guimenu>Places</guimenu> "
@@ -12945,19 +12946,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: para/interface
-#: C/gosoverview.xml:118
+#: C/gosoverview.xml:119
 msgid "Trash"
 msgstr "Rubbish"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:118
+#: C/gosoverview.xml:119
 msgid ""
 "The <_:interface-1/> is a special folder in which to place files and folders"
 " you no longer need. For more on this, see <xref linkend=\"caja-trash\"/>."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:119
+#: C/gosoverview.xml:120
 msgid ""
 "When you insert a CD, a flash drive, or other removable media, or a device "
 "containing files such as a music player or a digital camera, an icon "
@@ -12965,7 +12966,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:122
+#: C/gosoverview.xml:123
 msgid ""
 "As you work with your computer, the desktop becomes obscured by the windows "
 "you are working with. To quickly reveal the desktop by minimizing all "
@@ -12973,35 +12974,35 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:125
+#: C/gosoverview.xml:126
 msgid ""
 "Click on the <guibutton>Show Desktop</guibutton> button at the far left of "
 "the <xref linkend=\"bottom-panel\"/>."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:126
+#: C/gosoverview.xml:127
 msgid ""
 "Press "
 "<keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>D</keycap></keycombo>."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:129
+#: C/gosoverview.xml:130
 msgid ""
 "Either action will also restore your windows to their previous state. "
 "Alternatively, you can switch to another workspace to see the desktop."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:131
+#: C/gosoverview.xml:132
 msgid ""
 "You can change the color of the desktop background or the image displayed "
 "there. For more on this, see <xref linkend=\"prefs-desktopbackground\"/>."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gosoverview.xml:133
+#: C/gosoverview.xml:134
 msgid ""
 "The files and folders you put on the desktop are stored in a special folder "
 "within your Home Folder, called <filename>Desktop</filename>. Like any other"
@@ -13011,12 +13012,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/gosoverview.xml:142
+#: C/gosoverview.xml:143
 msgid "<primary>windows</primary> <secondary>overview</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:147
+#: C/gosoverview.xml:148
 msgid ""
 "A <firstterm>window</firstterm> is a rectangular area of the screen, usually"
 " with a border all around and a title bar at the top. You can think of a "
@@ -13027,7 +13028,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:149
+#: C/gosoverview.xml:150
 msgid ""
 "You can control a window's position of the screen, as well as its size. You "
 "can control which windows overlap other windows, so the one you want to work"
@@ -13036,7 +13037,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:151
+#: C/gosoverview.xml:152
 msgid ""
 "Each window is not necessarily a different application. An application "
 "usually has one main window, and may open additional windows at the request "
@@ -13044,29 +13045,29 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:153
+#: C/gosoverview.xml:154
 msgid ""
 "The rest of this section describes the different types of windows and how "
 "you can interact with them."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:156
+#: C/gosoverview.xml:157
 msgid "Types of Windows"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:160
+#: C/gosoverview.xml:161
 msgid "There are two main types of window:"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:164
+#: C/gosoverview.xml:165
 msgid "Application windows"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:166
+#: C/gosoverview.xml:167
 msgid ""
 "Application windows allow all minimize, maximize and close operations "
 "through the buttons on the titlebar. When opening an application you will "
@@ -13074,12 +13075,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:173
+#: C/gosoverview.xml:174
 msgid "Dialog windows"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:175
+#: C/gosoverview.xml:176
 msgid ""
 "Dialog windows appear at the request of an application window. A dialog "
 "window may alert you to a problem, ask for confirmation of an action, or "
@@ -13087,7 +13088,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:177
+#: C/gosoverview.xml:178
 msgid ""
 "For example, if you tell an application to save a document, a dialog will "
 "ask you where you want to save the new file. If you tell an application to "
@@ -13096,7 +13097,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:179
+#: C/gosoverview.xml:180
 msgid ""
 "Some dialogs do not allow you to interact with the main application window "
 "until you have closed them: these are called <firstterm>modal</firstterm> "
@@ -13105,7 +13106,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: tip/para
-#: C/gosoverview.xml:181
+#: C/gosoverview.xml:182
 msgid ""
 "You can select the text in a dialog with the mouse. This allows you to copy "
 "it to the clipboard (by right-clicking the text and selecting "
@@ -13115,12 +13116,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:187
+#: C/gosoverview.xml:188
 msgid "Manipulating Windows"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:192
+#: C/gosoverview.xml:193
 msgid ""
 "You can change the size and position of windows on the screen. This allows "
 "you to see more than one application and do different tasks at the same "
@@ -13130,7 +13131,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:194
+#: C/gosoverview.xml:195
 msgid ""
 "You can <firstterm>minimize</firstterm> a window if you are not currently "
 "interested in seeing it. This hides it from view. You can "
@@ -13139,7 +13140,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:196
+#: C/gosoverview.xml:197
 msgid ""
 "<anchor xml:id=\"gosoverview-FIG-33\"/>Most of these actions are carried out"
 " by using the mouse on different parts of the window's frame (see <xref "
@@ -13150,7 +13151,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:197
+#: C/gosoverview.xml:198
 msgid ""
 "<xref linkend=\"fig-titlebar-anno-window\"/> shows the titlebar for a "
 "typical application window. From left to right, this contains the Window "
@@ -13159,7 +13160,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:199
+#: C/gosoverview.xml:200
 msgid "Titlebar for a Typical Application Window"
 msgstr ""
 
@@ -13168,7 +13169,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gosoverview.xml:204
+#: C/gosoverview.xml:205
 msgctxt "_"
 msgid ""
 "external ref='figures/titlebar_window.png' "
@@ -13176,7 +13177,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: screenshot/mediaobject
-#: C/gosoverview.xml:202
+#: C/gosoverview.xml:203
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/titlebar_window.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Titlebar of application"
@@ -13184,7 +13185,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:213
+#: C/gosoverview.xml:214
 msgid ""
 "All actions can also be carried out from the Window Menu. To open this, "
 "click on the Window Menu button at the left-hand edge of the titlebar. "
@@ -13195,12 +13196,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:217
+#: C/gosoverview.xml:218
 msgid "Move the window"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:219
+#: C/gosoverview.xml:220
 msgid ""
 "Drag the titlebar to move the window. You can click on any part of the "
 "titlebar except the buttons at either end to begin the drag action. The "
@@ -13210,7 +13211,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:221
+#: C/gosoverview.xml:222
 msgid ""
 "You can also choose Move from the Window Menu, or press <keycombo> "
 "<keycap>Alt</keycap><keycap>F7</keycap></keycombo>, and then either move the"
@@ -13218,14 +13219,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:224
+#: C/gosoverview.xml:225
 msgid ""
 "You can also press-and-hold <keycap>Alt</keycap> and drag any part of the "
 "window."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:226
+#: C/gosoverview.xml:227
 msgid ""
 "As you move the window, some parts of the screen will give slight resistance"
 " to movement. This is to help you align windows more easily to the edges of "
@@ -13233,7 +13234,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:228
+#: C/gosoverview.xml:229
 msgid ""
 "You can also press-and-hold <keycap>Shift</keycap> while you move the window"
 " to cause it to only move between the corners of the desktop and other "
@@ -13241,7 +13242,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: tip/para
-#: C/gosoverview.xml:230
+#: C/gosoverview.xml:231
 msgid ""
 "If the <keycap>Num Lock</keycap> key is off, you can use the arrows on the "
 "numeric keypad, as well as the <keycap>7</keycap>, <keycap>9</keycap>, "
@@ -13249,12 +13250,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:234
+#: C/gosoverview.xml:235
 msgid "Resize the window"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:236
+#: C/gosoverview.xml:237
 msgid ""
 "Drag one of the borders to expand or contract the window on that side. Drag "
 "a corner to change two sides at once. The resize pointer (see <xref linkend"
@@ -13263,7 +13264,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:238
+#: C/gosoverview.xml:239
 msgid ""
 "You can also choose Resize from the Window Menu, or press <keycombo> "
 "<keycap>Alt</keycap><keycap>F8</keycap></keycombo>. The resize pointer "
@@ -13276,12 +13277,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:243
+#: C/gosoverview.xml:244
 msgid "Minimize the window"
 msgstr "Minimise the window"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:245
+#: C/gosoverview.xml:246
 msgid ""
 "Click on the Minimize button in the titlebar, the leftmost of the group of "
 "three on the right. This removes the window from view. The window can be "
@@ -13291,26 +13292,26 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:247
+#: C/gosoverview.xml:248
 msgid ""
 "You can also choose Minimize from the Window Menu, or press <keycombo> "
 "<keycap>Alt</keycap><keycap>F9</keycap> </keycombo>."
 msgstr ""
 
 #. (itstool) path: tip/para
-#: C/gosoverview.xml:252
+#: C/gosoverview.xml:253
 msgid ""
 "A minimized window is shown in the window list and the window selector with "
 "[ ] around its title."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:258
+#: C/gosoverview.xml:259
 msgid "Maximize the window"
 msgstr "Maximise the window"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:260
+#: C/gosoverview.xml:261
 msgid ""
 "Click on the Maximize button in the titlebar, the middle of the group of "
 "three on the right. This expands the window so it fills the screen (the "
@@ -13318,7 +13319,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:261
+#: C/gosoverview.xml:262
 msgid ""
 "You can also choose Maximize from the Window Menu, or press <keycombo> "
 "<keycap>Alt</keycap><keycap>F10</keycap></keycombo>, or double-click any "
@@ -13326,26 +13327,26 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: tip/para
-#: C/gosoverview.xml:265
+#: C/gosoverview.xml:266
 msgid ""
 "If you prefer, you can assign the double-click action to <firstterm>roll "
 "up</firstterm> the window: see <xref linkend=\"prefs-windows\"/>."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:270
+#: C/gosoverview.xml:271
 msgid "Unmaximize the window"
 msgstr "Unmaximise the window"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:272
+#: C/gosoverview.xml:273
 msgid ""
 "When a window is maximized, click again on the Maximize button to restore it"
 " to its previous position and size on the screen."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:274
+#: C/gosoverview.xml:275
 msgid ""
 "You can also choose Unmaximize from the Window Menu, press <keycombo> "
 "<keycap>Alt</keycap><keycap>F5</keycap></keycombo>, or double-click any part"
@@ -13353,12 +13354,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: varlistentry/term
-#: C/gosoverview.xml:279
+#: C/gosoverview.xml:280
 msgid "Close the window"
 msgstr "Close the window"
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:281
+#: C/gosoverview.xml:282
 msgid ""
 "Click the Close button, the rightmost of the group of three on the right. "
 "Closing the window may also close the application itself. The application "
@@ -13366,12 +13367,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:290
+#: C/gosoverview.xml:291
 msgid "Giving Focus to a Window"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:293
+#: C/gosoverview.xml:294
 msgid ""
 "To work with an application, you need to give the "
 "<firstterm>focus</firstterm> to its window. When a window has focus, any "
@@ -13383,25 +13384,25 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:294
+#: C/gosoverview.xml:295
 msgid "You can give the focus to a window in any of the following ways:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:297
+#: C/gosoverview.xml:298
 msgid ""
 "With the mouse, click on any part of the window, if the window is visible."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:302
+#: C/gosoverview.xml:303
 msgid ""
 "On the bottom panel, click on the <guibutton>window list button</guibutton> "
 "that represents the window in the <application>Window List</application>."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:307
+#: C/gosoverview.xml:308
 msgid ""
 "On the top panel, click the <guibutton>window list icon</guibutton> and "
 "choose the window you want to switch to from the list. The <guibutton>window"
@@ -13411,7 +13412,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gosoverview.xml:310
+#: C/gosoverview.xml:311
 msgid ""
 "If the window you choose is on a different workspace, you will be switched "
 "to that workspace. For more on workspaces, see <xref linkend=\"overview-"
@@ -13419,7 +13420,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:315
+#: C/gosoverview.xml:316
 msgid ""
 "With the keyboard, hold the <keycap>Alt</keycap> key and press the "
 "<keycap>Tab</keycap> key. A pop-up window appears with a list of icons "
@@ -13433,19 +13434,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gosoverview.xml:318
+#: C/gosoverview.xml:319
 msgid ""
 "You can customize the shortcut used to perform this action with the <xref "
 "linkend=\"prefs-keyboard-shortcuts\"/> tool."
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/gosoverview.xml:330
+#: C/gosoverview.xml:331
 msgid "<primary>workspaces</primary> <secondary>overview</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:334
+#: C/gosoverview.xml:335
 msgid ""
 "Workspaces allow you to manage which windows are on your screen. You can "
 "imagine workspaces as being virtual screens, which you can switch between at"
@@ -13456,7 +13457,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:336
+#: C/gosoverview.xml:337
 msgid ""
 "By default, four workspaces are available. You can switch between them with "
 "the <application>Workspace Switcher</application> applet at the right of the"
@@ -13470,7 +13471,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:338
+#: C/gosoverview.xml:339
 msgid "Workspaces Displayed in Workspace Switcher"
 msgstr ""
 
@@ -13479,7 +13480,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gosoverview.xml:342
+#: C/gosoverview.xml:343
 msgctxt "_"
 msgid ""
 "external ref='figures/workspace_switcher_applet.png' "
@@ -13487,7 +13488,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: screenshot/mediaobject
-#: C/gosoverview.xml:340
+#: C/gosoverview.xml:341
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/workspace_switcher_applet.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Workspace Switcher. The"
@@ -13495,14 +13496,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:351
+#: C/gosoverview.xml:352
 msgid ""
 "Each workspace can have any number of applications open in it. The number of"
 " workspaces can be customized: see <xref linkend=\"workspace-add\"/>."
 msgstr ""
 
 #. (itstool) path: tip/para
-#: C/gosoverview.xml:353
+#: C/gosoverview.xml:354
 msgid ""
 "Workspaces enable you to organize the MATE Desktop when you run many "
 "applications at the same time. One way to use workspaces is to allocate a "
@@ -13512,29 +13513,29 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:356
+#: C/gosoverview.xml:357
 msgid "Switching Between Workspaces"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/gosoverview.xml:357
+#: C/gosoverview.xml:358
 msgid "<primary>workspaces</primary> <secondary>switching between</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:361
+#: C/gosoverview.xml:362
 msgid "You can switch between workspaces in any of the following ways:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:364
+#: C/gosoverview.xml:365
 msgid ""
 "In the <application>Workspace Switcher</application> applet in the bottom "
 "panel, click on the workspace where you want to work."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:367
+#: C/gosoverview.xml:368
 msgid ""
 "Move the mouse pointer over the <application>Workspace "
 "Switcher</application> applet in the bottom panel, and scroll the mouse "
@@ -13542,7 +13543,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:370
+#: C/gosoverview.xml:371
 msgid ""
 "Press <keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>right "
 "arrow</keycap></keycombo> to switch to the workspace on the right of the "
@@ -13550,7 +13551,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:374
+#: C/gosoverview.xml:375
 msgid ""
 "Press <keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>left "
 "arrow</keycap></keycombo> to switch to the workspace on the left of the "
@@ -13558,7 +13559,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gosoverview.xml:378
+#: C/gosoverview.xml:379
 msgid ""
 "The arrow shortcut keys work according to how your workspaces are set out in"
 " the <application>Workspace Switcher</application> applet. If you change "
@@ -13570,18 +13571,18 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:380
+#: C/gosoverview.xml:381
 msgid "Adding Workspaces"
 msgstr ""
 
 #. (itstool) path: section/indexterm
-#: C/gosoverview.xml:384
+#: C/gosoverview.xml:385
 msgid ""
 "<primary>workspaces</primary> <secondary>specifying number of</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:388
+#: C/gosoverview.xml:389
 msgid ""
 "To add workspaces to the MATE Desktop, right-click on the "
 "<application>Workspace Switcher</application> applet, then choose "
@@ -13592,17 +13593,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:394
+#: C/gosoverview.xml:395
 msgid "Applications"
 msgstr "Applications"
 
 #. (itstool) path: section/indexterm
-#: C/gosoverview.xml:398
+#: C/gosoverview.xml:399
 msgid "<primary>applications</primary> <secondary>overview</secondary>"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:403
+#: C/gosoverview.xml:404
 msgid ""
 "An <firstterm>application</firstterm> is a type of computer program that "
 "allows you to perform a particular task. You might use applications to "
@@ -13613,7 +13614,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:405
+#: C/gosoverview.xml:406
 msgid ""
 "To launch an application, open the <guimenu>Applications</guimenu> menu and "
 "choose the application you want from the submenus. For more on this, see "
@@ -13621,38 +13622,37 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:407
+#: C/gosoverview.xml:408
 msgid "The applications that are part of MATE include the following:"
-msgstr ""
-
-#. (itstool) path: listitem/para
-#: C/gosoverview.xml:410
-msgid ""
-"<link xlink:href=\"help:pluma\" type=\"help\"><application>Pluma Text "
-"Editor</application></link> can read, create, or modify any kind of simple "
-"text without any formatting."
 msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:411
 msgid ""
-"<link xlink:href=\"help:mate-dictionary\" "
-"type=\"help\"><application>Dictionary</application></link> allows you to "
-"look up definitions of a word."
+"<link xlink:href=\"help:pluma\"><application>Pluma Text "
+"Editor</application></link> can read, create, or modify any kind of simple "
+"text without any formatting."
 msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:412
 msgid ""
-"<link xlink:href=\"help:eom\" type=\"help\"><application>Image "
-"Viewer</application></link> can display single image files, as well as large"
-" image collections."
+"<link xlink:href=\"help:mate-"
+"dictionary\"><application>Dictionary</application></link> allows you to look"
+" up definitions of a word."
 msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:413
 msgid ""
-"<link xlink:href=\"help:gucharmap\" type=\"help\"><application>Character "
+"<link xlink:href=\"help:eom\"><application>Image Viewer</application></link>"
+" can display single image files, as well as large image collections."
+msgstr ""
+
+#. (itstool) path: listitem/para
+#: C/gosoverview.xml:414
+msgid ""
+"<link xlink:href=\"help:gucharmap\"><application>Character "
 "Map</application></link> lets you choose letters and symbols from the "
 "<firstterm>Unicode</firstterm> character set and paste them into any "
 "application. If you are writing in several languages, not all the characters"
@@ -13660,7 +13660,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:414
+#: C/gosoverview.xml:415
 msgid ""
 "<application>Caja File Manager</application> (see <xref linkend=\"caja\"/>) "
 "displays your folders and their contents. Use this to copy, move and "
@@ -13671,15 +13671,15 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:415
+#: C/gosoverview.xml:416
 msgid ""
-"<link xlink:href=\"help:mate-terminal\" "
-"type=\"help\"><application>Terminal</application></link> gives you access to"
-" the system command line."
+"<link xlink:href=\"help:mate-"
+"terminal\"><application>Terminal</application></link> gives you access to "
+"the system command line."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:418
+#: C/gosoverview.xml:419
 msgid ""
 "Further standard MATE applications include games, music and video players, a"
 " web browser, software accessibility tools, and utilities to manage your "
@@ -13689,7 +13689,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:420
+#: C/gosoverview.xml:421
 msgid ""
 "All MATE applications have many features in common, which makes it easier to"
 " learn how to work with a new MATE application. The rest of this section "
@@ -13697,12 +13697,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:422
+#: C/gosoverview.xml:423
 msgid "Common Features"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:423
+#: C/gosoverview.xml:424
 msgid ""
 "The applications that are provided with the MATE Desktop share many common "
 "features, such as similar open and save dialogs and similar-looking icons. "
@@ -13714,17 +13714,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:425
+#: C/gosoverview.xml:426
 msgid "Some features of MATE-compliant applications are as follows:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:428
+#: C/gosoverview.xml:429
 msgid "Consistent look-and-feel"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:429
+#: C/gosoverview.xml:430
 msgid ""
 "MATE-compliant applications have a consistent look-and-feel. You can use the"
 " <xref linkend=\"prefs-theme\"/> tool to change the look-and-feel of your "
@@ -13732,12 +13732,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:432
+#: C/gosoverview.xml:433
 msgid "Menubars, toolbars, and statusbars"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:433
+#: C/gosoverview.xml:434
 msgid ""
 "Most MATE-compliant applications have a menubar, a toolbar, and a statusbar."
 " The menubars usually have a similar structure; for example, the "
@@ -13746,7 +13746,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:436
+#: C/gosoverview.xml:437
 msgid ""
 "A <firstterm>toolbar</firstterm> is a bar that appears under the menubar. A "
 "toolbar contains buttons for the most commonly-used commands. A "
@@ -13757,12 +13757,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:440
+#: C/gosoverview.xml:441
 msgid "Default shortcut keys"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:441
+#: C/gosoverview.xml:442
 msgid ""
 "MATE-compliant applications use the same shortcut keys to perform the same "
 "actions. See <xref linkend=\"keyboard-skills\"/> for a list of common "
@@ -13770,12 +13770,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:445
+#: C/gosoverview.xml:446
 msgid "Drag-and-drop"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:446
+#: C/gosoverview.xml:447
 msgid ""
 "When you drag-and-drop something into a MATE-compliant application, it will "
 "recognize the format of the items that you dragged and will handle them in "
@@ -13787,12 +13787,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:457
+#: C/gosoverview.xml:458
 msgid "Working With Files"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:458
+#: C/gosoverview.xml:459
 msgid ""
 "The work you do with an application is stored in "
 "<firstterm>files</firstterm>. These may be on your computer's hard drive, or"
@@ -13803,7 +13803,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:459
+#: C/gosoverview.xml:460
 msgid ""
 "All MATE applications use the same dialogs for opening and saving files, "
 "presenting you with a consistent interface. The following sections cover the"
@@ -13811,19 +13811,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:462
+#: C/gosoverview.xml:463
 msgid "Choosing a File to Open"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:463
+#: C/gosoverview.xml:464
 msgid ""
 "The <guilabel>Open File</guilabel> dialog allows you to choose a file to "
 "open in an application."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:464
+#: C/gosoverview.xml:465
 msgid ""
 "The right-hand pane of the dialog lists files and folders in the current "
 "location. You can use the mouse or the arrow keys on your keyboard to select"
@@ -13831,34 +13831,34 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:465
+#: C/gosoverview.xml:466
 msgid ""
 "Once a file is selected in the list, perform one of the following actions to"
 " open it:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:467
+#: C/gosoverview.xml:468
 msgid "Click <guibutton>Open</guibutton>."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:468
+#: C/gosoverview.xml:469
 msgid "Press <keycap>Return</keycap>."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:469
+#: C/gosoverview.xml:470
 msgid "Press <keycap>Spacebar</keycap>."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:470
+#: C/gosoverview.xml:471
 msgid "Double-click the file."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:472
+#: C/gosoverview.xml:473
 msgid ""
 "If you open a folder or a location instead of a file, the <guilabel>Open "
 "File</guilabel> dialog updates to show the contents of that folder or "
@@ -13866,19 +13866,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:474
+#: C/gosoverview.xml:475
 msgid ""
 "To change the location shown in the right-hand pane, do one of the "
 "following:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:476
+#: C/gosoverview.xml:477
 msgid "Open a folder that is listed in the current location."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:477
+#: C/gosoverview.xml:478
 msgid ""
 "Open an item in the left-hand pane. This pane lists places such as your "
 "Documents folder, your Home Folder, media such as CDs and flash drives, "
@@ -13887,7 +13887,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:478
+#: C/gosoverview.xml:479
 msgid ""
 "Click one of the buttons in the path bar above the file listing pane. This "
 "shows the hierarchy of folders that contain your current location. Use the "
@@ -13896,19 +13896,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:481
+#: C/gosoverview.xml:482
 msgid ""
 "The lower part of the <guilabel>Open File</guilabel> dialog may contain "
 "further options specific to the current application."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:483
+#: C/gosoverview.xml:484
 msgid "Filtering the File List"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:484
+#: C/gosoverview.xml:485
 msgid ""
 "You can restrict the file list to show only files of certain types. To do "
 "this, choose a file type from the drop-down list beneath the file list pane."
@@ -13918,12 +13918,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:487
+#: C/gosoverview.xml:488
 msgid "Find-as-you-type"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:488
+#: C/gosoverview.xml:489
 msgid ""
 "If you know the name of the file you want to open, begin typing it: the file"
 " list will jump to show you files whose names begin with the characters you "
@@ -13932,34 +13932,34 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:489
+#: C/gosoverview.xml:490
 msgid "To cancel find-as-you-type, press <keycap>Esc</keycap>."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:492
+#: C/gosoverview.xml:493
 msgid "Choosing a folder"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:493
+#: C/gosoverview.xml:494
 msgid ""
 "You might sometimes need to choose a folder to work with rather than open a "
-"file. For example, if you use <link xlink:href=\"help:engrampa\" "
-"type=\"help\"><application>Archive Manager</application></link> to extract "
-"files from an archive, you need to choose a folder to place the files into. "
-"In this case, the files in the current location are greyed out, and pressing"
-" <guibutton>Open</guibutton> when a folder is selected will choose that "
-"folder."
+"file. For example, if you use <link "
+"xlink:href=\"help:engrampa\"><application>Archive "
+"Manager</application></link> to extract files from an archive, you need to "
+"choose a folder to place the files into. In this case, the files in the "
+"current location are greyed out, and pressing <guibutton>Open</guibutton> "
+"when a folder is selected will choose that folder."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:496
+#: C/gosoverview.xml:497
 msgid "Open Location"
 msgstr "Open Location"
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:497
+#: C/gosoverview.xml:498
 msgid ""
 "You can type a full or relative path to the file you want to open. Press "
 "<keycombo><keycap>Ctrl</keycap><keycap>L</keycap></keycombo> or click the "
@@ -13970,7 +13970,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:498
+#: C/gosoverview.xml:499
 msgid ""
 "Type a path from the current location, or an absolute path beginning with "
 "<filename>/</filename> or <filename>~/</filename>. The "
@@ -13979,7 +13979,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:500
+#: C/gosoverview.xml:501
 msgid ""
 "A drop-down of possible file and folder names is displayed once you begin "
 "typing. Use <keycap>down arrow</keycap> and <keycap>up arrow</keycap> and "
@@ -13987,7 +13987,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/gosoverview.xml:501
+#: C/gosoverview.xml:502
 msgid ""
 "If the part of the name typed uniquely identifies a file or folder, the name"
 " is auto-completed. Press <keycap>Tab</keycap> to accept the suggested text."
@@ -13997,12 +13997,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:505
+#: C/gosoverview.xml:506
 msgid "Opening Remote Locations"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:506
+#: C/gosoverview.xml:507
 msgid ""
 "You can open files in remote locations by choosing the location from the "
 "left panel, or by typing a path to a remote location into the "
@@ -14010,19 +14010,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:507
+#: C/gosoverview.xml:508
 msgid ""
 "If you require a password to access the remote location, you will be asked "
 "for it when you open it."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:510
+#: C/gosoverview.xml:511
 msgid "Adding and Removing Bookmarks"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:511
+#: C/gosoverview.xml:512
 msgid ""
 "To add the current location to the bookmarks list, press "
 "<guibutton>Add</guibutton>, or right-click a folder in the file list and "
@@ -14031,14 +14031,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:512
+#: C/gosoverview.xml:513
 msgid ""
 "To remove a bookmark from the list, select it and press "
 "<guibutton>Remove</guibutton>."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/gosoverview.xml:513
+#: C/gosoverview.xml:514
 msgid ""
 "Changes you make to the bookmarks list also affect the "
 "<guimenu>Places</guimenu> menu. For more on bookmarks, see <xref linkend"
@@ -14046,12 +14046,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:516
+#: C/gosoverview.xml:517
 msgid "Showing hidden files"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:517
+#: C/gosoverview.xml:518
 msgid ""
 "To show hidden files in the file list, right-click in the file list and "
 "choose <guimenuitem>Show Hidden Files</guimenuitem>. For more on hidden "
@@ -14059,12 +14059,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:521
+#: C/gosoverview.xml:522
 msgid "Saving a File"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:522
+#: C/gosoverview.xml:523
 msgid ""
 "The first time you save your work in an application, the <guilabel>Save "
 "As</guilabel> dialog will ask you for a location and name for the new file. "
@@ -14076,19 +14076,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:523
+#: C/gosoverview.xml:524
 msgid ""
 "You can enter a filename and choose a location to save in from the drop-down"
 " list of bookmarks and commonly-used locations."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:525
+#: C/gosoverview.xml:526
 msgid "Saving in another location"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:526
+#: C/gosoverview.xml:527
 msgid ""
 "To save the file in a location not listed in the drop-down list, click the "
 "<guilabel>Browse for other folders</guilabel> expansion label. This shows a "
@@ -14097,7 +14097,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: tip/para
-#: C/gosoverview.xml:527
+#: C/gosoverview.xml:528
 msgid ""
 "The expanded <guilabel>Save File</guilabel> dialog has the same features as "
 "the <guilabel>Open File</guilabel> dialog (see <xref linkend=\"filechooser-"
@@ -14106,12 +14106,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:530
+#: C/gosoverview.xml:531
 msgid "Replacing an existing file"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:531
+#: C/gosoverview.xml:532
 msgid ""
 "If you type in the name of an existing file, you will be asked whether you "
 "wish to replace the existing file with your current work. You can also do "
@@ -14119,12 +14119,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:534
+#: C/gosoverview.xml:535
 msgid "Typing a Path"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:535
+#: C/gosoverview.xml:536
 msgid ""
 "To specify a path to save a file, type it into the <guilabel>Name</guilabel>"
 " field. A drop-down of possible file and folder names is displayed once you "
@@ -14135,12 +14135,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/gosoverview.xml:538
+#: C/gosoverview.xml:539
 msgid "Creating a New Folder"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/gosoverview.xml:539
+#: C/gosoverview.xml:540
 msgid ""
 "If you would like to create a new folder to save your file in, press the "
 "<guibutton>Create Folder</guibutton> button. Type a name for the new folder "
@@ -14222,15 +14222,15 @@ msgstr ""
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:52
-msgid "<application>Menu Bar</application> applet"
+msgid "<application>Classic Menu</application> applet"
 msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:53
 msgid ""
-"The Menu Bar contains the <guimenu>Applications</guimenu>, "
+"The Classic Menu contains the <guimenu>Applications</guimenu>, "
 "<guimenu>Places</guimenu>, and <guimenu>System</guimenu> menus. For more on "
-"the menu bar, see <xref linkend=\"menubar\"/>."
+"the classic menu, see <xref linkend=\"menubar\"/>."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
@@ -16174,43 +16174,43 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1270
 msgid ""
-"<guimenu>Menu Bar</guimenu>: You can access almost all the standard "
-"applications, commands, and configuration options from the menus in the Menu"
-" Bar. It contains the <guimenu>Applications</guimenu>, "
+"<guimenu>Classic Menu</guimenu>: You can access almost all the standard "
+"applications, commands, and configuration options from the menus in the "
+"Classic Menu. It contains the <guimenu>Applications</guimenu>, "
 "<guimenu>Places</guimenu>, and <guimenu>System</guimenu> menus."
 msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1274
 msgid ""
-"To add a <guimenu>Menu Bar</guimenu> to a panel, right-click on any vacant "
-"space on the panel. Choose <guimenu>Add to Panel</guimenu>, then choose "
-"<application>Menu Bar</application> from the Add to Panel dialog. See <xref "
-"linkend=\"panels-addobject\"/> for more on this."
+"To add a <guimenu>Classic Menu</guimenu> to a panel, right-click on any "
+"vacant space on the panel. Choose <guimenu>Add to Panel</guimenu>, then "
+"choose <application>Classic Menu</application> from the Add to Panel dialog."
+" See <xref linkend=\"panels-addobject\"/> for more on this."
 msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1280
 msgid ""
-"<guimenu>Main Menu</guimenu>: The Main Menu contains the same items as the "
-"Menu Bar, but organizes them into one menu instead of three. It takes up "
-"less space on the panels as a result."
+"<guimenu>Compact Menu</guimenu>: The Compact Menu contains the same items as"
+" the Classic Menu, but organizes them into one menu instead of three. It "
+"takes up less space on the panels as a result."
 msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1283
 msgid ""
-"To add a <guimenu>Main Menu</guimenu> to a panel, right-click on any vacant "
-"space on the panel. Choose <guimenu>Add to Panel</guimenu>, then choose "
-"<application>Main Menu</application> from the Add to Panel dialog. See <xref"
-" linkend=\"panels-addobject\"/> for more on this."
+"To add a <guimenu>Compact Menu</guimenu> to a panel, right-click on any "
+"vacant space on the panel. Choose <guimenu>Add to Panel</guimenu>, then "
+"choose <application>Compact Menu</application> from the Add to Panel dialog."
+" See <xref linkend=\"panels-addobject\"/> for more on this."
 msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1289
 msgid ""
-"<guimenu>Submenus</guimenu>: You can add a submenu of the Menu Bar or Main "
-"Menu directly to the panel. For example, you can add the "
+"<guimenu>Submenus</guimenu>: You can add a submenu of the Classic Menu or "
+"Compact Menu directly to the panel. For example, you can add the "
 "<guimenu>Games</guimenu> submenu of the <guimenu>Applications</guimenu> menu"
 " to the panel."
 msgstr ""
@@ -16594,8 +16594,8 @@ msgstr ""
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
-msgid "Menu Bar"
-msgstr "Menu Bar"
+msgid "Classic Menu"
+msgstr ""
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -16613,19 +16613,19 @@ msgstr ""
 #: C/gospanel.xml:1552
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/menu_bar_applet.png\" "
-"format=\"PNG\"/> </imageobject> <textobject> <phrase>Menu Bar applet. Menus:"
-" Applications, Places, System.</phrase> </textobject>"
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Classic Menu applet. "
+"Menus: Applications, Places, System.</phrase> </textobject>"
 msgstr ""
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1561
 msgid ""
-"The <application>Menu Bar</application> contains the "
+"The <application>Classic Menu</application> contains the "
 "<guimenu>Applications</guimenu>, <guimenu>Places</guimenu>, and "
 "<guimenu>System</guimenu> menus. You can access almost all the standard "
-"applications, commands, and configuration options from the <application>Menu"
-" Bar</application>. For more on using the Menu Bar, see <xref "
-"linkend=\"menubar\"/>."
+"applications, commands, and configuration options from the "
+"<application>Classic Menu</application>. For more on using the Classic Menu,"
+" see <xref linkend=\"menubar\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -20097,7 +20097,7 @@ msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:983
-msgid "(s) Keyboard shortcut to open the menu bars."
+msgid "(s) Keyboard shortcut to open the menus."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
