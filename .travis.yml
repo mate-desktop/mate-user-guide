@@ -108,10 +108,10 @@ variables:
   - CFLAGS="-Wall -Werror=format-security"
 
 before_scripts:
-  - if [ ${DISTRO_NAME} == "debian" ];then
-  -     curl -Ls -o debian.sh https://github.com/mate-desktop/mate-dev-scripts/raw/master/travis/debian.sh
-  -     bash ./debian.sh
-  - fi
+#  - if [ ${DISTRO_NAME} == "debian" ];then
+#  -     curl -Ls -o debian.sh https://github.com/mate-desktop/mate-dev-scripts/raw/master/travis/debian.sh
+#  -     bash ./debian.sh
+#  - fi
 
 after_scripts:
   - if [ ${DISTRO_NAME} == "fedora" ];then
