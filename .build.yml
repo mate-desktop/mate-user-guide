@@ -1,0 +1,68 @@
+##########################################################
+# THE FOLLOWING LINES IS USED BY docker-build
+##########################################################
+requires:
+  archlinux:
+    # Useful URL: https://git.archlinux.org/svntogit/community.git/tree/mate-user-guide
+    - gcc
+    - git
+    - intltool
+    - itstool
+    - make
+    - mate-common
+    - which
+    - yelp-tools
+
+  debian:
+    # Useful URL: https://github.com/mate-desktop/debian-packages
+    # Useful URL: https://salsa.debian.org/debian-mate-team/mate-user-guide
+    - gettext
+    - git
+    - intltool
+    - libglib2.0-dev
+    - make
+    - mate-common
+    - yelp-tools
+
+  fedora:
+    # Useful URL: https://src.fedoraproject.org/cgit/rpms/mate-user-guide.git
+    - desktop-file-utils
+    - gcc
+    - git
+    - make
+    - mate-common
+    - redhat-rpm-config
+
+  ubuntu:
+    - gettext
+    - git
+    - intltool
+    - libglib2.0-dev
+    - make
+    - mate-common
+    - yelp-tools
+
+variables:
+  - CFLAGS="-Wall -Werror=format-security"
+
+before_scripts:
+  - if [ ${DISTRO_NAME} == "debian" ];then
+  -     curl -Ls -o debian.sh https://github.com/mate-desktop/mate-dev-scripts/raw/master/travis/debian.sh
+  -     bash ./debian.sh
+  - fi
+
+after_scripts:
+  - make distcheck
+
+releases:
+  draft: false
+  prerelease: false
+  checksum: true
+  file_glob: true
+  files: mate-user-guide-*.tar.xz
+  github_release:
+    tags: true
+    overwrite: true
+    base_version: 1.20.0
+    notify_servers:
+      - https://release.mate-desktop.org/release
