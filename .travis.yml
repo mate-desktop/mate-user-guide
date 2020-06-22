@@ -6,7 +6,8 @@ services:
 addons:
   apt:
     packages:
-      - python3-github
+      - python3-pip
+      - python3-setuptools
 
 branches:
   except:
@@ -17,6 +18,7 @@ before_install:
   - chmod +x docker-build
 
 install:
+  - pip3 install PyGithub
   - ./docker-build --name ${DISTRO} --config .build.yml --install
 
 script:
