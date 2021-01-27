@@ -1,11 +1,19 @@
-SUBDIRS = po mate-user-guide
+if USE_NLS
+PO_SUBDIR = po
+endif
+
+SUBDIRS = $(PO_SUBDIR) mate-user-guide
 
 desktopdir = $(datadir)/applications
 desktop_in_files = mate-user-guide.desktop.in
 desktop_DATA = $(desktop_in_files:.desktop.in=.desktop)
 
 $(desktop_DATA): $(desktop_in_files)
+if USE_NLS
 	$(AM_V_GEN) $(MSGFMT) --desktop --template $< -d $(top_srcdir)/po -o $@
+else
+	$(AM_V_GEN) cp $< $@
+endif
 
 CLEANFILES = $(desktop_DATA)
 

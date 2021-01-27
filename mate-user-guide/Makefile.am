@@ -16,7 +16,7 @@ HELP_FILES = index.docbook	\
 	gosfeedback.xml		\
 	glossary.xml
 
-HELP_MEDIA =					\
+HELP_MEDIA = \
 	figures/ask_pointer.png \
 	figures/busy_pointer.png \
 	figures/caja_always_use_browser.png \
@@ -73,10 +73,14 @@ HELP_MEDIA =					\
 	figures/yelp_preferences.png \
 	figures/yelp_window.png
 
+if USE_NLS
 # Add linguas to be ignored, e.g. IGNORE_HELP_LINGUAS = ca de es fr
 IGNORE_HELP_LINGUAS =
 HELP_LINGUAS = $(if $(IGNORE_HELP_LINGUAS), \
 	$(filter-out $(IGNORE_HELP_LINGUAS),$(subst /,,$(dir $(wildcard */*.po)))), \
 	$(subst /,,$(dir $(wildcard */*.po))) )
+else
+HELP_LINGUAS =
+endif
 
 -include $(top_srcdir)/git.mk
