@@ -1,4 +1,12 @@
-### mate-user-guide 1.25.0
+### mate-user-guide 1.26.0
+
+  * update translations
+  * pre-bump version
+  * build: allow users to disable gettext support (--disable-nls)
+  * Update copyright to 2021
+  * Remove the execution bit from some Italian figures
+  * Remove USE_MATE2_MACROS from autogen.sh (legacy)
+  * Update README
 
 ### mate-user-guide 1.24.0
 
