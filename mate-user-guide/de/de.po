@@ -1,21 +1,22 @@
+# 
 # Translators:
 # Christian Kopp <christiankopp79@gmail.com>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Joachim Braun <joachim.braun@mail.ru>, 2018
-# Julian Rüger <jr98@gmx.net>, 2018
 # Tobias Bannert <tobannert@gmail.com>, 2019
 # Almin <GermannenMarkus@googlemail.com>, 2019
 # Marcel Artz <email@marcel-artz.de>, 2019
 # Ettore Atalan <atalanttore@googlemail.com>, 2020
+# Julian Rüger <jr98@gmx.net>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>, 2020\n"
+"Last-Translator: Julian Rüger <jr98@gmx.net>, 2021\n"
 "Language-Team: German (https://www.transifex.com/mate/teams/13566/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -54,7 +55,7 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
 msgstr ""
 
 #. (itstool) path: info/copyright
@@ -2517,7 +2518,7 @@ msgid ""
 "as follows:"
 msgstr ""
 "Ein Thema enthält Einstellungen, die verschiedene Teile der MATE-"
-"Arbeitsumgebung beeinflussen, wie folgende:"
+"Arbeitsumgebung beeinflussen:"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:263
@@ -2548,6 +2549,14 @@ msgid ""
 "setting from the <guilabel>Controls</guilabel> tabbed section in the "
 "<guilabel>Customize Theme</guilabel> window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>Die Sektion \"Steuerung\" eines Themas "
+"bestimmt das optische Erscheinungsbild von Fensterinhalten, Leisten und "
+"Applets. Davon betroffen sind Steuerungselemente wie Menüleisten und "
+"Schaltflächen. Einige der verfügbaren Optionen sind für Benutzer mit "
+"besonderen Anforderungen an die Barrierefreiheit gestaltet. Sie können "
+"verschiedene Optionen für das Aussehen von Steuerlementen im Tab "
+"<guilabel>Steuerung</guilabel> des Fensters <guilabel>Thema "
+"anpassen</guilabel> auswählen."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:276
@@ -2610,6 +2619,10 @@ msgid ""
 "Border</guilabel> tabbed section in the <guilabel>Customize Theme</guilabel>"
 " window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>Die Sektion \"Fensterrahmen\" eines Themas "
+"bestimmt ausschließlich das Erscheinungsbild der Umrandung von Fenstern. Sie"
+" können eine Fensterdekoration im Tab <guilabel>Fensterrahmen</guilabel> des"
+" Fensters <guilabel>Thema anpassen</guilabel> auswählen."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:293
@@ -2636,6 +2649,11 @@ msgid ""
 " an option for the icon setting from the <guilabel>Icons</guilabel> tabbed "
 "section in the <guilabel>Customize Theme</guilabel> window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>Die Sektion \"Symbole\" eines Themas "
+"bestimmt das Erscheinungsbild von Symbolen in Menüleisten und auf dem "
+"Desktophintergrund. Sie können ein Symbolthema im Tab "
+"<guilabel>Symbole</guilabel> des Fensters <guilabel>Thema "
+"anpassen</guilabel> auswählen."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:301
@@ -2662,6 +2680,10 @@ msgid ""
 "for setting the pointer from the <guilabel>Pointer</guilabel> tabbed section"
 " in the <guilabel>Customize Theme</guilabel> window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>Die Sektion \"Zeiger\" eines Themas bestimmt"
+" das Erscheinungsbild und die Größe des Mauszeigers. Sie können verschiedene"
+" Optionen im Tab <guilabel>Zeiger</guilabel> des Fensters <guilabel>Thema "
+"anpassen</guilabel> auswählen."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:308
@@ -2677,10 +2699,10 @@ msgid ""
 " of controls options, window frame options, and icon options."
 msgstr ""
 "Die im Reiter <application>Thema</application> aufgelisteten Themen sind "
-"verschiedene Kombinationen aus Fensterinhalten, Fensterrahmenoptionen und "
-"Symboloptionen. Sie können ein benutzerdefiniertes Thema erzeugen, das "
-"verschiedene Kombinationen aus Fensterinhalten, Fensterrahmenoptionen und "
-"Symboloptionen verwendet."
+"vorgegebene Kombinationen aus Fensterinhalten, Fensterrahmen und Symbolen. "
+"Sie können ein benutzerdefiniertes Thema erstellen, das verschiedene "
+"Kombinationen aus Fensterinhalten, Fensterrahmenoptionen und Symboloptionen "
+"verwendet."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:314
@@ -2723,8 +2745,8 @@ msgid ""
 msgstr ""
 "Wählen Sie die Fensterinhalt-Option, die Sie im benutzerdefinierten Thema "
 "verwenden möchten, in der Liste im Reiter <guilabel>Fensterinhalt</guilabel>"
-" aus. Die Liste der Fensterinhalt-Optionen enthält verschiedene Optionen für"
-" Benutzer mit Barrierefreiheits-Erfordernissen."
+" aus. Einige der verfügbaren Optionen sind für Benutzer mit besonderen "
+"Anforderungen an die Barrierefreiheit gestaltet."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:333
@@ -2738,9 +2760,9 @@ msgstr ""
 "Klicken Sie auf den Reiter <guilabel>Fensterrahmen</guilabel>, um den "
 "Reiterabschnitt <guilabel>Fensterrahmen</guilabel> anzuzeigen. Wählen Sie "
 "die Fensterrahmen-Option, die Sie im benutzerdefinierten Thema verwenden "
-"möchten, in der Liste der verfügbaren Optionen aus. Die Liste der "
-"Fensterrahmen-Optionen enthält verschiedene Optionen für Benutzer mit "
-"Barrierefreiheits-Erfordernissen."
+"möchten, in der Liste der verfügbaren Optionen aus. Einige der verfügbaren "
+"Optionen sind für Benutzer mit besonderen Anforderungen an die "
+"Barrierefreiheit gestaltet."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:340
@@ -2754,9 +2776,9 @@ msgstr ""
 "Klicken Sie auf den Reiter <guilabel>Symbole</guilabel>, um den "
 "Reiterabschnitt <guilabel>Symbole</guilabel> anzuzeigen. Wählen Sie die "
 "Symbol-Option, die Sie im benutzerdefinierten Thema verwenden möchten, in "
-"der Liste der verfügbaren Optionen aus. Die Liste der Symbol-Optionen "
-"enthält verschiedene Optionen für Benutzer mit Barrierefreiheits-"
-"Erfordernissen."
+"der Liste der verfügbaren Optionen aus. Einige der verfügbaren Optionen sind"
+" für Benutzer mit besonderen Anforderungen an die Barrierefreiheit "
+"gestaltet."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:345
@@ -2804,8 +2826,7 @@ msgid ""
 "<filename>.tar.gz</filename> file."
 msgstr ""
 "Sie können ein Thema zur Liste der verfügbaren Themen hinzufügen. Das neue "
-"Thema muss eine Archivdatei sein. Das bedeutet, dass die Datei eine "
-"<filename>.tar.gz</filename>-Datei sein muss."
+"Thema muss eine Archivdatei im Format <filename>.tar.gz</filename> sein."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:364
@@ -4919,6 +4940,8 @@ msgid ""
 "To switch between keyboard layouts, use the <application>Keyboard "
 "Indicator</application> panel applet."
 msgstr ""
+"Um zwischen Tastaturbelegungen zu wechseln, benutzen Sie das Applet "
+"<application>Tastaturanzeige</application>."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1497
@@ -6023,8 +6046,8 @@ msgid ""
 "Select this option to pick the type of click to perform from a window or "
 "panel applet."
 msgstr ""
-"Wählen Sie diese Option, um den Typ des auszzuführenden Klicks aus einem "
-"Fenster oder Panel-Applet zu wählen."
+"Wählen Sie diese Option, um die Art des auszuführenden Klicks aus einem "
+"Fenster oder Panel-Applet festzulegen."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2258
@@ -16222,9 +16245,9 @@ msgid ""
 "On the bottom panel, click on the <guibutton>window list button</guibutton> "
 "that represents the window in the <application>Window List</application>."
 msgstr ""
-"Klicken Sie auf den <guibutton>Fensterliste</guibutton>-Knopf im unteren "
-"Panel, der das Fenster in der <application>Fensterliste</application> "
-"repräsentiert."
+"Klicken Sie auf die <guibutton>Fensterlisten</guibutton>-Schaltfläche im "
+"unteren Panel, die das Fenster in der "
+"<application>Fensterliste</application> repräsentiert."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:308
@@ -16405,9 +16428,8 @@ msgid ""
 "Switcher</application> applet in the bottom panel, and scroll the mouse "
 "wheel."
 msgstr ""
-"Verschieben Sie den Mauszeiger auf das <application>Arbeitsflächen-"
-"Umschalter</application>-Applet im unteren Panel, und bewegen Sie das "
-"Mausrad."
+"Positionieren Sie den Mauszeiger über dem <application>Arbeitsflächen-"
+"Umschalter</application> im unteren Panel, und scrollen Sie mit dem Mausrad."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:371
@@ -18208,6 +18230,10 @@ msgid ""
 "menu. Menu items: Properties, Remove From Panel, Lock, Move.</phrase> "
 "</textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/panel_object_popup_menu.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Panel-Objekt-"
+"Kontextmenü. Menüeinträge: Eigenschaften, Aus der Leiste entfernen, Sperren,"
+" Verschieben.</phrase> </textobject>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:527
@@ -18432,7 +18458,7 @@ msgstr "Applets"
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:655
 msgid "<primary>applets</primary> <secondary>introduction</secondary>"
-msgstr ""
+msgstr "<primary>Applets</primary> <secondary>Einführung</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:659
@@ -18440,6 +18466,8 @@ msgid ""
 "<primary>panel objects</primary> <secondary>applets</secondary> "
 "<see>applets</see>"
 msgstr ""
+"<primary>Panel-Objekte</primary> <secondary>Applets</secondary> "
+"<see>Applets</see>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:664
@@ -18494,6 +18522,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Sample applets. The "
 "context describes the graphic.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/sample_applet.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Beispielapplets. Der "
+"Kontext beschreibt die Grafik.</phrase> </textobject>"
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:692
@@ -20046,6 +20077,7 @@ msgstr "Benachrichtigungsfeld-Applet"
 #: C/gospanel.xml:1520
 msgid "<primary>applets</primary> <secondary>Notification Area</secondary>"
 msgstr ""
+"<primary>Applets</primary> <secondary>Benachrichtigungsfeld</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1524
@@ -20089,13 +20121,13 @@ msgid ""
 "Area</application> applet. The graphic above illustrates the CD icon in the "
 "<application>Notification Area</application> applet."
 msgstr ""
-"Das <application>Benachrichtigungsfeld</application>-Applet zeigt Symbole "
-"aus verschiedenen Anwendungen an, um auf die Aktivitäten dieser Anwendungen "
+"Das <application>Benachrichtigungsfeld</application> zeigt Symbole aus "
+"verschiedenen Anwendungen an, um auf die Aktivitäten dieser Anwendungen "
 "hinzuweisen. Beispielsweise wird bei der Verwendung des <application>CD-"
 "Spielers</application> zum Abspielen einer CD ein CD-Symbol im "
-"<application>Benachrichtigungsfeld</application>-Applet angezeigt. Die "
-"obenstehende Grafik zeigt das CD-Symbol im "
-"<application>Benachrichtigungsfeld</application>-Applet."
+"<application>Benachrichtigungsfeld</application> angezeigt. Die obenstehende"
+" Grafik zeigt das CD-Symbol im "
+"<application>Benachrichtigungsfeld</application>."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
@@ -20230,8 +20262,9 @@ msgid ""
 "If you click on the Window List button that represents a window that is on "
 "the desktop but does not have focus, the applet gives focus to the window."
 msgstr ""
-"Wenn Sie auf einen <application>Fensterlisten</application>-Knopf klicken, "
-"der zu einem inaktiven Fenster gehört, wird dieses Fenster aktiviert."
+"Wenn Sie auf eine <application>Fensterlisten</application>-Schaltfläche "
+"klicken, die zu einem inaktiven Fenster gehört, wird dieses Fenster "
+"fokussiert."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1613
@@ -20244,8 +20277,8 @@ msgid ""
 "If you click on the Window List button that represents the window that has "
 "focus, the applet minimizes the window."
 msgstr ""
-"Wenn Sie in der <application>Fensterliste</application> auf den Knopf "
-"klicken, der das aktive Fenster bezeichnet, wird das Fenster minimiert."
+"Wenn Sie auf die <application>Fensterlisten</application>-Schaltfläche "
+"klicken, die zu dem aktiven Fenster gehört, wird dieses minimiert."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1617
@@ -20258,8 +20291,8 @@ msgid ""
 "If you click on the Window List button that represents a minimized window, "
 "the applet restores the window."
 msgstr ""
-"Wenn Sie auf einen <application>Fensterlisten</application>-Knopf klicken, "
-"der zu einem minimierten Fenster gehört, wird dieses Fenster "
+"Wenn Sie auf eine <application>Fensterlisten</application>-Schaltfläche "
+"klicken, die zu einem minimierten Fenster gehört, wird dieses Fenster "
 "wiederhergestellt."
 
 #. (itstool) path: section/para

@@ -1,20 +1,21 @@
+# 
 # Translators:
 # Michal Slovák <michalslovak2@hotmail.com>, 2018
 # Pavol Šimo <palo.simo@gmail.com>, 2018
-# Juraj Oravec, 2018
+# 32442f8bc5cc500b59f161d95078a28a_525ed04, 2018
 # Martin Wimpress <code@flexion.org>, 2018
-# Ján Ďanovský <dagsoftware@yahoo.com>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Tibor Kaputa <tibbbi2@gmail.com>, 2018
 # Vendelín Slezák <klaykap@yandex.com>, 2018
 # Dušan Kazik <prescott66@gmail.com>, 2019
+# Ján Ďanovský <dagsoftware@yahoo.com>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Dušan Kazik <prescott66@gmail.com>, 2019\n"
+"Last-Translator: Ján Ďanovský <dagsoftware@yahoo.com>, 2020\n"
 "Language-Team: Slovak (https://www.transifex.com/mate/teams/13566/sk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +30,8 @@ msgstr ""
 "Stanislav Višňovský\n"
 "Marcel Telka <marcel@telka.sk>\n"
 "Tibor Kaputa <tibbbi2@gmail.com>\n"
-"Dušan Kazik <prescott66@gmail.com>"
+"Dušan Kazik <prescott66@gmail.com>\n"
+"Ján Ďanovský <dagsoftware@yahoo.com>"
 
 #. (itstool) path: book/title
 #: C/index.docbook:7
@@ -46,7 +48,7 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
 msgstr ""
 
 #. (itstool) path: info/copyright
@@ -356,14 +358,14 @@ msgid ""
 "VERSIONS OF THE DOCUMENT, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE"
 " POSSIBILITY OF SUCH DAMAGES."
 msgstr ""
-"V ŽIADNOM PRÍPADE A ZA ŽIADNYCH PRÁVNYCH TEÓRIÍ, ČI ÚMYSELNÉ UBLÍŽENIE(AJ Z "
-"NEDBANLIVOSTI), ZMLUVOU, ALEBO INAK SA AUTOR, POČIATOČNÝ SPISOVATEĽ, VŠETCI "
-"PRISPIEVATELIA, DISTRIBÚTOR DOKUMENTU ALEBO JEHO MODIFIKOVANIEJ VERZIE, "
+"V ŽIADNOM PRÍPADE A ZA ŽIADNYCH PRÁVNYCH TEÓRIÍ, ČI ÚMYSELNÉ UBLÍŽENIE (AJ Z"
+" NEDBANLIVOSTI), ZMLUVOU, ALEBO INAK SA AUTOR, POČIATOČNÝ SPISOVATEĽ, VŠETCI"
+" PRISPIEVATELIA, DISTRIBÚTOR DOKUMENTU ALEBO JEHO MODIFIKOVANEJ VERZIE, "
 "ALEBO DODÁVATEĽ AKEJKOĽVEK STRANY,  NEZODPOVEDÁ ŽIADNEJ OSOBE ZA AKÉKOĽVEK "
 "PRIAME, NEPRIAME, ZVLÁŠTNE, NÁHODNÉ, ALEBO VYPLÝVAJÚCE ŠKODY AKÉHOKOĽVEK "
 "CHARAKTERU,  AKO OBMEDZENIA, STRATA DOBRÉHO MENA, PRERUŠENIE PRÁCE, ZLYHANIE"
 " POČÍTAČA ČI PORUCHY, ALEBO AKÉKOĽVEK INÉ ŠKODY A STRATY KTORÉ VZNIKNÚ, "
-"ALEBO SA BUDÚ VZŤAHOVAŤ NA POUŽÍVANIE TOHOTO DOKUMENTU ČI ZMENENÝCH VERZÍ "
+"ALEBO SA BUDÚ VZŤAHOVAŤ NA POUŽÍVANIE TOHOTO DOKUMENTU ČI ZMENENÝCH VERZIÍ "
 "TOHTO DOKUMENTU AJ KEĎ STRANA BOLA INFORMOVANÁ O MOŽNOSTI TAKÝCHTO ŠKÔD."
 
 #. (itstool) path: legalnotice/para
@@ -1292,7 +1294,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:631
 msgid "Take a screenshot of the currently focused window."
-msgstr ""
+msgstr "Urobí snímku aktuálneho okna."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:636
@@ -1432,7 +1434,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:795
 msgid "Maximize the current window."
-msgstr ""
+msgstr "Maximalizuje aktuálne okno"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:800
@@ -2103,7 +2105,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:216
 msgid "Theme,"
-msgstr ""
+msgstr "Téma,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:219
@@ -2123,7 +2125,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:229
 msgid "Theme Preferences"
-msgstr ""
+msgstr "Nastavenia témy"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:234
@@ -2753,7 +2755,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:636
 msgid "<primary>fonts</primary> <secondary>terminal</secondary>"
-msgstr ""
+msgstr "<primary>písma</primary> <secondary>terminál</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:640
@@ -2999,7 +3001,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:819
 msgid "<guilabel>Show icons in menus</guilabel>"
-msgstr ""
+msgstr "<guilabel>Zobraziť ikony menu</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:821
@@ -4062,7 +4064,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1484
 msgid "<guilabel>Keyboard model</guilabel>"
-msgstr ""
+msgstr "<guilabel>Model klávesnice</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1485
@@ -4522,7 +4524,7 @@ msgstr ""
 #: C/goscustdesk.xml:1770
 msgid ""
 "<guilabel>Beep when accessibility features are turned on or off</guilabel>"
-msgstr ""
+msgstr "<guilabel>Pípnuť pri prepnutí funkcií prístupnosti</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1775
@@ -6552,7 +6554,7 @@ msgstr ""
 #. (itstool) path: term/interface
 #: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:319
 msgid "Menubar"
-msgstr "Ponuka"
+msgstr "Panel menu"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:219 C/goscaja.xml:405
@@ -6685,7 +6687,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:301 C/goscaja.xml:719
 msgid "Displaying a Parent Folder"
-msgstr ""
+msgstr "Zobrazenie nadradeného priečinka"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:302
@@ -9556,7 +9558,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2046
 msgid "Property"
-msgstr ""
+msgstr "Vlastnosť"
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
@@ -9611,7 +9613,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2088
 msgid "Free space"
-msgstr ""
+msgstr "Voľné miesto"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2091
@@ -10228,7 +10230,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2437
 msgid "<primary>Trash</primary> <secondary>introduction</secondary>"
-msgstr ""
+msgstr "<primary>Kôš</primary> <secondary>úvod</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2441
@@ -10685,7 +10687,7 @@ msgstr ""
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:2660
 msgid "<primary>symbolic links</primary><secondary>and emblems</secondary>"
-msgstr ""
+msgstr "<primary>symbolické odkazy</primary> <secondary>a emblémy</secondary>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2660
@@ -11906,7 +11908,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3450
 msgid "<guilabel>All columns have the same width</guilabel>"
-msgstr ""
+msgstr "<guilabel>Všetky stĺpce majú rovnakú šírku</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3455
@@ -13634,7 +13636,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:395
 msgid "Applications"
-msgstr "Aplikácie"
+msgstr "Programy"
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:399
@@ -14087,7 +14089,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:517
 msgid "Showing hidden files"
-msgstr ""
+msgstr "Zobrazenie skrytých súborov"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:518
@@ -14398,7 +14400,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:115
 msgid "<application>Window List</application> applet"
-msgstr ""
+msgstr "Applet <application>Zoznam okien</application>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:116
@@ -14798,7 +14800,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:389
 msgid "Panel Objects"
-msgstr ""
+msgstr "Objekty panelu"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:392
@@ -16132,7 +16134,7 @@ msgstr "Tlačidlo pre zobrazenie plochy"
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1220
 msgid "<primary>buttons</primary> <secondary>Minimize Windows</secondary>"
-msgstr ""
+msgstr "<primary>tlačítka</primary> <secondary>minimalizovať okná</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1224
@@ -16273,6 +16275,8 @@ msgid ""
 "<primary>panel objects</primary> <secondary>drawers</secondary> "
 "<see>drawers</see>"
 msgstr ""
+"<primary>objekty panelu</primary> <secondary>zásuvky</secondary> "
+"<see>zásuvky </see>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1304
@@ -16634,7 +16638,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
 msgid "Classic Menu"
-msgstr ""
+msgstr "Klasické menu"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -16884,7 +16888,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:1671
 msgid "<guilabel>Restoring Minimized Windows</guilabel>"
-msgstr ""
+msgstr "<guilabel>Obnovujú sa minimalizované okná </guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1673
@@ -17596,7 +17600,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:95
 msgid "Default Shortcut Keys"
-msgstr ""
+msgstr "Predvolené klávesové skratky"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:110
@@ -17716,7 +17720,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:220
 msgid "Takes a screenshot and adds a border effect around it."
-msgstr ""
+msgstr "Urobí snímku obrazovky a pridá okolo rámček."
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:225
@@ -17757,7 +17761,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gostools.xml:259
 msgid "<primary>Yelp</primary>"
-msgstr ""
+msgstr "<primary>Yelp</primary>"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:265
@@ -18097,7 +18101,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:525
 msgid "Close a Window"
-msgstr ""
+msgstr "Zavrieť okno"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:526

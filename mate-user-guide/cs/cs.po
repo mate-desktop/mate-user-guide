@@ -1,3 +1,4 @@
+# 
 # Translators:
 # Ondřej Kolín <ondrej.kolin@gmail.com>, 2018
 # Michal Procházka <mich.procha@seznam.cz>, 2018
@@ -8,16 +9,17 @@
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2019
-# Lucas Lommer <drom@kdyne.net>, 2019
-# Pavel Borecki <pavel.borecki@gmail.com>, 2019
 # ToMáš Marný, 2020
+# Pavel Borecki <pavel.borecki@gmail.com>, 2020
+# Roman Horník <roman.hornik@debian-linux.cz>, 2021
+# Lukáš Lommer <drom@kdyne.net>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: ToMáš Marný, 2020\n"
+"Last-Translator: Lukáš Lommer <drom@kdyne.net>, 2021\n"
 "Language-Team: Czech (https://www.transifex.com/mate/teams/13566/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,8 +58,8 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
+msgstr "<year>2015-2021</year> <holder>Projekt dokumentace MATE</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -425,6 +427,8 @@ msgid ""
 "OF THE GNU FREE DOCUMENTATION LICENSE WITH THE FURTHER UNDERSTANDING THAT: "
 "<_:orderedlist-1/>"
 msgstr ""
+"DOKUMENT A JEHO UPRAVENÉ VERZE JSOU ŠÍŘENY V SOULADU SE ZNĚNÍM LICENCE GNU "
+"FREE DOCUMENTATION LICENSE S NÁSLEDUJÍCÍM USTANOVENÍM: <_:orderedlist-1/>"
 
 #. (itstool) path: formalpara/title
 #. (itstool) path: info/title
@@ -1119,6 +1123,10 @@ msgid ""
 "<phrase>Move pointer.</phrase> </textobject> </inlinemediaobject> Move "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/move_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Ukazatel přesunu.</phrase> </textobject> </inlinemediaobject> "
+"Ukazatel přesunu"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:415
@@ -1126,6 +1134,8 @@ msgid ""
 "This pointer indicates that when you drop the object, the object is moved "
 "from the old location to the new location."
 msgstr ""
+"Tento ukazatel značí, že při přetažení objektu je objekt přesunut ze starého"
+" umístění do nového umístění."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1147,6 +1157,10 @@ msgid ""
 "<phrase>Copy pointer.</phrase> </textobject> </inlinemediaobject> Copy "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/copy_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Ukazatel kopírování.</phrase> </textobject> </inlinemediaobject> "
+"Ukazatel kopírování"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:431
@@ -1154,6 +1168,8 @@ msgid ""
 "This pointer indicates that when you drop the object, a copy of the object "
 "is created where you drop it."
 msgstr ""
+"Tento ukazatel značí, že když přetáhnete objekt, vytvoří se kopie objektu "
+"tam, kde ho přetáhnete."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1175,6 +1191,10 @@ msgid ""
 "<phrase>Symbolic link pointer.</phrase> </textobject> </inlinemediaobject> "
 "Symbolic link pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/link_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Ukazatel symbolického odkazu.</phrase> </textobject> "
+"</inlinemediaobject> Ukazatel symbolického odkazu"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:447
@@ -1184,6 +1204,11 @@ msgid ""
 "symbolic link is a special type of file that points to another file or "
 "folder. For more on this, see <xref linkend=\"caja-symlink\"/>."
 msgstr ""
+"Tento ukazatel značí, že když přetáhnete objekt, vytvoří se "
+"<firstterm>symbolický odkaz</firstterm> na objekt, který upustíte. "
+"Symbolický odkaz je speciální typ souboru, který odkazuje na jiný soubor "
+"nebo složku. Další informace naleznete v části <xref linkend=\"caja-"
+"symlink\"/>."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1204,6 +1229,10 @@ msgid ""
 "fileref=\"figures/ask_pointer.png\"/> </imageobject> <textobject> "
 "<phrase>Ask pointer.</phrase> </textobject> </inlinemediaobject> Ask pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/ask_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Ukazatel dotazu.</phrase> </textobject> </inlinemediaobject> "
+"Ukazatel dotazu"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:465
@@ -1213,6 +1242,10 @@ msgid ""
 "operation you would like to perform. For instance, you may be able to move, "
 "copy, or create a symbolic link."
 msgstr ""
+"Tento ukazatel značí, že při upuštění objektu budete mít na výběr, co "
+"udělat. Otevře se nabídka, která vám umožní vybrat, kterou operaci chcete "
+"provést. Například budete moci přesunout, kopírovat nebo vytvořit symbolický"
+" odkaz."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1234,6 +1267,10 @@ msgid ""
 "<phrase>Not available pointer.</phrase> </textobject> </inlinemediaobject> "
 "Not available pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/not_available_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Ukazatel Není k dispozici.</phrase> </textobject> "
+"</inlinemediaobject> Ukazatel Není k dispozici"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:482
@@ -1242,6 +1279,9 @@ msgid ""
 "location. Releasing the mouse button now will have no effect: the dragged "
 "object will be returned to its starting location."
 msgstr ""
+"Tento ukazatel značí, že nemůžete přetáhnout objekt na aktuální umístění. "
+"Uvolnění tlačítka myši nyní nebude mít žádný účinek: přetažený objekt bude "
+"vrácen do výchozího umístění."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1263,6 +1303,10 @@ msgid ""
 "<textobject> <phrase>Move panel object pointer.</phrase> </textobject> "
 "</inlinemediaobject> Move panel object pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/move_panel_object_pointer.png\"/> </imageobject> "
+"<textobject> <phrase>Ukazatel přesunu objektu panelu.</phrase> </textobject>"
+" </inlinemediaobject> Ukazatel přesunu objektu panelu"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:497
@@ -1271,6 +1315,9 @@ msgid ""
 " mouse button. See <xref linkend=\"panels\"/> for more information on "
 "panels."
 msgstr ""
+"Tento ukazatel se zobrazí, když přetáhnete panel nebo objekt panelu "
+"prostředním tlačítkem myši. Vizte <xref linkend=\"panels\"/> pro více "
+"informací o panelech."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1292,6 +1339,10 @@ msgid ""
 "<phrase>Move window pointer.</phrase> </textobject> </inlinemediaobject> "
 "Move window pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/movewindow_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Ukazatel přesunu okna.</phrase> </textobject> </inlinemediaobject> "
+"Ukazatel přesunu okna"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:513
@@ -1299,6 +1350,9 @@ msgid ""
 "This pointer appears when you drag a window to move it. See <xref linkend"
 "=\"windows-manipulating\"/> for more information on moving windows."
 msgstr ""
+"Tento ukazatel se zobrazí, když přesunete okno přetažením. Další informace o"
+" přesunování oken naleznete v části <xref linkend=\"windows-"
+"manipulating\"/>."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:521
@@ -3665,7 +3719,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1026
 msgid "Getting started"
-msgstr ""
+msgstr "Začínáme"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1027
@@ -5302,7 +5356,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2180
 msgid "Mouse Motion Preferences"
-msgstr ""
+msgstr "Předvolby pro pohyb myši"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2197
@@ -5434,7 +5488,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2298
 msgid "Choose the direction to trigger a double click."
-msgstr ""
+msgstr "Zvolte směr který spustí dvojklik."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2305
@@ -6090,7 +6144,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2784
 msgid "Startup Programs Preferences"
-msgstr ""
+msgstr "Předvolby aplikací, spouštěných při přihlášení"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2801
@@ -8608,7 +8662,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:1006
 msgid "Restricting a search"
-msgstr ""
+msgstr "Omezení hledání"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -13622,6 +13676,7 @@ msgid ""
 "Specify the maximum file size for files for which the file manager creates a"
 " thumbnail."
 msgstr ""
+"Zadejte do jaké velikosti souboru bude správce souborů vytvářet jeho náhled."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3962
@@ -18370,7 +18425,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1641
 msgid "<guilabel>Show windows from current workspace</guilabel>"
-msgstr ""
+msgstr "<guilabel>Zobrazit okna ze stávající pracovní plochy</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1642
@@ -20279,7 +20334,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:823
 msgid "<guibutton>Rename</guibutton>"
-msgstr ""
+msgstr "<guibutton>Přejmenovat</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:826
@@ -22178,7 +22233,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1223
 msgid "rate"
-msgstr ""
+msgstr "rychlost"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1233

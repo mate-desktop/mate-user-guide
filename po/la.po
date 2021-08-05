@@ -4,8 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>, 2018
-# JungHee Lee <daemul72@gmail.com>, 2021
+# Vendelín Slezák <klaykap@yandex.com>, 2021
 # 
 msgid ""
 msgstr ""
@@ -13,21 +12,21 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/mate-user-guide/issues/new\n"
 "POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-12 09:05+0000\n"
-"Last-Translator: JungHee Lee <daemul72@gmail.com>, 2021\n"
-"Language-Team: Korean (https://www.transifex.com/mate/teams/13566/ko/)\n"
+"Last-Translator: Vendelín Slezák <klaykap@yandex.com>, 2021\n"
+"Language-Team: Latin (https://www.transifex.com/mate/teams/13566/la/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: la\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: mate-user-guide.desktop.in.in:4
 msgid "Help"
-msgstr "도움말"
+msgstr "Auxilium"
 
 #: mate-user-guide.desktop.in.in:5
 msgid "Get help with MATE"
-msgstr "MATE 도움말 얻기"
+msgstr ""
 
 #: mate-user-guide.desktop.in.in:6
 msgid "documentation;information;manual;"

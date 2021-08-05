@@ -1,3 +1,4 @@
+# 
 # Translators:
 # zubr139, 2018
 # Martin Wimpress <code@flexion.org>, 2018
@@ -5,14 +6,15 @@
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
 # dsafsadf <heneral@gmail.com>, 2019
 # Denis <prohibiti@gmail.com>, 2019
-# Микола Ткач <chistomov@gmail.com>, 2020
+# Oleksii Khalikov <oleksii.khalikov@gmail.com>, 2020
+# Микола Ткач <chistomov@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Микола Ткач <chistomov@gmail.com>, 2020\n"
+"Last-Translator: Микола Ткач <chistomov@gmail.com>, 2021\n"
 "Language-Team: Ukrainian (https://www.transifex.com/mate/teams/13566/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,7 +48,7 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
 msgstr ""
 
 #. (itstool) path: info/copyright
@@ -233,6 +235,8 @@ msgstr ""
 msgid ""
 "<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.8</revnumber> <date>Вересень 2004 р</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:202 C/index.docbook:210 C/index.docbook:218
@@ -246,52 +250,61 @@ msgstr "Sun Microsystems"
 msgid ""
 "<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.7</revnumber> <date>Вересень 2003 р</date> "
+"<_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
 msgid ""
 "<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.6</revnumber> <date>Серпень 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
 msgid ""
 "<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.5</revnumber> <date>Березень 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
 msgid ""
 "<revnumber>2.4</revnumber> <date>January 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.4</revnumber> <date>Січень 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:230
 msgid ""
 "<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.3</revnumber> <date>Жовтень 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
 msgid ""
 "<revnumber>2.2</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.2</revnumber> <date>Серпень 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:246
 msgid ""
 "<revnumber>2.1</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.1</revnumber> <date>Серпень 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:254
 msgid "<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>1.0</revnumber> <date>Травень 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
 msgid "This manual describes version 1.22 of the MATE desktop."
-msgstr ""
+msgstr "Цей посібник описує версію 1.22 стільниці MATE."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:4
@@ -4645,7 +4658,7 @@ msgstr "Параметри спільного використання сеан�
 #: C/goscustdesk.xml:1266
 msgid "<guilabel>Allow other users to view your desktop</guilabel>"
 msgstr ""
-"<guilabel>Дозволити иншим користувачам продивлятися Вашу "
+"<guilabel>Дозволити іншим користувачам продивлятися Вашу "
 "стільницю</guilabel>"
 
 #. (itstool) path: entry/para
@@ -4662,7 +4675,7 @@ msgstr ""
 #: C/goscustdesk.xml:1278
 msgid "<guilabel>Allow other users to control your desktop</guilabel>"
 msgstr ""
-"<guilabel>Дозволити иншим користувачам керувати Вашою стільницею</guilabel>"
+"<guilabel>Дозволити іншим користувачам керувати Вашою стільницею</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1283
@@ -8637,7 +8650,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:607
 msgid "The button bar"
-msgstr ""
+msgstr "Панель кнопок"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -8724,7 +8737,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:626
 msgid "The location bar"
-msgstr ""
+msgstr "Рядок розташування"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -8774,7 +8787,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:642 C/goscaja.xml:980
 msgid "The search bar"
-msgstr ""
+msgstr "Рядок пошуку"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9288,6 +9301,10 @@ msgid ""
 "display it in a text editor. You can modify this behavior in <xref linkend"
 "=\"caja-preferences\"/>."
 msgstr ""
+"Якщо ви відкриваєте виконуваний текстовий файл, тобто той, який Caja вважає,"
+" що можна запустити як програму, то вас запитають, що ви волієте зробити: "
+"запустити його чи показати в текстовому редакторі. Ви можете змінити цю "
+"поведінку в <xref linkend=\"caja-preferences\"/>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:892
@@ -9515,7 +9532,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:993
 msgid "The result of a search"
-msgstr ""
+msgstr "Результат пошуку"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9551,11 +9568,17 @@ msgid ""
 "icon. <xref linkend=\"goscaja-FIG-927\"/> shows a search which has been "
 "restricted to the users home directory and to only search for text files."
 msgstr ""
+"Якщо ваш пошук вас не влаштовує, ви можете уточнити його, додавши умови "
+"додавання. Це дозволяє обмежити пошук певним типом файлу або місцем "
+"розташування. Щоб додати умови пошуку, клацніть на <guibutton>+</guibutton> "
+"піктограму. <xref linkend=\"goscaja-FIG-927\"/> показати пошук, який був "
+"обмежений для домашнього каталогу користувачів та для пошуку лише текстових "
+"файлів."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1006
 msgid "Restricting a search"
-msgstr ""
+msgstr "Обмеження пошуку"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9602,7 +9625,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:1025
 msgid "Browsing the results of a saved search"
-msgstr ""
+msgstr "Перегляд результатів збереженого пошуку"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9902,7 +9925,7 @@ msgstr "Режим піктограм"
 #. (itstool) path: info/title
 #: C/goscaja.xml:1149
 msgid "The Home Folder displayed in an icon view"
-msgstr ""
+msgstr "Домашня тека, що відображається у вигляді піктограм"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9925,6 +9948,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Your Home Folder "
 "displayed in an icon view.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/caja_spatial_icon_view.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Ваша домашня тека "
+"відображається у вигляді піктограм.</phrase> </textobject>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1148
@@ -9943,7 +9969,7 @@ msgstr "Режим списку"
 #. (itstool) path: info/title
 #: C/goscaja.xml:1165
 msgid "The Home Folder displayed in a list view"
-msgstr ""
+msgstr "Домашня тека, що відображається у вигляді переліку"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -10086,6 +10112,9 @@ msgid ""
 "the items is not case-sensitive. If the file manager is set to display "
 "hidden files, the hidden files are shown last."
 msgstr ""
+"Оберіть цей параметр, щоб ґатункувати елементи за назвою по абетці. Порядок "
+"елементів не чутливий до регістру. Якщо упорядник файлів налаштовано на "
+"відображення прихованих файлів, приховані файли показуються останніми."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1251
@@ -11642,6 +11671,8 @@ msgid ""
 "folder, on which media it resides, for example which hard disk or CD-ROM "
 "drive."
 msgstr ""
+"Том, на якому знаходиться тека. Це фізичне розташування теки, на якому носії"
+" вона знаходиться, наприклад, на якому жорсткому диску або пристрої CD-ROM."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2088
@@ -13552,6 +13583,10 @@ msgid ""
 " CD or DVD. From there you can easily write all the content (which you place"
 " in this special folder) to a CD or DVD."
 msgstr ""
+"Ви можете розпочати вибір файлів для запису на диск у будь-який час. "
+"Упорядник файлів надає спеціальну теку для файлів і тек, які ви волієте "
+"записати на CD або DVD. Звідти ви можете легко записати весь вміст (який ви "
+"поміщаєте в цю спеціальну теку) на CD або DVD."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:2973
@@ -15144,7 +15179,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4045
 msgid "<guilabel>Open with other Application</guilabel>"
-msgstr "<guilabel>Відкрити иншим застосунком</guilabel>"
+msgstr "<guilabel>Відкрити іншим застосунком</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4050
@@ -15532,6 +15567,9 @@ msgid ""
 "system administrator may have configured your desktop to look different from"
 " what is described here."
 msgstr ""
+"У цьому розділі описано типову конфігурацію MATE. Можливо, ваш постачальник "
+"або системний розпорядник налаштував вашу стільницю на вигляд, що "
+"відрізняється від описаного тут."
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:37
@@ -15894,6 +15932,9 @@ msgid ""
 "through the buttons on the titlebar. When opening an application you will "
 "usually see a window of this type appear."
 msgstr ""
+"Вікна додатків дозволяють усі операції унайменшення, унайбільшення та "
+"закриття за допомогою кнопок на панелі заголовку. При відкритті програми ви "
+"зазвичай бачите, як з’являється вікно такого типу."
 
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:174
@@ -16290,9 +16331,9 @@ msgstr ""
 "Для роботи з додатком треба<firstterm>сфокусувати</firstterm> на його вікні."
 " Коли вікно має фокус, усі дії, такі як клаци миші, ввід тексту або гарячі "
 "клавіші спрямовуються додатку цього вікна. Лише одне вікно може бути в "
-"фокусі одночасно. Вікно в фокусі буде знаходитися над иншими вікнами, таким "
-"чином, що ніщо не перекриває його. Воно може також мати трохи инший вигляд, "
-"в залежности від вибору <xref linkend=\"prefs-theme\"/>."
+"фокусі одночасно. Вікно в фокусі буде знаходитися над іншими вікнами, таким "
+"чином, що ніщо не перекриває його. Воно може також мати трохи інший вигляд, "
+"в залежності від вибору <xref linkend=\"prefs-theme\"/>."
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:295
@@ -16720,7 +16761,7 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gosoverview.xml:426
 msgid "Some features of MATE-compliant applications are as follows:"
-msgstr ""
+msgstr "Деякі особливості програм, сумісних з MATE, такі:"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:429
@@ -17514,6 +17555,8 @@ msgid ""
 "Click on this button to minimize all open windows and show the desktop. "
 "Click it again to restore all the windows to their previous state."
 msgstr ""
+"Натисніть на цю кнопку, щоб згорнути всі відкриті вікна та показати "
+"стільницю. Клацніть ще раз, щоб відновити всі вікна до попереднього стану."
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:115
@@ -17948,6 +17991,12 @@ msgid ""
 "To set your panel to autohide, modify the properties of the panel as per the"
 " instructions in <xref linkend=\"panel-properties\"/>."
 msgstr ""
+"Ви можете встановити для панелі автоматичне приховування. Коли ви "
+"встановлюєте автоматичне приховування, панель автоматично ховається, коли "
+"миша не спрямована на панель. Панель знову з’являється, коли ви вказуєте на "
+"ту частину екрану, де вона знаходиться. Щоб налаштувати панель на "
+"автоматичне приховування, змініть властивості панелі відповідно до "
+"інструкцій у <xref linkend=\"panel-properties\"/>."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:362
@@ -19069,7 +19118,7 @@ msgstr "<command>file:///home/user/Projects</command>"
 #. (itstool) path: entry/para
 #: C/gospanel.xml:949
 msgid "<command>https://mate-desktop.org</command>"
-msgstr ""
+msgstr "<command>https://mate-desktop.org</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:954
@@ -20729,12 +20778,12 @@ msgid ""
 "<primary>sessions</primary> <secondary>different language, logging "
 "in</secondary>"
 msgstr ""
-"<primary>сесії</primary> <secondary>инша мова, вхід в систему</secondary>"
+"<primary>сесії</primary> <secondary>інша мова, вхід в систему</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:98
 msgid "<primary>language, logging in in different</primary>"
-msgstr "<primary>мова, вхід в систему з иншим</primary>"
+msgstr "<primary>мова, вхід в систему з іншим</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:101
@@ -20742,7 +20791,7 @@ msgid ""
 "<primary>logging in</primary> <secondary>to session in different "
 "language</secondary>"
 msgstr ""
-"<primary>вхід в систему</primary> <secondary>в сесію з иншою "
+"<primary>вхід в систему</primary> <secondary>в сесію з іншою "
 "мовою</secondary>"
 
 #. (itstool) path: section/para
@@ -20769,8 +20818,8 @@ msgid ""
 " choose a different keyboard layout, use the <application>Keyboard "
 "Indicator</application> applet."
 msgstr ""
-"Коли Ви входите в сеанс з иншою мовою, Ви змінюєте мову користувацького "
-"інтерфейсу, але мова розкладки не змінюється. Для вибору иншої розкладки "
+"Коли Ви входите в сеанс з іншою мовою, Ви змінюєте мову користувацького "
+"інтерфейсу, але мова розкладки не змінюється. Для вибору іншої розкладки "
 "набірниці, використовуйте аплет <application>Індикатор "
 "набірниці</application>."
 
@@ -21291,6 +21340,10 @@ msgid ""
 " will open the page. Prefix the web page address with https://, as in https"
 "://mate-desktop.org."
 msgstr ""
+"Якщо ви введете лише розташування файлу, запуститься відповідна програма, "
+"щоб відкрити його. Якщо ви введете адресу вебсторінки, вебпереглядач "
+"усталено відкриє сторінку. Поставте перед адресою вебсторінки префікс "
+"https://, як in https://mate-desktop.org."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:53
@@ -21783,7 +21836,7 @@ msgstr ""
 #. (itstool) path: term/interface
 #: C/gostools.xml:413
 msgid "Browser Pane"
-msgstr ""
+msgstr "Панель бровзера"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:416
@@ -22608,6 +22661,11 @@ msgid ""
 "parentheses and therefore it may be necessary to escape the argument so that"
 " the shell does not interpret the parenthesis."
 msgstr ""
+"Використовуйте цей URI, коли волієте отримати доступ до певної сторінки "
+"користувача. Ви можете додати розділ сторінки довідки, яку ви воліли б "
+"переглянути, якщо є декілька сторінок довідок з однаковою назвою. Номер "
+"розділу слід укласти в дужки, і, отже, може знадобитися уникнути аргументу, "
+"щоб оболонка не інтерпретувала дужки."
 
 #. (itstool) path: listitem/screen
 #: C/gostools.xml:916
@@ -22891,6 +22949,8 @@ msgid ""
 "This section shows how to read the background picture of your MATE desktop, "
 "this values is stored in the dconf key:"
 msgstr ""
+"У цьому розділі показано, як читати тлове зображення стільниці MATE, ці "
+"значення зберігаються в ключі dconf:"
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:78 C/gosdconf.xml:182
@@ -22904,6 +22964,9 @@ msgid ""
 " other directories have not been expanded, or they have been removed, and "
 "only are showed the keys for dconf directory:"
 msgstr ""
+"На наступному малюнку показано повний шлях до цього ключа dconf. Зверніть "
+"увагу, що інші каталоги не були розширені, або їх було вилучено, і "
+"відображаються лише ключі для каталогу dconf:"
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:88 C/gosdconf.xml:191
@@ -22913,7 +22976,7 @@ msgstr "/org/mate/desktop/background/"
 #. (itstool) path: info/title
 #: C/gosdconf.xml:92 C/gosdconf.xml:195
 msgid "/org/mate/desktop/background/ dconf directory"
-msgstr ""
+msgstr "/org/mate/desktop/background/ dconf каталог"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -22942,7 +23005,7 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gosdconf.xml:104
 msgid "You can read the value of a dconf key:"
-msgstr ""
+msgstr "Ви можете прочитати значення ключа dconf:"
 
 #. (itstool) path: info/title
 #: C/gosdconf.xml:108 C/gosdconf.xml:211
@@ -23002,7 +23065,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosdconf.xml:137 C/gosdconf.xml:247
 msgid "Using the dconf command line tool"
-msgstr ""
+msgstr "Використання знадобу командного рядка dconf"
 
 #. (itstool) path: section/para
 #: C/gosdconf.xml:139
@@ -23146,6 +23209,8 @@ msgid ""
 "Click on the folders to get the full path to the dconf directory, and then "
 "click on the dconf key to edit its value."
 msgstr ""
+"Клацніть на теки, щоб отримати повний шлях до каталогу dconf, а потім "
+"клацніть на клавіш dconf, щоб відредагувати його значення."
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:225
@@ -23155,7 +23220,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:228
 msgid "Click on the Check mark button to apply the change."
-msgstr ""
+msgstr "Натисніть кнопку Позначка, щоб застосувати зміну."
 
 #. (itstool) path: info/title
 #: C/gosdconf.xml:232
@@ -23193,7 +23258,7 @@ msgstr ""
 msgid ""
 "To change the background picture of your MATE desktop, run the following "
 "command:"
-msgstr ""
+msgstr "Щоб змінити тлове зображення стільниці MATE, виконайте таку команду:"
 
 #. (itstool) path: section/screen
 #: C/gosdconf.xml:252
@@ -23254,11 +23319,12 @@ msgid ""
 "To change the value of several dconf keys at the same time, perform the "
 "following steps:"
 msgstr ""
+"Щоб змінити значення кількох ключів dconf одночасно, виконайте такі дії:"
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:288
 msgid "Dump the contents of a dconf directory to a new plain text file:"
-msgstr ""
+msgstr "Звантажити вміст каталогу dconf у новий текстовий файл:"
 
 #. (itstool) path: listitem/screen
 #: C/gosdconf.xml:289
@@ -23269,7 +23335,7 @@ msgstr "$ dconf dump /org/mate/desktop/background/ &gt; file.dconf"
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:292
 msgid "Make changes in the plain text file"
-msgstr ""
+msgstr "Внесіть зміни до простого текстового файлу"
 
 #. (itstool) path: listitem/literallayout
 #: C/gosdconf.xml:293
@@ -23292,7 +23358,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:302
 msgid "Load the contents of the plain text file to a dconf directory"
-msgstr ""
+msgstr "Завантажте вміст простого текстового файлу в каталог dconf"
 
 #. (itstool) path: listitem/screen
 #: C/gosdconf.xml:303
@@ -23306,6 +23372,8 @@ msgid ""
 "You can also dump/load several directories at once, e.g. to back up and "
 "restore all configurations of your MATE desktop:"
 msgstr ""
+"Ви також можете скидати/завантажувати декілька каталогів одночасно, напр. "
+"Для резервного копіювання та відновлення усіх конфігурацій стільниці MATE:"
 
 #. (itstool) path: tip/screen
 #: C/gosdconf.xml:307
@@ -23362,7 +23430,7 @@ msgstr ""
 #: C/gosdconfkeys.xml:1325 C/gosdconfkeys.xml:1430 C/gosdconfkeys.xml:1505
 #: C/gosdconfkeys.xml:1540 C/gosdconfkeys.xml:1575
 msgid "List of dconf keys"
-msgstr ""
+msgstr "Перелік ключів dconf"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:21

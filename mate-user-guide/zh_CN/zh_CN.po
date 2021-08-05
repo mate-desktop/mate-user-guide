@@ -1,24 +1,28 @@
+# 
 # Translators:
 # Christopher M <i@cicku.me>, 2018
 # gtrslower, 2018
 # Mingye Wang <arthur200126@gmail.com>, 2018
-# 玉堂白鹤 <yjwork@qq.com>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# liushuyu011 <liushuyu011@gmail.com>, 2018
+# shuyu liu <liushuyu011@gmail.com>, 2018
 # biqiu-ssw <shenshuaiwen@gmail.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Mingcong Bai <jeffbai@aosc.xyz>, 2019
 # Cindy0514, 2019
 # zhineng404 <zhinengge@gmail.com>, 2019
 # Wu Xiaotian <yetist@gmail.com>, 2019
+# 玉堂白鹤 <yjwork@qq.com>, 2020
+# 敏超 马 <mcjoys@163.com>, 2020
+# a73a47e368cc011d8f94528bd9d5d3f1_91fccdf <1b07f49e2a323989c85dd26d526f7bb9_871526>, 2020
+# OkayPJ <1535253694@qq.com>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Wu Xiaotian <yetist@gmail.com>, 2019\n"
+"Last-Translator: OkayPJ <1535253694@qq.com>, 2021\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/mate/teams/13566/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,8 +61,8 @@ msgstr "MATE 用户指南是一个详细叙述了 MATE 桌面环境一般使用�
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
+msgstr "<year>2015-2021</year> <holder>MATE 文档团队</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -2840,7 +2844,7 @@ msgstr "<guilabel>平铺</guilabel>：一张挨一张重复显示相同的图片
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:550
 msgid "<guilabel>Add</guilabel>"
-msgstr ""
+msgstr "<guilabel>添加</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:556
@@ -2855,7 +2859,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:563
 msgid "<guilabel>Remove</guilabel>"
-msgstr ""
+msgstr "<guilabel>移除</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:568
@@ -2970,27 +2974,27 @@ msgstr "字体首选项"
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:620
 msgid "<primary>preference tools</primary> <secondary>Font</secondary>"
-msgstr ""
+msgstr "<primary>偏好设置</primary><secondary>字体</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:624
 msgid "<primary>fonts</primary> <secondary>desktop</secondary>"
-msgstr ""
+msgstr "<primary>字体</primary><secondary>桌面</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:628
 msgid "<primary>fonts</primary> <secondary>applications</secondary>"
-msgstr ""
+msgstr "<primary>字体</primary><secondary>应用</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:632
 msgid "<primary>fonts</primary> <secondary>window title</secondary>"
-msgstr ""
+msgstr "<primary>字体</primary><secondary>窗口标题</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:636
 msgid "<primary>fonts</primary> <secondary>terminal</secondary>"
-msgstr ""
+msgstr "<primary>字体</primary><secondary>终端</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:640
@@ -3037,7 +3041,7 @@ msgstr "您可以为桌面的下列组成部分设置字体："
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:654
 msgid "<guilabel>Application font</guilabel>"
-msgstr ""
+msgstr "<guilabel>应用程序字体</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:656
@@ -3048,7 +3052,7 @@ msgstr "这个字体用在应用程序的菜单，工具栏，对话框。"
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:660
 msgid "<guilabel>Document font</guilabel>"
-msgstr ""
+msgstr "<guilabel>文档字体</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:662
@@ -3065,7 +3069,7 @@ msgstr "在某些应用程序，您可以忽略这儿的字体设置，而用应
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:667
 msgid "<guilabel>Desktop font</guilabel>"
-msgstr ""
+msgstr "<guilabel>桌面字体</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:669
@@ -3075,7 +3079,7 @@ msgstr "这个字体用在桌面图标的名称上。"
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:673
 msgid "<guilabel>Window title font</guilabel>"
-msgstr ""
+msgstr "<guilabel>窗口标题字体</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:675
@@ -3085,7 +3089,7 @@ msgstr "这个字体用在窗口标题栏中。"
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:679
 msgid "<guilabel>Fixed width font</guilabel>"
-msgstr ""
+msgstr " 固定宽度字体 "
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:681
@@ -3160,7 +3164,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:723
 msgid "<guibutton>Details</guibutton>"
-msgstr ""
+msgstr "<guibutton>细节</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:725
@@ -3210,21 +3214,21 @@ msgstr "界面首选项"
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:803
 msgid "<primary>toolbars, customizing appearance</primary>"
-msgstr ""
+msgstr "<primary>工具栏，定制外观</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:806
 msgid ""
 "<primary>preference tools</primary> <secondary>Menus &amp; "
 "Toolbars</secondary>"
-msgstr ""
+msgstr "<primary>首选项工具</primary><secondary>菜单和工具栏</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:810
 msgid ""
 "<primary>menus</primary> <secondary>in applications, customizing "
 "appearance</secondary>"
-msgstr ""
+msgstr "<primary>菜单</primary><secondary> 在应用程序中，自定义外观 </secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:814
@@ -3260,7 +3264,7 @@ msgstr "选中此项，在应用程序的菜单项和面板菜单旁边显示一
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:826
 msgid "<guilabel>Editable menu shortcut keys</guilabel>"
-msgstr ""
+msgstr "<guilabel>可编辑菜单快捷键</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:827
@@ -3309,7 +3313,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:837
 msgid "<guilabel>Toolbar button labels</guilabel>"
-msgstr ""
+msgstr "<guilabel>工具栏按钮标签</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:839
@@ -3355,7 +3359,7 @@ msgstr "窗口选项"
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:870
 msgid "<primary>window manager</primary> <secondary>customizing</secondary>"
-msgstr ""
+msgstr "<primary>窗口管理器</primary><secondary>自定义</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:874
@@ -3379,7 +3383,7 @@ msgstr "<xref linkend=\"goscustwindows-TBL-14\"/> 列出您可以设置的各个
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:899
 msgid "<guilabel>Select windows when the mouse moves over them</guilabel>"
-msgstr ""
+msgstr "<guilabel>当鼠标在其上移动时，选择窗口</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:904
@@ -17648,7 +17652,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
 msgid "Classic Menu"
-msgstr ""
+msgstr "经典菜单"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -20931,7 +20935,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:661
 msgid "mate-panel"
-msgstr ""
+msgstr "mate-panel"
 
 #. (itstool) path: section/title
 #: C/gosdconfkeys.xml:673

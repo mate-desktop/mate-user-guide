@@ -1,27 +1,31 @@
+# 
 # Translators:
-# Xorg, 2018
+# df3de0cb43d289cd23a753345b3743cd_a20684f, 2018
 # Louis-Martin Carrière <louismc@gmail.com>, 2018
 # yoplait <yoplait@tememe.org>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Tubuntu <tubuntu@testimonium.be>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Guillaume Fayard <guillaume2.fayard@wanadoo.fr>, 2018
 # Guillaume Picquet <nelstaar@yahoo.fr>, 2018
 # Étienne Deparis <etienne@depar.is>, 2018
 # Firokat Informatique <jujuhangout28@gmail.com>, 2019
-# Rox fr <roxfr@outlook.fr>, 2019
 # Charles Monzat <c.monzat@laposte.net>, 2019
 # Nicolas Dobigeon <dobigeon@gmail.com>, 2019
-# David D, 2019
 # Clément GERARDIN <clement.gerardin@univ-amu.fr>, 2019
+# Laurent Napias, 2020
+# roxfr <roxfr@outlook.fr>, 2020
+# jhoran1us <jhoran1us@yahoo.com>, 2020
+# Tubuntu, 2020
+# Stéphane PETRUS <stephane.petrus@posteo.net>, 2021
+# David D, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Clément GERARDIN <clement.gerardin@univ-amu.fr>, 2019\n"
+"Last-Translator: David D, 2021\n"
 "Language-Team: French (https://www.transifex.com/mate/teams/13566/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -67,8 +71,8 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
+msgstr "<year>2015-2021</year> <holder>Projet de documentation MATE</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -107,6 +111,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
 "</affiliation>"
 msgstr ""
+"<personname> <firstname>Wolfgang</firstname> <surname>Ulbrich</surname> "
+"</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
+"</affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:53
@@ -115,6 +122,8 @@ msgid ""
 "Team</surname> </personname> <affiliation> <orgname>Sun "
 "Microsystems</orgname> </affiliation>"
 msgstr ""
+"<firstname>Sun</firstname> <surname>Équipe de documentation GNOME</surname> "
+"<affiliation><orgname>Sun Microsystems</orgname></affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:62
@@ -123,6 +132,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>shaunm@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Shaun</firstname> <surname>McCance</surname> "
+"</personname> <affiliation> <orgname>Projet de documentation GNOME</orgname>"
+" </affiliation> <email>shaunm@gnome.org</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:72
@@ -131,6 +143,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> "
 "<email>karderio@gmail.com</email>"
 msgstr ""
+"<personname> <surname>Karderio</surname> </personname> <affiliation> "
+"<orgname>Projet de documentation GNOME</orgname> </affiliation> "
+"<email>karderio@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:81
@@ -139,6 +154,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>jnoreiko@yahoo.com</email>"
 msgstr ""
+"<personname> <firstname>Joachim</firstname> <surname>Noreiko</surname> "
+"</personname> <affiliation> <orgname>Projet de documentation GNOME</orgname>"
+" </affiliation> <email>jnoreiko@yahoo.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:91
@@ -147,6 +165,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>esodan@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>Daniel</firstname> <surname>Espinosa Ortiz</surname>"
+" </personname> <affiliation> <orgname>Projet de documentation GNOME "
+"</affiliation> <email>esodan@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:101
@@ -155,6 +176,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>mate@nextreality.net</email>"
 msgstr ""
+"<personname> <firstname>Brent</firstname> <surname>Smith</surname> "
+"</personname> <affiliation> <orgname>Projet de documentation GNOME</orgname>"
+" </affiliation> <email>mate@nextreality.net</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:111
@@ -163,6 +187,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>tim@tjl2.com</email>"
 msgstr ""
+"<personname> <firstname>Tim</firstname> <surname>Littlemore</surname> "
+"</personname> <affiliation> <orgname>Projet de documentation GNOME</orgname>"
+" </affiliation> <email>tim@tjl2.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:121
@@ -171,6 +198,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>john.stowers@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>John</firstname> <surname>Stowers</surname> "
+"</personname> <affiliation> <orgname>Projet de documentation GNOME</orgname>"
+" </affiliation> <email>john.stowers@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:131
@@ -179,6 +209,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>nigel.tao@myrealbox.com</email>"
 msgstr ""
+"<personname> <firstname>Nigel</firstname> <surname>Tao</surname> "
+"</personname> <affiliation> <orgname>Projet de documentation GNOME</orgname>"
+" </affiliation> <email>nigel.tao@myrealbox.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:141
@@ -187,6 +220,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Ubuntu Documentation Project</orgname> "
 "</affiliation> <email>mdke@ubuntu.com</email>"
 msgstr ""
+"<personname> <firstname>Matthew</firstname> <surname>East</surname> "
+"</personname> <affiliation> <orgname>Projet de documentation "
+"Ubuntu</orgname> </affiliation> <email>mdke@ubuntu.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:151
@@ -195,6 +231,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Project</orgname> </affiliation>"
 " <email>carlosg@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Carlos</firstname> <surname>Garnacho Parro</surname>"
+" </personname> <affiliation> <orgname>Projet GNOME</orgname> </affiliation> "
+"<email>carlosg@gnome.org</email>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:171
@@ -245,6 +284,7 @@ msgstr ""
 msgid ""
 "<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.8</revnumber> <date>septembre 2004</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:202 C/index.docbook:210 C/index.docbook:218
@@ -258,47 +298,55 @@ msgstr "Sun Microsystems"
 msgid ""
 "<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.7</revnumber> <date>septembre 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
 msgid ""
 "<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.6</revnumber> <date>août 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
 msgid ""
 "<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.5</revnumber> <date>mars 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
 msgid ""
 "<revnumber>2.4</revnumber> <date>January 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.4</revnumber> <date>janvier 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:230
 msgid ""
 "<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.3</revnumber> <date>octobre 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
 msgid ""
 "<revnumber>2.2</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.2</revnumber> <date>août 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:246
 msgid ""
 "<revnumber>2.1</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.1</revnumber> <date>août 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:254
 msgid "<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>1.0</revnumber> <date>mai 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
@@ -316,6 +364,14 @@ msgid ""
 "xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">link</link> or in "
 "the file COPYING-DOCS distributed with this manual."
 msgstr ""
+"Permission est accordée de copier, distribuer et/ou modifier ce document "
+"selon les termes de la Licence GNU de documentation libre (GFDL), Version "
+"1.1 ou ultérieure publiée par la Free Software Foundation sans section "
+"inaltérable, sans texte de première page ni de dernière page de couverture. "
+"Vous trouverez une copie (en anglais) de la GFDL en suivant ce <ulink "
+"type=\"help\" url=\"https://www.gnu.org/licenses/old-"
+"licenses/fdl-1.1.html\">lien</ulink> ou dans le fichier COPYING-DOCS fourni "
+"avec le présent manuel."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:13
@@ -2043,6 +2099,14 @@ msgid ""
 "common to all windows such as the way in which you select them with the "
 "mouse."
 msgstr ""
+"Un panneau de préférences est une petite application qui permet de modifier "
+"des paramètres du bureau MATE. Chaque panneau correspond à un aspect bien "
+"précis de l'ordinateur. Par exemple, le panneau de préférences "
+"<application>Souris</application> permet de permuter les boutons de la "
+"souris pour les gauchers ou de modifier la vitesse du pointeur à l'écran. Le"
+" panneau de préférences <application>Fenêtres</application> permet de "
+"définir un comportement commun à toutes les fenêtres, comme par exemple la "
+"façon de les sélectionner avec la souris."
 
 #. (itstool) path: chapter/para
 #: C/goscustdesk.xml:27
@@ -2300,6 +2364,9 @@ msgid ""
 "keyboard, use the arrow keys to select the shortcut and press "
 "<keycap>Return</keycap>."
 msgstr ""
+"Double cliquez sur le raccourci que vous voulez éditer dans la liste. Si "
+"vous utilisez le clavier, utilisez les touches fléchées pour sélectionner le"
+" raccourci, puis appuyez sur <keycap>Entrée</keycap>."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:121
@@ -2343,6 +2410,10 @@ msgid ""
 "locking your screen (see <xref linkend=\"lock-screen\"/>), opening the panel"
 " menubar (see <xref linkend=\"menubar\"/>), or launching a web browser."
 msgstr ""
+"Ce sont des raccourcis généraux concernant l'ensemble du bureau, tels que la"
+" déconnexion, le verrouillage de l'écran (voir <xref linkend=\"lock-"
+"screen\"/>), l'ouverture de la barre de menus du tableau de bord (voir <xref"
+" linkend=\"menubar\"/>) ou le lancement d'un navigateur Web."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:134
@@ -2458,6 +2529,14 @@ msgid ""
 "<application>Opera</application>...) to launch when you click on a link in "
 "other applications such as email clients or document viewers."
 msgstr ""
+"Utilisez le panneau de préférences <application>Applications "
+"préférées</application> pour définir les applications que le bureau MATE "
+"doit utiliser lorsqu'il lance une application à votre place. Vous pouvez par"
+" exemple définir le navigateur Web (<application>Epiphany</application>, "
+"<application>Mozilla Firefox</application>, <application>Opera</application>"
+" ...) qui est lancé lorsque vous cliquez sur un lien dans d'autres "
+"applications comme les clients de messagerie ou les visionneuses de "
+"document."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:173
@@ -2466,6 +2545,10 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guisubmenu>Personal</guisubmenu><guimenuitem>Preferred"
 " Applications</guimenuitem></menuchoice>."
 msgstr ""
+"Les <application>Applications préférées</application> se trouvent dans le "
+"menu "
+"<menuchoice><guimenu>Système</guimenu><guisubmenu>Préférences</guisubmenu><guisubmenu>Personnel</guisubmenu><guimenuitem>Applications"
+" préférées</guimenuitem></menuchoice>."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:175
@@ -2481,7 +2564,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:178
 msgid "<guilabel>Internet</guilabel> (Web Browser, Mail Reader)"
-msgstr ""
+msgstr "<guilabel>Internet</guilabel> (navigateur Web, lecteur de courrier)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:183
@@ -2489,12 +2572,16 @@ msgid ""
 "<guilabel>Multimedia</guilabel> (Image Viewer, Multimedia Player, Video "
 "Player)"
 msgstr ""
+"<guilabel>Multimédia</guilabel> (visionneur d'image, lecteur multimédia, "
+"lecteur vidéo)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:188
 msgid ""
 "<guilabel>System</guilabel> (Text Editor, Terminal Emulator, File Manager)"
 msgstr ""
+"<guilabel>Système</guilabel> (éditeur de texte, terminal, gestionnaire de "
+"fichiers)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:193
@@ -2502,6 +2589,8 @@ msgid ""
 "<guilabel>Office</guilabel> (Document Viewer, Word Processor, Spreadsheet "
 "Editor)"
 msgstr ""
+"<guilabel>Bureau</guilabel> (visionneuse de documents, traitement de textes,"
+" éditeur de feuilles de calculs)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:198
@@ -2522,7 +2611,7 @@ msgstr ""
 #. (itstool) path: formalpara/title
 #: C/goscustdesk.xml:205
 msgid "Run at start (Accessibility only)"
-msgstr ""
+msgstr "Lancer au démarrage (Accessibilité uniquement)"
 
 #. (itstool) path: formalpara/para
 #: C/goscustdesk.xml:205
@@ -2603,11 +2692,13 @@ msgid ""
 "<primary>windows</primary> <secondary>setting frame theme "
 "options</secondary>"
 msgstr ""
+"<primary>fenêtres</primary> <secondary>options de thème de cadres de "
+"réglage</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:250
 msgid "<primary>preference tools</primary> <secondary>Theme</secondary>"
-msgstr ""
+msgstr "<primary>outils préférences</primary> <secondary>Thème</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:255
@@ -2643,7 +2734,7 @@ msgstr "Contrôles"
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:265
 msgid "<primary>GTK+ themes</primary><see>themes, controls options</see>"
-msgstr ""
+msgstr "<primary>Thèmes GTK+</primary><see>thèmes, options de contrôle</see>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:266
@@ -2651,6 +2742,8 @@ msgid ""
 "<primary>themes</primary><secondary>controls "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>thèmes</primary><secondary>options de "
+"contrôle</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:265
@@ -2684,11 +2777,14 @@ msgid ""
 "<primary>themes</primary><secondary>color "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>thèmes</primary><secondary>options de "
+"couleurs</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:278
 msgid "<primary>color themes</primary><see>themes, color options</see>"
 msgstr ""
+"<primary>thèmes couleurs</primary><see>thèmes, options de couleur</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:278
@@ -2724,11 +2820,14 @@ msgid ""
 "<primary>themes</primary><secondary>window frame "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>thèmes</primary><secondary>options cadres "
+"fenêtres</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:287
 msgid "<primary>Marco themes</primary><see>themes, window frame options</see>"
 msgstr ""
+"<primary>Thèmes Marco</primary><see>thèmes, options cadres fenêtres</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:287
@@ -2756,11 +2855,13 @@ msgid ""
 "<primary>themes</primary><secondary>icons "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>thèmes</primary><secondary>options "
+"icônes</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:295
 msgid "<primary>icon themes</primary><see>themes, icons options</see>"
-msgstr ""
+msgstr "<primary>thèmes icônes</primary><see>thèmes, options icônes</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:295
@@ -2787,11 +2888,14 @@ msgid ""
 "<primary>themes</primary><secondary>pointer "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>thèmes</primary><secondary>options "
+"pointeur</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:303
 msgid "<primary>pointer themes</primary><see>themes, pointer options</see>"
 msgstr ""
+"<primary>thèmes pointeur</primary><see>thèmes, options de pointeur</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:303
@@ -3052,6 +3156,8 @@ msgid ""
 "<primary>backgrounds</primary> <secondary>customizing desktop "
 "background</secondary>"
 msgstr ""
+"<primary>arrières plans</primary> <secondary>personnalisation de l'arrière "
+"plan du bureau</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:469
@@ -3065,6 +3171,13 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice>"
 " menu."
 msgstr ""
+"L'arrière-plan <xref linkend=\"overview-desktop\"/> du bureau est l'image ou"
+" la couleur qui recouvre le bureau. Il est possible d'ouvrir l'onglet "
+"<guilabel>Arrière-plan</guilabel> du panneau de préférences "
+"<application>Apparence</application> en cliquant avec le bouton droit sur le"
+" bureau et en choisissant <guimenuitem>Changer l'arrière-plan du "
+"bureau</guimenuitem> ou à partir du menu "
+"<menuchoice><guimenu>Système</guimenu><guisubmenu>Préférences</guisubmenu></menuchoice>."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:471
@@ -3338,12 +3451,12 @@ msgstr "Préférences des polices"
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:620
 msgid "<primary>preference tools</primary> <secondary>Font</secondary>"
-msgstr ""
+msgstr "<primary>centre de contrôle</primary> <secondary>Police</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:624
 msgid "<primary>fonts</primary> <secondary>desktop</secondary>"
-msgstr ""
+msgstr "<primary>polices</primary> <secondary>bureau</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:628
@@ -3636,6 +3749,8 @@ msgid ""
 "<primary>menus</primary> <secondary>in applications, customizing "
 "appearance</secondary>"
 msgstr ""
+"<primary>menus</primary> <secondary>dans les applications, personnalisation "
+"de l'apparence</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:814
@@ -5074,6 +5189,8 @@ msgid ""
 "To switch between keyboard layouts, use the <application>Keyboard "
 "Indicator</application> panel applet."
 msgstr ""
+"Pour basculer entre les dispositions de clavier, utilisez l’applet de "
+"panneau <application>Indicateur clavier</application>."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1497
@@ -5368,6 +5485,8 @@ msgid ""
 "<primary>keyboard</primary> <secondary>configuring accessibility "
 "options</secondary>"
 msgstr ""
+"<primary>clavier</primary> <secondary>configuration des préférences "
+"d'accessibilité</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1600
@@ -5808,7 +5927,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1970
 msgid "<guilabel>Allow postponing of breaks</guilabel>"
-msgstr ""
+msgstr "<guilabel>Permettre le report des pauses</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1975
@@ -7132,7 +7251,7 @@ msgstr ""
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:20
 msgid "<primary>menus</primary> <secondary>introduction</secondary>"
-msgstr ""
+msgstr "<primary>menus</primary> <secondary>introduction</secondary>"
 
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:24
@@ -7140,6 +7259,8 @@ msgid ""
 "<primary>menus</primary> <secondary>Classic Menu</secondary> <see>Classic "
 "Menu</see>"
 msgstr ""
+"<primary>menus</primary> <secondary>Menu classique</secondary> <see>Menu "
+"classique</see>"
 
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:29
@@ -7671,6 +7792,8 @@ msgid ""
 "external ref='figures/caja_always_use_browser.png' "
 "md5='19e041314b3a9c8844180f7bf0ef6282'"
 msgstr ""
+"external ref='figures/caja_always_use_browser.png' "
+"md5='19e041314b3a9c8844180f7bf0ef6282'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:80
@@ -7731,7 +7854,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:98
 msgid "<application>Caja</application> in browser mode"
-msgstr ""
+msgstr "<application>Caja</application> en mode navigation"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -7754,6 +7877,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Caja in browser "
 "mode.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/caja_browser_mode.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Caja en mode "
+"navigateur.</phrase> </textobject>"
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:113
@@ -7796,7 +7922,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:118 C/goscaja.xml:179
 msgid "Three Folders Opened in Spatial Mode"
-msgstr ""
+msgstr "Trois dossiers ouverts en mode spatial"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -10589,6 +10715,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Zoom In "
 "button.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/caja_zoom_in_button.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>bouton de Zoom "
+"avant.</phrase> </textobject>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1444
@@ -10909,6 +11038,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Symbolic link "
 "pointer.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/link_pointer.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Pointeur de lien "
+"symbolique.</phrase> </textobject>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1676
@@ -11480,6 +11612,8 @@ msgstr ""
 msgid ""
 "<primary>Trash</primary> <secondary>moving files or folders to</secondary>"
 msgstr ""
+"<primary>Corbeille</primary> <secondary>déplacer des fichiers ou des "
+"dossiers dans</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1937
@@ -11546,6 +11680,8 @@ msgid ""
 "<primary>file manager</primary> <secondary>deleting files or "
 "folders</secondary>"
 msgstr ""
+"<primary>gestionnaire de fichier</primary> <secondary>supprimer des fichiers"
+" ou dossiers</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1961
@@ -11604,6 +11740,9 @@ msgid ""
 "Alternatively, select the file or folder you want to delete, and press "
 "<keycombo><keycap>Shift</keycap><keycap>Del</keycap></keycombo>. <_:note-1/>"
 msgstr ""
+"Autrement, sélectionnez le fichier ou dossier que vous voulez supprimer, "
+"puis pressez "
+"<keycombo><keycap>Maj</keycap><keycap>Suppr</keycap></keycombo>. <_:note-1/>"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1986
@@ -11616,6 +11755,8 @@ msgid ""
 "<primary>file manager</primary> <secondary>creating symbolic "
 "link</secondary>"
 msgstr ""
+"<primary>gestionnaire de fichiers</primary> <secondary>création d'un lien "
+"symbolique</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:1994
@@ -12471,7 +12612,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2392 C/goscaja.xml:3737
 msgid "<guilabel>Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nom</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2397
@@ -12484,7 +12625,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2403
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>Emplacement</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2408
@@ -12537,7 +12678,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2437
 msgid "<primary>Trash</primary> <secondary>introduction</secondary>"
-msgstr ""
+msgstr "<primary>Corbeille</primary> <secondary>introduction</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2441
@@ -12590,7 +12731,7 @@ msgstr "Affichage de la corbeille"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2461
 msgid "<primary>Trash</primary> <secondary>displaying</secondary>"
-msgstr ""
+msgstr "<primary>Corbeille</primary> <secondary>afficher</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2465
@@ -12653,7 +12794,7 @@ msgstr "Vidage de la corbeille"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2486
 msgid "<primary>Trash</primary> <secondary>emptying</secondary>"
-msgstr ""
+msgstr "<primary>Corbeille</primary> <secondary>vider</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2490
@@ -12700,7 +12841,7 @@ msgstr "Fichiers cachés"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2512
 msgid "<primary>hidden</primary> <secondary>files</secondary>"
-msgstr ""
+msgstr "<primary>cachés</primary> <secondary>fichiers</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2516
@@ -12745,6 +12886,10 @@ msgid ""
 "Files</guimenuitem></menuchoice>, or by pressing "
 "<keycombo><keycap>Ctrl</keycap><keycap>H</keycap></keycombo>."
 msgstr ""
+"Les fichiers cachés d'un dossier précis peuvent être masqués ou affichés en "
+"choisissant <menuchoice><guimenu>Affichage</guimenu><guimenuitem>Afficher "
+"les fichiers cachés</guimenuitem></menuchoice>, ou en pressant "
+"<keycombo><keycap>Ctrl</keycap><keycap>H</keycap></keycombo>."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2525
@@ -12763,7 +12908,7 @@ msgstr "Masquage d'un fichier ou d'un dossier"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2528
 msgid "<primary>create</primary> <secondary>hidden</secondary>"
-msgstr ""
+msgstr "<primary>créer</primary> <secondary>caché</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2532
@@ -13115,6 +13260,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>No write permission "
 "emblem.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/caja_nowrite_emblem.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Pas d'emblème de "
+"permission d'écriture.</phrase> </textobject>"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -13689,7 +13837,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2959
 msgid "<primary>writing CDs</primary>"
-msgstr ""
+msgstr "<primary>gravure de CD</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2962
@@ -13817,7 +13965,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3022
 msgid "<guilabel>Disc name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nom du disque</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3027
@@ -14104,7 +14252,7 @@ msgstr "Dossier à ouvrir au moment de la connexion au serveur."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3153
 msgid "<guilabel>User Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nom d'utilisateur</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3158
@@ -14591,7 +14739,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3450
 msgid "<guilabel>All columns have the same width</guilabel>"
-msgstr ""
+msgstr "<guilabel>Toutes les colonnes ont la même largeur</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3455
@@ -14662,7 +14810,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3493
 msgid "<guilabel>Double click to open items</guilabel>"
-msgstr ""
+msgstr "<guilabel>Double clic pour ouvrir les éléments</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3495
@@ -15893,6 +16041,12 @@ msgid ""
 "other users' files or edit system files, but you may need to do so something"
 " such as configure a web server on the computer."
 msgstr ""
+"L'icône <_:interface-1/> vous permet d'accéder aux CD, aux supports "
+"amovibles tels que des disquettes, et à l'ensemble du système de fichiers "
+"(aussi appelé système de fichiers racine). Par défaut, vous ne disposez pas "
+"des permissions nécessaires pour lire les fichiers d'autres utilisateurs ou "
+"pour modifier des fichiers système, mais cela peut s'avérer nécessaire si "
+"vous devez par exemple configurer un serveur Web."
 
 #. (itstool) path: para/interface
 #: C/gosoverview.xml:118
@@ -16738,6 +16892,8 @@ msgstr "Ajout d'un espace de travail"
 msgid ""
 "<primary>workspaces</primary> <secondary>specifying number of</secondary>"
 msgstr ""
+"<primary>espaces de travail</primary> <secondary>spécifier le numéro "
+"de</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:389
@@ -17647,6 +17803,9 @@ msgid ""
 "volume of the speakers on your system. For more on this, see the Volume "
 "Control Manual."
 msgstr ""
+"Le <application>Contrôle de volume</application> vous permet de contrôler le"
+" volume des haut-parleurs de votre système. Pour en savoir plus, consultez "
+"le Manuel de Contrôle du volume."
 
 #. (itstool) path: term/indexterm
 #: C/gospanel.xml:79
@@ -18167,6 +18326,8 @@ msgstr "Ajout d'un nouveau tableau de bord"
 #: C/gospanel.xml:363
 msgid "<primary>panels</primary> <secondary>adding new</secondary>"
 msgstr ""
+"<primary>tableaux de bord</primary> <secondary>ajout d'un "
+"nouveau</secondary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:367
@@ -19228,7 +19389,7 @@ msgstr ""
 #. (itstool) path: para/indexterm
 #: C/gospanel.xml:910
 msgid "<primary>special URIs</primary><secondary>launchers</secondary>"
-msgstr ""
+msgstr "<primary>URI spéciaux</primary><secondary>lanceurs</secondary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:908
@@ -19292,7 +19453,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:979
 msgid "<primary>action buttons</primary> <see>buttons</see>"
-msgstr ""
+msgstr "<primary>boutons d'action</primary> <see>boutons</see>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:983
@@ -19794,7 +19955,7 @@ msgstr "Bouton Afficher le bureau"
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1220
 msgid "<primary>buttons</primary> <secondary>Minimize Windows</secondary>"
-msgstr ""
+msgstr "<primary>boutons</primary> <secondary>Minimiser Windows</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1224
@@ -20312,6 +20473,10 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Window selector applet "
 "displayed from the top edge panel.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/openwindows_menu.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Applet de sélection de "
+"fenêtre affiché à partir du du bord supérieur du tableau de bord.</phrase> "
+"</textobject>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1510
@@ -20397,7 +20562,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
 msgid "Classic Menu"
-msgstr ""
+msgstr "Menu classique"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -20682,7 +20847,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:1671
 msgid "<guilabel>Restoring Minimized Windows</guilabel>"
-msgstr ""
+msgstr "<guilabel>Restauration des fenêtres minimisées</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1673
@@ -20911,6 +21076,8 @@ msgid ""
 "<primary>sessions</primary> <secondary>different language, logging "
 "in</secondary>"
 msgstr ""
+"<primary>sessions</primary> <secondary>langue différente, "
+"connexion</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:98
@@ -21759,7 +21926,7 @@ msgstr "Navigateur d'aide Yelp"
 #. (itstool) path: section/indexterm
 #: C/gostools.xml:259
 msgid "<primary>Yelp</primary>"
-msgstr ""
+msgstr "<primary>Yelp</primary>"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:265
@@ -22085,6 +22252,8 @@ msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>About This "
 "Document</guimenuitem> </menuchoice>"
 msgstr ""
+"Cliquez <menuchoice> <guimenu>Fichier</guimenu> <guimenuitem>A propos de ce "
+"document</guimenuitem> </menuchoice>"
 
 #. (itstool) path: note/para
 #: C/gostools.xml:488
@@ -22197,6 +22366,8 @@ msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-preferences\"/>:"
 msgstr ""
+"<_:itemizedlist-1/>Une fenêtre apparaîtra ressemblant à <xref linkend"
+"=\"yelp-preferences\"/>:"
 
 #. (itstool) path: info/title
 #: C/gostools.xml:557
@@ -22312,6 +22483,8 @@ msgid ""
 "Click <menuchoice> <guimenu>Go</guimenu> <guimenuitem>Back</guimenuitem> "
 "</menuchoice>"
 msgstr ""
+"Cliquez <menuchoice> <guimenu>Aller</guimenu> <guimenuitem>En "
+"arrière</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:630
@@ -23164,13 +23337,13 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gosdconf.xml:144 C/gosdconf.xml:161 C/gosdconf.xml:254 C/gosdconf.xml:270
 msgid "Synopsis:"
-msgstr ""
+msgstr "Synopsis :"
 
 #. (itstool) path: section/synopsis
 #: C/gosdconf.xml:147
 #, no-wrap
 msgid "dconf read [-d] KEY"
-msgstr ""
+msgstr "dconf read [-d] KEY"
 
 #. (itstool) path: section/para
 #: C/gosdconf.xml:148 C/gosdconf.xml:311
@@ -23311,6 +23484,8 @@ msgid ""
 "external ref='figures/picture_filename_dconf_key_edit.png' "
 "md5='6c51950700e166ae8e96193b1ac8d0cc'"
 msgstr ""
+"external ref='figures/picture_filename_dconf_key_edit.png' "
+"md5='6c51950700e166ae8e96193b1ac8d0cc'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosdconf.xml:235
@@ -23363,7 +23538,7 @@ msgstr ""
 #: C/gosdconf.xml:273
 #, no-wrap
 msgid "gsettings [--schemadir SCHEMADIR] set SCHEMA[:PATH] KEY VALUE"
-msgstr ""
+msgstr "gsettings [--schemadir SCHEMADIR] set SCHEMA[:PATH] KEY VALUE"
 
 #. (itstool) path: section/para
 #: C/gosdconf.xml:274
@@ -23653,7 +23828,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:221
 msgid "togglekeys-enable"
-msgstr ""
+msgstr "togglekeys-enable"
 
 #. (itstool) path: section/title
 #: C/gosdconfkeys.xml:233
@@ -23834,7 +24009,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:526
 msgid "show-desktop-icons"
-msgstr ""
+msgstr "show-desktop-icons"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:528
@@ -23947,7 +24122,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:661
 msgid "mate-panel"
-msgstr ""
+msgstr "mate-panel"
 
 #. (itstool) path: section/title
 #: C/gosdconfkeys.xml:673
@@ -24117,7 +24292,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:861
 msgid "font-name"
-msgstr ""
+msgstr "font-name"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:863
@@ -24147,7 +24322,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:891
 msgid "gtk-im-module"
-msgstr ""
+msgstr "gtk-im-module"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:893
@@ -24157,7 +24332,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:901
 msgid "gtk-dialogs-use-header"
-msgstr ""
+msgstr "gtk-dialogs-use-header"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:903
@@ -24226,7 +24401,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:961
 msgid "status-bar-meter-on-right"
-msgstr ""
+msgstr "status-bar-meter-on-right"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:963
@@ -24614,17 +24789,17 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1368
 msgid "double-click"
-msgstr ""
+msgstr "double-clic"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1370
 msgid "(i) Length of a double click."
-msgstr ""
+msgstr "(i) Longueur d'un double clic."
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1378
 msgid "middle-button-enabled"
-msgstr ""
+msgstr "bouton-milieu-permis"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1380
@@ -24632,11 +24807,13 @@ msgid ""
 "(b) Enables middle mouse button emulation through simultaneous left and "
 "right button click."
 msgstr ""
+"(b) Active l’émulation du bouton central de la souris par un clic gauche et "
+"droit simultané."
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1388
 msgid "locate-pointer"
-msgstr ""
+msgstr "localise-pointeur"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1390
@@ -24644,6 +24821,8 @@ msgid ""
 "(b) Highlights the current location of the pointer when the Control key is "
 "pressed and released."
 msgstr ""
+"(b) Met en surbrillance l’emplacement actuel du pointeur lorsque la touche "
+"Control est enfoncée et relâchée."
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1398
@@ -24750,7 +24929,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1518
 msgid "maximum-size"
-msgstr ""
+msgstr "maximum-size"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1520

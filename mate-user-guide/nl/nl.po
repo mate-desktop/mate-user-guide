@@ -1,6 +1,7 @@
+# 
 # Translators:
 # Michael Steenbeek <m.o.steenbeek@gmail.com>, 2018
-# infirit <inactive+infirit@transifex.com>, 2018
+# 8c3c560621f92e66455793da7b85eff0_8989672 <0e181aafae430e5c919398b6a7bba462_109266>, 2018
 # Kees Lijkendijk <clkndk@gmail.com>, 2018
 # Erik Bent <hj.bent.60@gmail.com>, 2018
 # dragnadh, 2018
@@ -8,16 +9,17 @@
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Ronald van Zuijlen, 2018
-# René Devers <rene.devers@gmail.com>, 2018
-# Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2019
+# b9b0d258fa591da5350b6e67cf68cd68_9fecbb4 <28506b9ff23f99a34b566250ce31bbad_250479>, 2018
+# Robert Antoni Buj i Gelonch <rbuj@fedoraproject.org>, 2019
 # Pjotr <pjotrvertaalt@gmail.com>, 2020
+# Benji Leenders, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Pjotr <pjotrvertaalt@gmail.com>, 2020\n"
+"Last-Translator: Benji Leenders, 2020\n"
 "Language-Team: Dutch (https://www.transifex.com/mate/teams/13566/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,7 +61,7 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
 msgstr ""
 
 #. (itstool) path: info/copyright
@@ -89,6 +91,8 @@ msgid ""
 "<orgname>MATE Documentation Project</orgname> <affiliation> <orgname>MATE "
 "Desktop</orgname> </affiliation>"
 msgstr ""
+"<orgname>MATE Documentatie Project</orgname><affiliation><orgname>MATE "
+"Desktop</orgname></affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:44
@@ -97,6 +101,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
 "</affiliation>"
 msgstr ""
+"<personname> <firstname>Wolfgang</firstname> <surname>Ulbrich</surname> "
+"</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
+"</affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:53
@@ -105,6 +112,9 @@ msgid ""
 "Team</surname> </personname> <affiliation> <orgname>Sun "
 "Microsystems</orgname> </affiliation>"
 msgstr ""
+"<personname> <firstname>Sun</firstname> <surname>GNOME Documentation "
+"Team</surname> </personname> <affiliation> <orgname>Sun "
+"Microsystems</orgname> </affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:62
@@ -113,6 +123,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>shaunm@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Shaun</firstname> <surname>McCance</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentatie Project</orgname> "
+"</affiliation> <email>shaunm@gnome.org</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:72
@@ -121,6 +134,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> "
 "<email>karderio@gmail.com</email>"
 msgstr ""
+"<personname> <surname>Karderio</surname> </personname> <affiliation> "
+"<orgname>GNOME Documentatie Project</orgname> </affiliation> "
+"<email>karderio@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:81
@@ -129,6 +145,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>jnoreiko@yahoo.com</email>"
 msgstr ""
+"<personname> <firstname>Joachim</firstname> <surname>Noreiko</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentatie Project</orgname> "
+"</affiliation> <email>jnoreiko@yahoo.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:91
@@ -137,6 +156,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>esodan@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>Daniel</firstname> <surname>Espinosa Ortiz</surname>"
+" </personname> <affiliation> <orgname>GNOME Documentatie Project</orgname> "
+"</affiliation> <email>esodan@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:101
@@ -145,6 +167,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>mate@nextreality.net</email>"
 msgstr ""
+"<personname> <firstname>Brent</firstname> <surname>Smith</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentatie Project</orgname> "
+"</affiliation> <email>mate@nextreality.net</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:111
@@ -153,6 +178,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>tim@tjl2.com</email>"
 msgstr ""
+"<personname> <firstname>Tim</firstname> <surname>Littlemore</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentatie Project</orgname> "
+"</affiliation> <email>tim@tjl2.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:121
@@ -161,6 +189,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>john.stowers@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>John</firstname> <surname>Stowers</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentatie Project</orgname> "
+"</affiliation> <email>john.stowers@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:131
@@ -169,6 +200,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>nigel.tao@myrealbox.com</email>"
 msgstr ""
+"<personname> <firstname>Nigel</firstname> <surname>Tao</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentatie Project</orgname> "
+"</affiliation> <email>nigel.tao@myrealbox.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:141
@@ -177,6 +211,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Ubuntu Documentation Project</orgname> "
 "</affiliation> <email>mdke@ubuntu.com</email>"
 msgstr ""
+"<personname> <firstname>Matthew</firstname> <surname>East</surname> "
+"</personname> <affiliation> <orgname>Ubuntu Documentatie Project</orgname> "
+"</affiliation> <email>mdke@ubuntu.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:151
@@ -185,6 +222,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Project</orgname> </affiliation>"
 " <email>carlosg@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Carlos</firstname> <surname>Garnacho Parro</surname>"
+" </personname> <affiliation> <orgname>GNOME Project</orgname> </affiliation>"
+" <email>carlosg@gnome.org</email>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:171
@@ -232,6 +272,7 @@ msgstr ""
 msgid ""
 "<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.8</revnumber> <date>september 2004</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:202 C/index.docbook:210 C/index.docbook:218
@@ -245,52 +286,60 @@ msgstr "Sun Microsystems"
 msgid ""
 "<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.7</revnumber> <date>september 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
 msgid ""
 "<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.6</revnumber> <date>augustus 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
 msgid ""
 "<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.5</revnumber> <date>maart 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
 msgid ""
 "<revnumber>2.4</revnumber> <date>January 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.4</revnumber> <date>januari 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:230
 msgid ""
 "<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.3</revnumber> <date>oktober 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
 msgid ""
 "<revnumber>2.2</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.2</revnumber> <date>augustus 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:246
 msgid ""
 "<revnumber>2.1</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.1</revnumber> <date>augustus 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:254
 msgid "<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>1.0</revnumber> <date>mei 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
 msgid "This manual describes version 1.22 of the MATE desktop."
-msgstr ""
+msgstr "Deze handleiding beschrijft versie 1.22 van de MATE desktop."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:4
@@ -303,6 +352,13 @@ msgid ""
 "xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">link</link> or in "
 "the file COPYING-DOCS distributed with this manual."
 msgstr ""
+"Toestemming wordt verleend om dit document te kopiëren, verspreiden en/of "
+"wijzigen onder de voorwaarden van de GNU Free Documentation License (GDFL), "
+"Versie 1.1 of elke latere versie gepubliceerd door de Free Software "
+"Foundation zonder invariante secties, kaft tekst. U kan een kopie van van de"
+" GFDL vinden via deze <link "
+"xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">link</link> of in "
+"het bestand COPYING-DOCS verspreid bij deze handleiding."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:13
@@ -326,6 +382,11 @@ msgid ""
 "aware of those trademarks, then the names are in capital letters or initial "
 "capital letters."
 msgstr ""
+"Vele van de namen zoals gebruikt bij bedrijven om hun producten en services "
+"te onderscheiden zijn geclaimd als handelsmerken. Wanneer deze namen "
+"voorkomen in enige MATE documentatie, en de leden van het MATE Documentatie "
+"Project hiervan bewust zijn gemaakt, dan zullen deze namen in hoofdletters "
+"zijn of beginnen met hoofdletters."
 
 #. (itstool) path: listitem/para
 #: C/legal.xml:36
@@ -342,6 +403,18 @@ msgid ""
 "ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION "
 "OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
 msgstr ""
+"HET DOCUMENT IS AANGEBODEN OP EEN \"ZOALS HET IS\" BASIS, ZONDER ENIGE VORM "
+"VAN GARANTIE, ZOWEL UITGESPROKEN ALS GEÏMPLICEERD, INCLUSIEF, ZONDER "
+"BEPERKINGEN, GARANTIES DAT HET DOCUMENT OF DE AANGEPASTE VERSIE VAN HET "
+"DOCUMENT VRIJ VERHANDELBARE GEBREKEN OF GESCHIKT IS VOOR EEN BEPAALD DOEL "
+"IS, OF GEEN INBREUK MAAKT. HET VOLLEDIGE RISICO BETREFFEND DE KWALITEIT, "
+"ACCURAATHEID, EN PRESTATIES VAN HET DOCUMENT OF DE AANGEPASTE VERSIE VAN HET"
+" DOCUMENT LIGT BIJ U. INDIEN HET DOCUMENT DEFECT BLIJKT TE ZIJN IN ENIGE "
+"VORM, U (NIET DE INITIËLE SCHRIJVER, AUTEUR OF ENIGE BIJDRAGER) ZAL DE "
+"KOSTEN KOSTEN VOOR ENIGE NODIGE SERVICE, REPARATIE OF CORRECTIE OP ZICH "
+"NEMEN. DEZE DISCLAIMER BETREFT DE GARANTIE IS EEN ESSENTIEEL ONDERDEEL VAN "
+"DEZE LICENTIE. GEEN ENKEL GEBRUIK VAN DIT DOCUMENT OF AANGEPASTE VERSIE VAN "
+"HET DOCUMENT IS TOEGESTAAN ALS VOLGT ZONDER DEZE DISCLAIMER; EN"
 
 #. (itstool) path: listitem/para
 #: C/legal.xml:56
@@ -365,6 +438,9 @@ msgid ""
 "OF THE GNU FREE DOCUMENTATION LICENSE WITH THE FURTHER UNDERSTANDING THAT: "
 "<_:orderedlist-1/>"
 msgstr ""
+"HET DOCUMENT EEN AANGEPASTE VERSIES VAN HET DOCUMENT WORDEN AANGEBODEN ONDER"
+" DE VOORWAARDEN VAN DE GNU FREE DOCUMENTATION LICENTIE MET HET BEGRIP DAT: "
+"<_:orderedlist-1/>"
 
 #. (itstool) path: formalpara/title
 #. (itstool) path: info/title
@@ -379,11 +455,14 @@ msgid ""
 "manual, follow the directions in the <link xlink:href=\"help:mate-user-"
 "guide/feedback\">MATE Feedback Page</link>."
 msgstr ""
+"Voor het rapporteren van bugs of het maken van suggesties met betrekking tot"
+" de MATE Desktop of deze handleiding volg de instructie op de <link "
+"xlink:href=\"help:mate-user-guide/feedback\">MATE Feedback Pagina</link>."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:6
 msgid "Basic Skills"
-msgstr ""
+msgstr "Basisvaardigheden"
 
 #. (itstool) path: highlights/para
 #: C/gosbasic.xml:14
@@ -391,21 +470,24 @@ msgid ""
 "This chapter introduces you to the basic skills that you need to work with "
 "the MATE Desktop."
 msgstr ""
+"Dit hoofdstuk introduceert de basisvaardigheden die U nodig zal hebben om te"
+" werken met de MATE Desktop."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:18
 msgid "Mouse Skills"
-msgstr ""
+msgstr "Muisvaardigheden"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:23
 msgid "<primary>basic skills</primary> <secondary>mouse skills</secondary>"
 msgstr ""
+"<primary>basisvaardigheden</primary> <secondary>muisvaardigheden</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:27
 msgid "<primary>mouse</primary> <secondary>basic skills</secondary>"
-msgstr ""
+msgstr "<primary>muis</primary> <secondary>basisvaardigheden</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:41
@@ -413,6 +495,8 @@ msgid ""
 "This section describes what the mouse buttons do, and what the different "
 "pointers mean."
 msgstr ""
+"Deze sectie beschrijft hetgeen de muisknoppen doen, en wat verschillende "
+"muisaanwijzers betekenen."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:45
@@ -423,11 +507,16 @@ msgid ""
 "action on the object over which your mouse pointer is situated, depending on"
 " which button you press."
 msgstr ""
+"Een muis is een aanwijsapparaat die U de muisaanwijzer laat bewegen op het "
+"scherm. De muisaanwijzer is meestal een kleine pijl net welke U objecten op "
+"het scherm aanwijst. Het indrukken van een muisknop verricht een bepaalde "
+"actie op het object waar de muisaanwijzer op gelokaliseerd is, afhankelijk "
+"van welke knop U indrukt."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:50
 msgid "Mouse Button Conventions"
-msgstr ""
+msgstr "Muisknop gebruik"
 
 #. (itstool) path: info/titleabbrev
 #. (itstool) path: info/title
@@ -438,7 +527,7 @@ msgstr "Toetsen"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:55
 msgid "<primary>mouse</primary> <secondary>button conventions</secondary>"
-msgstr ""
+msgstr "<primary>muis</primary><secondary>knop gebruik</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:60
@@ -449,6 +538,11 @@ msgid ""
 "mouse. If you use a left-handed mouse, see the paragraph on setting mouse "
 "orientation below."
 msgstr ""
+"De instructies in deze handleiding zijn bedoeld voor drie knopige, "
+"rechtshandige muisapparaten, de meest gebruikte soort. Als U een ander soort"
+" muis of aanwijsapparaat gebruikt, dan zal u de corresponderende knoppen op "
+"uw muis te vinden. Als U een linkshandige muis gebruikt, zie de paragraaf "
+"betreft het instellen van uw muis oriëntatie hieronder."
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:65
@@ -457,6 +551,10 @@ msgid ""
 " button conventions used in this manual. This is normally also implied in "
 "most documentation and in many applications."
 msgstr ""
+"Als U uw muisapparaat instelt als linkshandig, dan zal U het muisknop "
+"gebruik zoals gebruikt in deze handleiding om dienen te draaien. Deze "
+"implicatie zal gewoonlijk ook gelden in de meeste documentatie en in vele "
+"applicaties."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:69
@@ -472,11 +570,12 @@ msgstr ""
 #: C/gosbasic.xml:74
 msgid "The mouse button conventions used in this manual are as follows:"
 msgstr ""
+"De muisknop gebruiken zoals gebruikt in deze handleiding zijn als volgt:"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:78 C/gosbasic.xml:244
 msgid "Left mouse button"
-msgstr ""
+msgstr "Linkermuisknop"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:79
@@ -486,11 +585,15 @@ msgid ""
 " told to \"click\" it is implied that you should click with the left button,"
 " unless specifically stated."
 msgstr ""
+"De knop aan de linkerkant van uw muisapparaat. Dit is de hoofdknop, gebruikt"
+" voor selecteren, activeren, indrukken van knoppen etc... Wanneer U verteld "
+"word te \"klikken\" wordt hiermee bedoeld dat u klikt met de linkermuisknop "
+"tenzij anders aangewezen."
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:85 C/gosbasic.xml:255
 msgid "Middle mouse button"
-msgstr ""
+msgstr "Middelmuisknop"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:86
@@ -498,11 +601,13 @@ msgid ""
 "The middle button of a mouse device. On many mice with a scroll wheel, the "
 "scroll wheel can be pushed down for a middle mouse button click."
 msgstr ""
+"De middelmuisknop van het muisapparaat. Op vele muizen met een scrolwiel kan"
+" het scrolwiel ingedrukt worden voor een middelmuisknop klik."
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:91 C/gosbasic.xml:265
 msgid "Right mouse button"
-msgstr ""
+msgstr "Rechtermuisknop"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:92
@@ -510,6 +615,8 @@ msgid ""
 "The button on the right side of a mouse device. Often, this button displays "
 "a context menu for the object under the pointer."
 msgstr ""
+"De knop aan de rechterkant van een muisapparaat. Regelmatig geeft deze knop "
+"een contextmenu weer voor het object onder de aanwijzer."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:97
@@ -520,11 +627,16 @@ msgid ""
 "linkend=\"prefs-mouse\"/> for more information about setting your mouse "
 "preferences."
 msgstr ""
+"Gebruik <application>Muisvoorkeuren</application> om de oriëntatie van uw "
+"muisapparaat om te draaien. U dient dan het muisknop gebruik zoals gebruikt "
+"in deze handleiding en andere MATE documentatie om te draaien. Zie <xref "
+"linkend=\"prefs-mouse\"/> voor meer informatie betreft het instellen van uw "
+"muisvoorkeuren."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:103
 msgid "Mouse Actions"
-msgstr ""
+msgstr "Muisacties"
 
 #. (itstool) path: info/titleabbrev
 #: C/gosbasic.xml:103
@@ -534,12 +646,12 @@ msgstr "Acties"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:109
 msgid "<primary>mouse</primary> <secondary>action conventions</secondary>"
-msgstr ""
+msgstr "<primary>muis</primary> <secondary>actiegebruiken</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:113
 msgid "<primary>mouse</primary> <secondary>action terminology</secondary>"
-msgstr ""
+msgstr "<primary>muis</primary> <secondary>actieterminology</secondary> "
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:118
@@ -547,6 +659,8 @@ msgid ""
 "The following conventions are used in this manual to describe actions that "
 "you take with the mouse:"
 msgstr ""
+"De volgende gebruiken zijn in gebruik in deze handleiding om acties te "
+"omschrijven die met de muis uitgevoerd worden:"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:129 C/gosbasic.xml:855 C/gosbasic.xml:948 C/goscaja.xml:759
@@ -557,23 +671,24 @@ msgstr "Actie"
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:132
 msgid "Definition"
-msgstr ""
+msgstr "Betekenis"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:139
 msgid "Click"
-msgstr ""
+msgstr "Klik"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:142
 msgid "Press and release the left mouse button, without moving the mouse."
 msgstr ""
+"Het indrukken en loslaten van de linkermuisknop, zonder de muis te bewegen."
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:148 C/gospanel.xml:409
 msgid "Left-click"
-msgstr ""
+msgstr "Linkerklik"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:151
@@ -581,33 +696,37 @@ msgid ""
 "Same as <emphasis>click</emphasis>. The term 'left-click' is used where "
 "there might be confusion with <emphasis>right-click</emphasis>."
 msgstr ""
+"Gelijk aan <emphasis>klik</emphasis>. De term \"linkerklik\" wordt gebruikt "
+"wanneer er verwarring kan zijn met <emphasis>rechterklik</emphasis>. "
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:158 C/gospanel.xml:415
 msgid "Middle-click"
-msgstr ""
+msgstr "Middelklik"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:161
 msgid "Press and release the middle mouse button, without moving the mouse."
 msgstr ""
+"Het indrukken en loslaten van de middelmuisknop, zonder de muis te bewegen."
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:167 C/gospanel.xml:422
 msgid "Right-click"
-msgstr ""
+msgstr "Rechtsklik"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:170
 msgid "Press and release the right mouse button, without moving the mouse."
 msgstr ""
+"Het indrukken en loslaten van de rechtermuisknop, zonder de muis te bewegen."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:176
 msgid "Double-click"
-msgstr ""
+msgstr "Dubbelklik"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:179
@@ -617,11 +736,15 @@ msgid ""
 "changing the <emphasis>Double-click Timeout</emphasis> setting: see <xref "
 "linkend=\"prefs-mouse\"/> for more information."
 msgstr ""
+"Druk de muisknop in en laat deze tweemaal snel achter elkaar los zonder de "
+"muis te bewegen. Je kan de gevoeligheid van dubbelklikken configureren door "
+"de <emphasis>Dubbelklik Timout</emphasis> instelling te veranderen: zie "
+"<xref linkend=\"prefs-mouse\"/> voor meer informatie."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:188
 msgid "Click-and-drag"
-msgstr ""
+msgstr "Klik en sleep"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:191
@@ -629,6 +752,8 @@ msgid ""
 "Press and do not release the left mouse button, and then move the mouse with"
 " the button still held down, and finally release the button."
 msgstr ""
+"Druk de linkermuisknop in en laat deze niet los, beweeg dan de muis nog "
+"steeds ingedrukt, en uiteindelijk laat de knop los."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:196
@@ -640,6 +765,12 @@ msgid ""
 "Clicking on an element of the interface to move it is sometimes called a "
 "<emphasis>grab</emphasis>."
 msgstr ""
+"Het slepen met de muis wordt gebruikt in veel verschillende situaties. Dit "
+"verplaatst een object op het scherm met de muis. Het object wordt "
+"<emphasis>losgelaten</emphasis> op de locatie waar de muisknop wordt "
+"losgelaten. Deze actie wordt ook <emphasis>slepen en neerzetten</emphasis> "
+"genoemd. Het klikken op een element van de interface om deze te verplaatsen "
+"wordt soms een <emphasis>greep</emphasis> genoemd."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:207
@@ -648,6 +779,9 @@ msgid ""
 "title bar, or move a file by dragging its icon from one window and dropping "
 "it on another."
 msgstr ""
+"Bijvoorbeeld, U kan de positie van een venster veranderen door deze bij de "
+"titelbalk te verslepen, of een bestand door middel van het verslepen van het"
+" icoon van een venster en deze los te laten in een ander venster."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:211
@@ -655,56 +789,59 @@ msgid ""
 "The left mouse buttons is usually used to perform drag actions, although the"
 " middle mouse button is sometimes used for an alternate drag action."
 msgstr ""
+"De linkermuisknop wordt gewoonlijk gebruikt voor het uitvoeren van "
+"sleepacties, hoewel de middelmuisknop soms gebruikt wordt voor een "
+"alternatieve sleepactie "
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:219
 msgid "Click-and-hold"
-msgstr ""
+msgstr "Klik en vasthouden"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:222
 msgid "Press and do not release the left mouse button."
-msgstr ""
+msgstr "Druk de linkermuisknop in een houdt deze vast."
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:230
 msgid "<primary>mouse</primary> <secondary>actions</secondary>"
-msgstr ""
+msgstr "<primary>muis</primary> <secondary>acties</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:235
 msgid "You can perform the following actions with the mouse:"
-msgstr ""
+msgstr "U kan de volgende acties uitvoeren met de muis:"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:247
 msgid "Select text."
-msgstr ""
+msgstr "Tekst selecteren"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:248
 msgid "Select items."
-msgstr ""
+msgstr "Elementen selecteren."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:249
 msgid "Drag items."
-msgstr ""
+msgstr "Elementen verslepen."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:250
 msgid "Activate items."
-msgstr ""
+msgstr "Elementen activeren."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:258
 msgid "Paste text."
-msgstr ""
+msgstr "Tekst plakken."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:259
 msgid "Move items."
-msgstr ""
+msgstr "Elementen verplaatsen."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:260
@@ -719,6 +856,11 @@ msgid ""
 "<keycombo><keycap>Shift</keycap><keycap>F10</keycap></keycombo> keyboard "
 "shortcut to open the context menu once the item has been selected."
 msgstr ""
+"Gebruik de rechtermuisknop om een context menu van een element te openen "
+"indien van toepassing. Voor de meeste elementen, kan u ook de "
+"<keycombo>Shift<keycap></keycap><keycap>F10</keycap></keycombo> toetsenbord "
+"sneltoets gebruiken voor het openen van het context menu wanneer het object "
+"geselecteerd is."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:274
@@ -728,6 +870,10 @@ msgid ""
 "the left mouse button. Clicking with the right mouse button will bring up a "
 "context menu for that file."
 msgstr ""
+"Bijvoorbeeld, wanneer bestanden in de bestandsmanager zichtbaar zijn, U "
+"selecteert een bestand door met de linkermuisknop op het bestand te klikken "
+"en U opent het bestand door te dubbelklikken met de linkermuisknop. Klikken "
+"met de rechtermuisknop opent het contextmenu voor dat bestand."
 
 #. (itstool) path: tip/para
 #: C/gosbasic.xml:279
@@ -737,6 +883,10 @@ msgid ""
 "called primary selection paste, and works separately from your normal "
 "clipboard operations."
 msgstr ""
+"In de meeste applicaties kan U tekst selecteren met de linkermuisknop en "
+"plakken in een andere applicatie door middel van de middelmuisknop. Dit heet"
+" primaire selectie plakken, en dit werkt onafhankelijk van uw normale "
+"klembord operaties."
 
 #. (itstool) path: tip/para
 #: C/gosbasic.xml:284
@@ -747,26 +897,32 @@ msgid ""
 "box</firstterm> to select several items by starting the drag in the empty "
 "space around items and dragging out a rectangle."
 msgstr ""
+"Om meerdere elementen te selecteren, U kan de <keycap>Ctrl</keycap> knop "
+"ingedrukt houden om meerdere elementen te selecteren, of de "
+"<keycap>Shift</keycap> knop ingedrukt houden om een ononderbroken reeks van "
+"elementen te selecteren.U kan ook een <firstterm>selectiekader</firstterm> "
+"slepen om meerdere elementen te selecteren door te beginnen te slepen in een"
+" lege ruimte en een vierkant te vormen."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:294
 msgid "Mouse Pointers"
-msgstr ""
+msgstr "Muisaanwijzers"
 
 #. (itstool) path: info/titleabbrev
 #: C/gosbasic.xml:294
 msgid "Pointers"
-msgstr ""
+msgstr "Aanwijzers"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:299
 msgid "<primary>mouse</primary> <secondary>pointers</secondary>"
-msgstr ""
+msgstr "<primary>muis</primary> <secondary>aanwijzers</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:303
 msgid "<primary>pointers</primary> <see>mouse pointers</see>"
-msgstr ""
+msgstr "<primary>aanwijzers</primary> <see>muisaanwijzers</see>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:308
@@ -775,6 +931,9 @@ msgid ""
 "appearance of the pointer provides feedback about a particular operation, "
 "location, or state."
 msgstr ""
+"Als U de muis gebruikt kan het uiterlijk van de muisaanwijzer veranderen. "
+"Het uiterlijk van de aanwijzer geeft feedback betreft een bepaalde operatie,"
+" locatie of toestand."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:312
@@ -782,6 +941,8 @@ msgid ""
 "The following mouse pointers are shown as your mouse passes over different "
 "elements of the screen:"
 msgstr ""
+"De volgende muisaanwijzers worden getoond als uw muis over verschillende "
+"objecten op het scherm beweegt."
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:315
@@ -790,6 +951,9 @@ msgid ""
 "different pointer theme. Your distributor or vendor may have set a different"
 " default theme."
 msgstr ""
+"Uw muisaanwijzers zullen verschillen van deze getoond hier als U een ander "
+"aanwijzer-thema gebruikt. Uw distributeur or verkoper kan een afwijkend "
+"standaard-thema hebben ingesteld. "
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -811,11 +975,14 @@ msgid ""
 "<phrase>Normal pointer.</phrase> </textobject> </inlinemediaobject> Normal "
 "pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/normal_pointer.png\"/></imageobject><textobject><phrase>Normale"
+" aanwijzer.</phrase></textobject></inlinemediaobject> Normale aanwijzer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:330
 msgid "This pointer appears during normal use of the mouse."
-msgstr ""
+msgstr "Deze aanwijzer verschijnt tijdens normaal gebruik van de muis."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -837,6 +1004,9 @@ msgid ""
 "<phrase>Busy pointer.</phrase> </textobject> </inlinemediaobject> Busy "
 "pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/busy_pointer.png\"/></imageobject><textobject><phrase>Bezig"
+" aanwijzer.</phrase></textobject></inlinemediaobject> Bezig aanwijzer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:345
@@ -845,6 +1015,9 @@ msgid ""
 "cannot use the mouse to give this window any input, but you can move to "
 "another window and work with that."
 msgstr ""
+"Deze aanwijzer verschijnt over een venster dat bezig is met het uitvoeren "
+"van een taak. U kan de muis niet gebruiken om dit venster enige input te "
+"geven, maar U kan naar een ander venster gaan en daarmee werken."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -866,6 +1039,10 @@ msgid ""
 "<phrase>Resize pointer.</phrase> </textobject> </inlinemediaobject> Resize "
 "pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/resize_pointer.png\"/></imageobject><textobject><phrase>Formaat"
+" wijzigen aanwijzer.</phrase></textobject></inlinemediaobject> Formaat "
+"wijzigen aanwijzer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:359
@@ -875,6 +1052,10 @@ msgid ""
 "between panes in a window. The direction of the arrows indicates in which "
 "direction you can resize."
 msgstr ""
+"Deze aanwijzer toont dat U de controle hebt om delen van de interface van "
+"formaat te veranderen. Deze verschijnt over de grenzen van de vensters en "
+"over formaat-wijzigen heften tussen de panelen in een venster. De richting "
+"van de pijlen geeft aan in welke richting U het formaat kan wijzigen."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -896,6 +1077,9 @@ msgid ""
 "<phrase>Hand pointer</phrase> </textobject> </inlinemediaobject> Hand "
 "pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/hyperlink_pointer.png\"/></imageobject><textobject><phrase>Hand"
+" aanwijzer</phrase></textobject></inlinemediaobject> Hand aanwijzer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:376
@@ -904,6 +1088,10 @@ msgid ""
 "link</glossterm>, in a web page for example. This pointer indicates that you"
 " can click on the link to load a new document or perform an action."
 msgstr ""
+"Deze aanwijzer verschijnt wanneer u over een <glossterm>hypertekst "
+"link</glossterm> zweeft, op een website bijvoorbeeld. Deze aanwijzer geeft "
+"aan dat U kan klikken op de link om een nieuw document te laden of om een "
+"actie uit te voeren."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -933,6 +1121,9 @@ msgid ""
 "edit. Click to place the cursor where you want to type text, or drag to "
 "select text."
 msgstr ""
+"Deze aanwijzer wordt getoond wanneer de muis zich over tekst bevindt die U "
+"kan selecteren of aanpassen. Klik om de cursor te plaatsen waar U de tekst "
+"wilt typen of sleep om tekst te selecteren."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:398

@@ -1,17 +1,19 @@
+# 
 # Translators:
-# Cfpo Miègjorn-Pirenèus <inactive+cfpomp@transifex.com>, 2018
+# 48c2de07903ce5a77a8e90265f95c4c2_8909374 <837c8d0ab97b27e737893c19f79bd4de_348476>, 2018
 # Tot en òc <totenoc@gmail.com>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Cédric Valmary <cvalmary@yahoo.fr>, 2019
+# Quentin PAGÈS, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Cédric Valmary <cvalmary@yahoo.fr>, 2019\n"
+"Last-Translator: Quentin PAGÈS, 2021\n"
 "Language-Team: Occitan (post 1500) (https://www.transifex.com/mate/teams/13566/oc/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,23 +43,23 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
+msgstr "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
 msgid "<year>2005</year> <holder>Shaun McCance</holder>"
-msgstr ""
+msgstr "<year>2005</year> <holder>Shaun McCance</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:22
 msgid "<year>2004</year> <holder>Sun Microsystems</holder>"
-msgstr ""
+msgstr "<year>2004</year> <holder>Sun Microsystems</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:26
 msgid "<year>2003</year> <holder>Sun Microsystems</holder>"
-msgstr ""
+msgstr "<year>2003</year> <holder>Sun Microsystems</holder>"
 
 #. (itstool) path: publisher/publishername
 #. (itstool) path: revdescription/para
@@ -71,6 +73,8 @@ msgid ""
 "<orgname>MATE Documentation Project</orgname> <affiliation> <orgname>MATE "
 "Desktop</orgname> </affiliation>"
 msgstr ""
+"<orgname>MATE Documentation Project</orgname> <affiliation> <orgname>MATE "
+"Desktop</orgname> </affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:44
@@ -79,6 +83,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
 "</affiliation>"
 msgstr ""
+"<personname> <firstname>Wolfgang</firstname> <surname>Ulbrich</surname> "
+"</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
+"</affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:53
@@ -87,6 +94,9 @@ msgid ""
 "Team</surname> </personname> <affiliation> <orgname>Sun "
 "Microsystems</orgname> </affiliation>"
 msgstr ""
+"<personname> <firstname>Sun</firstname> <surname>GNOME Documentation "
+"Team</surname> </personname> <affiliation> <orgname>Sun "
+"Microsystems</orgname> </affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:62
@@ -95,6 +105,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>shaunm@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Shaun</firstname> <surname>McCance</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>shaunm@gnome.org</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:72
@@ -103,6 +116,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> "
 "<email>karderio@gmail.com</email>"
 msgstr ""
+"<personname> <surname>Karderio</surname> </personname> <affiliation> "
+"<orgname>GNOME Documentation Project</orgname> </affiliation> "
+"<email>karderio@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:81
@@ -111,6 +127,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>jnoreiko@yahoo.com</email>"
 msgstr ""
+"<personname> <firstname>Joachim</firstname> <surname>Noreiko</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>jnoreiko@yahoo.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:91
@@ -119,6 +138,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>esodan@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>Daniel</firstname> <surname>Espinosa Ortiz</surname>"
+" </personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>esodan@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:101
@@ -127,6 +149,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>mate@nextreality.net</email>"
 msgstr ""
+"<personname> <firstname>Brent</firstname> <surname>Smith</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>mate@nextreality.net</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:111
@@ -135,6 +160,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>tim@tjl2.com</email>"
 msgstr ""
+"<personname> <firstname>Tim</firstname> <surname>Littlemore</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>tim@tjl2.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:121
@@ -143,6 +171,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>john.stowers@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>John</firstname> <surname>Stowers</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>john.stowers@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:131
@@ -151,6 +182,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>nigel.tao@myrealbox.com</email>"
 msgstr ""
+"<personname> <firstname>Nigel</firstname> <surname>Tao</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>nigel.tao@myrealbox.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:141
@@ -159,6 +193,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Ubuntu Documentation Project</orgname> "
 "</affiliation> <email>mdke@ubuntu.com</email>"
 msgstr ""
+"<personname> <firstname>Matthew</firstname> <surname>East</surname> "
+"</personname> <affiliation> <orgname>Ubuntu Documentation Project</orgname> "
+"</affiliation> <email>mdke@ubuntu.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:151
@@ -167,17 +204,21 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Project</orgname> </affiliation>"
 " <email>carlosg@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Carlos</firstname> <surname>Garnacho Parro</surname>"
+" </personname> <affiliation> <orgname>GNOME Project</orgname> </affiliation>"
+" <email>carlosg@gnome.org</email>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:171
 msgid "Wolfgang Ulbrich"
-msgstr ""
+msgstr "Wolfgang Ulbrich"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:167
 msgid ""
 "<revnumber>2.15</revnumber> <date>2015-07-01</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.15</revnumber> <date>2015-07-01</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:179
@@ -190,13 +231,14 @@ msgstr "Karderio"
 #: C/index.docbook:227 C/index.docbook:235 C/index.docbook:243
 #: C/index.docbook:251 C/index.docbook:259
 msgid "GNOME Documentation Project"
-msgstr ""
+msgstr "GNOME Documentation Project"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:175
 msgid ""
 "<revnumber>2.14</revnumber> <date>2006-02-03</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.14</revnumber> <date>2006-02-03</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:187
@@ -208,12 +250,14 @@ msgstr "Shaun McCance"
 msgid ""
 "<revnumber>2.10</revnumber> <date>2005-03-08</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.10</revnumber> <date>2005-03-08</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:191
 msgid ""
 "<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:202 C/index.docbook:210 C/index.docbook:218
@@ -227,52 +271,60 @@ msgstr "Sun Microsystems"
 msgid ""
 "<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
 msgid ""
 "<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
 msgid ""
 "<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
 msgid ""
 "<revnumber>2.4</revnumber> <date>January 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.4</revnumber> <date>January 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:230
 msgid ""
 "<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
 msgid ""
 "<revnumber>2.2</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.2</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:246
 msgid ""
 "<revnumber>2.1</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.1</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:254
 msgid "<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>1.0</revnumber> <date>Mai de 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
 msgid "This manual describes version 1.22 of the MATE desktop."
-msgstr ""
+msgstr "Aqueste manual descriu la version 1.22 del burèu MATE."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:4
@@ -285,6 +337,14 @@ msgid ""
 "xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">link</link> or in "
 "the file COPYING-DOCS distributed with this manual."
 msgstr ""
+"Autorizacion vos es donada de copiar, distribuir e/o modificar aqueste "
+"document segon los tèrmes de la Licéncia GNU Free Documentation License "
+"(GFDL), Version 1.1 o ulteriora publicada per la Free Software Foundation "
+"sens seccion inalterabla, sens tèxt de primièra pagina de cubèrta ni tèxt de"
+" darrièra pagina de cubèrta. Trobaretz un exemplari de la GFDL en seguissent"
+" aqueste <link "
+"xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">ligam</link> o dins"
+" lo fichièr COPYING-DOCS provesit amb lo present manual."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:13
@@ -294,6 +354,11 @@ msgid ""
 "you can do so by adding a copy of the license to the manual, as described in"
 " section 6 of the license."
 msgstr ""
+"Aqueste manual fa part de la colleccion de manuals de MATE distribuits jols "
+"tèrmes de la licéncia de documentacion liura GNU. Se volètz distribuir "
+"aqueste document a despart de la colleccion, o podètz far en ajustant un "
+"exemplar de la licéncia al manual, coma indicat a la seccion 6 de la "
+"licéncia."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:20
@@ -304,6 +369,11 @@ msgid ""
 "aware of those trademarks, then the names are in capital letters or initial "
 "capital letters."
 msgstr ""
+"La màger part dels noms utilizats per las entrepresas per distinguir lors "
+"produches e servicis son de marcas depausadas. Quand aqueles noms apareisson"
+" dins la documentacion MATE e que los membres del projècte de Documentacion "
+"MATE son informats de l’existéncia d’aquelas marcas depausadas, siá aqueles "
+"noms entièrs, siá lor primièra letra es en majuscula."
 
 #. (itstool) path: listitem/para
 #: C/legal.xml:36
@@ -320,6 +390,19 @@ msgid ""
 "ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION "
 "OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
 msgstr ""
+"LO DOCUMENT ES PROVESIT « TAL COMA ES » SENS CAP DE GARANTIDA DE QUIN TIPE "
+"QUE SIÁ, EXPLICITA O IMPLICADA, AQUÒ INCLUTZ, SENS CAP DE LIMIT, LAS "
+"GARANTIDAS QUE LO DOCUMENT O UNA VERSION MODIFICADA NON AJA PAS CAP DE "
+"DEFAUT, QUE SIÁ COMERCIABLE, QUE SIÁ ADAPTAT PER UN USATGE PARTICULAR O QUE "
+"ENFRANGA PAS LA LEI. TOT LO RISC RESPÈCTE A LA QUALITAT, L’EXACTITUD O LAS "
+"QUALITATS TECNICAS DEL DOCUMENT O DE SAS VERSIONS MODIFICADAS ES VÒSTRE. SE "
+"PER CAS LO DOCUMENT O UNA VERSION MODIFICADA S’AVERÈSSE DEFECTUÓS AL "
+"RESPÈCTE DE QUIN ASPÈCTE QUE SIÁ, VOSAUTRES (NON PAS LO REDACTOR INICIAL, "
+"L’AUTOR O QUIN CONTRIBUIDOR QUE SIÁ) ASSUMISSÈTZ LO CÒST DE TOTA MANTENENÇA,"
+" REPARACION O CORRECCION NECESSÀRIA. AQUESTA DESCARGA DE GARANTIDA "
+"CONSTITUÍS UNA PART ESSENCIALA D’AQUESTA LICÉNCIA. CAP D’UTILIZACION "
+"D’AQUESTE DOCUMENT O VERSION MODIFICADA ES AUTORIZADA LEVAT JOS AQUESTA "
+"DESCARGA DE GARANTIDA E"
 
 #. (itstool) path: listitem/para
 #: C/legal.xml:56
@@ -335,6 +418,16 @@ msgid ""
 "VERSIONS OF THE DOCUMENT, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE"
 " POSSIBILITY OF SUCH DAMAGES."
 msgstr ""
+"EN CAP DE CIRCONSTÀNCIA E JOS CAP D’INTERPRETACION LEGALA, QUE SIÁ DE "
+"RESPONSABILITAT CIVILA (NEGLIGÉNCIA INCLUSA), CONTRACTUALA O AUTRA, L’AUTOR,"
+" LO REDACTOR INICIAL, TOT CONTRIBUIDOR E TOT DISTRIBUIDOR D’AQUESTE DOCUMENT"
+" O DE SA VERSION MODIFICADA NI CAP DE PROVESIDOR D’AQUESTES PARTS SERÀN PAS "
+"RESPONSABLES AL RESPÈCTE DE QUIN DAMATGE DIRÈCTE, INDIRÈCTE, ESPECIAL O "
+"ACCIDENTAL QUE SIÁ DE TOT TIPE E TANBEN, SENS LIMITACION, LOS DAMATGES "
+"LIGATS A LA PÈRDA DE CLIENTÈLA, LAS INTERRUPCIONS DE TRABALH, ALS "
+"DEFALHIMENTS E DISFONCIONAMENTS INFORMATICS O TOTA AUTRA PÈRDA LIGADA A "
+"L’UTILIZACION DEL DOCUMENT E DE SAS VERSIONS MODIFICADAS, ATAL METEIS "
+"S’AQUESTES PART ÈRAN AVISATS DE LA POSSIBILITAT D’AQUESTES DAMATGES."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:29
@@ -343,12 +436,15 @@ msgid ""
 "OF THE GNU FREE DOCUMENTATION LICENSE WITH THE FURTHER UNDERSTANDING THAT: "
 "<_:orderedlist-1/>"
 msgstr ""
+"LOS DOCUMENTS E LAS VERSIONS MODIFICADAS D’AQUESTE DOCUMENT SON FORNITS JOLS"
+" TÈRMES DE LA LICÉNCIA DE DOCUMENTACION LIURA GNU ESTANT QUE : "
+"<_:orderedlist-1/>"
 
 #. (itstool) path: formalpara/title
 #. (itstool) path: info/title
 #: C/legal.xml:77 C/gosfeedback.xml:7
 msgid "Feedback"
-msgstr ""
+msgstr "Comentaris"
 
 #. (itstool) path: formalpara/para
 #: C/legal.xml:78
@@ -357,11 +453,15 @@ msgid ""
 "manual, follow the directions in the <link xlink:href=\"help:mate-user-"
 "guide/feedback\">MATE Feedback Page</link>."
 msgstr ""
+"Per senhalar una avaria o per formular una suggestion a prepaus del burèu "
+"MATE o aqueste manual, seguissètz las instruccions dins la <ulink url=\"help"
+":mate-user-guide/feedback\" type=\"help\">pagina de comentaris de "
+"MATE</ulink>."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:6
 msgid "Basic Skills"
-msgstr ""
+msgstr "Competéncias basicas"
 
 #. (itstool) path: highlights/para
 #: C/gosbasic.xml:14
@@ -369,21 +469,25 @@ msgid ""
 "This chapter introduces you to the basic skills that you need to work with "
 "the MATE Desktop."
 msgstr ""
+"Aqueste capítol vos presenta las competéncias basicas que vos cal per "
+"trabalhar amb lo bureu MATE."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:18
 msgid "Mouse Skills"
-msgstr ""
+msgstr "Competéncia amb la mirga"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:23
 msgid "<primary>basic skills</primary> <secondary>mouse skills</secondary>"
 msgstr ""
+"<primary>competéncia basicas</primary> <secondary>competéncia amb la "
+"mira</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:27
 msgid "<primary>mouse</primary> <secondary>basic skills</secondary>"
-msgstr ""
+msgstr "<primary>mirga</primary> <secondary>competéncias basicas</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:41
@@ -405,7 +509,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:50
 msgid "Mouse Button Conventions"
-msgstr ""
+msgstr "Convencions botons de la mirga"
 
 #. (itstool) path: info/titleabbrev
 #. (itstool) path: info/title
@@ -502,7 +606,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:103
 msgid "Mouse Actions"
-msgstr ""
+msgstr "Accions de la mirga"
 
 #. (itstool) path: info/titleabbrev
 #: C/gosbasic.xml:103
@@ -780,6 +884,8 @@ msgid ""
 "external ref='figures/normal_pointer.png' "
 "md5='47960823c1883b50400d4fb7be857c72'"
 msgstr ""
+"external ref='figures/normal_pointer.png' "
+"md5='47960823c1883b50400d4fb7be857c72'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:319
@@ -806,6 +912,8 @@ msgid ""
 "external ref='figures/busy_pointer.png' "
 "md5='99db6994613731ca7687bd700c471b2d'"
 msgstr ""
+"external ref='figures/busy_pointer.png' "
+"md5='99db6994613731ca7687bd700c471b2d'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:334
@@ -835,6 +943,8 @@ msgid ""
 "external ref='figures/resize_pointer.png' "
 "md5='43e8186584e1879ba078caedf0a9f33f'"
 msgstr ""
+"external ref='figures/resize_pointer.png' "
+"md5='43e8186584e1879ba078caedf0a9f33f'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:348
@@ -865,6 +975,8 @@ msgid ""
 "external ref='figures/hyperlink_pointer.png' "
 "md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 msgstr ""
+"external ref='figures/hyperlink_pointer.png' "
+"md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:365
@@ -894,6 +1006,8 @@ msgid ""
 "external ref='figures/ibeam_pointer.png' "
 "md5='77aa93e74d640173c96801747bf564d1'"
 msgstr ""
+"external ref='figures/ibeam_pointer.png' "
+"md5='77aa93e74d640173c96801747bf564d1'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:382
@@ -931,6 +1045,8 @@ msgid ""
 "external ref='figures/move_pointer.png' "
 "md5='1a4e4a188a0132fc783c465d42c52426'"
 msgstr ""
+"external ref='figures/move_pointer.png' "
+"md5='1a4e4a188a0132fc783c465d42c52426'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:404
@@ -959,6 +1075,8 @@ msgid ""
 "external ref='figures/copy_pointer.png' "
 "md5='228984e885befffd71ae4eadd7ee790e'"
 msgstr ""
+"external ref='figures/copy_pointer.png' "
+"md5='228984e885befffd71ae4eadd7ee790e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:420
@@ -987,6 +1105,8 @@ msgid ""
 "external ref='figures/link_pointer.png' "
 "md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 msgstr ""
+"external ref='figures/link_pointer.png' "
+"md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:436
@@ -1017,6 +1137,8 @@ msgid ""
 "external ref='figures/ask_pointer.png' "
 "md5='bd23edcf2659006110ce30a14f0abb35'"
 msgstr ""
+"external ref='figures/ask_pointer.png' "
+"md5='bd23edcf2659006110ce30a14f0abb35'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:454
@@ -1046,6 +1168,8 @@ msgid ""
 "external ref='figures/not_available_pointer.png' "
 "md5='19601aaf360da25b8a0d1d18b45ed99e'"
 msgstr ""
+"external ref='figures/not_available_pointer.png' "
+"md5='19601aaf360da25b8a0d1d18b45ed99e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:471
@@ -1075,6 +1199,8 @@ msgid ""
 "external ref='figures/move_panel_object_pointer.png' "
 "md5='e4244fb77b0df2b0c451328dce6fa175'"
 msgstr ""
+"external ref='figures/move_panel_object_pointer.png' "
+"md5='e4244fb77b0df2b0c451328dce6fa175'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:486
@@ -1104,6 +1230,8 @@ msgid ""
 "external ref='figures/movewindow_pointer.png' "
 "md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 msgstr ""
+"external ref='figures/movewindow_pointer.png' "
+"md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:502
@@ -1124,7 +1252,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:521
 msgid "Keyboard Skills"
-msgstr ""
+msgstr "Competéncia al clavièr"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:527
@@ -1191,7 +1319,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:561
 msgid "Global Shortcut Keys"
-msgstr ""
+msgstr "Acorchis globals"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:567
@@ -1209,7 +1337,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:583 C/gosbasic.xml:711 C/gosbasic.xml:852
 msgid "Shortcut Key"
-msgstr ""
+msgstr "Acorchi de clavièr"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:586 C/gosbasic.xml:714 C/gospanel.xml:1075 C/gostools.xml:98
@@ -1230,7 +1358,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:603
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:608
@@ -1242,7 +1370,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:615 C/gostools.xml:105
 msgid "<keycap>Print Screen</keycap>"
-msgstr ""
+msgstr "<keycap>Captura d’ecran</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:620
@@ -1339,7 +1467,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:734
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F4</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F4</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:739
@@ -1349,7 +1477,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:744
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F5</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F5</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:749
@@ -1359,7 +1487,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:754
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F7</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F7</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:759
@@ -1372,7 +1500,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:767
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F8</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F8</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:772
@@ -1385,7 +1513,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:780
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F9</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F9</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:785
@@ -1506,12 +1634,12 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:918
 msgid "Save the current document to disk."
-msgstr ""
+msgstr "Enregistrar una còpia del document actual."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:923
 msgid "<keycap>F1</keycap>"
-msgstr ""
+msgstr "<keycap>F1</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:926
@@ -1555,7 +1683,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:972
 msgid "<keycap>F10</keycap>"
-msgstr ""
+msgstr "<keycap>F10</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:975
@@ -1575,7 +1703,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:990
 msgid "<keycap>Esc</keycap>"
-msgstr ""
+msgstr "<keycap>Esc</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:993
@@ -1632,7 +1760,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:6
 msgid "Configuring Your Desktop"
-msgstr ""
+msgstr "Configuracion del burèu"
 
 #. (itstool) path: highlights/para
 #: C/goscustdesk.xml:22
@@ -2054,7 +2182,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:209
 msgid "Look and Feel"
-msgstr ""
+msgstr "Aparéncia"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:211
@@ -2071,22 +2199,22 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:216
 msgid "Theme,"
-msgstr ""
+msgstr "tèmas,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:219
 msgid "Desktop Background,"
-msgstr ""
+msgstr "rèire-plan,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:222
 msgid "Fonts,"
-msgstr ""
+msgstr "poliças,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:225
 msgid "User Interface."
-msgstr ""
+msgstr "interfàcia utilizaire."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:229
@@ -2617,7 +2745,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:574
 msgid "<guilabel>Colors</guilabel>"
-msgstr ""
+msgstr "<guilabel>Colors</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:579
@@ -3349,7 +3477,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1030
 msgid "<guilabel>Connections</guilabel>"
-msgstr ""
+msgstr "<guilabel>Connexions</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1032
@@ -3399,7 +3527,7 @@ msgstr "Utilizacion"
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1061
 msgid "To modify a connection settings"
-msgstr ""
+msgstr "Per modificar los paramètres de connexion"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1062
@@ -3631,6 +3759,8 @@ msgstr ""
 msgid ""
 "<primary>Internet</primary> <secondary>configuring connection</secondary>"
 msgstr ""
+"<primary>Internet</primary> <secondary>configuracion de "
+"connexion</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1161
@@ -3880,7 +4010,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1322
 msgid "<guilabel>Password</guilabel>"
-msgstr ""
+msgstr "<guilabel>Senhal</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1327
@@ -4011,7 +4141,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1476
 msgid "Keyboard Layouts Preferences"
-msgstr ""
+msgstr "Preferéncias d’agençament del clavièr"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1479
@@ -4105,7 +4235,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1507
 msgid "Keyboard Layout Options"
-msgstr "Error al mment de l'enregistrament de la configuracion : %s"
+msgstr "Opcions d’agençament del clavièr"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1510
@@ -4755,7 +4885,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2039
 msgid "<guilabel>Right-handed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Drechièr</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2044
@@ -4768,7 +4898,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2049
 msgid "<guilabel>Left-handed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Esquerrièr</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2054
@@ -4823,7 +4953,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2100
 msgid "<guilabel>Threshold</guilabel>"
-msgstr ""
+msgstr "<guilabel>Sulhet</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2105
@@ -5306,7 +5436,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2457 C/goscustdesk.xml:2460
 msgid "Sound Effects Preferences"
-msgstr ""
+msgstr "Preferéncias d’efèits sonòrs"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2458
@@ -5349,7 +5479,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2489
 msgid "<guilabel>Sound Theme </guilabel>"
-msgstr ""
+msgstr "<guilabel>Tèma sonòr </guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2494
@@ -5554,7 +5684,7 @@ msgstr "Sistèma"
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2665
 msgid "Sessions Preferences"
-msgstr "Preferéncias de las sesilhas"
+msgstr "Preferéncias de las sessions"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2668 C/gosstartsession.xml:178
@@ -5627,7 +5757,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2710
 msgid "Session Options"
-msgstr "Opcions de la sesilha"
+msgstr "Opcions de la session"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2727
@@ -5804,7 +5934,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goseditmainmenu.xml:38
 msgid "Applications Menu"
-msgstr "Menut de las aplicacions"
+msgstr "Menú de las aplicacions"
 
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:41
@@ -5878,7 +6008,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:62
 msgid "Your Home folder"
-msgstr ""
+msgstr "Vòstre dossièr personal"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:63
@@ -6023,7 +6153,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:108
 msgid "<guimenu>Applications</guimenu> menu"
-msgstr "Menut <guimenu>Applications</guimenu>"
+msgstr "Menú <guimenu>Aplicacions</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:111
@@ -6222,6 +6352,8 @@ msgid ""
 "external ref='figures/caja_always_use_browser.png' "
 "md5='19e041314b3a9c8844180f7bf0ef6282'"
 msgstr ""
+"external ref='figures/caja_always_use_browser.png' "
+"md5='19e041314b3a9c8844180f7bf0ef6282'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:80
@@ -6283,6 +6415,8 @@ msgid ""
 "external ref='figures/caja_browser_mode.png' "
 "md5='44b92e32cdc342cd5624b1be5626386d'"
 msgstr ""
+"external ref='figures/caja_browser_mode.png' "
+"md5='44b92e32cdc342cd5624b1be5626386d'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:100
@@ -6333,6 +6467,8 @@ msgid ""
 "external ref='figures/caja_spatial_mode.png' "
 "md5='f2f8e037d14274ac04e1df45664f2103'"
 msgstr ""
+"external ref='figures/caja_spatial_mode.png' "
+"md5='f2f8e037d14274ac04e1df45664f2103'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:120 C/goscaja.xml:181
@@ -6455,6 +6591,8 @@ msgid ""
 "external ref='figures/caja_spatial_view.png' "
 "md5='08673c38f4b4327f94f298c73b0d270b'"
 msgstr ""
+"external ref='figures/caja_spatial_view.png' "
+"md5='08673c38f4b4327f94f298c73b0d270b'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:167
@@ -6520,7 +6658,7 @@ msgstr "Component"
 #. (itstool) path: term/interface
 #: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:319
 msgid "Menubar"
-msgstr "Barra de menuts"
+msgstr "Barra de menús"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:219 C/goscaja.xml:405
@@ -6754,7 +6892,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:347
 msgid "Browser Mode"
-msgstr ""
+msgstr "Mòde navigador"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:352
@@ -7019,7 +7157,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:516
 msgid "<guilabel>Emblems</guilabel>"
-msgstr ""
+msgstr "<guilabel>Emblèmas</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:519
@@ -7143,6 +7281,8 @@ msgid ""
 "external ref='figures/caja_button_bar.png' "
 "md5='447c19259a84de017f4431ea205bed03'"
 msgstr ""
+"external ref='figures/caja_button_bar.png' "
+"md5='447c19259a84de017f4431ea205bed03'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:609
@@ -7208,6 +7348,8 @@ msgid ""
 "external ref='figures/caja_go_to_location.png' "
 "md5='f5731ef77db819a54be69cab8806529a'"
 msgstr ""
+"external ref='figures/caja_go_to_location.png' "
+"md5='f5731ef77db819a54be69cab8806529a'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:628
@@ -7248,6 +7390,8 @@ msgid ""
 "external ref='figures/caja_search_bar.png' "
 "md5='60a9a159dee2d7ad5c035ed794845798'"
 msgstr ""
+"external ref='figures/caja_search_bar.png' "
+"md5='60a9a159dee2d7ad5c035ed794845798'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:644 C/goscaja.xml:982
@@ -7848,6 +7992,8 @@ msgid ""
 "external ref='figures/caja_search_results.png' "
 "md5='cdb07b97b638c6157d40d57373fcc5d4'"
 msgstr ""
+"external ref='figures/caja_search_results.png' "
+"md5='cdb07b97b638c6157d40d57373fcc5d4'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:995
@@ -7883,6 +8029,8 @@ msgid ""
 "external ref='figures/caja_refine_search.png' "
 "md5='c3d58f408fd7ec2f6965a0f06e05c43e'"
 msgstr ""
+"external ref='figures/caja_refine_search.png' "
+"md5='c3d58f408fd7ec2f6965a0f06e05c43e'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1008
@@ -7921,6 +8069,8 @@ msgid ""
 "external ref='figures/caja_restore_saved_search.png' "
 "md5='1b7dbb7d82639abe4d9f8cc75bc2c80f'"
 msgstr ""
+"external ref='figures/caja_restore_saved_search.png' "
+"md5='1b7dbb7d82639abe4d9f8cc75bc2c80f'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1028
@@ -8166,6 +8316,8 @@ msgid ""
 "external ref='figures/caja_spatial_icon_view.png' "
 "md5='c2dd3a38476c26a924c2673c6bb6de93'"
 msgstr ""
+"external ref='figures/caja_spatial_icon_view.png' "
+"md5='c2dd3a38476c26a924c2673c6bb6de93'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1151
@@ -8203,6 +8355,8 @@ msgid ""
 "external ref='figures/caja_spatial_list_view.png' "
 "md5='99693c429ea6f6889793a85b0c8fb099'"
 msgstr ""
+"external ref='figures/caja_spatial_list_view.png' "
+"md5='99693c429ea6f6889793a85b0c8fb099'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1167
@@ -8311,7 +8465,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1251
 msgid "<guilabel>By Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Per talha</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1256
@@ -8353,7 +8507,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1290
 msgid "<guilabel>By Emblems</guilabel>"
-msgstr ""
+msgstr "<guilabel>Per emblèmas</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1295
@@ -8509,6 +8663,8 @@ msgid ""
 "external ref='figures/caja_zoom_out_button.png' "
 "md5='372c3f4288c029af11bac9c9012f7d8c'"
 msgstr ""
+"external ref='figures/caja_zoom_out_button.png' "
+"md5='372c3f4288c029af11bac9c9012f7d8c'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1391
@@ -8539,6 +8695,8 @@ msgid ""
 "external ref='figures/caja_normal_size_button.png' "
 "md5='5bf2b3af293a950536ca593cd49b2f5e'"
 msgstr ""
+"external ref='figures/caja_normal_size_button.png' "
+"md5='5bf2b3af293a950536ca593cd49b2f5e'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1411
@@ -8569,6 +8727,8 @@ msgid ""
 "external ref='figures/caja_zoom_in_button.png' "
 "md5='0369994f20b3221243b5b7550a5a9318'"
 msgstr ""
+"external ref='figures/caja_zoom_in_button.png' "
+"md5='0369994f20b3221243b5b7550a5a9318'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1433
@@ -8874,7 +9034,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1690
 msgid "<guimenuitem>Copy here</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>Copiar aquí</guimenuitem>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1693
@@ -8907,7 +9067,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1709
 msgid "<guimenuitem>Cancel</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>Anullar</guimenuitem>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1712
@@ -9525,7 +9685,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2046
 msgid "Property"
-msgstr "Propietat"
+msgstr "Proprietat"
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
@@ -9649,7 +9809,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2129
 msgid "Owner"
-msgstr "Propietari"
+msgstr "Proprietari"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2131
@@ -9868,7 +10028,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2249
 msgid "List files only"
-msgstr "Visualizar pas que los fichièrs dins la tièra"
+msgstr "Visualizar pas que los fichièrs dins la lista"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2251
@@ -10185,6 +10345,8 @@ msgid ""
 "external ref='figures/caja_trash_launcher.png' "
 "md5='42951c298a8bc2e3cd779e636e64efcd'"
 msgstr ""
+"external ref='figures/caja_trash_launcher.png' "
+"md5='42951c298a8bc2e3cd779e636e64efcd'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2428
@@ -10414,7 +10576,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:2541
 msgid "Item Properties"
-msgstr "Propietats de l'element"
+msgstr "Proprietats de l'element"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2545
@@ -10570,6 +10732,8 @@ msgid ""
 "external ref='figures/caja_emblem.png' "
 "md5='4dfffab4440360f5b2a307b42fa50691'"
 msgstr ""
+"external ref='figures/caja_emblem.png' "
+"md5='4dfffab4440360f5b2a307b42fa50691'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2602
@@ -10629,7 +10793,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2638
 msgid "Default Emblem"
-msgstr ""
+msgstr "Emblèma per defaut"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -10642,6 +10806,8 @@ msgid ""
 "external ref='figures/caja_link_emblem.png' "
 "md5='7fefb663977d2a003bc86b8eb61e9100'"
 msgstr ""
+"external ref='figures/caja_link_emblem.png' "
+"md5='7fefb663977d2a003bc86b8eb61e9100'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2649
@@ -10672,6 +10838,8 @@ msgid ""
 "external ref='figures/caja_nowrite_emblem.png' "
 "md5='06a5b7050d82e38d2f54048a1f698092'"
 msgstr ""
+"external ref='figures/caja_nowrite_emblem.png' "
+"md5='06a5b7050d82e38d2f54048a1f698092'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2666
@@ -10692,6 +10860,8 @@ msgid ""
 "external ref='figures/caja_noread_emblem.png' "
 "md5='e54419d1a042a072d0a56effcc13278a'"
 msgstr ""
+"external ref='figures/caja_noread_emblem.png' "
+"md5='e54419d1a042a072d0a56effcc13278a'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2683
@@ -10804,7 +10974,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:2768
 msgid "Creating a New Emblem"
-msgstr ""
+msgstr "Creacion d’emblèmas novèlas"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2770
@@ -12098,7 +12268,7 @@ msgstr "Entresenhas"
 #: C/goscaja.xml:3597 C/goscaja.xml:3747 C/gospanel.xml:189
 #: C/gospanel.xml:1420
 msgid "<guilabel>Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Talha</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3602 C/goscaja.xml:3752
@@ -12108,7 +12278,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3607 C/goscaja.xml:3757
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tipe</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3612
@@ -12150,7 +12320,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3647 C/goscaja.xml:3789
 msgid "<guilabel>Group</guilabel>"
-msgstr ""
+msgstr "<guilabel>Grop</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3652 C/goscaja.xml:3794
@@ -12733,6 +12903,8 @@ msgid ""
 "This extension provides a simple way to send a file or folder to another "
 "using email, instant messaging, or Bluetooth."
 msgstr ""
+"Aquesta extension provesís un biais simple d’enviar un fichièr o un dossièr "
+"per mail, messatjariá instantanèa o Bluetooth"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:4218
@@ -13183,6 +13355,8 @@ msgid ""
 "external ref='figures/titlebar_window.png' "
 "md5='b3624c3e2eeb934a16ff5689c8163f44'"
 msgstr ""
+"external ref='figures/titlebar_window.png' "
+"md5='b3624c3e2eeb934a16ff5689c8163f44'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosoverview.xml:203
@@ -13494,6 +13668,8 @@ msgid ""
 "external ref='figures/workspace_switcher_applet.png' "
 "md5='00b75c538008ce6d01801ae2eb907af9'"
 msgstr ""
+"external ref='figures/workspace_switcher_applet.png' "
+"md5='00b75c538008ce6d01801ae2eb907af9'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosoverview.xml:341
@@ -14443,7 +14619,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:146
 msgid "Panel Properties"
-msgstr "Propietats del panèl"
+msgstr "Proprietats del panèl"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:149
@@ -14685,6 +14861,8 @@ msgid ""
 "external ref='figures/four_hide_button.png' "
 "md5='932231a03b23ecdb2563af3460091151'"
 msgstr ""
+"external ref='figures/four_hide_button.png' "
+"md5='932231a03b23ecdb2563af3460091151'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:341
@@ -14995,6 +15173,8 @@ msgid ""
 "external ref='figures/panel_object_popup_menu.png' "
 "md5='35135b4653e42312c3e83f399ec6d406'"
 msgstr ""
+"external ref='figures/panel_object_popup_menu.png' "
+"md5='35135b4653e42312c3e83f399ec6d406'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:515
@@ -15239,6 +15419,8 @@ msgid ""
 "external ref='figures/sample_applet.png' "
 "md5='d61c0b0d5b4a5758c5c8ec210c1682e1'"
 msgstr ""
+"external ref='figures/sample_applet.png' "
+"md5='d61c0b0d5b4a5758c5c8ec210c1682e1'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:681
@@ -15251,7 +15433,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:692
 msgid "Launchers"
-msgstr "Aviaires"
+msgstr "Aviadors"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:695
@@ -15459,7 +15641,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:792
 msgid "Launcher Properties"
-msgstr "Propietats de l'aviaire"
+msgstr "Proprietats de l'aviador"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:796
@@ -15487,7 +15669,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:807
 msgid "Application in Terminal"
-msgstr ""
+msgstr "Aviar dins un terminal"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:809
@@ -15730,6 +15912,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/force_quit.png' md5='4e6cd725cd4977eaeab464ce4ff266ce'"
 msgstr ""
+"external ref='figures/force_quit.png' md5='4e6cd725cd4977eaeab464ce4ff266ce'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1006
@@ -15782,6 +15965,8 @@ msgid ""
 "external ref='figures/lockscreen_icon.png' "
 "md5='a5937cc295f73c51d54a0761ae924000'"
 msgstr ""
+"external ref='figures/lockscreen_icon.png' "
+"md5='a5937cc295f73c51d54a0761ae924000'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1034 C/gosstartsession.xml:139
@@ -15905,6 +16090,8 @@ msgid ""
 "external ref='figures/logout_icon.png' "
 "md5='b695adb45b2eaed0d80203635a70a5bb'"
 msgstr ""
+"external ref='figures/logout_icon.png' "
+"md5='b695adb45b2eaed0d80203635a70a5bb'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1120
@@ -15968,6 +16155,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/run_button.png' md5='68e8f81b231ed542e57349c93241f3f7'"
 msgstr ""
+"external ref='figures/run_button.png' md5='68e8f81b231ed542e57349c93241f3f7'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1153
@@ -16039,6 +16227,8 @@ msgid ""
 "external ref='figures/searchtool_button.png' "
 "md5='e6210d7a387eccba73a76c215f078611'"
 msgstr ""
+"external ref='figures/searchtool_button.png' "
+"md5='e6210d7a387eccba73a76c215f078611'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1188
@@ -16126,6 +16316,8 @@ msgid ""
 "external ref='figures/show_desktop_button.png' "
 "md5='c228bbe71372d2a5afb76c3c7943e739'"
 msgstr ""
+"external ref='figures/show_desktop_button.png' "
+"md5='c228bbe71372d2a5afb76c3c7943e739'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1234
@@ -16162,7 +16354,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1254
 msgid "Menus"
-msgstr "Menuts"
+msgstr "Menús"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1259
@@ -16270,6 +16462,8 @@ msgid ""
 "external ref='figures/open_drawer.png' "
 "md5='ce13f1ec9eaed826ef4e113de0cd5d9c'"
 msgstr ""
+"external ref='figures/open_drawer.png' "
+"md5='ce13f1ec9eaed826ef4e113de0cd5d9c'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1311
@@ -16523,6 +16717,8 @@ msgid ""
 "external ref='figures/openwindows_menu.png' "
 "md5='5de74eda192636868298a97043530d75'"
 msgstr ""
+"external ref='figures/openwindows_menu.png' "
+"md5='5de74eda192636868298a97043530d75'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1501
@@ -16580,6 +16776,8 @@ msgid ""
 "external ref='figures/notification_area_icon.png' "
 "md5='973b76c720b51d9495208ab2d62ecdec'"
 msgstr ""
+"external ref='figures/notification_area_icon.png' "
+"md5='973b76c720b51d9495208ab2d62ecdec'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1533
@@ -16603,7 +16801,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
 msgid "Classic Menu"
-msgstr ""
+msgstr "Menú classic"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -16616,6 +16814,8 @@ msgid ""
 "external ref='figures/menu_bar_applet.png' "
 "md5='8f4bca946498664c1cddd238a5a23498'"
 msgstr ""
+"external ref='figures/menu_bar_applet.png' "
+"md5='8f4bca946498664c1cddd238a5a23498'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1552
@@ -16639,7 +16839,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1571
 msgid "Window List"
-msgstr "Tièra de las fenèstras"
+msgstr "Lista de las fenèstras"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1572
@@ -17341,7 +17541,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:291
 msgid "<primary>shutdown</primary>"
-msgstr ""
+msgstr "<primary>atudar</primary>"
 
 #. (itstool) path: section/para
 #: C/gosstartsession.xml:307
@@ -17788,7 +17988,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:305
 msgid "Interface"
-msgstr "Interfaç"
+msgstr "Interfàcia"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:306
@@ -17813,6 +18013,8 @@ msgid ""
 "external ref='figures/yelp_window.png' "
 "md5='c7138987ae131fe2c57846a281245d31'"
 msgstr ""
+"external ref='figures/yelp_window.png' "
+"md5='c7138987ae131fe2c57846a281245d31'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:309
@@ -17870,7 +18072,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:363
 msgid "<guimenu>Help</guimenu>"
-msgstr ""
+msgstr "<guimenu>Ajuda</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:366
@@ -18025,7 +18227,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:494
 msgid "Print a Page"
-msgstr "Estampar una pagina"
+msgstr "Imprimir una pagina"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:495
@@ -18044,12 +18246,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:508
 msgid "Print a Document"
-msgstr "Estampar un document"
+msgstr "Imprimir un document"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:509
 msgid "To print an entire document:"
-msgstr "Estampar un document en entièr :"
+msgstr "Imprimir un document en entièr :"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:513
@@ -18130,6 +18332,8 @@ msgid ""
 "external ref='figures/yelp_preferences.png' "
 "md5='b8beb6c866957938b5e39bc7f72611ec'"
 msgstr ""
+"external ref='figures/yelp_preferences.png' "
+"md5='b8beb6c866957938b5e39bc7f72611ec'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:557
@@ -18401,6 +18605,8 @@ msgid ""
 "external ref='figures/yelp_add_bookmark.png' "
 "md5='562a62662f47655337c9bf341ef69f6e'"
 msgstr ""
+"external ref='figures/yelp_add_bookmark.png' "
+"md5='562a62662f47655337c9bf341ef69f6e'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:774
@@ -18459,6 +18665,8 @@ msgid ""
 "external ref='figures/yelp_edit_bookmarks.png' "
 "md5='6fb478c10bb9df68dc8d82f3ed4ac89b'"
 msgstr ""
+"external ref='figures/yelp_edit_bookmarks.png' "
+"md5='6fb478c10bb9df68dc8d82f3ed4ac89b'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:803
@@ -18925,6 +19133,8 @@ msgid ""
 "external ref='figures/org_mate_desktop_background_logical_view.png' "
 "md5='657d280ac9bef4a700c8f46561072828'"
 msgstr ""
+"external ref='figures/org_mate_desktop_background_logical_view.png' "
+"md5='657d280ac9bef4a700c8f46561072828'"
 
 #. (itstool) path: figure/mediaobject
 #: C/gosdconf.xml:94
@@ -18984,6 +19194,8 @@ msgid ""
 "external ref='figures/picture_filename_dconf_key_view.png' "
 "md5='f03c4f0335a297d49495410dc37b5888'"
 msgstr ""
+"external ref='figures/picture_filename_dconf_key_view.png' "
+"md5='f03c4f0335a297d49495410dc37b5888'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosdconf.xml:125
@@ -19106,6 +19318,8 @@ msgid ""
 "external ref='figures/org_mate_desktop_background_only_logical_view.png' "
 "md5='ba63c30934dd9cc0379f54d0cc90850a'"
 msgstr ""
+"external ref='figures/org_mate_desktop_background_only_logical_view.png' "
+"md5='ba63c30934dd9cc0379f54d0cc90850a'"
 
 #. (itstool) path: figure/mediaobject
 #: C/gosdconf.xml:197
@@ -19164,6 +19378,8 @@ msgid ""
 "external ref='figures/picture_filename_dconf_key_edit.png' "
 "md5='6c51950700e166ae8e96193b1ac8d0cc'"
 msgstr ""
+"external ref='figures/picture_filename_dconf_key_edit.png' "
+"md5='6c51950700e166ae8e96193b1ac8d0cc'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosdconf.xml:235
@@ -20423,7 +20639,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1328
 msgid "left-handed"
-msgstr ""
+msgstr "esquerrièr"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1330
@@ -20693,6 +20909,9 @@ msgid ""
 "suggestions and comments about MATE applications or documentation, and ways "
 "in which you can help MATE."
 msgstr ""
+"Aquesta seccion conten las informacion sul senhalament d’avarias dins MATE, "
+"las suggestions e los comentaris a prepaus de las aplicacions MATE o lor "
+"documentacion, e de biaisses per qu’ajudetz MATE."
 
 #. (itstool) path: info/title
 #: C/gosfeedback.xml:11
@@ -20963,7 +21182,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:88
 msgid "launcher"
-msgstr "aviaire"
+msgstr "aviador"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:90
@@ -20975,7 +21194,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:95
 msgid "menubar"
-msgstr ""
+msgstr "menubar"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:97
@@ -21123,7 +21342,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:184
 msgid "view"
-msgstr "Visualizacion"
+msgstr "veire"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:186

@@ -1,15 +1,16 @@
+# 
 # Translators:
 # Puretech <terjemah.puretech@gmail.com>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# abuyop <abuyop@gmail.com>, 2020
+# abuyop <abuyop@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: abuyop <abuyop@gmail.com>, 2020\n"
+"Last-Translator: abuyop <abuyop@gmail.com>, 2021\n"
 "Language-Team: Malay (https://www.transifex.com/mate/teams/13566/ms/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,8 +41,8 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
+msgstr "<year>2015-2021</year> <holder>Projek Dokumentasi MATE</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -1264,7 +1265,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:583 C/gosbasic.xml:711 C/gosbasic.xml:852
 msgid "Shortcut Key"
-msgstr ""
+msgstr "Kekunci Pintasan"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:586 C/gosbasic.xml:714 C/gospanel.xml:1075 C/gostools.xml:98
@@ -1522,6 +1523,7 @@ msgstr ""
 #: C/gosbasic.xml:877
 msgid "Cut the selected text or region and place it on the clipboard."
 msgstr ""
+"Potong teks atau kawasan terpilih dan letak ia ke dalam papan keratan."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:883
@@ -1531,7 +1533,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:888
 msgid "Copy the selected text or region onto the clipboard."
-msgstr ""
+msgstr "Salin teks atau kawasan terpilih ke dalam papan keratan."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:893
@@ -1541,7 +1543,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:898
 msgid "Paste the contents of the clipboard."
-msgstr ""
+msgstr "Tampal kandungan papan keratan."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:903
@@ -1551,7 +1553,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:908
 msgid "Undo the last action."
-msgstr ""
+msgstr "Buat asal tindakan terakhir."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:913
@@ -1561,7 +1563,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:918
 msgid "Save the current document to disk."
-msgstr ""
+msgstr "Simpan dokumen semasa ke dalam cakera."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:923
@@ -15903,7 +15905,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1072
 msgid "Menu Item"
-msgstr ""
+msgstr "Item Menu"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1082

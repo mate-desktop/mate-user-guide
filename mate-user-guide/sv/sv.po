@@ -1,22 +1,25 @@
+# 
 # Translators:
 # Patrik Nilsson <asavartzeth@gmail.com>, 2018
 # Claes-Göran Nydahl <goldug@gmail.com>, 2018
-# Daniel Gullbransen <daniel@llama.nu>, 2018
+# Daniel Gullbransen, 2018
 # Henrik Mattsson-Mårn <h@reglage.net>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # 6a42dd6e7ca9a813693714b0d9aa1ad8, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
-# Kristoffer Grundström <hamnisdude@gmail.com>, 2018
 # Tobias Lekare <lekare@linux.com>, 2019
 # crash <d.ubuntu@gmail.com>, 2019
+# eckeman <eckeman@zoho.com>, 2020
+# Luna Jernberg <bittin@cafe8bitar.se>, 2021
+# Kristoffer Grundström <lovaren@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: crash <d.ubuntu@gmail.com>, 2019\n"
+"Last-Translator: Kristoffer Grundström <lovaren@gmail.com>, 2021\n"
 "Language-Team: Swedish (https://www.transifex.com/mate/teams/13566/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,23 +50,23 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
 msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
 msgid "<year>2005</year> <holder>Shaun McCance</holder>"
-msgstr ""
+msgstr "<year>2005</year><holder>Shaun McCance</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:22
 msgid "<year>2004</year> <holder>Sun Microsystems</holder>"
-msgstr ""
+msgstr "<year>2004</year><holder>Sun Microsystems</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:26
 msgid "<year>2003</year> <holder>Sun Microsystems</holder>"
-msgstr ""
+msgstr "<year>2003</year> <holder>Sun Microsystems</holder>"
 
 #. (itstool) path: publisher/publishername
 #. (itstool) path: revdescription/para
@@ -177,13 +180,14 @@ msgstr ""
 #. (itstool) path: revdescription/para
 #: C/index.docbook:171
 msgid "Wolfgang Ulbrich"
-msgstr ""
+msgstr "Wolfgang Ulbrich"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:167
 msgid ""
 "<revnumber>2.15</revnumber> <date>2015-07-01</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.15</revnumber><date>2015-07-01</date><_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:179
@@ -203,6 +207,7 @@ msgstr "Dokumentationsprojekt för GNOME"
 msgid ""
 "<revnumber>2.14</revnumber> <date>2006-02-03</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.141</revnumber><date>2006-02-03</date><_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:187
@@ -214,12 +219,14 @@ msgstr "Shaun McCance"
 msgid ""
 "<revnumber>2.10</revnumber> <date>2005-03-08</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.10</revnumber> <date>2005-03-08</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:191
 msgid ""
 "<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:202 C/index.docbook:210 C/index.docbook:218
@@ -233,52 +240,57 @@ msgstr "Sun Microsystems"
 msgid ""
 "<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
 msgid ""
 "<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.6</revnumber> <date>Augusti 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
 msgid ""
 "<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>2.5</revnumber> Mars 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
 msgid ""
 "<revnumber>2.4</revnumber> <date>January 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.4</revnumber> <date>Januari 2003</date><_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:230
 msgid ""
 "<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>2.3</revnumber> Oktober 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
 msgid ""
 "<revnumber>2.2</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.2</revnumber> <date> Augusti 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:246
 msgid ""
 "<revnumber>2.1</revnumber> <date>August 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.1</revnumber> <date>Augusti 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:254
 msgid "<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
-msgstr ""
+msgstr "<revnumber>1.0</revnumber> Maj 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
 msgid "This manual describes version 1.22 of the MATE desktop."
-msgstr ""
+msgstr "Den här manualen beskriver version 1.22 av MATE-skrivbordet."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:4
@@ -890,6 +902,8 @@ msgid ""
 "external ref='figures/normal_pointer.png' "
 "md5='47960823c1883b50400d4fb7be857c72'"
 msgstr ""
+"external ref='figures/normal_pointer.png' "
+"md5='47960823c1883b50400d4fb7be857c72'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:319
@@ -916,6 +930,8 @@ msgid ""
 "external ref='figures/busy_pointer.png' "
 "md5='99db6994613731ca7687bd700c471b2d'"
 msgstr ""
+"external ref='figures/busy_pointer.png' "
+"md5='99db6994613731ca7687bd700c471b2d'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:334
@@ -948,6 +964,8 @@ msgid ""
 "external ref='figures/resize_pointer.png' "
 "md5='43e8186584e1879ba078caedf0a9f33f'"
 msgstr ""
+"external ref='figures/resize_pointer.png' "
+"md5='43e8186584e1879ba078caedf0a9f33f'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:348
@@ -982,6 +1000,8 @@ msgid ""
 "external ref='figures/hyperlink_pointer.png' "
 "md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 msgstr ""
+"external ref='figures/hyperlink_pointer.png' "
+"md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:365
@@ -1015,6 +1035,8 @@ msgid ""
 "external ref='figures/ibeam_pointer.png' "
 "md5='77aa93e74d640173c96801747bf564d1'"
 msgstr ""
+"external ref='figures/ibeam_pointer.png' "
+"md5='77aa93e74d640173c96801747bf564d1'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:382
@@ -1058,6 +1080,8 @@ msgid ""
 "external ref='figures/move_pointer.png' "
 "md5='1a4e4a188a0132fc783c465d42c52426'"
 msgstr ""
+"external ref='figures/move_pointer.png' "
+"md5='1a4e4a188a0132fc783c465d42c52426'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:404
@@ -1088,6 +1112,8 @@ msgid ""
 "external ref='figures/copy_pointer.png' "
 "md5='228984e885befffd71ae4eadd7ee790e'"
 msgstr ""
+"external ref='figures/copy_pointer.png' "
+"md5='228984e885befffd71ae4eadd7ee790e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:420
@@ -1118,6 +1144,8 @@ msgid ""
 "external ref='figures/link_pointer.png' "
 "md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 msgstr ""
+"external ref='figures/link_pointer.png' "
+"md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:436
@@ -1153,6 +1181,8 @@ msgid ""
 "external ref='figures/ask_pointer.png' "
 "md5='bd23edcf2659006110ce30a14f0abb35'"
 msgstr ""
+"external ref='figures/ask_pointer.png' "
+"md5='bd23edcf2659006110ce30a14f0abb35'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:454
@@ -1186,6 +1216,8 @@ msgid ""
 "external ref='figures/not_available_pointer.png' "
 "md5='19601aaf360da25b8a0d1d18b45ed99e'"
 msgstr ""
+"external ref='figures/not_available_pointer.png' "
+"md5='19601aaf360da25b8a0d1d18b45ed99e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:471
@@ -1218,6 +1250,8 @@ msgid ""
 "external ref='figures/move_panel_object_pointer.png' "
 "md5='e4244fb77b0df2b0c451328dce6fa175'"
 msgstr ""
+"external ref='figures/move_panel_object_pointer.png' "
+"md5='e4244fb77b0df2b0c451328dce6fa175'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:486
@@ -1250,6 +1284,8 @@ msgid ""
 "external ref='figures/movewindow_pointer.png' "
 "md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 msgstr ""
+"external ref='figures/movewindow_pointer.png' "
+"md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:502
@@ -1396,7 +1432,7 @@ msgstr "Funktion"
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:593
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F1</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F1</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:598
@@ -1406,7 +1442,7 @@ msgstr "Öppnar <guimenu>Program</guimenu>-menyn."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:603
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:608
@@ -1466,6 +1502,8 @@ msgid ""
 "<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
 "<keycap>D</keycap></keycombo>"
 msgstr ""
+"<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
+"<keycap>D</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:655
@@ -1475,7 +1513,7 @@ msgstr "Minimera alla fönster och ge fokus till skrivbordet."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:660 C/gosbasic.xml:721
 msgid "<keycombo> <keycap>Alt</keycap><keycap>Tab</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Alt</keycap><keycap>Tab</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:665 C/gosbasic.xml:726
@@ -1495,6 +1533,7 @@ msgid ""
 "<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
 "<keycap>Tab</keycap></keycombo>"
 msgstr ""
+"<keycap><keycombo>Ctrl</keycap><keycap>Alt</keycap><keycap>Tab</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:679
@@ -1533,7 +1572,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:734
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F4</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Alt</keycap> <keycap>F4</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:739
@@ -1543,7 +1582,7 @@ msgstr "Stäng det för närvarande fokuserade fönstret."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:744
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F5</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Alt</keycap><keycap>F5</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:749
@@ -1553,7 +1592,7 @@ msgstr "Avmaximera aktuellt fönster, om det är maximerat."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:754
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F7</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Alt</keycap><keycap>F7</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:759
@@ -1570,7 +1609,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:767
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F8</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F8</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:772
@@ -1583,7 +1622,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:780
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F9</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Alt</keycap><keycap>F9</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:785
@@ -1593,7 +1632,7 @@ msgstr "Minimera aktuellt fönster."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:790
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F10</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Alt</keycap> <keycap>F10</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:795
@@ -1603,7 +1642,7 @@ msgstr "Maximera aktuellt fönster."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:800
 msgid "<keycombo> <keycap>Alt</keycap><keycap>spacebar</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Alt</keycap><keycap>mellanslag</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:805
@@ -1659,7 +1698,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:862
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>N</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Ctrl</keycap><keycap>N</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:867
@@ -1669,7 +1708,7 @@ msgstr "Skapa ett nytt dokument eller fönster."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:872
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>X</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Ctrl</keycap><keycap>X</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:877
@@ -1679,7 +1718,7 @@ msgstr "Klipp ut markerad text eller område och placera det i urklipp."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:883
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>C</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Ctrl</keycap><keycap>C</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:888
@@ -1689,7 +1728,7 @@ msgstr "Kopiera markerad text eller område till urklipp."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:893
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>V</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Ctrl</keycap><keycap>V</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:898
@@ -1699,7 +1738,7 @@ msgstr "Klistra in innehållet i urklipp."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:903
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>Z</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Ctrl</keycap><keycap>Z</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:908
@@ -1709,7 +1748,7 @@ msgstr "Ångra senaste åtgärden."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:913
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>S</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Ctrl</keycap><keycap>S</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:918
@@ -1719,7 +1758,7 @@ msgstr "Spara aktuellt dokument till disk."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:923
 msgid "<keycap>F1</keycap>"
-msgstr ""
+msgstr "<keycap>F1</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:926
@@ -1768,7 +1807,7 @@ msgstr "Aktivera eller välj det markerade objektet."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:972
 msgid "<keycap>F10</keycap>"
-msgstr ""
+msgstr "<keycap>F10</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:975
@@ -1778,7 +1817,7 @@ msgstr "Aktivera den vänstra menyn i programfönstret."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:980
 msgid "<keycombo> <keycap>Shift</keycap><keycap>F10</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Shift</keycap><keycap>F10</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:985
@@ -1788,7 +1827,7 @@ msgstr "Aktivera sammanhangsmenyn för det markerade objektet."
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:990
 msgid "<keycap>Esc</keycap>"
-msgstr ""
+msgstr "<keycap>Esc</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:993
@@ -2901,7 +2940,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:506
 msgid "<guibutton>Desktop Background</guibutton>"
-msgstr ""
+msgstr "<guibutton>Skrivbordsbakgrund</guibutton>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:511
@@ -2915,7 +2954,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:517
 msgid "<guilabel>Style</guilabel>"
-msgstr ""
+msgstr "<guilabel>Stil</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:522
@@ -2991,7 +3030,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:563
 msgid "<guilabel>Remove</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ta bort</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:568
@@ -3008,7 +3047,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:574
 msgid "<guilabel>Colors</guilabel>"
-msgstr ""
+msgstr "<guilabel>Färger</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:579
@@ -3136,7 +3175,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:636
 msgid "<primary>fonts</primary> <secondary>terminal</secondary>"
-msgstr ""
+msgstr "<primary>teckensnitt</primary> <secondary>terminal</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:640
@@ -3333,7 +3372,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:723
 msgid "<guibutton>Details</guibutton>"
-msgstr ""
+msgstr "<guibutton>Detaljer</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:725
@@ -3437,7 +3476,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:819
 msgid "<guilabel>Show icons in menus</guilabel>"
-msgstr ""
+msgstr "<guilabel>Visa ikoner i menyer</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:821
@@ -3907,7 +3946,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1030
 msgid "<guilabel>Connections</guilabel>"
-msgstr ""
+msgstr "<guilabel>Anslutningar</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1032
@@ -3929,7 +3968,7 @@ msgstr "Låter dig ändra värdnamnet och domännamnet för ditt system."
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1044
 msgid "<guilabel>DNS</guilabel>"
-msgstr ""
+msgstr "<guilabel>DNS</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1046
@@ -4235,6 +4274,7 @@ msgstr ""
 msgid ""
 "<primary>Internet</primary> <secondary>configuring connection</secondary>"
 msgstr ""
+"<primary>Internet</primary><secondary>konfigurera anslutning</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1161
@@ -4319,7 +4359,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1195
 msgid "<guilabel>HTTP proxy</guilabel>"
-msgstr ""
+msgstr "<guilabel>HTTP-proxy</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1197
@@ -4360,7 +4400,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1211
 msgid "<guilabel>FTP proxy</guilabel>"
-msgstr ""
+msgstr "<guilabel>FTP-proxy</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1212
@@ -4512,6 +4552,8 @@ msgstr ""
 #: C/goscustdesk.xml:1304
 msgid "<guilabel>When a user tries to view or control your desktop</guilabel>"
 msgstr ""
+"<guilabel>När en användare försöker visa eller kontrollera ditt "
+"skrivbord</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1311
@@ -4549,7 +4591,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1322
 msgid "<guilabel>Password</guilabel>"
-msgstr ""
+msgstr "<guilabel>Lösenord</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1327
@@ -4655,7 +4697,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1429 C/goscustdesk.xml:1450 C/goscustdesk.xml:1891
 msgid "<guilabel>Speed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Hastighet</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1434
@@ -5939,7 +5981,7 @@ msgstr "Välj riktningen för att utlösa ett enkelklick."
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2293
 msgid "<guilabel>Double click</guilabel>"
-msgstr ""
+msgstr "<guilabel>Dubbelklick</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2298
@@ -6052,7 +6094,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2363
 msgid "<guilabel>Detect monitors</guilabel>"
-msgstr ""
+msgstr "<guilabel>Upptäck skärmar</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2364
@@ -6108,7 +6150,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2387
 msgid "<guilabel>Resolution</guilabel>"
-msgstr ""
+msgstr "<guilabel>Upplösning</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2388
@@ -6182,7 +6224,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2430
 msgid "<primary>volume</primary>"
-msgstr ""
+msgstr "<primary>volym</primary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2433
@@ -6291,7 +6333,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2489
 msgid "<guilabel>Sound Theme </guilabel>"
-msgstr ""
+msgstr "<guilabel>Ljud tema</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2494
@@ -6829,7 +6871,7 @@ msgstr "Program-menyn"
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:41
 msgid "<primary>menus</primary> <secondary>Applications menu</secondary>"
-msgstr ""
+msgstr "<primary>menyer</primary> <secondary>Programmeny</secondary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:45
@@ -6909,7 +6951,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:62
 msgid "Your Home folder"
-msgstr ""
+msgstr "Din Hemmapp"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:63
@@ -6992,7 +7034,7 @@ msgstr "System-menyn"
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:80
 msgid "<primary>System Menu</primary>"
-msgstr ""
+msgstr "<primary>System meny</primary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:83
@@ -7304,6 +7346,8 @@ msgid ""
 "external ref='figures/caja_always_use_browser.png' "
 "md5='19e041314b3a9c8844180f7bf0ef6282'"
 msgstr ""
+"external ref='figures/caja_always_use_browser.png' "
+"md5='19e041314b3a9c8844180f7bf0ef6282'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:80
@@ -7375,6 +7419,8 @@ msgid ""
 "external ref='figures/caja_browser_mode.png' "
 "md5='44b92e32cdc342cd5624b1be5626386d'"
 msgstr ""
+"external ref='figures/caja_browser_mode.png' "
+"md5='44b92e32cdc342cd5624b1be5626386d'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:100
@@ -7435,6 +7481,8 @@ msgid ""
 "external ref='figures/caja_spatial_mode.png' "
 "md5='f2f8e037d14274ac04e1df45664f2103'"
 msgstr ""
+"external ref='figures/caja_spatial_mode.png' "
+"md5='f2f8e037d14274ac04e1df45664f2103'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:120 C/goscaja.xml:181
@@ -7573,6 +7621,8 @@ msgid ""
 "external ref='figures/caja_spatial_view.png' "
 "md5='08673c38f4b4327f94f298c73b0d270b'"
 msgstr ""
+"external ref='figures/caja_spatial_view.png' "
+"md5='08673c38f4b4327f94f298c73b0d270b'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:167
@@ -8168,7 +8218,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:483
 msgid "<guilabel>Places</guilabel>"
-msgstr ""
+msgstr "<guilabel>Platser</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:486
@@ -8178,7 +8228,7 @@ msgstr "Visar specifikt intressanta platser."
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:489
 msgid "<guilabel>Information</guilabel>"
-msgstr ""
+msgstr "<guilabel>Information</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:492
@@ -8208,7 +8258,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:503
 msgid "<guilabel>History</guilabel>"
-msgstr ""
+msgstr "<guilabel>Historik</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:506
@@ -8390,6 +8440,8 @@ msgid ""
 "external ref='figures/caja_button_bar.png' "
 "md5='447c19259a84de017f4431ea205bed03'"
 msgstr ""
+"external ref='figures/caja_button_bar.png' "
+"md5='447c19259a84de017f4431ea205bed03'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:609
@@ -8471,6 +8523,8 @@ msgid ""
 "external ref='figures/caja_go_to_location.png' "
 "md5='f5731ef77db819a54be69cab8806529a'"
 msgstr ""
+"external ref='figures/caja_go_to_location.png' "
+"md5='f5731ef77db819a54be69cab8806529a'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:628
@@ -8517,6 +8571,8 @@ msgid ""
 "external ref='figures/caja_search_bar.png' "
 "md5='60a9a159dee2d7ad5c035ed794845798'"
 msgstr ""
+"external ref='figures/caja_search_bar.png' "
+"md5='60a9a159dee2d7ad5c035ed794845798'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:644 C/goscaja.xml:982
@@ -8695,7 +8751,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:740
 msgid "<primary>Tree, using</primary>"
-msgstr ""
+msgstr "<primary>Träd, använder</primary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:743
@@ -8963,7 +9019,7 @@ msgstr "Öppna filer"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:880
 msgid "<primary>file manager</primary> <secondary>opening files</secondary>"
-msgstr ""
+msgstr "<primary>filhanterare</primary> <secondary>öppnar filer</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:884
@@ -9242,6 +9298,8 @@ msgid ""
 "external ref='figures/caja_search_results.png' "
 "md5='cdb07b97b638c6157d40d57373fcc5d4'"
 msgstr ""
+"external ref='figures/caja_search_results.png' "
+"md5='cdb07b97b638c6157d40d57373fcc5d4'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:995
@@ -9277,6 +9335,8 @@ msgid ""
 "external ref='figures/caja_refine_search.png' "
 "md5='c3d58f408fd7ec2f6965a0f06e05c43e'"
 msgstr ""
+"external ref='figures/caja_refine_search.png' "
+"md5='c3d58f408fd7ec2f6965a0f06e05c43e'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1008
@@ -9318,6 +9378,8 @@ msgid ""
 "external ref='figures/caja_restore_saved_search.png' "
 "md5='1b7dbb7d82639abe4d9f8cc75bc2c80f'"
 msgstr ""
+"external ref='figures/caja_restore_saved_search.png' "
+"md5='1b7dbb7d82639abe4d9f8cc75bc2c80f'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1028
@@ -9607,6 +9669,8 @@ msgid ""
 "external ref='figures/caja_spatial_icon_view.png' "
 "md5='c2dd3a38476c26a924c2673c6bb6de93'"
 msgstr ""
+"external ref='figures/caja_spatial_icon_view.png' "
+"md5='c2dd3a38476c26a924c2673c6bb6de93'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1151
@@ -9644,6 +9708,8 @@ msgid ""
 "external ref='figures/caja_spatial_list_view.png' "
 "md5='99693c429ea6f6889793a85b0c8fb099'"
 msgstr ""
+"external ref='figures/caja_spatial_list_view.png' "
+"md5='99693c429ea6f6889793a85b0c8fb099'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1167
@@ -9745,7 +9811,7 @@ msgstr "Flagga"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1226
 msgid "<guilabel>Manually</guilabel>"
-msgstr ""
+msgstr "<guilabel>Manuellt</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1231
@@ -9759,7 +9825,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1238
 msgid "<guilabel>By Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Efter namn</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1243
@@ -9772,7 +9838,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1251
 msgid "<guilabel>By Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Efter Storlek</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1256
@@ -9790,7 +9856,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1264
 msgid "<guilabel>By Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Efter typ</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1269
@@ -10019,6 +10085,8 @@ msgid ""
 "external ref='figures/caja_zoom_out_button.png' "
 "md5='372c3f4288c029af11bac9c9012f7d8c'"
 msgstr ""
+"external ref='figures/caja_zoom_out_button.png' "
+"md5='372c3f4288c029af11bac9c9012f7d8c'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1391
@@ -10050,6 +10118,8 @@ msgid ""
 "external ref='figures/caja_normal_size_button.png' "
 "md5='5bf2b3af293a950536ca593cd49b2f5e'"
 msgstr ""
+"external ref='figures/caja_normal_size_button.png' "
+"md5='5bf2b3af293a950536ca593cd49b2f5e'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1411
@@ -10082,6 +10152,8 @@ msgid ""
 "external ref='figures/caja_zoom_in_button.png' "
 "md5='0369994f20b3221243b5b7550a5a9318'"
 msgstr ""
+"external ref='figures/caja_zoom_in_button.png' "
+"md5='0369994f20b3221243b5b7550a5a9318'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:1433
@@ -10090,6 +10162,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Zoom In "
 "button.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/caja_zoom_in_button.png\" "
+"format=\"PNG\"/></imageobject><textobject><phrase>Zooma in "
+"knapp.</phrase></textobject>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1444
@@ -10473,7 +10548,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1709
 msgid "<guimenuitem>Cancel</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>Avbryt</guimenuitem>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1712
@@ -11909,7 +11984,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2392 C/goscaja.xml:3737
 msgid "<guilabel>Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Namn</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2397
@@ -11923,7 +11998,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2403
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>Plats</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2408
@@ -11960,6 +12035,8 @@ msgid ""
 "external ref='figures/caja_trash_launcher.png' "
 "md5='42951c298a8bc2e3cd779e636e64efcd'"
 msgstr ""
+"external ref='figures/caja_trash_launcher.png' "
+"md5='42951c298a8bc2e3cd779e636e64efcd'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2428
@@ -12134,7 +12211,7 @@ msgstr "Dolda filer"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2512
 msgid "<primary>hidden</primary> <secondary>files</secondary>"
-msgstr ""
+msgstr "<primary>dolda</primary><secondary>filer</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2516
@@ -12195,7 +12272,7 @@ msgstr "Dölj en fil eller mapp"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2528
 msgid "<primary>create</primary> <secondary>hidden</secondary>"
-msgstr ""
+msgstr "<primary>skapa</primary><secondary>dold</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2532
@@ -12239,7 +12316,7 @@ msgstr "Objektegenskaper"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2545
 msgid "<primary>file manager</primary> <secondary>properties</secondary>"
-msgstr ""
+msgstr "<primary>filhanterare</primary> <secondary>egenskaper</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2549
@@ -12418,6 +12495,8 @@ msgid ""
 "external ref='figures/caja_emblem.png' "
 "md5='4dfffab4440360f5b2a307b42fa50691'"
 msgstr ""
+"external ref='figures/caja_emblem.png' "
+"md5='4dfffab4440360f5b2a307b42fa50691'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2602
@@ -12494,6 +12573,8 @@ msgid ""
 "external ref='figures/caja_link_emblem.png' "
 "md5='7fefb663977d2a003bc86b8eb61e9100'"
 msgstr ""
+"external ref='figures/caja_link_emblem.png' "
+"md5='7fefb663977d2a003bc86b8eb61e9100'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2649
@@ -12511,7 +12592,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2660
 msgid "<_:indexterm-1/>Symbolic link"
-msgstr ""
+msgstr "<_:indexterm-1/>Symbolisk länk"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -12524,6 +12605,8 @@ msgid ""
 "external ref='figures/caja_nowrite_emblem.png' "
 "md5='06a5b7050d82e38d2f54048a1f698092'"
 msgstr ""
+"external ref='figures/caja_nowrite_emblem.png' "
+"md5='06a5b7050d82e38d2f54048a1f698092'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2666
@@ -12544,6 +12627,8 @@ msgid ""
 "external ref='figures/caja_noread_emblem.png' "
 "md5='e54419d1a042a072d0a56effcc13278a'"
 msgstr ""
+"external ref='figures/caja_noread_emblem.png' "
+"md5='e54419d1a042a072d0a56effcc13278a'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/goscaja.xml:2683
@@ -13216,7 +13301,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3022
 msgid "<guilabel>Disc name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Namn på skiva</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3027
@@ -13226,7 +13311,7 @@ msgstr "Skriv in ett namn för cd-skivan i textrutan."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3032
 msgid "<guilabel>Data size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Data storlek</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3037
@@ -13240,7 +13325,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3043
 msgid "<guilabel>Write speed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Skriv Hastighet</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3048
@@ -13473,7 +13558,7 @@ msgstr "Om det krävs av din server kan du behöva ange följande information:"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3132
 msgid "<guilabel>Port</guilabel>"
-msgstr ""
+msgstr "<guilabel>Port</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3137
@@ -13487,7 +13572,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3143
 msgid "<guilabel>Folder</guilabel>"
-msgstr ""
+msgstr "<guilabel>Mapp</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3148
@@ -13525,7 +13610,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3175
 msgid "<guilabel>Share</guilabel>"
-msgstr ""
+msgstr "<guilabel>Dela</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3180
@@ -13538,7 +13623,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3185
 msgid "<guilabel>Domain name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Domännamn</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3190
@@ -13896,7 +13981,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3395
 msgid "<guilabel>Sort folders before files</guilabel>"
-msgstr ""
+msgstr "<guilabel>Sortera mappar före filer</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3400
@@ -13942,7 +14027,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3427
 msgid "<guilabel>Use compact layout</guilabel>"
-msgstr ""
+msgstr "<guilabel>Använd kompakt layout</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3432
@@ -13956,7 +14041,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3439
 msgid "<guilabel>Text beside icons</guilabel>"
-msgstr ""
+msgstr "<guilabel>Text bredvid ikoner</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3444
@@ -13984,7 +14069,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3460
 msgid "<guilabel>Show only folders</guilabel>"
-msgstr ""
+msgstr "<guilabel>Visa endast mappar</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3465
@@ -14040,7 +14125,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3493
 msgid "<guilabel>Double click to open items</guilabel>"
-msgstr ""
+msgstr "<guilabel>Dubbelklicka för att öppna objekt</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3495
@@ -14102,7 +14187,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3522
 msgid "<guilabel>Ask each time</guilabel>"
-msgstr ""
+msgstr "<guilabel>Fråga mig varje gång</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3524
@@ -14242,7 +14327,7 @@ msgstr "Information"
 #: C/goscaja.xml:3597 C/goscaja.xml:3747 C/gospanel.xml:189
 #: C/gospanel.xml:1420
 msgid "<guilabel>Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Storlek</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3602 C/goscaja.xml:3752
@@ -14252,7 +14337,7 @@ msgstr "Välj det här alternativet för att visa storleken för objektet."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3607 C/goscaja.xml:3757
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Typ</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3612
@@ -14287,7 +14372,7 @@ msgstr "Välj det här alternativet för att visa åtkomstdatumet för objektet.
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3637 C/goscaja.xml:3820
 msgid "<guilabel>Owner</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ägare</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3642 C/goscaja.xml:3825
@@ -14297,7 +14382,7 @@ msgstr "Välj det här alternativet för att visa ägaren för objektet."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3647 C/goscaja.xml:3789
 msgid "<guilabel>Group</guilabel>"
-msgstr ""
+msgstr "<guilabel>Grupp</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3652 C/goscaja.xml:3794
@@ -14308,7 +14393,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3657 C/goscaja.xml:3830
 msgid "<guilabel>Permissions</guilabel>"
-msgstr ""
+msgstr "<guilabel>Rättigheter</guilabel>"
 
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:3662 C/goscaja.xml:3835
@@ -14347,7 +14432,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3680
 msgid "<guilabel>MIME Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>MIME typ</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3685 C/goscaja.xml:3804
@@ -14357,7 +14442,7 @@ msgstr "Välj det här alternativet för att visa MIME-typen för objektet."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3690
 msgid "<guilabel>None</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ingen</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3695
@@ -14458,7 +14543,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3799
 msgid "<guilabel>MIME type</guilabel>"
-msgstr ""
+msgstr "<guilabel>MIME typ</guilabel>"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:3845 C/goscaja.xml:3910 C/goscaja.xml:4062
@@ -14490,7 +14575,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3874
 msgid "<guilabel>Always</guilabel>"
-msgstr ""
+msgstr "<guilabel>Alltid</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3879
@@ -14501,7 +14586,7 @@ msgstr "Genomför åtgärden för både lokala filer och filer på andra filsyst
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3885
 msgid "<guilabel>Local Files Only</guilabel>"
-msgstr ""
+msgstr "<guilabel>Lokala filer endast</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3890
@@ -14511,7 +14596,7 @@ msgstr "Genomför åtgärden för endast lokala filer."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3895
 msgid "<guilabel>Never</guilabel>"
-msgstr ""
+msgstr "<guilabel>Aldrig</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3900
@@ -14557,7 +14642,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3938
 msgid "<guilabel>Show thumbnails</guilabel>"
-msgstr ""
+msgstr "<guilabel>Visa tumnaglar</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3943
@@ -14573,7 +14658,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3951
 msgid "<guilabel>Only for files smaller than</guilabel>"
-msgstr ""
+msgstr "<guilabel>Endast för filer mindre än</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3956
@@ -14648,7 +14733,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4024
 msgid "<guilabel>Do Nothing</guilabel>"
-msgstr ""
+msgstr "<guilabel>Gör ingenting</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4029
@@ -14658,7 +14743,7 @@ msgstr "Gör ingenting."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4034
 msgid "<guilabel>Open Folder</guilabel>"
-msgstr ""
+msgstr "<guilabel>Öppna mapp</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4039
@@ -15542,6 +15627,8 @@ msgid ""
 "external ref='figures/titlebar_window.png' "
 "md5='b3624c3e2eeb934a16ff5689c8163f44'"
 msgstr ""
+"external ref='figures/titlebar_window.png' "
+"md5='b3624c3e2eeb934a16ff5689c8163f44'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosoverview.xml:203
@@ -15917,6 +16004,8 @@ msgid ""
 "external ref='figures/workspace_switcher_applet.png' "
 "md5='00b75c538008ce6d01801ae2eb907af9'"
 msgstr ""
+"external ref='figures/workspace_switcher_applet.png' "
+"md5='00b75c538008ce6d01801ae2eb907af9'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosoverview.xml:341
@@ -17147,7 +17236,7 @@ msgstr "Använd väljaren för att ange storleken på panelen."
 #. (itstool) path: entry/para
 #: C/gospanel.xml:199
 msgid "<guilabel>Expand</guilabel>"
-msgstr ""
+msgstr "<guilabel>Expandera</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:204
@@ -17182,7 +17271,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:219 C/gospanel.xml:1442
 msgid "<guilabel>Show hide buttons</guilabel>"
-msgstr ""
+msgstr "<guilabel>Visa dolda knappar</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:224
@@ -17371,6 +17460,8 @@ msgid ""
 "external ref='figures/four_hide_button.png' "
 "md5='932231a03b23ecdb2563af3460091151'"
 msgstr ""
+"external ref='figures/four_hide_button.png' "
+"md5='932231a03b23ecdb2563af3460091151'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:341
@@ -17727,6 +17818,8 @@ msgid ""
 "external ref='figures/panel_object_popup_menu.png' "
 "md5='35135b4653e42312c3e83f399ec6d406'"
 msgstr ""
+"external ref='figures/panel_object_popup_menu.png' "
+"md5='35135b4653e42312c3e83f399ec6d406'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:515
@@ -18007,6 +18100,8 @@ msgid ""
 "external ref='figures/sample_applet.png' "
 "md5='d61c0b0d5b4a5758c5c8ec210c1682e1'"
 msgstr ""
+"external ref='figures/sample_applet.png' "
+"md5='d61c0b0d5b4a5758c5c8ec210c1682e1'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:681
@@ -18418,7 +18513,7 @@ msgstr "Exempelkommando för program"
 #. (itstool) path: entry/para
 #: C/gospanel.xml:877
 msgid "<command>pluma</command>"
-msgstr ""
+msgstr "<command>pluma</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:882
@@ -18495,7 +18590,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:949
 msgid "<command>https://mate-desktop.org</command>"
-msgstr ""
+msgstr "<command>https://mate-desktop.org</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:954
@@ -18505,7 +18600,7 @@ msgstr "Öppnar MATE-webbplatsen i din standardwebbläsare."
 #. (itstool) path: entry/para
 #: C/gospanel.xml:959
 msgid "<command>ftp://ftp.mate-desktop.org</command>"
-msgstr ""
+msgstr "<command>ftp://ftp.mate-desktop.org</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:964
@@ -18550,7 +18645,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:995
 msgid "<primary>Force Quit button</primary>"
-msgstr ""
+msgstr "<primary>Knapp för tvingad avslutning</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:998
@@ -18572,6 +18667,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/force_quit.png' md5='4e6cd725cd4977eaeab464ce4ff266ce'"
 msgstr ""
+"external ref='figures/force_quit.png' md5='4e6cd725cd4977eaeab464ce4ff266ce'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1006
@@ -18638,6 +18734,8 @@ msgid ""
 "external ref='figures/lockscreen_icon.png' "
 "md5='a5937cc295f73c51d54a0761ae924000'"
 msgstr ""
+"external ref='figures/lockscreen_icon.png' "
+"md5='a5937cc295f73c51d54a0761ae924000'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1034 C/gosstartsession.xml:139
@@ -18650,7 +18748,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1043
 msgid "<primary>buttons</primary> <secondary>Lock</secondary>"
-msgstr ""
+msgstr "<primary>knappar</primary><secondary>Lås</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1047
@@ -18660,12 +18758,12 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1051 C/gosstartsession.xml:155
 msgid "<primary>Lock button</primary>"
-msgstr ""
+msgstr "<primary>Lås knapp</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1054 C/gosstartsession.xml:152
 msgid "<primary>locking screen</primary>"
-msgstr ""
+msgstr "<primary>låser skärm</primary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1057
@@ -18716,7 +18814,7 @@ msgstr "Menyobjekt"
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1082
 msgid "<guimenuitem>Activate Screensaver</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>Aktivera skärmsläckare</guimenuitem>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1087
@@ -18737,7 +18835,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1094
 msgid "<guimenuitem>Lock Screen</guimenuitem>"
-msgstr ""
+msgstr "Lås skärm<guimenuitem>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1099
@@ -18751,7 +18849,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1105
 msgid "<guimenuitem>Properties</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>Egenskaper</guimenuitem>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1110
@@ -18777,6 +18875,8 @@ msgid ""
 "external ref='figures/logout_icon.png' "
 "md5='b695adb45b2eaed0d80203635a70a5bb'"
 msgstr ""
+"external ref='figures/logout_icon.png' "
+"md5='b695adb45b2eaed0d80203635a70a5bb'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1120
@@ -18799,7 +18899,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1137
 msgid "<primary>Log Out button</primary>"
-msgstr ""
+msgstr "<primary>Logga ut knapp</primary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1140
@@ -18850,6 +18950,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/run_button.png' md5='68e8f81b231ed542e57349c93241f3f7'"
 msgstr ""
+"external ref='figures/run_button.png' md5='68e8f81b231ed542e57349c93241f3f7'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1153
@@ -18872,7 +18973,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1170
 msgid "<primary>Run button</primary>"
-msgstr ""
+msgstr "<primary>Kör knapp</primary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1173
@@ -18933,6 +19034,8 @@ msgid ""
 "external ref='figures/searchtool_button.png' "
 "md5='e6210d7a387eccba73a76c215f078611'"
 msgstr ""
+"external ref='figures/searchtool_button.png' "
+"md5='e6210d7a387eccba73a76c215f078611'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1188
@@ -18955,7 +19058,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1205
 msgid "<primary>Search button</primary>"
-msgstr ""
+msgstr "<primary>Sök knapp</primary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1208
@@ -19030,6 +19133,8 @@ msgid ""
 "external ref='figures/show_desktop_button.png' "
 "md5='c228bbe71372d2a5afb76c3c7943e739'"
 msgstr ""
+"external ref='figures/show_desktop_button.png' "
+"md5='c228bbe71372d2a5afb76c3c7943e739'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1234
@@ -19193,6 +19298,8 @@ msgid ""
 "external ref='figures/open_drawer.png' "
 "md5='ce13f1ec9eaed826ef4e113de0cd5d9c'"
 msgstr ""
+"external ref='figures/open_drawer.png' "
+"md5='ce13f1ec9eaed826ef4e113de0cd5d9c'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1311
@@ -19377,7 +19484,7 @@ msgstr "Ange bredden för lådan när den är öppen."
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1430
 msgid "<guilabel>Icon</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ikon</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1435
@@ -19493,6 +19600,8 @@ msgid ""
 "external ref='figures/openwindows_menu.png' "
 "md5='5de74eda192636868298a97043530d75'"
 msgstr ""
+"external ref='figures/openwindows_menu.png' "
+"md5='5de74eda192636868298a97043530d75'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1501
@@ -19555,6 +19664,8 @@ msgid ""
 "external ref='figures/notification_area_icon.png' "
 "md5='973b76c720b51d9495208ab2d62ecdec'"
 msgstr ""
+"external ref='figures/notification_area_icon.png' "
+"md5='973b76c720b51d9495208ab2d62ecdec'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1533
@@ -19584,7 +19695,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
 msgid "Classic Menu"
-msgstr ""
+msgstr "Klassisk meny"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -19597,6 +19708,8 @@ msgid ""
 "external ref='figures/menu_bar_applet.png' "
 "md5='8f4bca946498664c1cddd238a5a23498'"
 msgstr ""
+"external ref='figures/menu_bar_applet.png' "
+"md5='8f4bca946498664c1cddd238a5a23498'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gospanel.xml:1552
@@ -19800,7 +19913,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1644
 msgid "<guilabel>Show windows from all workspaces</guilabel>"
-msgstr ""
+msgstr "<guilabel>Visa fönster från alla arbetsytor</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1645
@@ -19827,7 +19940,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1656
 msgid "<guilabel>Never group windows</guilabel>"
-msgstr ""
+msgstr "<guilabel>Gruppera aldrig fönster</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1657
@@ -19869,7 +19982,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:1671
 msgid "<guilabel>Restoring Minimized Windows</guilabel>"
-msgstr ""
+msgstr "<guilabel>Återställer minimerade fönster</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1673
@@ -20466,12 +20579,12 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:288
 msgid "<primary>quit</primary>"
-msgstr ""
+msgstr "<primary>avsluta</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:291
 msgid "<primary>shutdown</primary>"
-msgstr ""
+msgstr "<primary>stäng av</primary>"
 
 #. (itstool) path: section/para
 #: C/gosstartsession.xml:307
@@ -20746,7 +20859,7 @@ msgstr "Tar en skärmbild av hela skärmen."
 #. (itstool) path: entry/para
 #: C/gostools.xml:115
 msgid "<keycombo><keycap>Alt</keycap><keycap>Print Screen</keycap></keycombo>"
-msgstr ""
+msgstr "<keycombo><keycap>Alt<keycap>Print Screen</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:118
@@ -21013,6 +21126,8 @@ msgid ""
 "external ref='figures/yelp_window.png' "
 "md5='c7138987ae131fe2c57846a281245d31'"
 msgstr ""
+"external ref='figures/yelp_window.png' "
+"md5='c7138987ae131fe2c57846a281245d31'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:309
@@ -21024,7 +21139,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:324
 msgid "<guimenu>File</guimenu>"
-msgstr ""
+msgstr "<guimenu>Fil</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:327
@@ -21038,7 +21153,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:334
 msgid "<guimenu>Edit</guimenu>"
-msgstr ""
+msgstr "<guimenu>Redigera</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:337
@@ -21068,7 +21183,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:354
 msgid "<guimenu>Bookmarks</guimenu>"
-msgstr ""
+msgstr "<guimenu>Bokmärken</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:357
@@ -21096,7 +21211,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:383
 msgid "<guibutton>Back</guibutton>"
-msgstr ""
+msgstr "<guibutton>Tillbaka</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:386
@@ -21106,7 +21221,7 @@ msgstr "Använd den här knappen för att gå bakåt i din dokumenthistorik."
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:392
 msgid "<guibutton>Forward</guibutton>"
-msgstr ""
+msgstr "<guibutton>Framåt</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:395
@@ -21348,6 +21463,8 @@ msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
 "=\"yelp-preferences\"/>:"
 msgstr ""
+"<_:itemizedlist-1/>Ett fönster kommer att dyka upp som ser ut som <xref "
+"linkend=\"yelp-preferences\"/>:"
 
 #. (itstool) path: info/title
 #: C/gostools.xml:557
@@ -21366,6 +21483,8 @@ msgid ""
 "external ref='figures/yelp_preferences.png' "
 "md5='b8beb6c866957938b5e39bc7f72611ec'"
 msgstr ""
+"external ref='figures/yelp_preferences.png' "
+"md5='b8beb6c866957938b5e39bc7f72611ec'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:557
@@ -21663,6 +21782,8 @@ msgid ""
 "external ref='figures/yelp_add_bookmark.png' "
 "md5='562a62662f47655337c9bf341ef69f6e'"
 msgstr ""
+"external ref='figures/yelp_add_bookmark.png' "
+"md5='562a62662f47655337c9bf341ef69f6e'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:774
@@ -21723,6 +21844,8 @@ msgid ""
 "external ref='figures/yelp_edit_bookmarks.png' "
 "md5='6fb478c10bb9df68dc8d82f3ed4ac89b'"
 msgstr ""
+"external ref='figures/yelp_edit_bookmarks.png' "
+"md5='6fb478c10bb9df68dc8d82f3ed4ac89b'"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:803
@@ -21734,7 +21857,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:814
 msgid "<guibutton>Open</guibutton>"
-msgstr ""
+msgstr "<guibutton>Öppna</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:817
@@ -21745,7 +21868,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:823
 msgid "<guibutton>Rename</guibutton>"
-msgstr ""
+msgstr "<guibutton>Byt namn</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:826
@@ -21755,7 +21878,7 @@ msgstr "Använd den här knappen för att andra namnet på ditt bokmärke."
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:832
 msgid "<guibutton>Remove</guibutton>"
-msgstr ""
+msgstr "<guibutton>Ta bort</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:835
@@ -21835,7 +21958,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:878
 msgid "<option>file:</option>"
-msgstr ""
+msgstr "<option>fil:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:881
@@ -21854,7 +21977,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:890
 msgid "<option>help:</option>"
-msgstr ""
+msgstr "<option>hjälp:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:893
@@ -21887,7 +22010,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:906
 msgid "<option>man:</option>"
-msgstr ""
+msgstr "<option>man:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:909
@@ -21921,7 +22044,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:926
 msgid "<option>info:</option>"
-msgstr ""
+msgstr "<option>info:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:929
@@ -22214,6 +22337,8 @@ msgid ""
 "external ref='figures/org_mate_desktop_background_logical_view.png' "
 "md5='657d280ac9bef4a700c8f46561072828'"
 msgstr ""
+"external ref='figures/org_mate_desktop_background_logical_view.png' "
+"md5='657d280ac9bef4a700c8f46561072828'"
 
 #. (itstool) path: figure/mediaobject
 #: C/gosdconf.xml:94
@@ -22273,6 +22398,8 @@ msgid ""
 "external ref='figures/picture_filename_dconf_key_view.png' "
 "md5='f03c4f0335a297d49495410dc37b5888'"
 msgstr ""
+"external ref='figures/picture_filename_dconf_key_view.png' "
+"md5='f03c4f0335a297d49495410dc37b5888'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosdconf.xml:125
@@ -22395,6 +22522,8 @@ msgid ""
 "external ref='figures/org_mate_desktop_background_only_logical_view.png' "
 "md5='ba63c30934dd9cc0379f54d0cc90850a'"
 msgstr ""
+"external ref='figures/org_mate_desktop_background_only_logical_view.png' "
+"md5='ba63c30934dd9cc0379f54d0cc90850a'"
 
 #. (itstool) path: figure/mediaobject
 #: C/gosdconf.xml:197
@@ -22453,6 +22582,8 @@ msgid ""
 "external ref='figures/picture_filename_dconf_key_edit.png' "
 "md5='6c51950700e166ae8e96193b1ac8d0cc'"
 msgstr ""
+"external ref='figures/picture_filename_dconf_key_edit.png' "
+"md5='6c51950700e166ae8e96193b1ac8d0cc'"
 
 #. (itstool) path: screenshot/mediaobject
 #: C/gosdconf.xml:235
@@ -22631,7 +22762,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:21
 msgid "enable"
-msgstr ""
+msgstr "aktivera"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:23 C/gosdconfkeys.xml:33 C/gosdconfkeys.xml:43
@@ -23011,7 +23142,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:556
 msgid "picture-filename"
-msgstr ""
+msgstr "bild-filnamn"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:558
@@ -23069,7 +23200,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:621
 msgid "caja"
-msgstr ""
+msgstr "caja"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:631
@@ -23089,7 +23220,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:661
 msgid "mate-panel"
-msgstr ""
+msgstr "mate-panel"
 
 #. (itstool) path: section/title
 #: C/gosdconfkeys.xml:673
@@ -23099,7 +23230,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:686 C/gosdconfkeys.xml:821
 msgid "icon-theme"
-msgstr ""
+msgstr "ikon-tema"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:688
@@ -23232,7 +23363,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:831
 msgid "gtk-theme"
-msgstr ""
+msgstr "gtk-tema"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:833 C/gosdconfkeys.xml:843

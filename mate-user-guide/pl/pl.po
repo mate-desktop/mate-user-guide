@@ -15,16 +15,17 @@
 # Przemek P <ppjg@dami.pl>, 2019
 # pietrasagh <kowalik.piotr@pm.me>, 2020
 # Dominik Adrian Grzywak, 2020
-# Daniel Tokarzewski <bezimo@gmail.com>, 2020
 # Piotr Strębski <strebski@gmail.com>, 2020
 # Wolfgang Ulbrich <mate@raveit.de>, 2021
+# Szymon Blaut <szymonblaut315@gmail.com>, 2021
+# Daniel Tokarzewski <bezimo@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2021\n"
+"Last-Translator: Daniel Tokarzewski <bezimo@gmail.com>, 2021\n"
 "Language-Team: Polish (https://www.transifex.com/mate/teams/13566/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -67,7 +68,7 @@ msgstr ""
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
 msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgstr "<year>2015-2021</year> <holder>dokumentacja projektu MATE</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -412,6 +413,18 @@ msgid ""
 "ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION "
 "OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
 msgstr ""
+"DOKUMENT JEST DOSTARCZANY W STANIE „TAK JAK JEST”, BEZ JAKIEGOKOLWIEK "
+"WYRAŻENIA,  DOMNIEMANIA GWARANCJI, W TYM MIĘDZY INNYMI GWARANCJI, ŻE "
+"DOKUMENT LUB ZMODYFIKOWANA WERSJA DOKUMENTU JEST WOLNA OD WAD HANDLOWYCH LUB"
+" DO OKREŚLONEGO CELU -NARUSZENIE. CAŁKOWITE RYZYKO DOTYCZĄCE JAKOŚCI, "
+"DOKŁADNOŚCI I WYDAJNOŚCI DOKUMENTU LUB ZMODYFIKOWANEJ WERSJI DOKUMENTU "
+"SPOCZYWA NA UŻYTKOWNIKU. JEŻELI JAKIKOLWIEK DOKUMENT LUB ZMODYFIKOWANA "
+"WERSJA OKAŻE SIĘ WADLIWA POD JAKIMKOLWIEK WZGLĘGEM, UŻYTKOWNIK (NIE WSTĘPNY "
+"PISARZ, AUTOR CZY ŻADEN WSPÓŁPRACOWNIK) PONOSI KOSZTY WSZELKICH NIEZBĘDNYCH "
+"SERWISÓW, NAPRAW LUB POPRAWEK. NINIEJSZE WYŁĄCZENIE GWARANCJI STANOWI "
+"ISTOTNĄ CZĘŚĆ LICENCJI. ZGODNIE Z NINIEJSZYM WYŁĄCZENIEM ODPOWIEDZIALNOŚCI "
+"NIE JEST ZEZWOLONE NA KORZYSTANIE Z JAKICHKOLWIEK DOKUMENTÓW LUB "
+"ZMODYFIKOWANYCH WERSJI DOKUMENTU; ORAZ "
 
 #. (itstool) path: listitem/para
 #: C/legal.xml:56
@@ -427,6 +440,16 @@ msgid ""
 "VERSIONS OF THE DOCUMENT, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE"
 " POSSIBILITY OF SUCH DAMAGES."
 msgstr ""
+"W ŻADNYM PRZYPADKU I W ŻADNEJ TEORII PRAWNEJ, CZY W DZIAŁANIU CZYNNYM (W TYM"
+" ZANIEDBANIA), UMOWY LUB W INNY SPOSÓB, AUTOR, PISARZ WSTĘPNY, "
+"WSPÓŁPRACOWNIK ANI DYSTRYBUTOR DOKUMENTU LUB ZMODYFIKOWANA WERSJA DOKUMENTU "
+"TAKICH STRON NIE PONOSI ODPOWIEDZIALNOŚCI WOBEC JAKICHKOLWIEK OSÓB ZA "
+"JAKIEKOLWIEK BEZPOŚREDNIE, POŚREDNIE, SZCZEGÓLNE, PRZYPADKOWE LUB WTÓRNE "
+"SZKODY JAKIEGOKOLWIEK CHARAKTERU, W TYM MIĘDZY INNYMI USZKODZENIA ZA UTRATĘ "
+"WŁAŚCIWOŚCI, PRZERWY W PRACY, AWARIE LUB INNE USZKODZENIA KOMPUTERA LUB "
+"STRATY WYNIKAJĄCE Z KORZYSTANIA Z DOKUMENTU I ZMODYFIKOWANYCH WERSJI "
+"DOKUMENTU, NAWET JEŚLI STRONA ZOSTAŁA POINFORMOWANA O MOŻLIWOŚCI WYSTĄPIENIA"
+" TAKICH SZKÓD."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:29
@@ -435,6 +458,9 @@ msgid ""
 "OF THE GNU FREE DOCUMENTATION LICENSE WITH THE FURTHER UNDERSTANDING THAT: "
 "<_:orderedlist-1/>"
 msgstr ""
+"DOKUMENT I ZMODYFIKOWANE WERSJE DOKUMENTU SĄ DOSTARCZANE NA WARUNKACH "
+"LICENCJI WOLNEJ DOKUMENTACJI GNU Z DALSZYM ZROZUMIENIEM, "
+"ŻE:<_:orderedlist-1/>"
 
 #. (itstool) path: formalpara/title
 #. (itstool) path: info/title
@@ -1057,6 +1083,10 @@ msgid ""
 "between panes in a window. The direction of the arrows indicates in which "
 "direction you can resize."
 msgstr ""
+"Ten wskaźnik pokazuje, że możesz chwycić kontrolkę, aby zmienić rozmiar "
+"części interfejsu. Pojawia się nad obramowaniem okien i nad uchwytami zmiany"
+" rozmiaru między panelami w oknie. Kierunek strzałek wskazuje, w którym "
+"kierunku można zmienić rozmiar."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1078,6 +1108,9 @@ msgid ""
 "<phrase>Hand pointer</phrase> </textobject> </inlinemediaobject> Hand "
 "pointer"
 msgstr ""
+" <inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/hyperlink_pointer.png\"/></imageobject><textobject><phrase>Wskaźnik"
+" dłoni</phrase></textobject></inlinemediaobject> Wskaźnik dłoni"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:376
@@ -1086,6 +1119,10 @@ msgid ""
 "link</glossterm>, in a web page for example. This pointer indicates that you"
 " can click on the link to load a new document or perform an action."
 msgstr ""
+"Ten wskaźnik pojawia się, gdy najedziesz kursorem na <glossterm>łącze "
+"hipertekstowe</glossterm>, na przykład na stronie internetowej. Ten wskaźnik"
+" wskazuje, że możesz kliknąć łącze, aby załadować nowy dokument lub wykonać "
+"akcję. "
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1107,6 +1144,9 @@ msgid ""
 "<phrase>I-beam pointer</phrase> </textobject> </inlinemediaobject> I-beam "
 "pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/ibeam_pointer.png\"/></imageobject><textobject><phrase>Wskaźnik"
+" dwuteowy</phrase></textobject></inlinemediaobject>Wskaźnik dwuteowy"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:393
@@ -1115,6 +1155,9 @@ msgid ""
 "edit. Click to place the cursor where you want to type text, or drag to "
 "select text."
 msgstr ""
+"Ten wskaźnik jest wyświetlany, gdy wskaźnik myszy znajduje się nad tekstem, "
+"który można zaznaczyć lub edytować. Kliknij, aby umieścić kursor w miejscu, "
+"w którym chcesz wpisać tekst, lub przeciągnij, aby zaznaczyć tekst. "
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:398
@@ -1123,6 +1166,9 @@ msgid ""
 " or a piece of text. They indicate the result of releasing the mouse button "
 "to drop the object being moved."
 msgstr ""
+"Poniższe wskaźniki myszy są wyświetlane podczas przeciągania elementu, "
+"takiego jak plik lub fragment tekstu. Wskazują wynik zwolnienia przycisku "
+"myszy w celu upuszczenia przesuwanego obiektu. "
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1144,6 +1190,9 @@ msgid ""
 "<phrase>Move pointer.</phrase> </textobject> </inlinemediaobject> Move "
 "pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/move_pointer.png\"/></imageobject><textobject><phrase>Wskaźnik"
+" przesuwania</phrase></textobject></inlinemediaobject>Wskaźnik przesuwania"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:415
@@ -1151,6 +1200,8 @@ msgid ""
 "This pointer indicates that when you drop the object, the object is moved "
 "from the old location to the new location."
 msgstr ""
+"Ten wskaźnik informuje, że gdy upuścisz obiekt, zostanie on przeniesiony ze "
+"starej lokalizacji do nowej lokalizacji. "
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1172,6 +1223,9 @@ msgid ""
 "<phrase>Copy pointer.</phrase> </textobject> </inlinemediaobject> Copy "
 "pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/copy_pointer.png\"/></imageobject><textobject><phrase>Wskaźnik"
+" kopiowania</phrase></textobject></inlinemediaobject>Wskaźnik kopiowania"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:431
@@ -1179,6 +1233,8 @@ msgid ""
 "This pointer indicates that when you drop the object, a copy of the object "
 "is created where you drop it."
 msgstr ""
+"Ten wskaźnik informuje, że po upuszczeniu obiektu jego kopia jest tworzona w"
+" miejscu, w którym go upuścisz. "
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1200,6 +1256,10 @@ msgid ""
 "<phrase>Symbolic link pointer.</phrase> </textobject> </inlinemediaobject> "
 "Symbolic link pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/link_pointer.png\"/></imageobject><textobject><phrase>Wskaźnik"
+" powiązania symbolicznego.</phrase></textobject></inlinemediaobject>Wskaźnik"
+" powiązania symbolicznego"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:447
@@ -1209,6 +1269,11 @@ msgid ""
 "symbolic link is a special type of file that points to another file or "
 "folder. For more on this, see <xref linkend=\"caja-symlink\"/>."
 msgstr ""
+"Ten wskaźnik informuje, że po upuszczeniu obiektu, w miejscu upuszczenia "
+"tworzone jest <firstterm>powiązanie symboliczne</firstterm> do obiektu. "
+"Dowiązanie symboliczne to specjalny typ pliku, który wskazuje na inny plik "
+"lub folder. Więcej informacji na ten temat znajdziesz w <xref linkend"
+"=\"caja-symlink\"/>. "
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1229,6 +1294,9 @@ msgid ""
 "fileref=\"figures/ask_pointer.png\"/> </imageobject> <textobject> "
 "<phrase>Ask pointer.</phrase> </textobject> </inlinemediaobject> Ask pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/ask_pointer.png\"/></imageobject><textobject><phrase>Wskaźnik"
+" zapytania.</phrase></textobject></inlinemediaobject>Wskaźnik zapytania"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:465
@@ -1238,6 +1306,10 @@ msgid ""
 "operation you would like to perform. For instance, you may be able to move, "
 "copy, or create a symbolic link."
 msgstr ""
+"Ten wskaźnik informuje, że kiedy upuścisz obiekt, będziesz miał wybór, co "
+"zrobić. Otworzy się menu umożliwiające wybór operacji, którą chcesz wykonać."
+" Na przykład możesz mieć możliwość przenoszenia, kopiowania lub tworzenia "
+"powiązania symbolicznego."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1259,6 +1331,10 @@ msgid ""
 "<phrase>Not available pointer.</phrase> </textobject> </inlinemediaobject> "
 "Not available pointer"
 msgstr ""
+"<inlinemediaobject><imageobject><imagedata format=\"PNG\" "
+"fileref=\"figures/not_available_pointer.png\"/></imageobject><textobject><phrase>Wskaźnik"
+" braku dostępności.</phrase></textobject></inlinemediaobject>Wskaźnik braku "
+"dostępności"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:482
@@ -1267,6 +1343,9 @@ msgid ""
 "location. Releasing the mouse button now will have no effect: the dragged "
 "object will be returned to its starting location."
 msgstr ""
+"Wskaźnik ten informuje, że nie możesz upuścić obiektu w bieżącej "
+"lokalizacji. Zwolnienie przycisku myszy nie przyniesie teraz żadnego efektu:"
+" przeciągnięty obiekt powróci do swojej początkowej lokalizacji. "
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1296,6 +1375,9 @@ msgid ""
 " mouse button. See <xref linkend=\"panels\"/> for more information on "
 "panels."
 msgstr ""
+"Ten wskaźnik pojawia się, gdy przeciągasz panel lub obiekt panelu środkowym "
+"przyciskiem myszy. Zobacz<xref linkend=\"panels\"/> więcej informacji o "
+"panelach. "
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1328,7 +1410,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:521
 msgid "Keyboard Skills"
-msgstr ""
+msgstr "Umiejętności obsługi klawiatury"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:527
@@ -1398,7 +1480,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:561
 msgid "Global Shortcut Keys"
-msgstr ""
+msgstr "Globalne Skróty Klawiszowe"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:567
@@ -1494,7 +1576,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:655
 msgid "Minimize all windows and give focus to the desktop."
-msgstr ""
+msgstr "Zminimalizuj wszystkie okna i skup się na pulpicie."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:660 C/gosbasic.xml:721
@@ -1528,12 +1610,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:690
 msgid "Window Shortcut Keys"
-msgstr ""
+msgstr "Skróty klawiszowe okien"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:695
 msgid "<primary>shortcut keys</primary> <secondary>window</secondary>"
-msgstr ""
+msgstr "<primary>skróty klawiszowe</primary> <secondary>okno</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:700
@@ -1683,7 +1765,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:888
 msgid "Copy the selected text or region onto the clipboard."
-msgstr ""
+msgstr "Skopiuj wybrany tekst lub region do schowka"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:893
@@ -1703,7 +1785,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:908
 msgid "Undo the last action."
-msgstr ""
+msgstr "cofnij ostatnią akcję."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:913
@@ -1713,7 +1795,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:918
 msgid "Save the current document to disk."
-msgstr ""
+msgstr "Zapisz aktualny dokument na dysk"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:923
@@ -1793,7 +1875,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:1002
 msgid "Access Keys"
-msgstr ""
+msgstr "Klucze dostępu"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:1008
@@ -1839,7 +1921,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:6
 msgid "Configuring Your Desktop"
-msgstr ""
+msgstr "Konfigurowywanie twojego pulpitu."
 
 #. (itstool) path: highlights/para
 #: C/goscustdesk.xml:22
@@ -2087,6 +2169,7 @@ msgstr ""
 #: C/goscustdesk.xml:128
 msgid "The shortcuts you can customize are grouped as follows:"
 msgstr ""
+"Skróty klawiszowe które możesz zcostumizować są pogrupowane jak następujące:"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:131 C/gosoverview.xml:49
@@ -2214,6 +2297,7 @@ msgstr ""
 #: C/goscustdesk.xml:178
 msgid "<guilabel>Internet</guilabel> (Web Browser, Mail Reader)"
 msgstr ""
+"<guilabel>Internet</guilabel> (Przeglądarka Internetowa, Klient Poczty Mail)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:183
@@ -2251,7 +2335,7 @@ msgstr ""
 #. (itstool) path: formalpara/title
 #: C/goscustdesk.xml:205
 msgid "Run at start (Accessibility only)"
-msgstr ""
+msgstr "Włącz przy starcie (jedynie ułatwienia dostępu.)"
 
 #. (itstool) path: formalpara/para
 #: C/goscustdesk.xml:205
@@ -2278,17 +2362,17 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:216
 msgid "Theme,"
-msgstr ""
+msgstr "motyw,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:219
 msgid "Desktop Background,"
-msgstr ""
+msgstr "Tło pulpitu"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:222
 msgid "Fonts,"
-msgstr ""
+msgstr "Czcionki,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:225
@@ -2298,7 +2382,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:229
 msgid "Theme Preferences"
-msgstr ""
+msgstr "Preferencje motywu"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:234
@@ -2414,7 +2498,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:285
 msgid "Window frame"
-msgstr ""
+msgstr "ramka okna"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:287
@@ -2507,7 +2591,7 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:314
 msgid "To create a custom theme, perform the following steps:"
-msgstr ""
+msgstr "By zrobić własny motyw, powtórz następujące kroki:"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:317 C/goscustdesk.xml:367 C/goscustdesk.xml:428
@@ -2583,7 +2667,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:360
 msgid "To Install a New Theme"
-msgstr ""
+msgstr "By zainstalować nowe tło"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:361
@@ -2645,7 +2729,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:439
 msgid "Select the theme option you want to delete."
-msgstr ""
+msgstr "Wybierz opcje motywu którą chcesz usunąć."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:442
@@ -2810,7 +2894,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:563
 msgid "<guilabel>Remove</guilabel>"
-msgstr ""
+msgstr "<guilabel>usuń</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:568
@@ -2824,7 +2908,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:574
 msgid "<guilabel>Colors</guilabel>"
-msgstr ""
+msgstr "<guilabel>Kolory</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:579
@@ -2913,22 +2997,22 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:624
 msgid "<primary>fonts</primary> <secondary>desktop</secondary>"
-msgstr ""
+msgstr "<primary>czcionki</primary> <secondary>pulpit</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:628
 msgid "<primary>fonts</primary> <secondary>applications</secondary>"
-msgstr ""
+msgstr "<primary>czcionki</primary> <secondary>aplikacje</secondary> "
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:632
 msgid "<primary>fonts</primary> <secondary>window title</secondary>"
-msgstr ""
+msgstr "<primary> czcionki</primary> <secondary>tytuł okna</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:636
 msgid "<primary>fonts</primary> <secondary>terminal</secondary>"
-msgstr ""
+msgstr "<primary>czcionki</primary> <secondary>terminal</secondary> "
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:640
@@ -2947,7 +3031,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:647
 msgid "Choosing Fonts"
-msgstr ""
+msgstr "Wybieranie czcionek"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:648
@@ -3045,7 +3129,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:692
 msgid "<guilabel>Rendering</guilabel>"
-msgstr ""
+msgstr "<guilabel>Renderowanie</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:694
@@ -3090,7 +3174,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:723
 msgid "<guibutton>Details</guibutton>"
-msgstr ""
+msgstr "<guibutton>Detale</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:725
@@ -3271,7 +3355,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:866 C/goscustdesk.xml:882
 msgid "Windows Preferences"
-msgstr ""
+msgstr "Preferencje okien"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:870
@@ -3438,7 +3522,7 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:993
 msgid "You can modify the following settings:"
-msgstr ""
+msgstr "Możesz zmodyfikować następujące ustawienia"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:996
@@ -3556,7 +3640,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1030
 msgid "<guilabel>Connections</guilabel>"
-msgstr ""
+msgstr "<guilabel>Połączenia</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1032
@@ -3619,7 +3703,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1066
 msgid "Ethernet and IRLAN interfaces"
-msgstr ""
+msgstr "Interfejsy Ethernet i IRLAN"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1068
@@ -3670,7 +3754,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1095
 msgid "To activate or deactivate an interface"
-msgstr ""
+msgstr "By aktywować lub dezaktywować interfejs"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1096
@@ -3744,7 +3828,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1119
 msgid "To add a new host alias"
-msgstr ""
+msgstr "by dodać nowy alis hosta."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1120
@@ -3795,7 +3879,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1135
 msgid "To delete a location"
-msgstr ""
+msgstr "by usunąć lokację."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1136
@@ -4178,7 +4262,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1429 C/goscustdesk.xml:1450 C/goscustdesk.xml:1891
 msgid "<guilabel>Speed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Szybkość </guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1434
@@ -4391,7 +4475,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1544
 msgid "<guilabel>Control key position</guilabel>"
-msgstr ""
+msgstr "<guilabel>pozycja przycisku kontrolnego</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1545
@@ -4567,7 +4651,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1619
 msgid "Accessibility Preferences"
-msgstr ""
+msgstr "Preferencje ułatwień dostępu"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1636
@@ -4769,7 +4853,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1844
 msgid "Mouse Keys Preferences"
-msgstr ""
+msgstr "Preferencje przycisków myszy"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1846
@@ -5084,7 +5168,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2143
 msgid "Single click"
-msgstr ""
+msgstr "Pojedyncze kliknięcie"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2145
@@ -5094,7 +5178,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2151
 msgid "Double click"
-msgstr ""
+msgstr "Podwójne kliknięcie"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2153
@@ -5879,7 +5963,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2768
 msgid "Configuring Startup Applications"
-msgstr ""
+msgstr "Konfigurowanie aplikacji startowych"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2769
@@ -5917,7 +6001,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2784
 msgid "Startup Programs Preferences"
-msgstr ""
+msgstr "Preferencje aplikacji startowych"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2801
@@ -6151,12 +6235,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goseditmainmenu.xml:79
 msgid "System Menu"
-msgstr ""
+msgstr "Menu systemu"
 
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:80
 msgid "<primary>System Menu</primary>"
-msgstr ""
+msgstr "<primary>Menu systemu</primary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:83
@@ -6273,7 +6357,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:7
 msgid "Working with Files"
-msgstr ""
+msgstr "Działanie z plikami"
 
 #. (itstool) path: highlights/para
 #: C/goscaja.xml:42
@@ -6344,7 +6428,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:63
 msgid "Install and remove fonts"
-msgstr ""
+msgstr "Instaluj i usuwaj czcionki"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:65
@@ -9162,7 +9246,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1745 C/goscaja.xml:1788
 msgid "Open two file manager windows:"
-msgstr ""
+msgstr "otwórz dwa okna menadżera plików:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1747 C/goscaja.xml:1790
@@ -9227,7 +9311,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:1777
 msgid "Copying a File or Folder"
-msgstr ""
+msgstr "Kopiowanie pliku lub folderu"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:1778
@@ -14466,7 +14550,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:60
 msgid "<application>Notification Area</application> applet"
-msgstr ""
+msgstr "<application>Strefa powiadomień</application> aplet"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:61
@@ -14500,7 +14584,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:73
 msgid "<application>Volume Control</application> applet"
-msgstr ""
+msgstr "<application>kontrola głośności</application> aplet"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:75
@@ -14599,7 +14683,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:126
 msgid "Managing Panels"
-msgstr ""
+msgstr "zarządzanie panelami."
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:130
@@ -14733,7 +14817,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:219 C/gospanel.xml:1442
 msgid "<guilabel>Show hide buttons</guilabel>"
-msgstr ""
+msgstr "<guilabel>Wyświetl ukryte przyciski,</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:224
@@ -21054,12 +21138,12 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:25
 msgid "desktop background"
-msgstr ""
+msgstr "tło pulpitu"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:27
 msgid "The image or color that is applied to your desktop."
-msgstr ""
+msgstr "Obraz lub kolor zastosowany na pulpicie. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:31
@@ -21077,17 +21161,17 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:39
 msgid "DNS name"
-msgstr ""
+msgstr "Nazwa DNS"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:41
 msgid "A unique alphabetic identifier for a computer on a network."
-msgstr ""
+msgstr "Unikalny identyfikator alfabetyczny komputera w sieci. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:45
 msgid "drawer"
-msgstr ""
+msgstr "szuflada"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:47
@@ -21095,11 +21179,13 @@ msgid ""
 "A drawer is a sliding extension to a panel that you can open or close from a"
 " drawer icon."
 msgstr ""
+"Szuflada to przesuwane przedłużenie panelu, które można otworzyć lub zamknąć"
+" za pomocą ikony szuflady. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:52
 msgid "file extension"
-msgstr ""
+msgstr "rozszerzenie pliku"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:54
@@ -21108,6 +21194,9 @@ msgid ""
 "For example, the file extension of the file "
 "<filename>picture.jpeg</filename> is <filename>jpeg</filename>."
 msgstr ""
+"Ostatnia część nazwy pliku, po ostatniej kropce (.) w nazwie. Na przykład "
+"rozszerzenie pliku <filename>picture.jpeg</filename> to "
+"<filename>jpeg</filename>. "
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:55
@@ -21117,11 +21206,15 @@ msgid ""
 "determine what to do when you open a file. For more on this, see <xref "
 "linkend=\"caja-open-file\"/>."
 msgstr ""
+"Rozszerzenie pliku może identyfikować typ pliku. Menedżer plików "
+"<application>Caja</application> wykorzystuje te informacje, aby określić, co"
+" robić otwierając plik. Więcej informacji na ten temat znajdziesz w <xref "
+"linkend=\"caja-open-file\"/>."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:59
 msgid "format"
-msgstr ""
+msgstr "format"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:61
@@ -21130,11 +21223,14 @@ msgid ""
 "system. When you format media, you overwrite any existing information on the"
 " media."
 msgstr ""
+"Formatowanie nośnika polega na przygotowaniu nośnika do użycia z określonym "
+"systemem plików. Podczas formatowania nośnika zastępujesz wszelkie "
+"istniejące informacje na nośniku. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:67
 msgid "MATE-compliant application"
-msgstr ""
+msgstr "Aplikacja zgodna z MATE "
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:69
@@ -21144,21 +21240,25 @@ msgid ""
 "file manager and <application>pluma</application> text editor are MATE-"
 "compliant applications."
 msgstr ""
+"Aplikacja korzystająca ze standardowych bibliotek programistycznych MATE "
+"nazywana jest aplikacją zgodną z MATE. Na przykład menedżer plików "
+"<application>Caja</application> i edytor tekstu "
+"<application>pluma</application> są aplikacjami zgodnymi z MATE. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:75
 msgid "IP address"
-msgstr ""
+msgstr "Adres IP"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:77
 msgid "A unique numeric identifier for a computer on a network."
-msgstr ""
+msgstr "Unikalny identyfikator numeryczny dla komputera w sieci. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:81
 msgid "keyboard shortcut"
-msgstr ""
+msgstr "skrót klawiaturowy"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:83
@@ -21166,11 +21266,13 @@ msgid ""
 "A <firstterm>keyboard shortcut</firstterm> is a key or combination of keys "
 "that provides an alternative to standard ways of performing an action."
 msgstr ""
+"<firstterm>Skrót klawiaturowy to klawisz lub kombinacja klawiszy, które "
+"stanowią alternatywę dla standardowych sposobów wykonywania czynności. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:88
 msgid "launcher"
-msgstr ""
+msgstr "program uruchamiający"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:90
@@ -21178,11 +21280,13 @@ msgid ""
 "A launcher starts a particular application, executes a command, or opens a "
 "file. A launcher can reside in a panel or in a menu."
 msgstr ""
+"Program uruchamiający uruchamia określoną aplikację, wykonuje polecenie lub "
+"otwiera plik. Launcher może znajdować się w panelu lub w menu. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:95
 msgid "menubar"
-msgstr ""
+msgstr "pasek menu"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:97
@@ -21190,11 +21294,12 @@ msgid ""
 "A menubar is a bar at the top of an application window that contains the "
 "menus for the application."
 msgstr ""
+"Pasek menu to pasek u góry okna aplikacji, który zawiera menu aplikacji. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:102
 msgid "MIME type"
-msgstr ""
+msgstr "Typ MIME"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:104
@@ -21204,6 +21309,10 @@ msgid ""
 " email application can use the <literal>image/png</literal> MIME type to "
 "detect that a Portable Networks Graphic (PNG) file is attached to an email."
 msgstr ""
+"Typ MIME (Multipurpose Internet Mail Extension) identyfikuje format pliku. "
+"Typ MIME umożliwia aplikacjom odczytanie pliku. Na przykład aplikacja poczty"
+" e-mail może użyć typu MIME image/png, aby wykryć, że plik Portable Networks"
+" Graphic (PNG) jest dołączony do wiadomości e-mail. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:112
@@ -21217,11 +21326,13 @@ msgid ""
 "file system, the file system is attached as a subdirectory to your file "
 "system."
 msgstr ""
+"Montowanie oznacza udostępnienie systemu plików. Podczas podłączania systemu"
+" plików jest on dołączany jako podkatalog do systemu plików."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:120
 msgid "pane"
-msgstr ""
+msgstr "panel"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:122
@@ -21229,11 +21340,13 @@ msgid ""
 "A pane is a subdivision of a window. For example, the "
 "<application>Caja</application> window contains a side pane and a view pane."
 msgstr ""
+"Panel jest częścią okna. Na przykład okno <application>Caja</application> "
+"zawiera panel boczny i panel widoku."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:126
 msgid "preference tool"
-msgstr ""
+msgstr "narzędzie preferencji"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:128
@@ -21241,22 +21354,26 @@ msgid ""
 "A dedicated software tool that controls a particular part of the behavior of"
 " the MATE Desktop."
 msgstr ""
+"Dedykowane narzędzie programowe, które kontroluje określoną część zachowania"
+" pulpitu MATE. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:133
 msgid "shortcut keys"
-msgstr ""
+msgstr "skróty klawiszowe"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:135
 msgid ""
 "Shortcut keys are keystrokes that provide a quick way to perform an action."
 msgstr ""
+"Skróty klawiszowe to kombinacje klawiszy, które zapewniają szybki sposób "
+"wykonywania czynności. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:140
 msgid "stacking order"
-msgstr ""
+msgstr "kolejność układania"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:142
@@ -21264,11 +21381,12 @@ msgid ""
 "The stacking order is the order in which windows are stacked on top of each "
 "other on your screen."
 msgstr ""
+"Kolejność układania to kolejność, w jakiej okna są układane na ekranie."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:147
 msgid "statusbar"
-msgstr ""
+msgstr "pasek stanu"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:149
@@ -21276,11 +21394,13 @@ msgid ""
 "A statusbar is a bar at the bottom of a window that provides information "
 "about the current state of what you are viewing in the window."
 msgstr ""
+"Pasek stanu znajduje się na dole okna i dostarcza informacji o bieżącym "
+"stanie tego, co przeglądasz w oknie. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:154
 msgid "symbolic link"
-msgstr ""
+msgstr "łącze symboliczne"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:156
@@ -21289,11 +21409,14 @@ msgid ""
 "perform an action on a symbolic link, the action is performed on the file or"
 " folder to which the symbolic link points."
 msgstr ""
+"Specjalny typ pliku wskazujący inny plik lub folder. Kiedy wykonujesz akcję "
+"na łączu symbolicznym, akcja jest wykonywana na pliku lub folderze, na który"
+" wskazuje powiązanie symboliczne."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:162
 msgid "toolbar"
-msgstr ""
+msgstr "pasek narzędzi"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:164
@@ -21301,11 +21424,13 @@ msgid ""
 "A toolbar is a bar that contains buttons for the most commonly-used commands"
 " in an application. Typically, a toolbar appears under a menubar."
 msgstr ""
+"Pasek narzędzi to pasek zawierający przyciski najczęściej używanych poleceń "
+"w aplikacji. Zazwyczaj pasek narzędzi pojawia się pod paskiem menu. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:169
 msgid "Uniform Resource Identifier"
-msgstr ""
+msgstr "Uniform Resource Identifier (URI)"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:171
@@ -21314,11 +21439,14 @@ msgid ""
 " location in a file system or on the Web. For example, the address of a web "
 "page is a URI."
 msgstr ""
+"Uniform Resource Identifier (URI) to ciąg znaków, który identyfikuje "
+"określoną lokalizację w systemie plików lub w sieci Web. Na przykład adres "
+"strony internetowej to URI. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:177
 msgid "Uniform Resource Locator"
-msgstr ""
+msgstr "Uniform Resource Locator (URL)"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:179
@@ -21326,11 +21454,13 @@ msgid ""
 "A Uniform Resource Locator (URL) is the address of a particular location on "
 "the Web."
 msgstr ""
+"URL (ang. Uniform Resource Locator) to adres określonej lokalizacji w "
+"Internecie."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:184
 msgid "view"
-msgstr ""
+msgstr "widok"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:186
@@ -21341,14 +21471,21 @@ msgid ""
 "as icons. <application>Caja</application> also contains a list view which "
 "enables you to display the contents of a folder as a list."
 msgstr ""
+"Komponent <application>Caja</application>, który umożliwia wyświetlanie "
+"folderu w określony sposób. Na przykład <application>Caja</application> "
+"zawiera widok ikon, który umożliwia wyświetlanie zawartości folderu jako "
+"ikon. <application>Caja</application> zawiera również widok listy, który "
+"umożliwia wyświetlanie zawartości folderu jako listy. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:193
 msgid "workspace"
-msgstr ""
+msgstr "obszar roboczy"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:195
 msgid ""
 "A workspace is a discrete area in the MATE Desktop in which you can work."
 msgstr ""
+"Obszar roboczy to oddzielny obszar na pulpicie MATE, w którym możesz "
+"pracować. "

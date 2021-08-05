@@ -1,3 +1,4 @@
+# 
 # Translators:
 # 437c9d6e19936ed69f57bed9e0fe4716, 2018
 # geost <george.stefanakis@gmail.com>, 2018
@@ -7,14 +8,14 @@
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
 # kosmmart <kosmmartak@gmail.com>, 2018
-# Αλέξανδρος Καπετάνιος <alexandros@gnugr.org>, 2019
-# TheDimitris15 <dhmhtrhs150@gmail.com>, 2019
+# Alexandros Kapetanios <alexandros@gnugr.org>, 2019
+# TheDimitris15, 2019
 # anvo <fragos.george@hotmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: anvo <fragos.george@hotmail.com>, 2019\n"
 "Language-Team: Greek (https://www.transifex.com/mate/teams/13566/el/)\n"
@@ -52,7 +53,7 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
 msgstr ""
 
 #. (itstool) path: info/copyright

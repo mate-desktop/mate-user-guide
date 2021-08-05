@@ -1,24 +1,26 @@
+# 
 # Translators:
 # Михаил Ильинский <mail@milinsky.com>, 2018
-# Alexei Sorokin <sor.alexei@meowr.ru>, 2018
-# Иван <pentuh@tut.by>, 2018
+# Alexei Sorokin, 2018
+# Иван Горновский <pentuh@tut.by>, 2018
 # AlexL <loginov.alex.valer@gmail.com>, 2018
 # Dmitry Mandryk <dmandryk@gmail.com>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Oldboy Boyold <boyoldboyold@gmail.com>, 2018
-# Aleksey Kabanov <ak099@mail.ru>, 2018
 # Alex Putz, 2018
 # monsta <monsta@inbox.ru>, 2019
+# Olesya Gerasimenko <gammaray@basealt.ru>, 2019
 # Wolfgang Ulbrich <mate@raveit.de>, 2019
-# Olesya Gerasimenko <gammaray@basealt.ru>, 2020
+# Aleksey Kabanov <ak099@mail.ru>, 2020
+# Anna Vyalkova <cybertailor@gmail.com>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Olesya Gerasimenko <gammaray@basealt.ru>, 2020\n"
+"Last-Translator: Anna Vyalkova <cybertailor@gmail.com>, 2020\n"
 "Language-Team: Russian (https://www.transifex.com/mate/teams/13566/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -81,8 +83,8 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
-msgstr "<year>2015—2020</year> <holder>Проект документирования MATE</holder>"
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
+msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -2491,6 +2493,13 @@ msgid ""
 "<application>Opera</application>...) to launch when you click on a link in "
 "other applications such as email clients or document viewers."
 msgstr ""
+"Используйте инструмент настроек <application>Предпочтительные "
+"приложения</application>, чтобы указать, какие приложения должны по "
+"умолчанию запускаться рабочей средой MATE для определённых действий. "
+"Например, можно выбрать веб-браузер (<application>Epiphany </application>, "
+"<application>Mozilla Firefox</application>, <application>Opera</application>"
+" ...) для запуска при щелке на ссылке в другом приложении, таком как клиент "
+"электронной почты или средство просмотра документов."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:173
@@ -2499,6 +2508,9 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guisubmenu>Personal</guisubmenu><guimenuitem>Preferred"
 " Applications</guimenuitem></menuchoice>."
 msgstr ""
+"<application>Предпочтительные приложения</application> можно найти в меню "
+"<menuchoice><guimenu>Система</guimenu><guisubmenu>Параметры</guisubmenu><guisubmenu>Персональные</guisubmenu><guimenuitem>Предпочтительные"
+" приложения</guimenuitem></menuchoice>."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:175
@@ -2513,20 +2525,22 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:178
 msgid "<guilabel>Internet</guilabel> (Web Browser, Mail Reader)"
-msgstr ""
+msgstr "<guilabel>Интернет</guilabel> (веб-браузер, почтовая программа)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:183
 msgid ""
 "<guilabel>Multimedia</guilabel> (Image Viewer, Multimedia Player, Video "
 "Player)"
-msgstr ""
+msgstr "<guilabel>Мультимедиа</guilabel> (мультимедийный проигрыватель)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:188
 msgid ""
 "<guilabel>System</guilabel> (Text Editor, Terminal Emulator, File Manager)"
 msgstr ""
+"<guilabel>Система</guilabel> (текстовый редактор, эмулятор терминала, "
+"файловый менеджер)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:193
@@ -2534,6 +2548,8 @@ msgid ""
 "<guilabel>Office</guilabel> (Document Viewer, Word Processor, Spreadsheet "
 "Editor)"
 msgstr ""
+"<guilabel>Офис</guilabel> (просмотр документов, текстовый процессор, "
+"электронные таблицы)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:198
@@ -2554,7 +2570,7 @@ msgstr ""
 #. (itstool) path: formalpara/title
 #: C/goscustdesk.xml:205
 msgid "Run at start (Accessibility only)"
-msgstr ""
+msgstr "<guilabel>Автозапуск (Специальные возможности)</guilabel>"
 
 #. (itstool) path: formalpara/para
 #: C/goscustdesk.xml:205
@@ -7173,11 +7189,13 @@ msgid ""
 "<primary>menus</primary> <secondary>Classic Menu</secondary> <see>Classic "
 "Menu</see>"
 msgstr ""
+"<primary>меню</primary> <secondary>Классическое меню</secondary> "
+"<see>Классическое меню</see>"
 
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:29
 msgid "<primary>Classic Menu</primary> <secondary>introduction</secondary>"
-msgstr ""
+msgstr "<primary>Классическое меню</primary> <secondary>введение</secondary>"
 
 #. (itstool) path: chapter/para
 #: C/goseditmainmenu.xml:34
@@ -7188,6 +7206,11 @@ msgid ""
 " the <guimenu>System</guimenu> to customize your system, get help with MATE,"
 " and log out of MATE or shut down your computer."
 msgstr ""
+"Классическое меню — это основная точка доступа к MATE. Используйте меню "
+"<guimenu>Приложения</guimenu> для запуска приложений; меню "
+"<guimenu>Переход</guimenu> для открытия местоположений на вашем компьютере "
+"или в сети; и меню <guimenu>Система</guimenu> для настройки системы, "
+"получения справки о MATE и для завершения работы."
 
 #. (itstool) path: chapter/para
 #: C/goseditmainmenu.xml:35
@@ -7202,6 +7225,10 @@ msgid ""
 " or have more than one instance of the classic menu in your panels. For more"
 " on this, see <xref linkend=\"panel-menus\"/>."
 msgstr ""
+"По умолчанию классическое меню находится <xref linkend=\"top-panel\"/>. Но, "
+"как и любой другой объект панели, его можно передвинуть на другую панель, "
+"или создать несколько копий меню на панелях. Для более подробной информации "
+"см. <xref linkend=\"panel-menus\"/>."
 
 #. (itstool) path: info/title
 #: C/goseditmainmenu.xml:38
@@ -15890,6 +15917,10 @@ msgid ""
 "and the bottom panel shows you the list of open windows and the workspace "
 "switcher."
 msgstr ""
+"Панели — две полоски, одна в  самом верху и одна в самом низу экрана. По "
+"умолчанию кнопка классического меню MATE находится на верхней панели, там же"
+" отображается дата, время и кнопки запуска приложений, на нижней панели "
+"находится список открытых окон и переключатель рабочих мест."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:58
@@ -16103,6 +16134,8 @@ msgid ""
 "Click on the <guibutton>Show Desktop</guibutton> button at the far left of "
 "the <xref linkend=\"bottom-panel\"/>."
 msgstr ""
+"Нажмите кнопку <guibutton>Показать рабочий стол</guibutton> в левом конце "
+"<xref linkend=\"bottom-panel\"/>."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:127
@@ -16482,6 +16515,11 @@ msgid ""
 "=\"mouse-pointers\"/>) appears when your mouse is in the correct position to"
 " begin the drag action."
 msgstr ""
+"Перетащите одну из границ окна, чтобы растянуть или сжать его с "
+"соответствующей стороны. Перетащите угол окна, чтобы изменить его сразу по "
+"двум направлениям. Когда указатель мыши находится в подходящем для "
+"перетаскивания границы месте, он превращается в указатель изменения размера "
+"(см. <xref linkend=\"mouse-pointers\"/>)."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:239
@@ -16518,6 +16556,11 @@ msgid ""
 "<firstterm>window list</firstterm> on the <xref linkend=\"bottom-panel\"/> "
 "or the <firstterm>window selector</firstterm> in the top panel."
 msgstr ""
+"Нажмите кнопку «Свернуть» — самую левую из трёх кнопок в правой части "
+"заголовка окна. Окно исчезнет из вида. Его можно восстановить в прежний "
+"размер и положение на экране с помощью <firstterm>списка окон</firstterm> на"
+" <xref linkend=\"bottom-panel\"/> или через <firstterm>переключатель "
+"окон</firstterm> на верхней панели."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:248
@@ -16714,6 +16757,8 @@ msgid ""
 "You can customize the shortcut used to perform this action with the <xref "
 "linkend=\"prefs-keyboard-shortcuts\"/> tool."
 msgstr ""
+"Вы можете выбрать комбинацию клавиш, используемую для этого действия, с "
+"помощью инструмента <xref linkend=\"prefs-keyboard-shortcuts\"/>."
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:331
@@ -16750,6 +16795,16 @@ msgid ""
 "contain currently open windows. The currently active workspace is "
 "highlighted."
 msgstr ""
+"По умолчанию доступно четыре рабочих места. Вы можете переключаться между "
+"ними с помощью апплета <application>Переключатель рабочих "
+"мест</application>, расположенного у правого края <xref linkend=\"bottom-"
+"panel\"/>. Этот апплет показывает уменьшенное изображение ваших рабочих "
+"мест, обычно в виде ряда из четырёх прямоугольников. Щёлкните по одному из "
+"прямоугольников, чтобы переключиться на соответствующее рабочее место. <xref"
+" linkend=\"gosoverview-FIG-42\"/> показывает <application>переключатель "
+"рабочих мест</application>, содержащий четыре места: на первых трёх открыты "
+"окна, на последнем окон ещё нет. Выбранное в данный момент рабочее место "
+"подсвечено."
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:339
@@ -16965,6 +17020,9 @@ msgid ""
 "Editor</application></link> can read, create, or modify any kind of simple "
 "text without any formatting."
 msgstr ""
+"<link xlink:href=\"help:pluma\"><application>Текстовый редактор "
+"Pluma</application></link> позволяет просматривать, создавать или изменять "
+"любой простой (не форматированный) текст."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:412
@@ -16973,6 +17031,9 @@ msgid ""
 "dictionary\"><application>Dictionary</application></link> allows you to look"
 " up definitions of a word."
 msgstr ""
+"<link xlink:href=\"help:mate-"
+"dictionary\"><application>Словарь</application></link> позволяет находить "
+"определения слов."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:413
@@ -16980,6 +17041,9 @@ msgid ""
 "<link xlink:href=\"help:eom\"><application>Image Viewer</application></link>"
 " can display single image files, as well as large image collections."
 msgstr ""
+"<link xlink:href=\"help:eom\"><application>Программа просмотра "
+"изображений</application></link> способна показывать как отдельные "
+"изображения, так и большие коллекции."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:414
@@ -16990,6 +17054,11 @@ msgid ""
 "application. If you are writing in several languages, not all the characters"
 " you need will be on your keyboard."
 msgstr ""
+"<link xlink:href=\"help:gucharmap\"><application>Таблица "
+"символов</application></link> позволяет выбирать буквы и символы из набора "
+"символов <firstterm>Unicode</firstterm> и вставлять их в любое приложение. "
+"Это особенно полезно для составления текстов на языках, символов из которых "
+"нет на клавиатуре компьютера."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:415
@@ -17001,6 +17070,12 @@ msgid ""
 "menu\"/>, a <application>Caja File Manager</application> window opens "
 "showing that location."
 msgstr ""
+"<application>Диспетчер файлов Caja</application> (см. <xref "
+"linkend=\"caja\"/>) отображает папки и их содержимое. Используйте его для "
+"копирования, перемещения и сортировки файлов, а также доступа к содержимому "
+"компакт-дисков, USB-устройств флеш-памяти или других съёмных носителей. При "
+"выборе объекта в меню <xref linkend=\"places-menu\"/> <application>диспетчер"
+" файлов Caja</application> откроет окно, отображающее это местоположение."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:416
@@ -17009,6 +17084,9 @@ msgid ""
 "terminal\"><application>Terminal</application></link> gives you access to "
 "the system command line."
 msgstr ""
+"<link xlink:href=\"help:mate-"
+"terminal\"><application>Терминал</application></link> обеспечивает доступ к "
+"системной командной строке."
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:419
@@ -17076,6 +17154,9 @@ msgid ""
 " <xref linkend=\"prefs-theme\"/> tool to change the look-and-feel of your "
 "MATE-compliant applications."
 msgstr ""
+"МАТЕ-совместимые приложения имеют единый стиль. Вы можете использовать "
+"инструмент настройки <xref linkend=\"prefs-theme\"/> для изменения стиля "
+"МАТЕ-совместимых приложений."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:433
@@ -17267,6 +17348,10 @@ msgid ""
 "places on your network, and your bookmarks (see <xref linkend=\"caja-"
 "bookmarks\"/> for more on bookmarks)."
 msgstr ""
+"Откройте объект на панели, находящейся слева. Эта панель содержит список "
+"расположений, таких как папка с документами, домашняя папка, съёмные "
+"носители (например, CD и флеш-диски), сетевые расположения и закладки (см. "
+"<xref linkend=\"caja-bookmarks\"/>)."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:479
@@ -17350,6 +17435,13 @@ msgid ""
 "current location are greyed out, and pressing <guibutton>Open</guibutton> "
 "when a folder is selected will choose that folder."
 msgstr ""
+"Иногда может понадобиться выбрать папку для работы, а не открыть файл. "
+"Например, если вы используете <link "
+"xlink:href=\"help:engrampa\"><application>Диспетчер "
+"архивов</application></link> для извлечения файлов из архива, понадобится "
+"выбрать папку для размещения файлов. В этом случае файлы в текущем "
+"расположении будут затенены, нажатие <guibutton>Открыть</guibutton> на "
+"выбранной папке выберет папку."
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:497
@@ -17551,6 +17643,10 @@ msgid ""
 "open\"/>), such as filtering, find-as-you-type, and adding and removing "
 "bookmarks."
 msgstr ""
+"Развёрнутое диалоговое окно <guilabel>Сохранить файл</guilabel> обладает "
+"теми же свойствами, что и диалоговое окно <guilabel>Открыть файл</guilabel> "
+"(см. <xref linkend=\"filechooser-open\"/>), например имеет фильтры, поиск по"
+" мере набора, а также добавление и удаление закладок."
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:531
@@ -17700,7 +17796,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:52
 msgid "<application>Classic Menu</application> applet"
-msgstr ""
+msgstr "Апплет <application>Классическое меню</application>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:53
@@ -17709,6 +17805,9 @@ msgid ""
 "<guimenu>Places</guimenu>, and <guimenu>System</guimenu> menus. For more on "
 "the classic menu, see <xref linkend=\"menubar\"/>."
 msgstr ""
+"Классическое меню содержит разделы <guimenu>Приложения</guimenu>, "
+"<guimenu>Переход</guimenu>, <guimenu>Система</guimenu>. Более подробные "
+"сведения о классическом меню доступны по ссылке <xref linkend=\"menubar\"/>."
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:56
@@ -18112,6 +18211,9 @@ msgid ""
 "=\"prefs-theme\"/> tool. This keeps your panel's background looking the same"
 " as the rest of the desktop and applications."
 msgstr ""
+"Выберите этот параметр, чтобы в панели использовались параметры инструмента "
+"настройки <xref linkend=\"prefs-theme\"/>. Это позволит фону панели "
+"выглядеть так же, как окружение и приложения."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:273
@@ -18195,6 +18297,10 @@ msgid ""
 "emblems\"/>) in <application>Caja</application> file manager to a panel to "
 "set it as the background."
 msgstr ""
+"Можно перетащить цвет или орнамент из диалогового окна <guilabel>Фон и "
+"эмблемы</guilabel> (см. <xref linkend=\"caja-backgrounds-and-emblems\"/>) "
+"диспетчера файлов <application>Caja</application> на панель, чтобы "
+"установить этот цвет или орнамент в качестве фона панели."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:326
@@ -18291,6 +18397,11 @@ msgid ""
 "To set your panel to autohide, modify the properties of the panel as per the"
 " instructions in <xref linkend=\"panel-properties\"/>."
 msgstr ""
+"Вы можете включить автоматическое скрытие панели. Когда оно включено, панель"
+" автоматически прячется, когда указатель мыши не наведен на панель. Панель "
+"появится снова, когда указатель мыши будет наведен на часть экрана, где "
+"находится панель. Для включения автоматического скрытия панели, измените "
+"настройки панели по инструкции <xref linkend=\"panel-properties\"/>."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:362
@@ -18436,6 +18547,15 @@ msgid ""
 "handle. If you right-click on a button on the right side, a popup menu for "
 "the button opens."
 msgstr ""
+"У некоторых апплетов есть всплывающие меню со специальными командами, "
+"зависящими от апплета. Это меню появляется при щелчке правой кнопкой мыши в "
+"определённых частях апплета. Например, апплет <application><xref "
+"linkend=\"windowlist\"/></application> имеет вертикальную «рукоятку» с левой"
+" стороны, а справа находятся кнопки, соответствующие открытым окнам. Чтобы "
+"открыть всплывающее меню апплета <application>Список окон</application>, "
+"нужно щёлкнуть правой кнопкой мыши на «рукоятке». Если щёлкнуть правой "
+"кнопкой мыши на кнопке в правой части апплета, появится всплывающее меню "
+"этой кнопки."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:448
@@ -18486,6 +18606,9 @@ msgid ""
 "objects are listed alphabetically, with <xref linkend=\"launchers\"/> at the"
 " top."
 msgstr ""
+"Появится диалоговое окно <guilabel>Добавить на панель</guilabel>. В нём "
+"перечислены в алфавитном порядке все доступные объекты панели, причём "
+"наверху находятся <xref linkend=\"launchers\"/>."
 
 #. (itstool) path: tip/para
 #: C/gospanel.xml:477
@@ -19051,6 +19174,10 @@ msgid ""
 "Panel</guimenu>. The <guilabel>Add to Panel</guilabel> dialog opens (see "
 "<xref linkend=\"panels-addobject\"/>)."
 msgstr ""
+"Щёлкните правой кнопкой мыши в любом свободном месте на панели, затем "
+"выберите <guimenu>Добавить на панель</guimenu>. Появится диалоговое окно "
+"<guilabel>Добавить на панель</guilabel> (см. <xref linkend=\"panels-"
+"addobject\"/>)."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:743
@@ -19412,7 +19539,7 @@ msgstr "<command>file:///home/user/Projects</command>"
 #. (itstool) path: entry/para
 #: C/gospanel.xml:949
 msgid "<command>https://mate-desktop.org</command>"
-msgstr ""
+msgstr "<command>https://mate-desktop.org</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:954
@@ -19689,6 +19816,9 @@ msgid ""
 "configure the type of screensaver that is displayed when you lock the "
 "screen."
 msgstr ""
+"Открывает инструмент настройки <xref linkend=\"prefs-screensaver\"/>, с "
+"помощью которого вы можете настроить вид хранителя, появляющегося при "
+"блокировке экрана."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1118
@@ -20057,6 +20187,10 @@ msgid ""
 "Classic Menu. It contains the <guimenu>Applications</guimenu>, "
 "<guimenu>Places</guimenu>, and <guimenu>System</guimenu> menus."
 msgstr ""
+"<guimenu>Классическое меню</guimenu>: доступ почти ко всем стандартным "
+"приложениям, командам и параметрам конфигурации. В частности, доступны "
+"разделы <guimenu>Приложения</guimenu>, <guimenu>Переход</guimenu> и "
+"<guimenu>Система</guimenu>."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1274
@@ -20066,6 +20200,12 @@ msgid ""
 "choose <application>Classic Menu</application> from the Add to Panel dialog."
 " See <xref linkend=\"panels-addobject\"/> for more on this."
 msgstr ""
+"Для добавления <guimenu>классического меню</guimenu> на панель, сделайте "
+"щелчок правой кнопкой мыши на свободном месте на панели. Выберите "
+"<guimenu>Добавить на панель</guimenu>, затем выберите "
+"<application>Классическое меню</application> из диалога добавления на "
+"панель. Более подробные сведения доступны по ссылке <xref linkend=\"panels-"
+"addobject\"/>."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1280
@@ -20074,6 +20214,9 @@ msgid ""
 " the Classic Menu, but organizes them into one menu instead of three. It "
 "takes up less space on the panels as a result."
 msgstr ""
+"<guimenu>Компактное меню</guimenu>: компактное меню содержит те же объекты, "
+"что и классическое меню, но организовано в виде одного меню вместо трёх. В "
+"результате оно занимает меньше места на панели."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1283
@@ -20083,6 +20226,12 @@ msgid ""
 "choose <application>Compact Menu</application> from the Add to Panel dialog."
 " See <xref linkend=\"panels-addobject\"/> for more on this."
 msgstr ""
+"Для добавления <guimenu>компактного меню</guimenu> на панель сделайте щелчок"
+" правой кнопкой мыши на свободном месте на панели. Выберите "
+"<guimenu>Добавить на панель</guimenu>, затем выберите "
+"<application>Компактное меню</application> из диалога добавления на панель. "
+"Более подробные сведения доступны по ссылке <xref linkend=\"panels-"
+"addobject\"/>."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1289
@@ -20092,6 +20241,9 @@ msgid ""
 "<guimenu>Games</guimenu> submenu of the <guimenu>Applications</guimenu> menu"
 " to the panel."
 msgstr ""
+"<guimenu>Подменю</guimenu>: вы можете добавить подменю в классическое или "
+"компактное меню прямо на панели. Например, вы можете добавить подменю "
+"<guimenu>Игры</guimenu> в меню <guimenu>Приложения</guimenu> на панели."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1292
@@ -20561,7 +20713,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
 msgid "Classic Menu"
-msgstr ""
+msgstr "Классическое меню"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -20584,6 +20736,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Classic Menu applet. "
 "Menus: Applications, Places, System.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/menu_bar_applet.png\" "
+"format=\"PNG\"/></imageobject><textobject><phrase>Апплет классического меню."
+" Меню: «Приложения», «Переход», «Система».</phrase></textobject>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1561
@@ -20595,6 +20750,12 @@ msgid ""
 "<application>Classic Menu</application>. For more on using the Classic Menu,"
 " see <xref linkend=\"menubar\"/>."
 msgstr ""
+"<application>Классическое меню</application> содержит меню "
+"<guimenu>Приложения</guimenu>, <guimenu>Переход</guimenu> и "
+"<guimenu>Система</guimenu>. Из <application>классического меню</application>"
+" можно получить доступ почти ко всем стандартным приложениям, командам и "
+"параметрам конфигурации. Более подробные сведения об использовании "
+"классического меню доступны по ссылке <xref linkend=\"menubar\"/>."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1571
@@ -21547,6 +21708,10 @@ msgid ""
 "sessions\"/> tool, you can select an option to automatically save your "
 "current settings."
 msgstr ""
+"Перед тем, как завершать сеанс, вы можете сохранить его текущие параметры, "
+"чтобы впоследствии его можно было восстановить. В инструменте настройки "
+"<xref linkend=\"prefs-sessions\"/> можно включить автоматическое сохранение "
+"текущих параметров."
 
 #. (itstool) path: info/title
 #: C/gostools.xml:7
@@ -21616,6 +21781,10 @@ msgid ""
 "Application</guilabel> dialog in the <application><xref linkend=\"prefs-"
 "keyboard-shortcuts\"/></application> tool."
 msgstr ""
+"Нажмите <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo>. Можно "
+"изменить эту комбинацию, открывающую диалоговое окно <guilabel>Выполнить "
+"программу</guilabel>, в инструменте настройки <application><xref linkend"
+"=\"prefs-keyboard-shortcuts\"/></application>."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:28
@@ -21649,6 +21818,10 @@ msgid ""
 " will open the page. Prefix the web page address with https://, as in https"
 "://mate-desktop.org."
 msgstr ""
+"Если ввести только расположение файла, подходящее приложение запустится для "
+"его открытия. Если вы введёте адрес веб-страницы, браузер по умолчанию "
+"откроет страницу. Добавьте префикс адреса веб-страницы https://, например "
+"https://www.mate-desktop.org."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:53
@@ -21761,6 +21934,8 @@ msgid ""
 "You can use the <application><xref linkend=\"prefs-keyboard-"
 "shortcuts\"/></application> tool to modify the default shortcut keys."
 msgstr ""
+"Используйте инструмент <application><xref linkend=\"prefs-keyboard-"
+"shortcuts\"/></application>, чтобы изменить стандартные комбинации клавиш."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:127
@@ -24709,7 +24884,7 @@ msgstr "menubar-accel"
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:983
 msgid "(s) Keyboard shortcut to open the menus."
-msgstr ""
+msgstr "(s) Комбинация клавиш для открытия меню."
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:991
@@ -25395,6 +25570,10 @@ msgid ""
 "database</link>, where you can also browse the list of known bugs. You will "
 "need to register before you can submit any bugs this way."
 msgstr ""
+"Самый простой способ отправлять сообщения об ошибках — подключиться к <link "
+"xlink:href=\"https://github.com/mate-desktop/\">базе данных отслеживания "
+"ошибок MATE</link>, где вы также можете просматривать список известных "
+"ошибок. Для отправки сообщений об ошибках потребуется зарегистрироваться."
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:27
@@ -25406,6 +25585,13 @@ msgid ""
 "project/blueman/\">GitHub</link>. Bug reports and comments about these "
 "products should be directed to the respective organization or company."
 msgstr ""
+"Обратите внимание, что некоторые приложения MATE разрабатываются вне проекта"
+" MATE или коммерческими компаниями (тем не менее, эти продукты по-прежнему "
+"являются свободным программным обеспечением). Например, "
+"<application>blueman</application>, приложение Bluetooth, разработано в "
+"<link xlink:href=\"https://github.com/blueman-"
+"project/blueman/\">GitHub</link>. Отчёты об ошибках и комментарии об этих "
+"продуктах следует направлять в соответствующую организацию или компанию."
 
 #. (itstool) path: info/title
 #: C/gosfeedback.xml:38
@@ -25499,6 +25685,9 @@ msgid ""
 "visit <link xlink:href=\"https://mate-desktop.org/community/\">https://mate-"
 "desktop.org/community/</link>."
 msgstr ""
+"Дополнительные сведения о связи с сообществом доступны по ссылке: <link "
+"xlink:href=\"https://mate-desktop.org/community/\">https://mate-"
+"desktop.org/community/</link>."
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:74
@@ -25506,6 +25695,9 @@ msgid ""
 "You are always welcome to make pull requests at our <link "
 "xlink:href=\"https://github.com/mate-desktop\">GitHub</link> repo."
 msgstr ""
+"Если вы захотите создать pull request в наш репозиторий <link "
+"xlink:href=\"https://github.com/mate-desktop\">GitHub</link>, то это всегда "
+"приветствуется!"
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:75

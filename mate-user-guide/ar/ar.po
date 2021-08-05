@@ -1,3 +1,4 @@
+# 
 # Translators:
 # alibacha19 <alibacha19@gmail.com>, 2018
 # Hayder Majid <cteehayder@gmail.com>, 2018
@@ -12,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: Ahmad Dakhlallah <andy.afef@gmail.com>, 2019\n"
 "Language-Team: Arabic (https://www.transifex.com/mate/teams/13566/ar/)\n"
@@ -44,7 +45,7 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
 msgstr ""
 
 #. (itstool) path: info/copyright

@@ -1,27 +1,28 @@
+# 
 # Translators:
 # Lluís Tusquellas <lutusq@gmail.com>, 2018
 # Andres Sanchez <blackatze93@gmail.com>, 2018
 # Benjamin Perez Carrillo <benperezc@gmail.com>, 2018
-# seacat <seacat.linux@gmail.com>, 2018
 # Emiliano Fascetti, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # elio <micta2003@hotmail.com>, 2018
-# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Miguel de Dios Matias <tres.14159@gmail.com>, 2018
 # David García-Abad <dgarciabad@gmail.com>, 2018
 # Isabel Ortuño <isabel.ortuno1@gmail.com>, 2018
 # Joel Barrios <darkshram@gmail.com>, 2018
-# Adolfo Jayme-Barrientos, 2019
+# Adolfo Jayme Barrientos, 2019
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019
-# Toni Estévez <toni.estevez@gmail.com>, 2020
+# Toni Estévez <toni.estevez@gmail.com>, 2021
+# seacat <seacat.linux@gmail.com>, 2021
+# Wolfgang Ulbrich <mate@raveit.de>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-13 16:05+0100\n"
+"POT-Creation-Date: 2021-01-16 14:23+0100\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Toni Estévez <toni.estevez@gmail.com>, 2020\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2021\n"
 "Language-Team: Spanish (https://www.transifex.com/mate/teams/13566/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,9 +57,9 @@ msgstr ""
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
-msgid "<year>2015-2020</year> <holder>MATE Documentation Project</holder>"
+msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
 msgstr ""
-"<year>2015-2020</year> <holder>Proyecto de documentación de MATE</holder>"
+"<year>2015-2021</year> <holder>Proyecto de documentación de MATE</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -823,7 +824,7 @@ msgstr "Mover elementos."
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:260
 msgid "Move windows to the back."
-msgstr "Mover ventanas al fondo."
+msgstr "Mover las ventanas al fondo."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:266
@@ -1812,7 +1813,7 @@ msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>S</keycap> </keycombo>"
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:918
 msgid "Save the current document to disk."
-msgstr "Guarda el documento actual al disco."
+msgstr "Guarda el documento actual en el disco."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:923
@@ -2032,13 +2033,13 @@ msgid ""
 " submenu. This menu also contains more complex utility applications for "
 "managing and updating your system."
 msgstr ""
-"Algunas herramientas de preferencias le permiten modificar partes esenciales"
-" de su sistema y por ello requieren un acceso de gestión. Cuando abra la "
-"herramienta de preferencias aparecerá un diálogo para que escriba su "
-"contraseña. Éstas están en el submenú "
+"Algunas herramientas de preferencias permiten modificar partes esenciales "
+"del sistema y, por lo tanto, requieren un acceso administrativo. Al abrir la"
+" herramienta de preferencias, un diálogo le solicitará la contraseña. Estas "
+"herramientas se encuentran en el submenú "
 "<menuchoice><guimenu>Sistema</guimenu><guisubmenu>Administración</guisubmenu></menuchoice>."
 " Este menú también contiene aplicaciones más complejas para gestionar y "
-"actualizar su sistema."
+"actualizar el sistema."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:32
@@ -3592,10 +3593,10 @@ msgid ""
 "keys. To remove a shortcut key, press <keycap>Backspace</keycap> or "
 "<keycap>Delete</keycap>."
 msgstr ""
-"Para cambiar una tecla de atajo de una aplicación, abra el menú y con el "
-"puntero del ratón en el elemento del menú que quiere cambiar, pulse el atajo"
-" nuevo. Para eliminar una tecla de atajo, pulse <keycap>Retroceso</keycap> o"
-" <keycap>Suprimir</keycap>."
+"Para cambiar la tecla de atajo de una aplicación, abra el menú y, con el "
+"puntero del ratón en el elemento del menú que quiere cambiar, pulse la "
+"combinación de teclas nueva. Para eliminar una tecla de atajo, pulse "
+"<keycap>Retroceso</keycap> o <keycap>Suprimir</keycap>."
 
 #. (itstool) path: warning/para
 #: C/goscustdesk.xml:830
@@ -3984,9 +3985,9 @@ msgid ""
 "password when you try to return to the desktop. For more on locking your "
 "screen, see <xref linkend=\"lock-screen\"/>."
 msgstr ""
-"Cuando esta opción esté seleccionada, el salvapantallas le pedirá su "
-"contraseña cuando intente volver al escritorio. Para más acerca de bloquear "
-"su pantalla, consulte la <xref linkend=\"lock-screen\"/>."
+"Al seleccionar esta opción, el salvapantallas le solicitará la contraseña "
+"cuando intente volver al escritorio. Para obtener más información sobre cómo"
+" bloquear la pantalla, consulte la <xref linkend=\"lock-screen\"/>."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1020
@@ -4014,7 +4015,7 @@ msgid ""
 "<application>Network Settings</application>. This is because the changes "
 "done with this tool will affect the whole system."
 msgstr ""
-"Se le preguntará la contraseña de administrador al iniciar "
+"Se le solicitará la contraseña de administrador al iniciar "
 "<application>Ajustes de red</application>. Esto es necesario porque los "
 "cambios realizados con esta herramienta afectarán a todo el sistema."
 
@@ -4470,7 +4471,7 @@ msgid ""
 "proxy server in the <guilabel>Port</guilabel> field."
 msgstr ""
 "Introduzca el nombre de dominio o la dirección IP del servidor proxy que "
-"usar cuando pida un servicio HTTP. Introduzca el número de puerto del "
+"usar cuando solicite un servicio HTTP. Introduzca el número de puerto del "
 "servicio HTTP en el servidor proxy en el campo <guilabel>Puerto</guilabel>."
 
 #. (itstool) path: listitem/para
@@ -4496,8 +4497,9 @@ msgid ""
 "service on the proxy server in the <guilabel>Port</guilabel> field."
 msgstr ""
 "Introduzca el nombre de dominio o la dirección IP del servidor proxy que "
-"usar cuando pida un servicio HTTP seguro. Introduzca el número de puerto del"
-" servicio HTTP en el servidor proxy en el campo <guilabel>Puerto</guilabel>."
+"usar cuando solicite un servicio HTTP seguro. Introduzca el número de puerto"
+" del servicio HTTP en el servidor proxy en el campo "
+"<guilabel>Puerto</guilabel>."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1211
@@ -4512,7 +4514,7 @@ msgid ""
 "proxy server in the <guilabel>Port</guilabel> field."
 msgstr ""
 "Introduzca el nombre de dominio o la dirección IP del servidor proxy que "
-"usar cuando pida un servicio FTP. Introduzca el número de puerto del "
+"usar cuando solicite un servicio FTP. Introduzca el número de puerto del "
 "servicio FTP en el servidor proxy en el campo <guilabel>Puerto</guilabel>."
 
 #. (itstool) path: varlistentry/term
@@ -4668,11 +4670,11 @@ msgid ""
 "your session. You can also decide what time is suitable for the remote user "
 "to connect to your session."
 msgstr ""
-"<guilabel>Pedir confirmación:</guilabel> Seleccione esta opción si quiere "
-"que los usuarios remotos le pidan confirmación cuando quieran compartir tu "
-"sesión. Esta opción te permite estar advertido de otros usuarios que se "
-"conectan a tu sesión. Puedes además decidir qué hora es apropiada para que "
-"los usuarios remotos se conecten a tu sesión."
+"<guilabel>Solicitar confirmación:</guilabel> Seleccione esta opción si "
+"quiere que los usuarios remotos le soliciten confirmación cuando quieran "
+"compartir tu sesión. Esta opción te permite estar advertido de otros "
+"usuarios que se conectan a tu sesión. Puedes además decidir qué hora es "
+"apropiada para que los usuarios remotos se conecten a tu sesión."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1315
@@ -4777,11 +4779,10 @@ msgid ""
 "performed repeatedly. For example, if you press-and-hold a character key, "
 "the character is typed repeatedly."
 msgstr ""
-"Seleccione esta opción para activar la repetición del teclado. Si está "
-"activada la repetición del teclado, cuando mantenga pulsada una tecla, la "
-"acción asociada con la tecla se realizará repetidamente. Por ejemplo, si "
-"pulsa y mantiene pulsada una tecla de carácter, el carácter se escribirá "
-"repetidamente."
+"Seleccione esta opción para activar la repetición del teclado. Si se activa "
+"la repetición del teclado, al mantener pulsada una tecla, la acción asociada"
+" a la tecla se ejecuta repetidamente. Por ejemplo, si mantiene presionada la"
+" tecla de un carácter, se escribe repetidamente el carácter."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1418 C/goscustdesk.xml:1692 C/goscustdesk.xml:1719
@@ -5775,9 +5776,9 @@ msgid ""
 "release the Control key. This feature can assist you to locate the mouse "
 "pointer."
 msgstr ""
-"Seleccione esta opción para activar una animación del puntero del ratón "
-"cuando pulse y suelte la tecla Control. Esta característica puede ayudarle a"
-" encontrar el puntero del ratón."
+"Seleccione esta opción para activar la animación del puntero del ratón al "
+"pulsar y soltar la tecla Control. Esta característica puede ayudarle a "
+"localizar el puntero del ratón."
 
 #. (itstool) path: note/para
 #: C/goscustdesk.xml:2070
@@ -5869,8 +5870,8 @@ msgid ""
 "positioning of the pointer or with pressing the mouse buttons:"
 msgstr ""
 "Use la pestaña <guilabel>Accesibilidad</guilabel> para configurar las "
-"características de accesibilidad que pueden ayudar a personas que tienen "
-"dificultades para posicionar el puntero con precisión o para pulsar los "
+"características de accesibilidad que pueden ayudar a las personas que tienen"
+" dificultades para posicionar el puntero con precisión o para pulsar los "
 "botones del ratón:"
 
 #. (itstool) path: listitem/para
@@ -6052,7 +6053,7 @@ msgid ""
 "When this option is enabled, the different types of click (single click, "
 "double click, drag click or secondary click) can be selected in a window."
 msgstr ""
-"Cuando esta opción está activada, se puede seleccionar en una ventana los "
+"Cuando se activa esta opción, se pueden seleccionar en una ventana los "
 "diferentes tipos de clic (un solo clic, doble clic, clic de arrastre o clic "
 "secundario)."
 
@@ -7299,9 +7300,8 @@ msgid ""
 "To remove an item from a menu, deselect it in the list. The item can be "
 "added back to the menu by selecting it once again."
 msgstr ""
-"Para eliminar un elemento de un menú, desmarque la casilla al lado del "
-"elemento en la lista. El elemento se puede volver a añadir al menú marcando "
-"la casilla de nuevo."
+"Para eliminar un elemento de un menú, deselecciónelo en la lista. El "
+"elemento se puede volver a añadir al menú al seleccionarlo de nuevo."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:7
@@ -10598,11 +10598,11 @@ msgid ""
 "that appear when you drag-and-drop."
 msgstr ""
 "Puede usar arrastrar y soltar para realizar varias tareas en el gestor de "
-"archivos. Cuando arrastra y suelta, el puntero del ratón proporciona "
+"archivos. Al arrastrar y soltar, el puntero del ratón proporciona "
 "retroalimentación sobre la tarea que realiza. La <xref linkend=\"goscaja-"
 "TBL-11\"/> describe las tareas que puede realizar con arrastrar y soltar. La"
-" tabla también muestra los punteros del ratón que aparecen cuando "
-"arrastra-y-suelta."
+" tabla también muestra los punteros del ratón que aparecen al arrastrar y "
+"soltar."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1607
@@ -11242,7 +11242,7 @@ msgid ""
 "To move a file or folder to <guilabel>Trash</guilabel> perform the following"
 " steps:"
 msgstr ""
-"Para mover un archivo o una carpeta a la <guilabel>Papelera</guilabel> siga "
+"Para mover un archivo o una carpeta a la <guilabel>papelera</guilabel> siga "
 "los pasos siguientes:"
 
 #. (itstool) path: listitem/para
@@ -11263,7 +11263,7 @@ msgid ""
 msgstr ""
 "Elija <menuchoice><guimenu>Editar</guimenu><guimenuitem>Mover a la "
 "papelera</guimenuitem></menuchoice>. Alternativamente, haga clic derecho en "
-"el archivo o la carpeta, después elija <guimenuitem>Mover a la "
+"el archivo o la carpeta y después elija <guimenuitem>Mover a la "
 "papelera</guimenuitem>."
 
 #. (itstool) path: section/para
@@ -11273,7 +11273,7 @@ msgid ""
 "<guilabel>Trash</guilabel> object on the desktop."
 msgstr ""
 "Alternativamente, puede arrastrar el archivo o la carpeta al objeto "
-"<guilabel>Papelera</guilabel> en el escritorio."
+"<guilabel>papelera</guilabel> del escritorio."
 
 #. (itstool) path: note/para
 #: C/goscaja.xml:1950
@@ -11285,10 +11285,10 @@ msgid ""
 "<guilabel>Trash</guilabel>."
 msgstr ""
 "Cuando mueve un archivo o una carpeta de un soporte extraíble a la "
-"<guilabel>Papelera</guilabel>, el archivo de la papelera se almacena en la "
-"ubicación de la <guilabel>Papelera</guilabel> en el dispositivo extraíble. "
-"Para eliminar el archivo de la papelera permanentemente del dispositivo "
-"extraíble, debe vaciar la <guilabel>Papelera</guilabel>."
+"<guilabel>papelera</guilabel>, el archivo o la carpeta se almacenan en la "
+"ubicación de la <guilabel>papelera</guilabel> del dispositivo extraíble. "
+"Para eliminar permanentemente el archivo o la carpeta del dispositivo "
+"extraíble, debe vaciar la <guilabel>papelera</guilabel>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1956
@@ -11312,9 +11312,9 @@ msgid ""
 " Trash</guilabel> option in the <guilabel>File Management "
 "Preferences</guilabel> dialog."
 msgstr ""
-"Cuando borra un archivo o una carpeta, el archivo o la carpeta no se mueve a"
-" la <guilabel>Papelera</guilabel>, sino que se borra de su sistema de "
-"archivos inmediatamente. El menú <guimenuitem>Eliminar</guimenuitem> solo "
+"Al eliminar un archivo o una carpeta, el archivo o la carpeta no se mueven a"
+" la <guilabel>papelera</guilabel>, sino que se eliminan del sistema de "
+"archivos permanentemente. El menú <guimenuitem>Eliminar</guimenuitem> solo "
 "está disponible si selecciona la opción <guilabel>Incluir una orden de "
 "eliminar que no use la Papelera</guilabel> en el diálogo "
 "<guilabel>Preferencias de la gestión de archivos</guilabel>."
@@ -12197,7 +12197,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2392 C/goscaja.xml:3737
 msgid "<guilabel>Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nombre</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2397
@@ -12272,16 +12272,16 @@ msgid ""
 "This two-stage process is in case you change your mind, or accidentally "
 "remove the wrong file."
 msgstr ""
-"La papelera es una carpeta especial que mantiene los archivos que no quiere "
-"conservar por más tiempo. Los archivos en la papelera no se borran "
-"permanentemente hasta que vacía la papelera. Este proceso de dos etapas está"
-" por si cambia de idea o accidentalmente elimina el archivo equivocado."
+"La papelera es una carpeta especial que contiene archivos que ya no quiere "
+"conservar. Los archivos de la papelera no se eliminan permanentemente hasta "
+"que no se vacía la papelera. Este proceso de dos etapas es por si se cambia "
+"de opinión o elimina accidentalmente el archivo equivocado."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2444
 msgid "You can move the following items to <guilabel>Trash</guilabel>:"
 msgstr ""
-"Puede mover los elementos siguientes a la <guilabel>Papelera</guilabel>:"
+"Puede mover los elementos siguientes a la <guilabel>papelera</guilabel>:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2447
@@ -12301,11 +12301,10 @@ msgid ""
 "<guilabel>Trash</guilabel>. When you empty <guilabel>Trash</guilabel>, you "
 "delete the contents of <guilabel>Trash</guilabel> permanently."
 msgstr ""
-"Si necesita obtener un archivo de la <guilabel>Papelera</guilabel>, puede "
-"mostrar la <guilabel>Papelera</guilabel> y mover el archivo fuera de la "
-"<guilabel>Papelera</guilabel>. Cuando vacía la "
-"<guilabel>Papelera</guilabel>, elimina el contenido de la "
-"<guilabel>Papelera</guilabel> permanentemente."
+"Si necesita un archivo de la <guilabel>papelera</guilabel>, puede mostrar la"
+" <guilabel>papelera</guilabel> y mover el archivo fuera de la "
+"<guilabel>papelera</guilabel>. Al vaciar la <guilabel>papelera</guilabel>, "
+"se elimina permanentemente el contenido de la <guilabel>papelera</guilabel>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:2460
@@ -12323,7 +12322,7 @@ msgid ""
 "You can display the contents of <guilabel>Trash</guilabel> in the following "
 "ways:"
 msgstr ""
-"Puede mostrar el contenido de la <guilabel>Papelera</guilabel> de los modos "
+"Puede mostrar el contenido de la <guilabel>papelera</guilabel> de los modos "
 "siguientes:"
 
 #. (itstool) path: listitem/para
@@ -12339,8 +12338,8 @@ msgid ""
 " The contents of <guilabel>Trash</guilabel> are displayed in the window."
 msgstr ""
 "Elija "
-"<menuchoice><guimenu>Ir</guimenu><guimenuitem>Papelera</guimenuitem></menuchoice>."
-" El contenido de la <guilabel>Papelera</guilabel> se muestra en la ventana."
+"<menuchoice><guimenu>Ir</guimenu><guimenuitem>papelera</guimenuitem></menuchoice>."
+" El contenido de la <guilabel>papelera</guilabel> se muestra en la ventana."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2474
@@ -12356,7 +12355,7 @@ msgid ""
 msgstr ""
 "Elija "
 "<menuchoice><guimenu>Lugares</guimenu><guimenuitem>Papelera</guimenuitem></menuchoice>."
-" El contenido de la <guilabel>Papelera</guilabel> se muestra en la ventana."
+" El contenido de la <guilabel>papelera</guilabel> se muestra en la ventana."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2479 C/goscaja.xml:2499
@@ -12367,7 +12366,7 @@ msgstr "Desde el escritorio"
 #: C/goscaja.xml:2480
 msgid "Double-click on the <guilabel>Trash</guilabel> object on the desktop."
 msgstr ""
-"Haga doble clic en el objeto <guilabel>Papelera</guilabel> en el escritorio."
+"Haga doble clic en el objeto <guilabel>papelera</guilabel> del escritorio."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:2484
@@ -12385,7 +12384,7 @@ msgid ""
 "You can empty the contents of <guilabel>Trash</guilabel> in the following "
 "ways:"
 msgstr ""
-"Puede mostrar el contenido de la <guilabel>Papelera</guilabel> de los modos "
+"Puede mostrar el contenido de la <guilabel>papelera</guilabel> de los modos "
 "siguientes:"
 
 #. (itstool) path: listitem/para
@@ -12403,9 +12402,8 @@ msgid ""
 "Right-click on the <guilabel>Trash</guilabel> object, then choose "
 "<guimenuitem>Empty Trash</guimenuitem>."
 msgstr ""
-"Haga clic con el botón derecho sobre el objeto "
-"<guilabel>Papelera</guilabel>, después escoja <guimenuitem>Vaciar "
-"papelera</guimenuitem>."
+"Haga clic con el botón derecho sobre el objeto <guilabel>papelera</guilabel>"
+" y después escoja <guimenuitem>Vaciar la papelera</guimenuitem>."
 
 #. (itstool) path: caution/para
 #: C/goscaja.xml:2504
@@ -12413,9 +12411,8 @@ msgid ""
 "When you empty trash, you destroy all files in the trash. Be sure that the "
 "trash only contains files you no longer need."
 msgstr ""
-"Cuando vacía la papelera, destruye todos los archivos en la papelera. "
-"Asegúrese de que la papelera solo contiene archivos que no necesitará por "
-"más tiempo."
+"Al vaciar la papelera, se destruyen todos los archivos de la papelera. "
+"Asegúrese de que la papelera solo contiene archivos que ya no necesita."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:2511
@@ -14124,7 +14121,7 @@ msgstr "Los ajustes predeterminados para las vistas."
 msgid "The behavior of files and folders, executable text files, and Trash."
 msgstr ""
 "El comportamiento de los archivos y las carpetas, los archivos de texto "
-"ejectuables y la papelera."
+"ejecutables y la papelera."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3329
@@ -14463,7 +14460,7 @@ msgid ""
 "selected unless you have good reason not to."
 msgstr ""
 "Seleccione esta opción para mostrar un mensaje de confirmación antes de que "
-"se vacíe la <guilabel>Papelera</guilabel> o se eliminen archivos. Mantenga "
+"se vaciar la <guilabel>papelera</guilabel> o eliminar archivos. Mantenga "
 "esta selección a no ser que tenga una buena razón para no hacerlo."
 
 #. (itstool) path: varlistentry/term
@@ -14504,8 +14501,8 @@ msgid ""
 msgstr ""
 "Cuando seleccione un elemento,  elija el elemento del menú "
 "<guimenuitem>Eliminar</guimenuitem>, el elemento se eliminará de su sistema "
-"de archivos inmediatamente. No hay forma de recuperar un archivo borrado. No"
-" seleccione esto a no ser que tenga una buena razón para hacerlo."
+"de archivos inmediatamente. No hay forma de recuperar un archivo eliminar. "
+"No seleccione esto a no ser que tenga una buena razón para hacerlo."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:3556
@@ -14580,7 +14577,7 @@ msgstr "Información"
 #: C/goscaja.xml:3597 C/goscaja.xml:3747 C/gospanel.xml:189
 #: C/gospanel.xml:1420
 msgid "<guilabel>Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tamaño</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3602 C/goscaja.xml:3752
@@ -14590,7 +14587,7 @@ msgstr "Elija esta opción para mostrar el tamaño del elemento."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3607 C/goscaja.xml:3757
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tipo</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3612
@@ -15830,7 +15827,7 @@ msgstr ""
 "Puede seleccionar el texto de un diálogo con el ratón. Así puede copiarlo al"
 " portapapeles (haciendo clic con el botón derecho del ratón y seleccionando "
 "<guilabel>Copiar</guilabel>) y pegarlo en otra aplicación. Esto es útil para"
-" citar el texto que ve en un diálogo al pedir ayuda en Internet."
+" citar el texto que ve en un diálogo al solicitar ayuda en Internet."
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:188
@@ -20734,10 +20731,10 @@ msgid ""
 " startup program is enabled or not. Programs which are not enabled will not "
 "be started automatically when you log in."
 msgstr ""
-"En esta pestaña se muestra una lista de programas. La lista muestra una "
-"descripción corta de cada programa, junto a una casilla que denota si el "
-"programa al inicio está activado o no. Los programas no activados no se "
-"iniciarán automáticamente cuando inicie sesión."
+"En esta pestaña se muestra una lista de programas al inicio. La lista "
+"muestra una descripción corta de cada programa junto a una casilla que "
+"indica si el programa al inicio está activado o no. Los programas no "
+"activados no se iniciarán automáticamente cuando inicie sesión."
 
 #. (itstool) path: info/title
 #: C/gosstartsession.xml:208
@@ -21119,8 +21116,9 @@ msgid ""
 "application or command that does not create a window in which to run."
 msgstr ""
 "Seleccione la opción <guilabel>Ejecutar en un terminal</guilabel> para "
-"ejecutar la aplicación o orden en una ventana de terminal. Elija esta opción"
-" para una aplicación o orden que no cree una ventana en la cual ejecutarse."
+"ejecutar la aplicación o la orden en una ventana del terminal. Elija esta "
+"opción para una aplicación o una orden que no cree una ventana en la que "
+"ejecutarse."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:67
@@ -23542,6 +23540,8 @@ msgstr ""
 #: C/gosdconfkeys.xml:621
 msgid "caja"
 msgstr ""
+"Lista completa de cambios: <https://github.com/mate-"
+"desktop/atril/commits/master/>"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:631
