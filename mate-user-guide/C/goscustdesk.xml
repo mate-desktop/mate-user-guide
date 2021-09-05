@@ -1280,7 +1280,7 @@ are ignored.</para>
               </para>
             </entry>
             <entry colsep="0" rowsep="0" valign="top">
-              <para>Select this option to enable other to access and control
+              <para>Select this option to enable others to access and control
 your session from a remote location.</para>
             </entry>
           </row>
@@ -2137,7 +2137,7 @@ specified here, the action is not interpreted as a double-click. </para>
          </listitem>
          <listitem>
             <para>
-              Perform different types of mouse button click by software; this useful for users that are not able to manipulate any buttons. The types of click that can be performed are:
+              Perform different types of mouse button click by software; this is useful for users that are not able to manipulate any buttons. The types of click that can be performed are:
                <variablelist>
                  <varlistentry>
                    <term>Single click</term>
@@ -2455,7 +2455,7 @@ preference tool in the following functional areas:</para>
     <para>You can change the overall output volume using the <guilabel>Output volume</guilabel> slider at the top of the window. The <guilabel>Mute</guilabel> checkbox allows to temporarily suppress all output without disturbing the current volume.</para>
 
     <section xml:id="goscustdesk-48"><info><title>Sound Effects Preferences</title></info>
-      <para>A sound theme is collection of sound effects that are associated to various events, such as opening a dialog, clicking a button or selecting an item in a menu. One of the most prominent event sounds is the <emphasis>System Bell</emphasis> sound that often played to indicate a keyboard input error. Use the <guilabel>Sound Effects</guilabel> tabbed section of the <application>Sound</application> preference tool to choose a sound theme and modify the bell sound.</para>
+      <para>A sound theme is collection of sound effects that are associated to various events, such as opening a dialog, clicking a button or selecting an item in a menu. One of the most prominent event sounds is the <emphasis>System Bell</emphasis> sound that is often played to indicate a keyboard input error. Use the <guilabel>Sound Effects</guilabel> tabbed section of the <application>Sound</application> preference tool to choose a sound theme and modify the bell sound.</para>
       <para><xref linkend="goscustmulti-TBL-6"/> lists the sound effects preferences that you can modify.</para>
       <table frame="topbot" xml:id="goscustmulti-TBL-6"><info><title>Sound Effects Preferences</title></info>
         <tgroup cols="2" colsep="1" rowsep="1">
