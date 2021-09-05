@@ -151,7 +151,7 @@ is an active component of the way you use your computer.</para>
       <para>A new spatial window opens each time you open a folder. To open a folder, do one of the following:</para>
       <anchor xml:id="goscaja-25"/><!-- removed id: Displaying Folder Contents -->
       <itemizedlist>
-        <listitem><para>Double-click the folder's icon on the desktop or an existing window</para></listitem>
+        <listitem><para>Double-click the folder's icon on the desktop or an existing window.</para></listitem>
         <listitem><para>Select the folder, and press <keycombo><keycap>Ctrl</keycap><keycap>O</keycap></keycombo>.</para></listitem>
         <listitem><para>Select the folder, and press <keycombo><keycap>Alt</keycap><keycap>down arrow</keycap></keycombo></para></listitem>
         <listitem><para>Choose an item from the <xref linkend="places-menu"/> on the top panel. Your Home Folder and folders you have bookmarked are listed here. For more on bookmarks, see <xref linkend="caja-bookmarks"/>.</para></listitem>
@@ -450,7 +450,7 @@ of items in the view pane.</para>
                   <para>The location bar is a very powerful tool for navigating your computer. It can appear in three different ways depending on your selection. For more on using the location bar see <xref linkend="caja-location-bar"/>. In all three configurations the location bar always contains the following items.</para>
                   <itemizedlist>
                     <listitem>
-                      <para><guimenu>Zoom</guimenu> buttons: Enable you to change the
+                      <para><guimenu>Zoom</guimenu> buttons: Enables you to change the
 size of items in the view pane.</para>
                     </listitem>
                     <listitem>
@@ -638,7 +638,7 @@ and hiding</secondary>
       </listitem>
       <listitem>
         <para><guilabel>Search bar</guilabel></para>
-        <para>By pressing <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or selecting the <guibutton>Search</guibutton> toolbar button the search bar appears. For more information on searching see <xref linkend="caja-searching"/>. The search bar is excellent for locating files of folders when you are not sure of their exact location.</para>
+        <para>By pressing <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or selecting the <guibutton>Search</guibutton> toolbar button the search bar appears. For more information on searching see <xref linkend="caja-searching"/>. The search bar is excellent for locating files or folders when you are not sure of their exact location.</para>
       <figure xml:id="goscaja-FIG-904"><info><title>The search bar</title></info>
         <screenshot>
           <mediaobject>
@@ -742,7 +742,7 @@ following steps:</para>
       </indexterm>
       <para>The <guilabel>Tree</guilabel> view is one of the most useful features of the side pane. It displays a hierarchical representation of your file system and provides a convenient way to browse and to navigate
 your file system. To display the <guilabel>Tree</guilabel> in the side pane, choose <guimenuitem>Tree</guimenuitem> from the drop-down list at the top of the side pane. </para>
-<para>In the <guilabel>Tree</guilabel>view, open folders are represented as downwards facing arrows.</para>
+<para>In the <guilabel>Tree</guilabel> view, open folders are represented as downwards facing arrows.</para>
       
       <para><xref linkend="goscaja-TBL-34"/> describes tasks you can
 perform with the <guilabel>Tree</guilabel>, and how to do so.</para>
@@ -826,7 +826,7 @@ not display files. For more information, see <xref linkend="goscaja-438"/>. </pa
       </indexterm>
       <para>The file browser window maintains a history
 list of files, folders, FTP sites, and URI locations you have recently visited. You can use the history
-list to navigate to quickly return to these places. Your history list contains the last ten items that
+list to navigate to or quickly return to these places. Your history list contains the last ten items that
 you viewed.</para>
       <para>To clear your history list choose <menuchoice><guimenu>Go</guimenu><guimenuitem>Clear History</guimenuitem></menuchoice>.</para>
 
@@ -1767,8 +1767,7 @@ folder, as follows:</para>
           </listitem>
           <listitem>
             <para>Open the folder to which you want to move the file or folder,
-then choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste
-</guimenuitem></menuchoice>.</para>
+then choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>.</para>
           </listitem>
         </orderedlist>
       </section>
@@ -1812,8 +1811,7 @@ folder, as follows:</para>
           </listitem>
           <listitem>
             <para>Open the folder to which you want to copy the file or folder,
-then choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste
-</guimenuitem></menuchoice>.</para>
+then choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>.</para>
           </listitem>
         </orderedlist>
       </section>
@@ -2729,7 +2727,7 @@ the icon to represent the file or folder. </para>
       </orderedlist>
       <para>To restore an icon from a custom icon to the default icon,
 Select the file or folder that you want to change, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>.
-click on the <guibutton>Icon</guibutton> button, in the <guilabel>Select custom 
+Click on the <guibutton>Icon</guibutton> button, in the <guilabel>select custom 
 icon</guilabel> dialog click <guibutton>Revert</guibutton>.</para>
     </section>
 
@@ -2875,7 +2873,7 @@ that represents the media is added to the desktop. The icon is added only
 if your system is configured to mount the device automatically when media
 is detected. </para>
       <para>If your system is not configured to mount the device automatically,
-you must mount the device manually. Double-click on the <guilabel>Computer</guilabel> icon from the desktop. A <guilabel>Computer </guilabel> dialog
+you must mount the device manually. Double-click on the <guilabel>Computer</guilabel> icon from the desktop. A <guilabel>Computer</guilabel> dialog
 is displayed. Double-click on the icon that represents the media. For example,
 to mount a floppy diskette, double-click on the <guilabel>Floppy</guilabel>
 icon. An icon that represents the media is added to the desktop. </para>
@@ -3111,7 +3109,7 @@ a remote server, be it an FTP site, a Windows share, a WebDav server or an SSH s
 <para>To access a remote server, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Connect to Server</guimenuitem></menuchoice>.
 You may also access this dialog from the menubar by choosing <menuchoice><guimenu>Places</guimenu><guimenuitem>Connect to Server</guimenuitem></menuchoice>.</para>
 <para>To connect to a remote server, start by choosing the service type, then enter the server address.</para>
-<para>If required by your server, you may provide the following optional information : </para>
+<para>If required by your server, you may provide the following optional information: </para>
             <informaltable frame="topbot">
               <tgroup cols="2" colsep="0" rowsep="0">
                 <colspec colname="colspec0" colwidth="27.27*"/>
@@ -3220,11 +3218,11 @@ network places. </para>
       <para>To access network places, open the file manager and choose <menuchoice><guimenu>Places</guimenu><guimenuitem>Network Servers</guimenuitem></menuchoice>. A window opens that displays the network places that you
 can access. Double-click on the network that you want to access. </para>
       <para><indexterm><primary>NFS servers</primary><see>Unix network</see></indexterm>To
-access UNIX shares, double-click on the <guilabel>Unix Network (NFS) </guilabel>
+access UNIX shares, double-click on the <guilabel>Unix Network (NFS)</guilabel>
 object. A list of the UNIX shares available to you is displayed in the file
 manager window.</para>
       <para><indexterm><primary>Samba servers</primary><see>Windows network</see></indexterm>To access Windows shares, double-click on the <guilabel>Windows
-Network (SMB) </guilabel> object. A list of the Windows shares available to
+Network (SMB)</guilabel> object. A list of the Windows shares available to
 you is displayed in the file manager window.</para>
     </section>
 
@@ -3376,7 +3374,7 @@ you can modify. </para>
               </entry>
               <entry valign="top">
                 <para>Select the default view for folders. When you open
-a folder, the folder is displayed in the view that you select. This can be the icon view, the list view, or the compact view, which is a variant of the icon view that is organized in columns rather than rows..</para>
+a folder, the folder is displayed in the view that you select. This can be the icon view, the list view, or the compact view, which is a variant of the icon view that is organized in columns rather than rows.</para>
               </entry>
             </row>
             <row>
@@ -4140,7 +4138,7 @@ You will have to navigate to the scripts folder with the file manager if you do 
     <section xml:id="goscaja-write-scripts"><info><title>Writing File Manager Scripts</title></info>
        <para>When executed from a local folder, scripts will be passed the selected file names. When 
 executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parameters.</para>
-       <para>The following table shows variables passed to the script :</para>
+       <para>The following table shows variables passed to the script:</para>
        <informaltable frame="topbot">
           <tgroup cols="2" colsep="0" rowsep="0">
             <colspec colwidth="50*"/>
