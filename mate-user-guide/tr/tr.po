@@ -8,13 +8,15 @@
 # Wolfgang Ulbrich <mate@raveit.de>, 2019
 # mauron, 2020
 # Butterfly <gokhanlnx@gmail.com>, 2020
+# Gurbuzguven <6mehmet6@gmail.com>, 2021
+# Sabri Ünal <libreajans@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-16 14:23+0100\n"
+"POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Butterfly <gokhanlnx@gmail.com>, 2020\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>, 2022\n"
 "Language-Team: Turkish (https://www.transifex.com/mate/teams/13566/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,7 +58,7 @@ msgstr ""
 #. (itstool) path: info/copyright
 #: C/index.docbook:14
 msgid "<year>2015-2021</year> <holder>MATE Documentation Project</holder>"
-msgstr ""
+msgstr "<year>2015-2021</year><holder>MATE Belgelendirme Projesi</holder>"
 
 #. (itstool) path: info/copyright
 #: C/index.docbook:18
@@ -106,6 +108,9 @@ msgid ""
 "Team</surname> </personname> <affiliation> <orgname>Sun "
 "Microsystems</orgname> </affiliation>"
 msgstr ""
+"<personname><firstname>Sun</firstname><surname>GNOME Belgelendirme "
+"Takımı</surname></personname><affiliation><orgname>Sun "
+"Microsystems</orgname></affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:62
@@ -332,7 +337,7 @@ msgstr ""
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
 msgid "This manual describes version 1.22 of the MATE desktop."
-msgstr ""
+msgstr "Bu kılavuz, MATE masaüstünün 1.22 sürümünü tasvir eder."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:4
@@ -345,6 +350,13 @@ msgid ""
 "xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">link</link> or in "
 "the file COPYING-DOCS distributed with this manual."
 msgstr ""
+"Bu belgeyi kopyalama, dağıtma ve/veya değiştirme izni, değişmez bölümsüz, ön"
+" kapak metinsiz ve arka kapak metinsiz şekilde GNU Free Documentation "
+"License (GNU Özgür Belgeleme Lisansı, GFDL), sürüm 1.1 ya da Free Software "
+"Foundation tarafından yayınlanan daha yeni bir sürüm kapsamında verilmiştir."
+"  GFDL'nin bir kopyasını bu <link "
+"xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">bağlantıda</link> "
+"veya bu kılavuzla birlikte verilen COPYING-DOCS dosyasında bulabilirsiniz."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:13
@@ -449,6 +461,9 @@ msgid ""
 "manual, follow the directions in the <link xlink:href=\"help:mate-user-"
 "guide/feedback\">MATE Feedback Page</link>."
 msgstr ""
+"MATE Masaüstü veya bu kılavuzla ilgili bir hatayı bildirmek veya bir öneride"
+" bulunmak için <link xlink:href=\"help:mate-user-guide/feedback\">MATE Geri "
+"Bildirim Sayfasındaki</link> yönergeleri izleyin."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:6
@@ -529,6 +544,11 @@ msgid ""
 "mouse. If you use a left-handed mouse, see the paragraph on setting mouse "
 "orientation below."
 msgstr ""
+"Bu belgedeki talimatlar en yaygın fare türü olan üç düğmeli, sağ el için "
+"tasarlanmış fareler içindir. Eğer başka tür bir fare ya da girdi cihazı "
+"kullanıyorsanız farenizdeki ilgili düğmeleri bulmaya dikkat etmelisiniz. "
+"Şayet sol el için tasarlanmış bir fare kullanıyorsanız aşağıdaki fare yönünü"
+" ayarlama paragrafına bakın."
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:65
@@ -537,6 +557,9 @@ msgid ""
 " button conventions used in this manual. This is normally also implied in "
 "most documentation and in many applications."
 msgstr ""
+"Eğer farenizi sol el için ayarladıysanız, bu kılavuzda kullanılan fare "
+"düğmesi kurallarını tersine çevirmeniz gerekir. Bu normalde çoğu belgede ve "
+"birçok uygulamada da ima edilir."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:69
@@ -1394,12 +1417,12 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:513
 msgid ""
-"This pointer appears when you drag a window to move it. See <xref linkend"
-"=\"windows-manipulating\"/> for more information on moving windows."
+"This pointer appears when you drag a window to move it. See <xref "
+"linkend=\"windows-manipulating\"/> for more information on moving windows."
 msgstr ""
 "Bu belirteç herhangi bir pencereyi taşımak için sürüklediğinizde ortaya "
-"çıkar. Pencereleri taşıma hakkında daha fazla bilgi için <xref linkend"
-"=\"windows-manipulating\"/> sayfasına bakın."
+"çıkar. Pencereleri taşıma hakkında daha fazla bilgi için <xref "
+"linkend=\"windows-manipulating\"/> sayfasına bakın."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:521
@@ -1542,8 +1565,8 @@ msgstr "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:608
 msgid ""
-"Display the <guilabel>Run Application</guilabel> dialog. See <xref linkend"
-"=\"tools-run-app\"/> for more information."
+"Display the <guilabel>Run Application</guilabel> dialog. See <xref "
+"linkend=\"tools-run-app\"/> for more information."
 msgstr ""
 "<guilabel>Uygulama Çalıştır</guilabel> diyaloğunu görüntüler. Daha fazla "
 "bilgi için <xref linkend=\"tools-run-app\"/> sayfasına bakın."
@@ -1559,8 +1582,8 @@ msgid ""
 "Take a screenshot of the entire desktop. See <xref linkend=\"tools-"
 "screenshot\"/> for more information."
 msgstr ""
-"Masaüstünün tamamının görüntüsünü alır. Daha fazla bilgi için <xref linkend"
-"=\"tools-screenshot\"/> sayfasına bakın."
+"Masaüstünün tamamının görüntüsünü alır. Daha fazla bilgi için <xref "
+"linkend=\"tools-screenshot\"/> sayfasına bakın."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:626
@@ -1591,8 +1614,8 @@ msgid ""
 " with multiple workspaces."
 msgstr ""
 "Güncel çalışma alanından belirtilen yöndeki çalışma alanında geçer. Birden "
-"fazla çalışma alanı ile çalışma hakkında daha fazla bilgi için <xref linkend"
-"=\"overview-workspaces\"/> sayfasına bakın."
+"fazla çalışma alanı ile çalışma hakkında daha fazla bilgi için <xref "
+"linkend=\"overview-workspaces\"/> sayfasına bakın."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:649
@@ -1716,6 +1739,10 @@ msgid ""
 "resize the window using either the mouse or the arrow keys. To finish "
 "resizing, click the mouse or press any key on the keyboard."
 msgstr ""
+"Şu anda odaklanılan pencereyi yeniden boyutlandırır. Bu kısayola bastıktan "
+"sonra, fareyi veya ok tuşlarını kullanarak pencereyi yeniden "
+"boyutlandırabilirsiniz. Yeniden boyutlandırmayı bitirmek için fareyi "
+"tıklayın veya klavyede herhangi bir tuşa basın."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:780
@@ -2027,6 +2054,13 @@ msgid ""
 "common to all windows such as the way in which you select them with the "
 "mouse."
 msgstr ""
+"Tercih aracı, MATE Masaüstündeki ayarları değiştirmenize izin veren küçük "
+"bir uygulamadır. Her tercih aracı, bilgisayarınızın belirli bir yönünü "
+"kapsar. Örneğin, <application>Fare</application> tercih aracı ile farenizi "
+"sol veya sağ elle kullanıma ayarlayabilir veya ekrandaki işaretçinin hızını "
+"değiştirebilirsiniz. <application>Pencereler</application> tercih aracıyla, "
+"fare ile onları seçme şekliniz gibi tüm pencereler için ortak olan "
+"davranışları ayarlayabilirsiniz."
 
 #. (itstool) path: chapter/para
 #: C/goscustdesk.xml:27
@@ -2175,8 +2209,8 @@ msgstr "Yardımcı Teknoloji Tercihleri"
 #: C/goscustdesk.xml:1760 C/goscustdesk.xml:1857 C/goscustdesk.xml:1928
 #: C/goscustdesk.xml:2029 C/goscustdesk.xml:2187 C/goscustdesk.xml:2467
 #: C/goscustdesk.xml:2534 C/goscustdesk.xml:2595 C/goscustdesk.xml:2717
-#: C/goscustdesk.xml:2791 C/goscaja.xml:2382 C/goscaja.xml:3001
-#: C/goscaja.xml:3122 C/goscaja.xml:3363 C/goscaja.xml:3917 C/goscaja.xml:4069
+#: C/goscustdesk.xml:2791 C/goscaja.xml:2380 C/goscaja.xml:2999
+#: C/goscaja.xml:3120 C/goscaja.xml:3361 C/goscaja.xml:3915 C/goscaja.xml:4067
 #: C/gospanel.xml:168 C/gospanel.xml:253 C/gospanel.xml:1410
 msgid "Dialog Element"
 msgstr "Diyalog Unsuru"
@@ -2188,10 +2222,10 @@ msgstr "Diyalog Unsuru"
 #: C/goscustdesk.xml:2032 C/goscustdesk.xml:2190 C/goscustdesk.xml:2470
 #: C/goscustdesk.xml:2537 C/goscustdesk.xml:2598 C/goscustdesk.xml:2720
 #: C/goscustdesk.xml:2794 C/goscaja.xml:209 C/goscaja.xml:395
-#: C/goscaja.xml:1219 C/goscaja.xml:1383 C/goscaja.xml:2049 C/goscaja.xml:2385
-#: C/goscaja.xml:2641 C/goscaja.xml:3004 C/goscaja.xml:3125 C/goscaja.xml:3259
-#: C/goscaja.xml:3366 C/goscaja.xml:3590 C/goscaja.xml:3730 C/goscaja.xml:3867
-#: C/goscaja.xml:3920 C/goscaja.xml:4006 C/goscaja.xml:4072 C/goscaja.xml:4154
+#: C/goscaja.xml:1219 C/goscaja.xml:1383 C/goscaja.xml:2047 C/goscaja.xml:2383
+#: C/goscaja.xml:2639 C/goscaja.xml:3002 C/goscaja.xml:3123 C/goscaja.xml:3257
+#: C/goscaja.xml:3364 C/goscaja.xml:3588 C/goscaja.xml:3728 C/goscaja.xml:3865
+#: C/goscaja.xml:3918 C/goscaja.xml:4004 C/goscaja.xml:4070 C/goscaja.xml:4152
 #: C/gospanel.xml:171 C/gospanel.xml:256 C/gospanel.xml:577
 #: C/gospanel.xml:1413
 msgid "Description"
@@ -2279,6 +2313,9 @@ msgid ""
 "keyboard, use the arrow keys to select the shortcut and press "
 "<keycap>Return</keycap>."
 msgstr ""
+"Düzenlemek istediğiniz kısayola çift tıklayın. Klavyeyi kullanıyorsanız, "
+"kısayolu seçmek için ok tuşlarını kullanın ve <keycap>Return(Enter)</keycap>"
+" tuşuna basın."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:121
@@ -2398,7 +2435,7 @@ msgstr ""
 msgid ""
 "To remove a custom shortcut, use the <guilabel>Remove</guilabel> button."
 msgstr ""
-"Özel bir kısayolu silmek için <guilabel>Kaldır</guilabel> düğmesini "
+"Özel bir kısayolu kaldırmak için <guilabel>Kaldır</guilabel> düğmesini "
 "kullanın."
 
 #. (itstool) path: info/title
@@ -3190,7 +3227,7 @@ msgid ""
 msgstr ""
 "Kaldırmak istediğiniz resmi seçip <guilabel>Kaldır</guilabel> düğmesine "
 "tıklayın. Bu, resmi mevcut arkaplan resimlerinden kaldırır, ancak resmi "
-"bilgisayarınızdan silmez."
+"bilgisayarınızdan kaldırmaz."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:574
@@ -4712,11 +4749,9 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1283
 msgid ""
-"Select this option to enable other to access and control your session from a"
-" remote location."
+"Select this option to enable others to access and control your session from "
+"a remote location."
 msgstr ""
-"Diğer kullanıcıların uzak bir konumdan oturumunuza erişmesi ve onun "
-"kontrolünü alabilmeleri için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1304
@@ -6008,13 +6043,10 @@ msgstr "İkincil fare düğmesi ile tek bir tıklama"
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2139
 msgid ""
-"Perform different types of mouse button click by software; this useful for "
-"users that are not able to manipulate any buttons. The types of click that "
-"can be performed are: <_:variablelist-1/>"
+"Perform different types of mouse button click by software; this is useful "
+"for users that are not able to manipulate any buttons. The types of click "
+"that can be performed are: <_:variablelist-1/>"
 msgstr ""
-"Fakrlı fare tuşu tıklama işlemlerini yazılım ile gerçekleştirin; bu, hiçbir "
-"düğme kullanamayan kullanıcılar için faydalıdır. Yapılabilecek olan tıklama "
-"türleri şunlardır: <_:variablelist-1/>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2178
@@ -6391,7 +6423,7 @@ msgid ""
 "Select the rotation for the currently selected monitor. This option may not "
 "be supported on all graphics cards."
 msgstr ""
-"Seçili olan monitör için yönü seçin. Bu seçenek tüm grafik kartlarında "
+"Seçili ekranın yönünü seçin. Bu seçenek tüm ekran kartlarında "
 "desteklenmeyebilir."
 
 #. (itstool) path: info/title
@@ -6451,7 +6483,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2440
 msgid "<guilabel>Sound Events</guilabel>"
-msgstr "<guilabel>Sound Etkileri</guilabel>"
+msgstr "<guilabel>Ses Olayları</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2445
@@ -6461,7 +6493,7 @@ msgstr "<guilabel>Giriş</guilabel>"
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2450
 msgid "<guilabel>Output</guilabel>"
-msgstr "<guilabel>Çıkış</guilabel>"
+msgstr "<guilabel>Çıktı</guilabel>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2455
@@ -6487,18 +6519,11 @@ msgid ""
 "A sound theme is collection of sound effects that are associated to various "
 "events, such as opening a dialog, clicking a button or selecting an item in "
 "a menu. One of the most prominent event sounds is the <emphasis>System "
-"Bell</emphasis> sound that often played to indicate a keyboard input error. "
-"Use the <guilabel>Sound Effects</guilabel> tabbed section of the "
+"Bell</emphasis> sound that is often played to indicate a keyboard input "
+"error. Use the <guilabel>Sound Effects</guilabel> tabbed section of the "
 "<application>Sound</application> preference tool to choose a sound theme and"
 " modify the bell sound."
 msgstr ""
-"Ses temaları, menülerden bir unsur seçmek, bir düğmeye tıklamak ya da bir "
-"diyalog açmak gibi değişik olaylarla ilişkili ses efektleri "
-"koleksiyonlarıdır. En öne çıkan olay seslerinden biri sıklıkla bir klavye "
-"girdi hatasına dikkat çekmek için çalınan <emphasis>Sistem Zili</emphasis> "
-"sesidir. Bir ses teması seçip zil sesini değiştirmek için "
-"<application>Ses</application> tercih aracının <guilabel>Ses "
-"Etkileri</guilabel> sekme bölümünü kullanın."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2459
@@ -7170,8 +7195,8 @@ msgstr "Masaüstü klasörünüz, ki masaüstünde görünen unsurlara denk geli
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:64
 msgid ""
-"The items in your Caja bookmarks. For more on this, see <xref linkend"
-"=\"caja-bookmarks\"/>."
+"The items in your Caja bookmarks. For more on this, see <xref "
+"linkend=\"caja-bookmarks\"/>."
 msgstr ""
 "Caja yer imlerindeki unsurlar. Bunun hakkında daha fazla bilgi için <xref "
 "linkend=\"caja-bookmarks\"/> sayfasına bakın."
@@ -7187,8 +7212,8 @@ msgid ""
 "The Caja CD/DVD Creator. For more on this, see <xref linkend=\"caja-"
 "cdwriter\"/>."
 msgstr ""
-"Caja CD/DVD Oluşturucusu. Bunun hakkında daha fazla bilgi için <xref linkend"
-"=\"caja-cdwriter\"/> sayfasına bakın."
+"Caja CD/DVD Oluşturucusu. Bunun hakkında daha fazla bilgi için <xref "
+"linkend=\"caja-cdwriter\"/> sayfasına bakın."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:67
@@ -7296,8 +7321,8 @@ msgid ""
 "Choose <guimenuitem>Log Out</guimenuitem> to log out of MATE, or to switch "
 "user."
 msgstr ""
-"<guimenuitem>Çıkış</guimenuitem> unsurunu MATE oturumunu kapatmak için ya da"
-" kullanıcı değiştirmek için kullanın."
+"<guimenuitem>Oturumu Kapat</guimenuitem> unsurunu MATE oturumunu kapatmak "
+"için ya da kullanıcı değiştirmek için kullanın."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:90
@@ -7313,7 +7338,7 @@ msgstr ""
 msgid ""
 "For more on logging out and shutting down, see <xref linkend=\"shutdown\"/>."
 msgstr ""
-"Çıkış yapma ve kapatma hakkında daha fazla bilgi için <xref "
+"Oturum kapatma ve kapatma hakkında daha fazla bilgi için <xref "
 "linkend=\"shutdown\"/> sayfasına bakın."
 
 #. (itstool) path: info/title
@@ -7379,8 +7404,8 @@ msgid ""
 "To remove an item from a menu, deselect it in the list. The item can be "
 "added back to the menu by selecting it once again."
 msgstr ""
-"Herhangi bir meüden bir unsur silmek için onun seçimini listeden kaldırın. "
-"Unsur tekrar seçilerek menüye ilave edilebilir."
+"Herhangi bir menüden bir unsur kaldırmak için onun seçimini listeden "
+"kaldırın. Unsur tekrar seçilerek menüye ilave edilebilir."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:7
@@ -7500,8 +7525,8 @@ msgid ""
 "<application>Caja</application> is always running while you are using MATE. "
 "To open a new <application>Caja</application> window, double-click on an "
 "appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or "
-"<guimenuitem>Computer</guimenuitem>, or choose an item from <xref linkend"
-"=\"places-menu\"/> on the top panel."
+"<guimenuitem>Computer</guimenuitem>, or choose an item from <xref "
+"linkend=\"places-menu\"/> on the top panel."
 msgstr ""
 
 #. (itstool) path: section/para
@@ -7748,8 +7773,8 @@ msgid ""
 "For a comparison of browser mode and spatial mode, see <xref linkend=\"caja-"
 "presentation\"/>."
 msgstr ""
-"Tarayıcı kipi ve uzamsal kipin bir karşılaştırması için <xref linkend"
-"=\"caja-presentation\"/> sayfasına bakın."
+"Tarayıcı kipi ve uzamsal kipin bir karşılaştırması için <xref "
+"linkend=\"caja-presentation\"/> sayfasına bakın."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:150
@@ -7767,9 +7792,8 @@ msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:154
-msgid "Double-click the folder's icon on the desktop or an existing window"
+msgid "Double-click the folder's icon on the desktop or an existing window."
 msgstr ""
-"Klasörün mevcut bir penceredeki ya da masaüstündeki ikonuna çift tıklayın."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:155
@@ -7962,7 +7986,7 @@ msgid "Shows the contents of the following:"
 msgstr "Aşağıdakilerin içeriğini gösterir:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:237 C/goscaja.xml:535 C/goscaja.xml:2450
+#: C/goscaja.xml:237 C/goscaja.xml:535 C/goscaja.xml:2448
 msgid "Folders"
 msgstr "Klasörler"
 
@@ -8057,7 +8081,7 @@ msgid ""
 msgstr ""
 "Bir klasör penceresinin menü çubuğundan "
 "<menuchoice><guimenu>Yerler</guimenu><guimenuitem>Ev "
-"Dizini</guimenuitem></menuchoice>ni seçin."
+"Klasörü</guimenuitem></menuchoice>nü seçin."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:296
@@ -8066,9 +8090,8 @@ msgid ""
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Home "
 "Folder</guimenuitem></menuchoice>."
 msgstr ""
-"Üst menü çubuğundan "
-"<menuchoice><guimenu>Yerler</guimenu><guimenuitem>Başlangıç "
-"Dizini</guimenuitem></menuchoice>ni seçin."
+"Üst menü çubuğundan <menuchoice><guimenu>Yerler</guimenu><guimenuitem>Ev "
+"Klasörü</guimenuitem></menuchoice>nü seçin."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:298
@@ -8095,7 +8118,7 @@ msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Open "
 "Parent</guimenuitem></menuchoice>."
 msgstr ""
-"<menuchoice><guimenu>Git</guimenu><guimenuitem>Üst Dizin "
+"<menuchoice><guimenu>Git</guimenu><guimenuitem>Üst Klasörü "
 "Aç</guimenuitem></menuchoice>'ı seçin."
 
 #. (itstool) path: listitem/para
@@ -8404,11 +8427,9 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:453
 msgid ""
-"<guimenu>Zoom</guimenu> buttons: Enable you to change the size of items in "
+"<guimenu>Zoom</guimenu> buttons: Enables you to change the size of items in "
 "the view pane."
 msgstr ""
-"<guimenu>Yakınlaştırma</guimenu> düğmeleri: görünüm bölmesindeki unsurların "
-"ebadını değiştirmenize imkân verir."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:457
@@ -8797,15 +8818,9 @@ msgid ""
 "By pressing <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or "
 "selecting the <guibutton>Search</guibutton> toolbar button the search bar "
 "appears. For more information on searching see <xref linkend=\"caja-"
-"searching\"/>. The search bar is excellent for locating files of folders "
+"searching\"/>. The search bar is excellent for locating files or folders "
 "when you are not sure of their exact location."
 msgstr ""
-"<keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> tuşlarına "
-"basarsanız ya da <guibutton>Ara</guibutton> araç çubuğu düğmesini seçerseniz"
-" arama çubuğu ortaya çıkacaktır. Aramalar hakkında daha fazla bilgi için "
-"<xref linkend=\"caja-searching\"/> sayfasına bakın. Arama çubuğu, tam "
-"konumlarından emin olmadığınızda dosyaları veya klasörleri bulmak için "
-"mükemmeldir."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:642 C/goscaja.xml:980
@@ -8863,7 +8878,7 @@ msgid ""
 "<menuchoice><guimenu>Go</guimenu><guimenuitem>Home</guimenuitem></menuchoice>."
 msgstr ""
 "<menuchoice><guimenu>Git</guimenu><guimenuitem>Ev "
-"Dizini</guimenuitem></menuchoice>ni seçin."
+"Klasörü</guimenuitem></menuchoice>nü seçin."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:679
@@ -8957,7 +8972,7 @@ msgid ""
 " Alternatively, click on the <guibutton>Up</guibutton> toolbar button."
 msgstr ""
 "Güncel klasörün bir üstündeki klasöre geçmek için "
-"<menuchoice><guimenu>Git</guimenu><guimenuitem>Üst Dizin "
+"<menuchoice><guimenu>Git</guimenu><guimenuitem>Üst Klasörü "
 "Aç</guimenuitem></menuchoice> unsurunu seçin. Buna alternatif olarak "
 "<guibutton>Yukarı</guibutton>araç çubuğu düğmesine tıklayın."
 
@@ -8984,7 +8999,7 @@ msgid ""
 "Choose <menuchoice><guimenu>Go</guimenu><guimenuitem>Open "
 "Parent</guimenuitem></menuchoice> from the menubar."
 msgstr ""
-"Menü çubuğundan <menuchoice><guimenu>Git</guimenu><guimenuitem>Üst Dizin "
+"Menü çubuğundan <menuchoice><guimenu>Git</guimenu><guimenuitem>Üst Klasörü "
 "Aç</guimenuitem></menuchoice> unsurunu seçin."
 
 #. (itstool) path: listitem/para
@@ -9027,11 +9042,9 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscaja.xml:745
 msgid ""
-"In the <guilabel>Tree</guilabel>view, open folders are represented as "
+"In the <guilabel>Tree</guilabel> view, open folders are represented as "
 "downwards facing arrows."
 msgstr ""
-"<guilabel>Ağaç</guilabel> görünümünde açık klasörler aşağı doğru bakan oklar"
-" olarak temsil edilir."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:747
@@ -9142,13 +9155,9 @@ msgstr ""
 msgid ""
 "The file browser window maintains a history list of files, folders, FTP "
 "sites, and URI locations you have recently visited. You can use the history "
-"list to navigate to quickly return to these places. Your history list "
+"list to navigate to or quickly return to these places. Your history list "
 "contains the last ten items that you viewed."
 msgstr ""
-"Dosya tarayıcı penceresi, yakın geçimişte ziyaret ettiğiniz dosyaların, "
-"klasörlerin, FTP sitlerinin ve URI konumlarının bir listesini tutar. Tarihçe"
-" listesini bu konumlara çabuk bir şekilde dönmek için kullanabilirsiniz. "
-"Tarihçe listesi görüntülediğiniz son on unsuru içerir."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:831
@@ -9158,7 +9167,7 @@ msgid ""
 "History</guimenuitem></menuchoice>."
 msgstr ""
 "Tarihçe listenizi temizlemek için "
-"<menuchoice><guimenu>Git</guimenu><guimenuitem>Geçmiş Bilgilerini "
+"<menuchoice><guimenu>Git</guimenu><guimenuitem>Geçmişi "
 "Sil</guimenuitem></menuchoice> unsurunu seçin."
 
 #. (itstool) path: info/title
@@ -9314,8 +9323,8 @@ msgstr ""
 msgid ""
 "If you open an executable text file, that is, one that Caja considers can be"
 " run as a program, then you will be asked what you want to do: run it, or "
-"display it in a text editor. You can modify this behavior in <xref linkend"
-"=\"caja-preferences\"/>."
+"display it in a text editor. You can modify this behavior in <xref "
+"linkend=\"caja-preferences\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -10097,7 +10106,7 @@ msgid ""
 msgstr "Aşağıdaki tabloda açıklandığı gibi alt menüden uygun şıkları seçin:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:150
+#: C/goscaja.xml:1216 C/goscaja.xml:3862 C/goscaja.xml:4001 C/gostools.xml:150
 msgid "Option"
 msgstr "Seçenek"
 
@@ -10265,7 +10274,7 @@ msgid ""
 "<menuchoice><guimenu>View</guimenu><guisubmenu>Visible "
 "Columns</guisubmenu></menuchoice>"
 msgstr ""
-"Liste görünümüne sütun eklemek ya da çıkarmak için "
+"Liste görünümüne sütun eklemek ya da kaldırmak için "
 "<menuchoice><guimenu>Görünüm</guimenu><guisubmenu>Gösterilecek "
 "Sütunlar</guisubmenu></menuchoice>ı seçin."
 
@@ -10519,9 +10528,9 @@ msgstr ""
 msgid ""
 "You can select files and folders in several ways in the file manager. "
 "Typically, this is achieved by clicking on the files using the mouse, as "
-"explained in <xref linkend=\"goscaja-TBL-10\"/>. In addition, <xref linkend"
-"=\"caja-select-pattern\"/> describes how to select a group of files matching"
-" a specific pattern."
+"explained in <xref linkend=\"goscaja-TBL-10\"/>. In addition, <xref "
+"linkend=\"caja-select-pattern\"/> describes how to select a group of files "
+"matching a specific pattern."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -10711,10 +10720,10 @@ msgid ""
 msgstr ""
 "Dosya yöneticisinde çeşitli görevleri gerçekleştirmek için sürükle-ve-bırak "
 "işlevini kullanabilirsiniz. Sürükleyip bıraktığınızda fare belirteci "
-"gerçekleştirdiğniz işlem hakkında geri bildirimde bulunur. <xref linkend"
-"=\"goscaja-TBL-11\"/> sayfası sürükle-ve-bırak ile yapabileceğiniz işlemleri"
-" açıklar. Tablo aynı zamanda sürükleyip bıraktığınızda beliren fare "
-"belirteçlerini de gösterir."
+"gerçekleştirdiğniz işlem hakkında geri bildirimde bulunur. <xref "
+"linkend=\"goscaja-TBL-11\"/> sayfası sürükle-ve-bırak ile yapabileceğiniz "
+"işlemleri açıklar. Tablo aynı zamanda sürükleyip bıraktığınızda beliren fare"
+" belirteçlerini de gösterir."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1607
@@ -10905,7 +10914,7 @@ msgstr ""
 "açıklanmaktadır."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1741 C/goscaja.xml:1784
+#: C/goscaja.xml:1741 C/goscaja.xml:1783
 msgid "Drag to the New Location"
 msgstr "Yeni Konuma Sürükle"
 
@@ -10918,17 +10927,17 @@ msgstr ""
 "gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1745 C/goscaja.xml:1788
+#: C/goscaja.xml:1745 C/goscaja.xml:1787
 msgid "Open two file manager windows:"
 msgstr "İki dosya yönetici penceresi açın:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1747 C/goscaja.xml:1790
+#: C/goscaja.xml:1747 C/goscaja.xml:1789
 msgid "The window containing the item you want to move."
 msgstr "Taşımak istediğiniz unsuru içeren pencere."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1748 C/goscaja.xml:1791
+#: C/goscaja.xml:1748 C/goscaja.xml:1790
 msgid ""
 "The window you want to move it to, or the window containing the folder you "
 "want to move it to."
@@ -10960,7 +10969,7 @@ msgstr ""
 "penceredeki yeni konuma sürükleyin."
 
 #. (itstool) path: tip/para
-#: C/goscaja.xml:1758 C/goscaja.xml:1802 C/goscaja.xml:2014
+#: C/goscaja.xml:1758 C/goscaja.xml:1801 C/goscaja.xml:2012
 msgid "For more on dragging items, see <xref linkend=\"caja-dragndrop\"/>."
 msgstr ""
 "Unsurların sürüklenmesi hakkında daha fazla bilgi için <xref linkend=\"caja-"
@@ -10994,20 +11003,16 @@ msgstr ""
 #: C/goscaja.xml:1769
 msgid ""
 "Open the folder to which you want to move the file or folder, then choose "
-"<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste "
-"</guimenuitem></menuchoice>."
+"<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>."
 msgstr ""
-"Dosya veya klasörü taşımak istediğiniz klasörü açıp "
-"<menuchoice><guimenu>Düzenle</guimenu><guimenuitem>Yapıştır</guimenuitem></menuchoice>ı"
-" seçin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1777
+#: C/goscaja.xml:1776
 msgid "Copying a File or Folder"
 msgstr "Bir Dosya ya da Klasörün Kopyalanması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1778
+#: C/goscaja.xml:1777
 msgid ""
 "<primary>file manager</primary> <secondary>copying files and "
 "folders</secondary>"
@@ -11016,7 +11021,7 @@ msgstr ""
 "kopyalanması</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1782
+#: C/goscaja.xml:1781
 msgid ""
 "You can copy a file or folder by dragging it with the mouse, or with the "
 "copy and paste commands. The following sections describe these two methods."
@@ -11025,13 +11030,13 @@ msgstr ""
 "komutlarıyla kopyalayabilirsiniz. Aşağıdaki bölümler bu iki metodu açıklar."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1785
+#: C/goscaja.xml:1784
 msgid "To copy a file or folder, perform the following steps:"
 msgstr ""
 "Bir dosya ya da klasörü kopyalamak için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1795
+#: C/goscaja.xml:1794
 msgid ""
 "Drag the file or folder that you want to move to the new location. Press-"
 "and-hold <keycap>Ctrl</keycap> either before or during the drag. If the new "
@@ -11044,7 +11049,7 @@ msgstr ""
 " bir klasör ikonu ise, sürüklediğiniz unsuru klasörün üzerine bırakın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1798
+#: C/goscaja.xml:1797
 msgid ""
 "To copy the file or folder to a folder that is one level below the current "
 "location, do not open a new window. Instead, grab the file or folder, then "
@@ -11057,12 +11062,12 @@ msgstr ""
 "pencerede yeni konuma sürükleyin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1805
+#: C/goscaja.xml:1804
 msgid "Copy and Paste to the New Location"
 msgstr "Yeni Konuma Kopyalayıp Yapıştırmak"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1807
+#: C/goscaja.xml:1806
 msgid ""
 "You can copy a file or folder and paste the file or folder into another "
 "folder, as follows:"
@@ -11071,7 +11076,7 @@ msgstr ""
 " yapıştırabilirsiniz:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1811
+#: C/goscaja.xml:1810
 msgid ""
 "Select the file or folder that you want to copy, then choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
@@ -11081,23 +11086,19 @@ msgstr ""
 " seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1814
+#: C/goscaja.xml:1813
 msgid ""
 "Open the folder to which you want to copy the file or folder, then choose "
-"<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste "
-"</guimenuitem></menuchoice>."
+"<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>."
 msgstr ""
-"Dosya veya klasörü kopyalamak istediğiniz klasörü açın, ardından "
-"<menuchoice><guimenu>Düzenle</guimenu><guimenuitem>Yapıştır</guimenuitem></menuchoice>ı"
-" seçin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1822
+#: C/goscaja.xml:1820
 msgid "Duplicating a File or Folder"
 msgstr "Bir Dosya ya da Klasörün İkizlenmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1823
+#: C/goscaja.xml:1821
 msgid ""
 "<primary>file manager</primary> <secondary>duplicating files and "
 "folders</secondary>"
@@ -11106,7 +11107,7 @@ msgstr ""
 "ikizlenmesi</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1828
+#: C/goscaja.xml:1826
 msgid ""
 "To create a copy of a file or folder in the current folder, perform the "
 "following steps:"
@@ -11115,12 +11116,12 @@ msgstr ""
 "için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1832
+#: C/goscaja.xml:1830
 msgid "Select the file or folder that you want to duplicate."
 msgstr "İkizlemek istediğiniz dosya veya klasörü seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1835
+#: C/goscaja.xml:1833
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Duplicate</guimenuitem></menuchoice>."
@@ -11129,74 +11130,74 @@ msgstr ""
 " seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1836
+#: C/goscaja.xml:1834
 msgid "A copy of the file or folder appears in the current folder."
 msgstr "Dosya ya da klasörün bir kopyası mevcut klasörde belirecektir."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1841
+#: C/goscaja.xml:1839
 msgid "Creating a Folder"
 msgstr "Bir Klasörün Oluşturulması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1842
+#: C/goscaja.xml:1840
 msgid ""
 "<primary>file manager</primary> <secondary>creating folders</secondary>"
 msgstr ""
 "<primary>dosya yöneticisi</primary> <secondary>klasör oluşturma</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1846
+#: C/goscaja.xml:1844
 msgid "To create a folder, perform the following steps:"
 msgstr "Bir klasör oluşturmak için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1849
+#: C/goscaja.xml:1847
 msgid "Open the folder where you want to create the new folder."
 msgstr "İçinde yeni klasörün oluşturulmasını istediğiniz klasörü açın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1852
+#: C/goscaja.xml:1850
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Create "
 "Folder</guimenuitem></menuchoice>. Alternatively, right-click on the "
 "background of the window, then choose <guimenuitem>Create "
 "Folder</guimenuitem>."
 msgstr ""
-"<menuchoice><guimenu>Dosya</guimenu><guimenuitem>Dizin "
-"Yarat</guimenuitem></menuchoice>ı seçin. Alternatif olarak, pencerenin arka "
-"planına sağ tıklayın, ardından da <guimenuitem>Dizin Yarat</guimenuitem>ı "
-"seçin."
+"<menuchoice><guimenu>Dosya</guimenu><guimenuitem>Klasör "
+"Oluştur</guimenuitem></menuchoice>u seçin. Alternatif olarak, pencerenin "
+"arka planına sağ tıklayın, ardından da <guimenuitem>Klasör "
+"Oluştur</guimenuitem>u seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1854
+#: C/goscaja.xml:1852
 msgid ""
 "An <guilabel>untitled</guilabel> folder is added to the location. The name "
 "of the folder is selected."
 msgstr ""
-"<guilabel>isimsiz</guilabel> bir dizin konuma eklenecektir. Klasörün ismi "
+"<guilabel>isimsiz</guilabel> bir klasör konuma eklenecektir. Klasörün ismi "
 "seçili olacaktır."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1858
+#: C/goscaja.xml:1856
 msgid "Type a name for the folder, then press <keycap>Return</keycap>."
 msgstr ""
 "Klasör için bir isim yazın, ardından <keycap>Return</keycap> tuşuna basın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1863
+#: C/goscaja.xml:1861
 msgid "Templates and Documents"
 msgstr "Şablonlar ve Belgeler"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1864
+#: C/goscaja.xml:1862
 msgid ""
 "<primary>file manager</primary> <secondary>creating documents</secondary>"
 msgstr ""
 "<primary>dosya yöneticisi</primary> <secondary>belge oluşturma</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1868
+#: C/goscaja.xml:1866
 msgid ""
 "You can create templates from documents that you frequently create. For "
 "example, if you often create invoices, you can create an empty invoice "
@@ -11209,7 +11210,7 @@ msgstr ""
 "olarak kaydedebilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1872
+#: C/goscaja.xml:1870
 msgid ""
 "You can also access the templates folder from a file browser window. Choose "
 "<menuchoice><guimenu>Go</guimenu><guimenuitem>Templates</guimenuitem></menuchoice>."
@@ -11219,7 +11220,7 @@ msgstr ""
 " seçin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1874
+#: C/goscaja.xml:1872
 msgid ""
 "The template name is displayed as a submenu item in the <guilabel>Create "
 "Document</guilabel> menu."
@@ -11228,7 +11229,7 @@ msgstr ""
 " olarak görüntülenir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1876
+#: C/goscaja.xml:1874
 msgid ""
 "You can also create subfolders in the template folder. Subfolders display as"
 " submenus in the menu."
@@ -11237,7 +11238,7 @@ msgstr ""
 "alt menüler olarak görüntülenecektir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1878
+#: C/goscaja.xml:1876
 msgid ""
 "You can also share templates. Create a symbolic link from the template "
 "folder to the folder containing the shared templates."
@@ -11246,12 +11247,12 @@ msgstr ""
 "şablonları içeren klasöre sembolik bir bağlantı oluşturun."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1881
+#: C/goscaja.xml:1879
 msgid "To Create a Document"
 msgstr "Belge Oluşturmak"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1882
+#: C/goscaja.xml:1880
 msgid ""
 "If you have document templates, you can choose to create a document from one"
 " of the installed templates."
@@ -11260,17 +11261,17 @@ msgstr ""
 "oluşturmayı seçebilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1884
+#: C/goscaja.xml:1882
 msgid "To create a document perform the following steps:"
 msgstr "Bir belge oluşturmak için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1887
+#: C/goscaja.xml:1885
 msgid "Select the folder where you want to create the new document."
 msgstr "İçinde yeni belgenin oluşturulmasını istediğiniz klasörü seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1890
+#: C/goscaja.xml:1888
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Create "
 "Document</guimenuitem></menuchoice>. Alternatively, right-click on the "
@@ -11283,7 +11284,7 @@ msgstr ""
 "Oluştur</guimenuitem>u seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1892
+#: C/goscaja.xml:1890
 msgid ""
 "The names of any available templates are displayed as submenu items from the"
 " <guilabel>Create Document</guilabel> menu."
@@ -11292,23 +11293,23 @@ msgstr ""
 "menüsünde alt menü unsurları olarak görüntülenir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1896
+#: C/goscaja.xml:1894
 msgid ""
 "Double-click on the template name for the document that you want to create."
 msgstr "Oluşturmak istediğiniz belge için şablon ismine çift tıklayın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1900
+#: C/goscaja.xml:1898
 msgid "Rename the document before saving to the appropriate folder."
 msgstr "Belgeyi uygun klasöre kaydetmeden önce yeniden adlandırın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1906
+#: C/goscaja.xml:1904
 msgid "Renaming a File or Folder"
 msgstr "Bir Dosya veya Klasörün Yeniden Adlandırılması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1907
+#: C/goscaja.xml:1905
 msgid ""
 "<primary>file manager</primary> <secondary>renaming folders</secondary>"
 msgstr ""
@@ -11316,19 +11317,19 @@ msgstr ""
 "adlandırılmaları</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1911
+#: C/goscaja.xml:1909
 msgid "To rename a file or folder perform the following steps:"
 msgstr ""
 "Herhangi bir dosya veya klasörü yeniden adlandırmak için aşağıdaki adımları "
 "gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1914
+#: C/goscaja.xml:1912
 msgid "Select the file or folder that you want to rename."
 msgstr "Yeniden adlandırmak istediğiniz dosya veya klasörü seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1917
+#: C/goscaja.xml:1915
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Rename</guimenuitem></menuchoice>."
@@ -11340,12 +11341,12 @@ msgstr ""
 "klasöre sağ tıklayın ve <guimenuitem>Yeniden Adlandır</guimenuitem>ı seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1919
+#: C/goscaja.xml:1917
 msgid "The name of the file or folder is selected."
 msgstr "Dosya veya klasörün ismi seçili hale gelecektir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1922
+#: C/goscaja.xml:1920
 msgid ""
 "Type a new name for the file or folder, then press <keycap>Return</keycap>."
 msgstr ""
@@ -11353,12 +11354,12 @@ msgstr ""
 " tuşuna basın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1927
+#: C/goscaja.xml:1925
 msgid "Moving a File or Folder to Trash"
 msgstr "Bir Dosya veya Klasörün Çöpe Taşınması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1928
+#: C/goscaja.xml:1926
 msgid ""
 "<primary>file manager</primary> <secondary>Trash</secondary> "
 "<see>Trash</see>"
@@ -11367,7 +11368,7 @@ msgstr ""
 "<see>Çöp</see>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1933
+#: C/goscaja.xml:1931
 msgid ""
 "<primary>Trash</primary> <secondary>moving files or folders to</secondary>"
 msgstr ""
@@ -11375,7 +11376,7 @@ msgstr ""
 "taşınması</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1937
+#: C/goscaja.xml:1935
 msgid ""
 "To move a file or folder to <guilabel>Trash</guilabel> perform the following"
 " steps:"
@@ -11384,7 +11385,7 @@ msgstr ""
 "adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1941
+#: C/goscaja.xml:1939
 msgid ""
 "Select the file or folder that you want to move to "
 "<guilabel>Trash</guilabel>."
@@ -11392,7 +11393,7 @@ msgstr ""
 "<guilabel>Çöp</guilabel>e taşımak istediğiniz dosya veya klasörü seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1944
+#: C/goscaja.xml:1942
 msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Move to "
 "Trash</guimenuitem></menuchoice>. Alternatively, right-click on the file or "
@@ -11403,7 +11404,7 @@ msgstr ""
 "klasöre sağ tıklayıp, <guimenuitem>Çöpe Taşı</guimenuitem>yı seçin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1948
+#: C/goscaja.xml:1946
 msgid ""
 "Alternatively, you can drag the file or folder to the "
 "<guilabel>Trash</guilabel> object on the desktop."
@@ -11412,7 +11413,7 @@ msgstr ""
 " nesnesine sürükleyebilirsiniz."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:1950
+#: C/goscaja.xml:1948
 msgid ""
 "When you move a file or folder from a removable media to "
 "<guilabel>Trash</guilabel>, the file or folder is stored in a "
@@ -11427,12 +11428,12 @@ msgstr ""
 " boşaltmanız gerekir."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1956
+#: C/goscaja.xml:1954
 msgid "Deleting a File or Folder"
 msgstr "Bir Dosya veya Klasörün Silinmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1957
+#: C/goscaja.xml:1955
 msgid ""
 "<primary>file manager</primary> <secondary>deleting files or "
 "folders</secondary>"
@@ -11441,7 +11442,7 @@ msgstr ""
 "silmek</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1961
+#: C/goscaja.xml:1959
 msgid ""
 "When you delete a file or folder, the file or folder is not moved to "
 "<guilabel>Trash</guilabel>, but is deleted from your file system "
@@ -11457,17 +11458,17 @@ msgstr ""
 "komutu ekle</guilabel> şıkkını seçtiyseniz mevcut olacaktır."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1967
+#: C/goscaja.xml:1965
 msgid "To delete a file or folder perform the following steps:"
 msgstr "Bir dosya veya klasörü silmek için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1970
+#: C/goscaja.xml:1968
 msgid "Select the file or folder that you want to delete."
 msgstr "Silmek istediğiniz dosya veya klasörü seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1973
+#: C/goscaja.xml:1971
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Delete</guimenuitem></menuchoice>."
@@ -11479,7 +11480,7 @@ msgstr ""
 "<guimenuitem>Sil</guimenuitem>i seçin."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:1980
+#: C/goscaja.xml:1978
 msgid ""
 "This shortcut is independent from the <guilabel>Include a Delete command "
 "that bypasses Trash</guilabel> option."
@@ -11488,7 +11489,7 @@ msgstr ""
 "seçeneğinden bağımsızdır."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1977
+#: C/goscaja.xml:1975
 msgid ""
 "Alternatively, select the file or folder you want to delete, and press "
 "<keycombo><keycap>Shift</keycap><keycap>Del</keycap></keycombo>. <_:note-1/>"
@@ -11498,12 +11499,12 @@ msgstr ""
 "basın. <_:note-1/>"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1986
+#: C/goscaja.xml:1984
 msgid "Creating a Symbolic Link to a File or Folder"
 msgstr "Bir Dosya veya Klasöre Sembolik bir Bağ Oluşturulması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1990
+#: C/goscaja.xml:1988
 msgid ""
 "<primary>file manager</primary> <secondary>creating symbolic "
 "link</secondary>"
@@ -11512,7 +11513,7 @@ msgstr ""
 "oluşturulması</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1994
+#: C/goscaja.xml:1992
 msgid ""
 "<primary>symbolic link</primary> <secondary>to file or folder, "
 "creating</secondary>"
@@ -11521,7 +11522,7 @@ msgstr ""
 "oluşturulma</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1998
+#: C/goscaja.xml:1996
 msgid ""
 "A symbolic link is a special type of file that points to another file or "
 "folder. When you perform an action on a symbolic link, the action is "
@@ -11536,7 +11537,7 @@ msgstr ""
 "dosyasını silersiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2003
+#: C/goscaja.xml:2001
 msgid ""
 "To create a symbolic link to a file or folder, select the file or folder to "
 "which you want to create a link. Choose "
@@ -11551,7 +11552,7 @@ msgstr ""
 "bir bağ mevcut klasöre eklenecektir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2006
+#: C/goscaja.xml:2004
 msgid ""
 "Alternatively, grab the item to which you want to create a link, then press-"
 "and-hold <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap></keycombo>. "
@@ -11562,13 +11563,13 @@ msgstr ""
 "basılı tutun. Unsuru bağın bulunmasını istediğiniz yere sürükleyin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2009
+#: C/goscaja.xml:2007
 msgid "By default, the file manager adds an emblem to symbolic links."
 msgstr ""
 "Varsayılan değer olarak, dosya yöneticisi sembolik bağlara bir amblem ekler."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:2011
+#: C/goscaja.xml:2009
 msgid ""
 "The permissions of a symbolic link are determined by the file or folder to "
 "which a symbolic link points."
@@ -11577,12 +11578,12 @@ msgstr ""
 "tarafından belirlenir."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2017
+#: C/goscaja.xml:2015
 msgid "Viewing the Properties of a File or Folder"
 msgstr "Bir Dosya veya Klasörün Özelliklerinin Görüntülenmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2018
+#: C/goscaja.xml:2016
 msgid ""
 "<primary>file manager</primary> <secondary>viewing properties</secondary>"
 msgstr ""
@@ -11590,7 +11591,7 @@ msgstr ""
 "görüntülenmesi</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2022
+#: C/goscaja.xml:2020
 msgid ""
 "To view the properties of a file or folder, perform the following steps:"
 msgstr ""
@@ -11598,12 +11599,12 @@ msgstr ""
 "gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2025
+#: C/goscaja.xml:2023
 msgid "Select the file or folder whose properties you want to view."
 msgstr "Özelliklerini görüntülemek istediğiniz dosya veya klasörü seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2028
+#: C/goscaja.xml:2026
 msgid ""
 "Choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
@@ -11613,7 +11614,7 @@ msgstr ""
 " seçin. Özellikler diyaloğu görüntülenecektir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2031
+#: C/goscaja.xml:2029
 msgid ""
 "Use the properties dialog to view the properties of the file or folder."
 msgstr ""
@@ -11621,14 +11622,14 @@ msgstr ""
 "kullanın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2034 C/goscaja.xml:2727 C/goscaja.xml:2762
+#: C/goscaja.xml:2032 C/goscaja.xml:2725 C/goscaja.xml:2760
 msgid "Click <guibutton>Close</guibutton> to close the properties dialog."
 msgstr ""
 "Özellikler diyaloğunu kapatmak için <guibutton>Kapat</guibutton> düğmesine "
 "tıklayın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2038
+#: C/goscaja.xml:2036
 msgid ""
 "The following table lists the properties that you can view or set for files "
 "and folders, the exact information shown depends on the object type:"
@@ -11638,18 +11639,18 @@ msgstr ""
 "bağlıdır:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2046
+#: C/goscaja.xml:2044
 msgid "Property"
 msgstr "Özellik"
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2056 C/gospanel.xml:823
+#: C/goscaja.xml:2054 C/gospanel.xml:823
 msgid "Name"
 msgstr "İsim"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2059
+#: C/goscaja.xml:2057
 msgid ""
 "The name of the file or folder. You can change the name here and the file or"
 " folder will be renamed when you click on <guibutton>Close</guibutton>."
@@ -11660,23 +11661,23 @@ msgstr ""
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2064 C/gospanel.xml:798
+#: C/goscaja.xml:2062 C/gospanel.xml:798
 msgid "Type"
 msgstr "Tür"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2067
+#: C/goscaja.xml:2065
 msgid "The type of object, file or folder for example."
 msgstr "Nesnenin türü, mesela dosya veya klasör."
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2072 C/gospanel.xml:812 C/gospanel.xml:835
+#: C/goscaja.xml:2070 C/gospanel.xml:812 C/gospanel.xml:835
 msgid "Location"
 msgstr "Konum"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2075
+#: C/goscaja.xml:2073
 msgid ""
 "The system path for the object. This represents where the object is situated"
 " on your computer, relative to the system root."
@@ -11685,12 +11686,12 @@ msgstr ""
 "nerede konumlandığını gösterir."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2080
+#: C/goscaja.xml:2078
 msgid "Volume"
 msgstr "Birim"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2083
+#: C/goscaja.xml:2081
 msgid ""
 "The volume on which a folder resides. This is the physical location of the "
 "folder, on which media it resides, for example which hard disk or CD-ROM "
@@ -11698,12 +11699,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2088
+#: C/goscaja.xml:2086
 msgid "Free space"
 msgstr "Boş alan"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2091
+#: C/goscaja.xml:2089
 msgid ""
 "The amount of free space on the media upon which a folder resides. This "
 "represents the maximum amount of data you can copy to this folder."
@@ -11712,42 +11713,42 @@ msgstr ""
 "kopyalayabileceğiniz azami veri miktarını gösterir."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2096
+#: C/goscaja.xml:2094
 msgid "MIME Type"
 msgstr "MIME Türü"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2099
+#: C/goscaja.xml:2097
 msgid "The official naming of the type of file."
 msgstr "Dosya türünün resmi isimlendirmesi."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2104
+#: C/goscaja.xml:2102
 msgid "Modified"
 msgstr "Değiştirilme"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2107
+#: C/goscaja.xml:2105
 msgid "The date and time at which the object was last changed."
 msgstr "Nesnenin son değiştirilme tarih ve zamanı."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2112
+#: C/goscaja.xml:2110
 msgid "Accessed"
 msgstr "Erişim"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2115
+#: C/goscaja.xml:2113
 msgid "The date and time at which the object was last viewed."
 msgstr "Nesnenin son görüntülenme tarih ve zamanı."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2123
+#: C/goscaja.xml:2121
 msgid "File Permissions"
 msgstr "Dosya İzinleri"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2124
+#: C/goscaja.xml:2122
 msgid ""
 "Permissions are settings assigned to each file and folder that determine "
 "what type of access users can have to the file or folder. For example, you "
@@ -11761,7 +11762,7 @@ msgstr ""
 "düzenleme yapılmamasını belirleyebilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2126
+#: C/goscaja.xml:2124
 msgid ""
 "Each file belongs to a particular user, and is associated with a group that "
 "the owner belongs to. The super user \"root\" has the ability to access any "
@@ -11771,42 +11772,42 @@ msgstr ""
 "ilişkilidir. \"root\" süper kullanıcısı sistemdeki her dosyaya erişebilir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2127
+#: C/goscaja.xml:2125
 msgid "You can set permissions for three categories of users:"
 msgstr "Üç kullanıcı kategorisi için izinler ayarlayabilirsiniz:"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2129
+#: C/goscaja.xml:2127
 msgid "Owner"
 msgstr "Sahip"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2131
+#: C/goscaja.xml:2129
 msgid "The user that created the file or folder."
 msgstr "Dosya veya klasörü oluşuturmuş olan kullanıcı."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2134
+#: C/goscaja.xml:2132
 msgid "Group"
 msgstr "Grup"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2136
+#: C/goscaja.xml:2134
 msgid "A group of users to which the owner belongs."
 msgstr "Dosya sahibinin ait olduğu kullanıcı grubu."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2139
+#: C/goscaja.xml:2137
 msgid "Others"
 msgstr "Diğerleri"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2141
+#: C/goscaja.xml:2139
 msgid "All other users not already included."
 msgstr "Zaten dahil olmayan diğer tüm kullanıcılar."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2145
+#: C/goscaja.xml:2143
 msgid ""
 "For each category of user, different permissions can be set. These behave "
 "differently for files and folders, as follows:"
@@ -11815,71 +11816,71 @@ msgstr ""
 " belirtildiği gibi dosya ve klasörler için değişik bir davranış gösterir:"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2148
+#: C/goscaja.xml:2146
 msgid "read"
 msgstr "okuma"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2150
+#: C/goscaja.xml:2148
 msgid "Files can be opened"
 msgstr "Dosyalar açılabilir"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2151
+#: C/goscaja.xml:2149
 msgid "Directory contents can be displayed"
 msgstr "Klasör içerikleri görüntülenebilir"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2154
+#: C/goscaja.xml:2152
 msgid "write"
 msgstr "yazma"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2156
+#: C/goscaja.xml:2154
 msgid "Files can be edited or deleted"
 msgstr "Dosyalar düzenlenebilir veya silinebilir"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2157
+#: C/goscaja.xml:2155
 msgid "Directory contents can be modified"
 msgstr "Klasör içerikleri değiştirilebilir"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2160
+#: C/goscaja.xml:2158
 msgid "execute"
 msgstr "çalıştırma"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2162
+#: C/goscaja.xml:2160
 msgid "Executable files can be run as a program"
 msgstr "Yürütülebilir dosyalar bir program olarak çalıştırılabilir"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2163
+#: C/goscaja.xml:2161
 msgid "Directories can be entered"
 msgstr "Klasörler girilebilir"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2168
+#: C/goscaja.xml:2166
 msgid ""
-"For more on changing the permissions for a file or folder, see <xref linkend"
-"=\"caja-permissions\"/>."
+"For more on changing the permissions for a file or folder, see <xref "
+"linkend=\"caja-permissions\"/>."
 msgstr ""
 "Bir dosya veya klasörün izinlerinin değiştirilmesi hakkında daha fazla bilgi"
 " için <xref linkend=\"caja-permissions\"/> sayfasına bakın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2171
+#: C/goscaja.xml:2169
 msgid "Changing Permissions"
 msgstr "İzinlerin Değiştirilmesi"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2175
+#: C/goscaja.xml:2173
 msgid "Changing Permissions for a File"
 msgstr "Bir Dosya için İzinlerin Değiştirilmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2176
+#: C/goscaja.xml:2174
 msgid ""
 "<primary>file manager</primary> <secondary>changing permissions</secondary>"
 msgstr ""
@@ -11887,24 +11888,24 @@ msgstr ""
 "değiştirilmesi</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2180
+#: C/goscaja.xml:2178
 msgid "<primary>permissions</primary> <secondary>changing file</secondary>"
 msgstr ""
 "<primary>izinler</primary> <secondary>dosyanın değiştirilmesi</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2184
+#: C/goscaja.xml:2182
 msgid "To change the permissions of a file, perform the following steps:"
 msgstr ""
 "Bir dosyanın izinlerini değiştirmek için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2187
+#: C/goscaja.xml:2185
 msgid "Select the file that you want to change."
 msgstr "Değiştirmek istediğniz dosyayı seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2190 C/goscaja.xml:2233 C/goscaja.xml:2304 C/goscaja.xml:2715
+#: C/goscaja.xml:2188 C/goscaja.xml:2231 C/goscaja.xml:2302 C/goscaja.xml:2713
 msgid ""
 "Choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
@@ -11914,12 +11915,12 @@ msgstr ""
 " seçin. Unsur için <xref linkend=\"caja-properties\"/> görüntülenecektir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2193 C/goscaja.xml:2236
+#: C/goscaja.xml:2191 C/goscaja.xml:2234
 msgid "Click on the <guilabel>Permissions</guilabel> tab."
 msgstr "<guilabel>Erişim Hakları</guilabel> sekmesine tıklayın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2196
+#: C/goscaja.xml:2194
 msgid ""
 "To change the file's group, choose from the groups the user belongs to in "
 "the drop-down selector."
@@ -11928,7 +11929,7 @@ msgstr ""
 " gruplardan seçim yapın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2199
+#: C/goscaja.xml:2197
 msgid ""
 "For each of the owner, the group, and all other users, choose from these "
 "permissions for the file:"
@@ -11936,22 +11937,22 @@ msgstr ""
 "Sahip, grup ve diğer kullanıcılar için şu dosya izinlerinden seçim yapın:"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2201 C/goscaja.xml:2244
+#: C/goscaja.xml:2199 C/goscaja.xml:2242
 msgid "None"
 msgstr "Hiçbiri"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2203
+#: C/goscaja.xml:2201
 msgid "No access to the file is possible. (You can't set this for the owner.)"
 msgstr "Dosyaya erişim mümkün olmaz. (Bunu sahibi için ayarlayamazsınız.)"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2206
+#: C/goscaja.xml:2204
 msgid "Read-only"
 msgstr "Salt-okunur"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2208
+#: C/goscaja.xml:2206
 msgid ""
 "The users can open a file to see its contents, but not make any changes."
 msgstr ""
@@ -11959,17 +11960,17 @@ msgstr ""
 "yapamaz."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2211
+#: C/goscaja.xml:2209
 msgid "Read and write"
 msgstr "Okuma ve yazma"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2213
+#: C/goscaja.xml:2211
 msgid "Normal access to a file is possible: it can be opened and saved."
 msgstr "Dosyaya normal erişim mümkündür: açılabilir ve kaydedilebilir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2219
+#: C/goscaja.xml:2217
 msgid ""
 "To allow a file to be run as a program, select <guilabel>Execute</guilabel>"
 msgstr ""
@@ -11977,23 +11978,23 @@ msgstr ""
 "<guilabel>Çalıştır</guilabel>ı seçin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2224
+#: C/goscaja.xml:2222
 msgid "Changing Permissions for a Folder"
 msgstr "Bir Klasör için İzinlerin Değiştirilmesi"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2227
+#: C/goscaja.xml:2225
 msgid "To change the permissions of a folder, perform the following steps:"
 msgstr ""
 "Bir klasörün izinlerini değiştirmek için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2230
+#: C/goscaja.xml:2228
 msgid "Select the folder that you want to change."
 msgstr "Değiştirmek istediğiniz klasörü seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2239
+#: C/goscaja.xml:2237
 msgid ""
 "To change the folder's group, choose from the groups the user belongs to in "
 "the drop-down selector."
@@ -12002,7 +12003,7 @@ msgstr ""
 " gruplardan seçim yapın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2242
+#: C/goscaja.xml:2240
 msgid ""
 "For each of the owner, the group, and all other users, choose from these "
 "folder access permissions:"
@@ -12011,28 +12012,28 @@ msgstr ""
 "yapın:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2246
+#: C/goscaja.xml:2244
 msgid ""
 "No access to the folder is possible. (You can't set this for the owner.)"
 msgstr "Klasöre erişim mümkün olmaz. (Bunu sahibi için ayarlayamazsınız.)"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2249
+#: C/goscaja.xml:2247
 msgid "List files only"
 msgstr "Sadece dosyaları listeler"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2251
+#: C/goscaja.xml:2249
 msgid "The users can see the items in the folder, but not open any of them."
 msgstr "Kullanıcı klasördeki unsurları görebilir ancak hiçbirini açamaz."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2254
+#: C/goscaja.xml:2252
 msgid "Access files"
 msgstr "Dosyalara erişim"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2256
+#: C/goscaja.xml:2254
 msgid ""
 "Items in the folder can be opened and modified, provided their own "
 "permissions allow it."
@@ -12041,12 +12042,12 @@ msgstr ""
 "değiştirilebilir."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2259
+#: C/goscaja.xml:2257
 msgid "Create and delete files"
 msgstr "Dosyaları oluştur ve sil"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2261
+#: C/goscaja.xml:2259
 msgid ""
 "The user can create new files and delete files in the folder, in addition to"
 " being able to access existing files."
@@ -12055,7 +12056,7 @@ msgstr ""
 "ve klasördeki dosyaları silebilir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2268
+#: C/goscaja.xml:2266
 msgid ""
 "To set permissions for all the items contained in a folder, set the "
 "<guilabel>File Access</guilabel> and <guilabel>Execute</guilabel> properties"
@@ -12067,12 +12068,12 @@ msgstr ""
 "tıklayın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2273
+#: C/goscaja.xml:2271
 msgid "Adding Notes to Files and Folders"
 msgstr "Dosyalara ve Klasörlere Not Eklenmesi"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2274
+#: C/goscaja.xml:2272
 msgid ""
 "You can add notes to files or folders. You can add notes to files or folders"
 " in the following ways:"
@@ -12081,22 +12082,22 @@ msgstr ""
 "aşağıdaki yollarla not ekleyebilirsiniz:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2278
+#: C/goscaja.xml:2276
 msgid "From the properties dialog"
 msgstr "Özellikler diyaloğundan"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2281
+#: C/goscaja.xml:2279
 msgid "From <guilabel>Notes</guilabel> in the side pane"
 msgstr "Yan bölmedeki <guilabel>Notlar</guilabel>  kısmından"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2285
+#: C/goscaja.xml:2283
 msgid "To Add a Note Using the Properties Dialog"
 msgstr "Özellikler Diyaloğu ile bir Not Eklenmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2288
+#: C/goscaja.xml:2286
 msgid ""
 "<primary>notes</primary> <secondary>adding to files and folders</secondary>"
 msgstr ""
@@ -12104,7 +12105,7 @@ msgstr ""
 "eklenmesi</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2292
+#: C/goscaja.xml:2290
 msgid ""
 "<primary>file manager</primary> <secondary>notes</secondary> "
 "<tertiary>adding</tertiary>"
@@ -12113,18 +12114,18 @@ msgstr ""
 "<tertiary>ekleme</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2297 C/goscaja.xml:2318
+#: C/goscaja.xml:2295 C/goscaja.xml:2316
 msgid "To add a note to a file or folder, perform the following steps:"
 msgstr ""
 "Bir dosya veya klasöre not eklemek için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2301
+#: C/goscaja.xml:2299
 msgid "Select the file or folder to which you want to add a note."
 msgstr "Not eklemek istediğiniz dosya veya klasörü seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2307
+#: C/goscaja.xml:2305
 msgid ""
 "Click on the <guilabel>Notes</guilabel> tab. In the "
 "<guilabel>Notes</guilabel> tabbed section, type the note."
@@ -12133,7 +12134,7 @@ msgstr ""
 "sekme bölümünde notu yazın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2310
+#: C/goscaja.xml:2308
 msgid ""
 "Click <guibutton>Close</guibutton> to close the properties dialog. A note "
 "emblem is added to the file or folder."
@@ -12142,12 +12143,12 @@ msgstr ""
 "tıklayın. Dosya veya klasöre bir not amblemi eklenecektir."
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:2314
+#: C/goscaja.xml:2312
 msgid "<primary>notes</primary><secondary>deleting</secondary>"
 msgstr "<primary>notlar</primary><secondary>silme</secondary>"
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:2314
+#: C/goscaja.xml:2312
 msgid ""
 "<primary>file "
 "manager</primary><secondary>notes</secondary><tertiary>deleting</tertiary>"
@@ -12156,7 +12157,7 @@ msgstr ""
 "yöneticisi</primary><secondary>notlar</secondary><tertiary>silme</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2314
+#: C/goscaja.xml:2312
 msgid ""
 "<_:indexterm-1/><_:indexterm-2/>To delete a note, delete the note text from "
 "the <guilabel>Notes</guilabel> tabbed section."
@@ -12165,18 +12166,18 @@ msgstr ""
 "<guilabel>Notlar</guilabel> sekme bölümünden silin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2316
+#: C/goscaja.xml:2314
 msgid "To Add a Note Using Notes in the Side Pane"
 msgstr "Yan Bölmedeki Notlar Kısmını Kullanarak bir Not Eklenmesi"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2321
+#: C/goscaja.xml:2319
 msgid ""
 "Open the file or folder to which you want to add a note in the view pane."
 msgstr "Görünüm bölümünde not eklemek istediğiniz dosya veya klasörü açın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2325
+#: C/goscaja.xml:2323
 msgid ""
 "Choose <guilabel>Notes</guilabel> from the drop-down list at the top of the "
 "side pane. To display the side pane, choose "
@@ -12189,7 +12190,7 @@ msgstr ""
 "Panel</guimenuitem></menuchoice>i seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2329
+#: C/goscaja.xml:2327
 msgid ""
 "Type the note in the side pane. A note emblem is added to the file or folder"
 " in the view pane, and a note icon is added to the side pane. You can click "
@@ -12200,7 +12201,7 @@ msgstr ""
 " ikona tıklayabilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2334
+#: C/goscaja.xml:2332
 msgid ""
 "To delete a note, delete the note text from <guilabel>Notes</guilabel> in "
 "the side pane."
@@ -12209,17 +12210,17 @@ msgstr ""
 "kısmından silin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2339
+#: C/goscaja.xml:2337
 msgid "Using Bookmarks For Your Favorite Locations"
 msgstr "Favori Konumlarınız için Yer İmlerinin Kullanımı"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2343
+#: C/goscaja.xml:2341
 msgid "<primary>file manager</primary> <secondary>bookmarks</secondary>"
 msgstr "<primary>dosya yöneticisi</primary> <secondary>yer imleri</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2347
+#: C/goscaja.xml:2345
 msgid ""
 "You can keep a list of <firstterm>bookmarks</firstterm> in "
 "<application>Caja</application>: folders and other locations that you "
@@ -12229,22 +12230,22 @@ msgstr ""
 " tutabilirsiniz: sıklıkla açmanız gereken klasör ve diğer konumlar için."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2348
+#: C/goscaja.xml:2346
 msgid "Your bookmarks are listed in the following places:"
 msgstr "Yer imleriniz aşağıdaki konumlarda listelenecektir:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2350
+#: C/goscaja.xml:2348
 msgid "The <guimenu>Places</guimenu> menu on the top panel."
 msgstr "Üst paneldeki <guimenu>Yerler</guimenu> menüsü."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2351
+#: C/goscaja.xml:2349
 msgid "The <guimenu>Places</guimenu> menu in a folder window."
 msgstr "Klasör pencerelerindeki <guimenu>Yerler</guimenu> menüsü."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2352
+#: C/goscaja.xml:2350
 msgid ""
 "The <guimenu>Bookmarks</guimenu> menu in a <application>Caja</application> "
 "browser window."
@@ -12253,7 +12254,7 @@ msgstr ""
 "İmleri</guimenu> menüsünde."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2353
+#: C/goscaja.xml:2351
 msgid ""
 "The side pane in the <xref linkend=\"filechooser-open\"/>. This allows you "
 "to quickly open a file that is in one of your bookmarked locations."
@@ -12263,7 +12264,7 @@ msgstr ""
 " sağlar."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2354
+#: C/goscaja.xml:2352
 msgid ""
 "The list of commonly used locations in the <xref linkend=\"filechooser-"
 "save\"/>. This allows you to quickly save a file to a location you have in "
@@ -12274,18 +12275,18 @@ msgstr ""
 "konuma kaydetmenize imkân sağlar."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2357
+#: C/goscaja.xml:2355
 msgid ""
 "To open an item that is in your bookmarks, choose the item from a menu."
 msgstr "Yer imlerinizde bulunan bir unsuru açmak için unsuru menüden seçin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2359
+#: C/goscaja.xml:2357
 msgid "Adding a Bookmark"
 msgstr "Bir Yer İmi Eklenmesi"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2360
+#: C/goscaja.xml:2358
 msgid ""
 "To add a bookmark, open the folder or location that you want to bookmark, "
 "then choose <menuchoice><guimenu>Places</guimenu><guimenuitem>Add "
@@ -12296,7 +12297,7 @@ msgstr ""
 "Ekle</guimenuitem></menuchoice>yi seçin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2361
+#: C/goscaja.xml:2359
 msgid ""
 "If you are using a <application>Caja</application> browser window, choose "
 "<menuchoice><guimenu>Bookmarks</guimenu><guimenuitem>Add "
@@ -12307,17 +12308,17 @@ msgstr ""
 "Ekle</guimenuitem></menuchoice>yi seçin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2364
+#: C/goscaja.xml:2362
 msgid "To Edit a Bookmark"
 msgstr "Bir Yeri İminin Düzenlenmesi"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2365
+#: C/goscaja.xml:2363
 msgid "To edit your bookmarks perform the following steps:"
 msgstr "Yer imlerinizi düzenlemek için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2368
+#: C/goscaja.xml:2366
 msgid ""
 "Choose <menuchoice><guimenu>Places</guimenu><guimenuitem>Edit "
 "Bookmarks</guimenuitem></menuchoice>, or in a browser window, "
@@ -12332,7 +12333,7 @@ msgstr ""
 "Düzenle</guilabel> diyaloğu açılacaktır."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2372
+#: C/goscaja.xml:2370
 msgid ""
 "Select the bookmark on the left side of the <guilabel>Edit "
 "Bookmarks</guilabel> dialog. Edit the details for the bookmark on the right "
@@ -12343,12 +12344,12 @@ msgstr ""
 " sağ kısmında aşağıdaki gibi yer imininin ayrıntılarını düzenleyin:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2392 C/goscaja.xml:3737
+#: C/goscaja.xml:2390 C/goscaja.xml:3735
 msgid "<guilabel>Name</guilabel>"
 msgstr "<guilabel>İsim</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2397
+#: C/goscaja.xml:2395
 msgid ""
 "Use this text box to specify the name that identifies the bookmark in the "
 "menus."
@@ -12357,22 +12358,22 @@ msgstr ""
 "kullanın."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2403
+#: C/goscaja.xml:2401
 msgid "<guilabel>Location</guilabel>"
 msgstr "<guilabel>Konum</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2408
+#: C/goscaja.xml:2406
 msgid "Use this field to specify the location of the bookmark."
 msgstr "Bu alanı yer iminin konumunu belirlemek için kullanın."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2409
+#: C/goscaja.xml:2407
 msgid "Folders on your system use the <uri>file:///</uri> URI."
 msgstr "Sisteminizde klasörler <uri>file:///</uri> URI'sini kullanır."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2417
+#: C/goscaja.xml:2415
 msgid ""
 "To delete a bookmark, select the bookmark on the left side of the dialog. "
 "Click <guilabel>Delete</guilabel>."
@@ -12381,7 +12382,7 @@ msgstr ""
 "<guilabel>Kaldır</guilabel> düğmesine tıklayın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2424
+#: C/goscaja.xml:2422
 msgid "Using Trash"
 msgstr "Çöpün Kullanımı"
 
@@ -12390,7 +12391,7 @@ msgstr "Çöpün Kullanımı"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2430
+#: C/goscaja.xml:2428
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_trash_launcher.png' "
@@ -12400,7 +12401,7 @@ msgstr ""
 "md5='42951c298a8bc2e3cd779e636e64efcd'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2428
+#: C/goscaja.xml:2426
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_trash_launcher.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Trash icon, "
@@ -12411,12 +12412,12 @@ msgstr ""
 "boş.</phrase> </textobject>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2437
+#: C/goscaja.xml:2435
 msgid "<primary>Trash</primary> <secondary>introduction</secondary>"
 msgstr "<primary>Çöp</primary> <secondary>giriş</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2441
+#: C/goscaja.xml:2439
 msgid ""
 "Trash is a special folder that holds files that you no longer want to keep. "
 "Files in the Trash are not deleted permanently until you empty the trash. "
@@ -12426,25 +12427,25 @@ msgstr ""
 "Çöp artık muhafaza etmek istemediğiniz dosyaları tutan özel bir klasördür. "
 "Çöpteki dosyalar siz çöpü boşaltmadığınız sürece daimi olarak silinmezler. "
 "Bu iki aşamalı süreç, fikrinizi değiştirdiğiniz zamanlar veya kazaen yanlış "
-"bir dosyayı sildiğiniz zamanlar için tasarlanmıştır."
+"bir dosyayı kaldırdığınız zamanlar için tasarlanmıştır."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2444
+#: C/goscaja.xml:2442
 msgid "You can move the following items to <guilabel>Trash</guilabel>:"
 msgstr "Aşağıkdaki unsurları <guilabel>Çöp</guilabel>e taşıyabilirsiniz:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2447
+#: C/goscaja.xml:2445
 msgid "Files"
 msgstr "Dosyalar"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2453
+#: C/goscaja.xml:2451
 msgid "Desktop objects"
 msgstr "Masaüstü nesneleri"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2456
+#: C/goscaja.xml:2454
 msgid ""
 "If you need to retrieve a file from <guilabel>Trash</guilabel>, you can "
 "display <guilabel>Trash</guilabel> and move the file out of "
@@ -12458,17 +12459,17 @@ msgstr ""
 "muhteviyatını daimi olarak silmiş olursunuz."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2460
+#: C/goscaja.xml:2458
 msgid "To Display Trash"
 msgstr "Çöpün Görüntülenmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2461
+#: C/goscaja.xml:2459
 msgid "<primary>Trash</primary> <secondary>displaying</secondary>"
 msgstr "<primary>Çöp</primary> <secondary>görüntüleme</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2465
+#: C/goscaja.xml:2463
 msgid ""
 "You can display the contents of <guilabel>Trash</guilabel> in the following "
 "ways:"
@@ -12477,12 +12478,12 @@ msgstr ""
 "görüntüleyebilirsiniz:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2469 C/goscaja.xml:2494
+#: C/goscaja.xml:2467 C/goscaja.xml:2492
 msgid "From a file browser window"
 msgstr "Bir dosya tarayıcı penceresinden"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2470
+#: C/goscaja.xml:2468
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Go</guimenu><guimenuitem>Trash</guimenuitem></menuchoice>."
@@ -12492,12 +12493,12 @@ msgstr ""
 " seçin. <guilabel>Çöp</guilabel>ün içerkileri pencerede görüntülenecektir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2474
+#: C/goscaja.xml:2472
 msgid "From a spatial window"
 msgstr "Uzamsal bir pencereden"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2475
+#: C/goscaja.xml:2473
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Trash</guimenuitem></menuchoice>."
@@ -12507,27 +12508,27 @@ msgstr ""
 " seçin. <guilabel>Çöp</guilabel>ün içerikleri pencerede görüntülenecektir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2479 C/goscaja.xml:2499
+#: C/goscaja.xml:2477 C/goscaja.xml:2497
 msgid "From the desktop"
 msgstr "Masaüstünden"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2480
+#: C/goscaja.xml:2478
 msgid "Double-click on the <guilabel>Trash</guilabel> object on the desktop."
 msgstr "Masaüstündükei <guilabel>Çöp</guilabel> nesnesine çift tıklayın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2484
+#: C/goscaja.xml:2482
 msgid "To Empty Trash"
 msgstr "Çöpün Boşaltılması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2486
+#: C/goscaja.xml:2484
 msgid "<primary>Trash</primary> <secondary>emptying</secondary>"
 msgstr "<primary>Çöp</primary> <secondary>boşaltma</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2490
+#: C/goscaja.xml:2488
 msgid ""
 "You can empty the contents of <guilabel>Trash</guilabel> in the following "
 "ways:"
@@ -12535,7 +12536,7 @@ msgstr ""
 "<guilabel>Çöp</guilabel> içeriklerini aşağıdaki yollarla boşaltabilirsiniz:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2495
+#: C/goscaja.xml:2493
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Empty "
 "Trash</guimenuitem></menuchoice>."
@@ -12544,7 +12545,7 @@ msgstr ""
 "Boşalt</guimenuitem></menuchoice>ı seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2500
+#: C/goscaja.xml:2498
 msgid ""
 "Right-click on the <guilabel>Trash</guilabel> object, then choose "
 "<guimenuitem>Empty Trash</guimenuitem>."
@@ -12553,7 +12554,7 @@ msgstr ""
 "Boşalt</guimenuitem>ı seçin."
 
 #. (itstool) path: caution/para
-#: C/goscaja.xml:2504
+#: C/goscaja.xml:2502
 msgid ""
 "When you empty trash, you destroy all files in the trash. Be sure that the "
 "trash only contains files you no longer need."
@@ -12562,17 +12563,17 @@ msgstr ""
 "artık ihtiyacınız olmayan dosyalar içerdiğinden emin olun."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2511
+#: C/goscaja.xml:2509
 msgid "Hidden Files"
 msgstr "Gizli Dosyalar"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2512
+#: C/goscaja.xml:2510
 msgid "<primary>hidden</primary> <secondary>files</secondary>"
 msgstr "<primary>gizli</primary> <secondary>dosyalar</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2516
+#: C/goscaja.xml:2514
 msgid ""
 "By default, <application>Caja</application> does not display certain system "
 "and backup files in folders. This prevents accidental modification or "
@@ -12587,17 +12588,17 @@ msgstr ""
 "azaltır. Caja, şu dosyaları görüntülemez:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2518
+#: C/goscaja.xml:2516
 msgid "Hidden files, whose filename begins with a period (.),"
 msgstr "İsimleri bir nokta (.) ile başlayan gizli dosyalar,"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2519
+#: C/goscaja.xml:2517
 msgid "Backup files, whose filename ends with a tilde (~)"
 msgstr "İsimleri bir tilde (~) ile biten yedekleme dosyaları"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2520
+#: C/goscaja.xml:2518
 msgid ""
 "Files that are listed in a particular folder's <filename>.hidden</filename> "
 "file."
@@ -12605,7 +12606,7 @@ msgstr ""
 "Bir klasörün <filename>.hidden</filename> dosyasında listelenen dosyalar."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2523
+#: C/goscaja.xml:2521
 msgid ""
 "You may hide or show hidden files in a particular folder by selecting "
 "<menuchoice><guimenu>View</guimenu><guimenuitem>Show Hidden "
@@ -12614,7 +12615,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2525
+#: C/goscaja.xml:2523
 msgid ""
 "To set <application>Caja</application> to always show hidden files, see "
 "<xref linkend=\"caja-preferences\"/>."
@@ -12623,17 +12624,17 @@ msgstr ""
 " ayarlanması için <xref linkend=\"caja-preferences\"/> sayfasına bakın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2527
+#: C/goscaja.xml:2525
 msgid "Hiding a File or Folder"
 msgstr "Bir Dosya veya Klasörün Gizlenmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2528
+#: C/goscaja.xml:2526
 msgid "<primary>create</primary> <secondary>hidden</secondary>"
 msgstr "<primary>oluştur</primary> <secondary>gizli</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2532
+#: C/goscaja.xml:2530
 msgid ""
 "To hide a file or folder in <application>Caja</application>, either rename "
 "the file so its name begins with the period (.) character, or create a text "
@@ -12647,7 +12648,7 @@ msgstr ""
 "ona ekleyin:"
 
 #. (itstool) path: section/programlisting
-#: C/goscaja.xml:2533
+#: C/goscaja.xml:2531
 #, no-wrap
 msgid ""
 "filename\n"
@@ -12657,7 +12658,7 @@ msgstr ""
 "klasörismi"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2535
+#: C/goscaja.xml:2533
 msgid ""
 "You may need to refresh the relevant <application>Caja</application> window "
 "to see the change: press "
@@ -12669,23 +12670,23 @@ msgstr ""
 "basın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2541
+#: C/goscaja.xml:2539
 msgid "Item Properties"
 msgstr "Unsur Özellikleri"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2545
+#: C/goscaja.xml:2543
 msgid "<primary>file manager</primary> <secondary>properties</secondary>"
 msgstr "<primary>dosya yöneticisi</primary> <secondary>özellikler</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2549
+#: C/goscaja.xml:2547
 msgid "<primary>file manager</primary> <secondary>file properties</secondary>"
 msgstr ""
 "<primary>dosya yöneticisi</primary> <secondary>dosya özellikleri</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2553
+#: C/goscaja.xml:2551
 msgid ""
 "The <guilabel>Item Properties</guilabel> window shows more information about"
 " any file, folder, or other item in the file manager. With this window, you "
@@ -12696,21 +12697,21 @@ msgstr ""
 "Bu pencere ile aşağıdakileri de yapabilirsiniz:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2556
+#: C/goscaja.xml:2554
 msgid "Change the icon for an item: see <xref linkend=\"caja-icon\"/>."
 msgstr ""
 "Unsurun ikonunun değişitirilmesi: <xref linkend=\"caja-icon\"/> sayfasına "
 "bakın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2557
+#: C/goscaja.xml:2555
 msgid "Add or remove emblems for an item: see <xref linkend=\"caja-emblems\"/>."
 msgstr ""
-"Unsura amblem eklenip çıkarılması: <xref linkend=\"caja-emblems\"/> "
+"Unsura amblem eklenip kaldırılması: <xref linkend=\"caja-emblems\"/> "
 "sayfasına bakın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2558
+#: C/goscaja.xml:2556
 msgid ""
 "Change the UNIX file permissions for an item: see <xref linkend=\"caja-"
 "permissions\"/>."
@@ -12719,7 +12720,7 @@ msgstr ""
 "permissions\"/> sayfasına bakın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2559
+#: C/goscaja.xml:2557
 msgid ""
 "Choose which application is used to open an item, and others of the same "
 "type."
@@ -12728,18 +12729,18 @@ msgstr ""
 "kullanılacağının seçilmesi."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2560
+#: C/goscaja.xml:2558
 msgid "Add notes to an item: see <xref linkend=\"caja-notes\"/>."
 msgstr "Unsura not eklenmesi: <xref linkend=\"caja-notes\"/> sayfasına bakın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2562
+#: C/goscaja.xml:2560
 msgid "To open the item properties window, perform the following steps:"
 msgstr ""
 "Unsur özellikleri penceresini açmak için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2564
+#: C/goscaja.xml:2562
 msgid ""
 "Select the item whose properties you want to examine or change. If you "
 "select more than one item, the properties window will show the properties "
@@ -12750,12 +12751,12 @@ msgstr ""
 "özellikleri gösterir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2566
+#: C/goscaja.xml:2564
 msgid "Do one of the following:"
 msgstr "Aşağıdakilerden birini yapın:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2568
+#: C/goscaja.xml:2566
 msgid ""
 "Choose <menuchoice> "
 "<guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
@@ -12765,7 +12766,7 @@ msgstr ""
 "seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2570
+#: C/goscaja.xml:2568
 msgid ""
 "Right-click on the selected item and choose "
 "<guimenuitem>Properties</guimenuitem>."
@@ -12773,7 +12774,7 @@ msgstr ""
 "Seçili unsura sağ tıklayın ve <guimenuitem>Özellikler</guimenuitem>i seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2571
+#: C/goscaja.xml:2569
 msgid ""
 "Press <keycombo><keycap>Alt</keycap><keycap>Return</keycap></keycombo>."
 msgstr ""
@@ -12781,12 +12782,12 @@ msgstr ""
 "basın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2578
+#: C/goscaja.xml:2576
 msgid "Modifying the Appearance of Files and Folders"
 msgstr "Dosya ve Klasörlerin Görünümünün Değiştirilmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2579
+#: C/goscaja.xml:2577
 msgid ""
 "<primary>file manager</primary> <secondary>modifying appearance of files and"
 " folders</secondary>"
@@ -12795,7 +12796,7 @@ msgstr ""
 "görünümünün değiştirilmesi</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2583
+#: C/goscaja.xml:2581
 msgid ""
 "The <application>Caja</application> file manager enables you to modify the "
 "appearance of your files and folders in several ways. You may customize the "
@@ -12811,12 +12812,12 @@ msgstr ""
 "bölüm bunun nasıl yapıldığını açıklar."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2585
+#: C/goscaja.xml:2583
 msgid "Icons and Emblems"
 msgstr "İkonlar ve Amblemler"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2586
+#: C/goscaja.xml:2584
 msgid ""
 "<primary>file manager</primary> <secondary>icons</secondary> "
 "<tertiary>introduction</tertiary>"
@@ -12825,7 +12826,7 @@ msgstr ""
 "<tertiary>giriş</tertiary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2591
+#: C/goscaja.xml:2589
 msgid ""
 "<primary>file manager</primary> <secondary>emblems</secondary> "
 "<see>emblems</see>"
@@ -12834,12 +12835,12 @@ msgstr ""
 "<see>amblemler</see>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2596
+#: C/goscaja.xml:2594
 msgid "<primary>emblems</primary> <secondary>introduction</secondary>"
 msgstr "<primary>amblemler</primary> <secondary>giriş</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2600
+#: C/goscaja.xml:2598
 msgid ""
 "The file manager displays your files and folders as icons. Depending on the "
 "type of the file the icon may be a image representative of the file type, a "
@@ -12863,7 +12864,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2604
+#: C/goscaja.xml:2602
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_emblem.png' "
@@ -12873,7 +12874,7 @@ msgstr ""
 "md5='4dfffab4440360f5b2a307b42fa50691'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2602
+#: C/goscaja.xml:2600
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_emblem.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>File icon with "
@@ -12884,7 +12885,7 @@ msgstr ""
 "bir dosya ikonu</phrase> </textobject>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2612
+#: C/goscaja.xml:2610
 msgid ""
 "Notice how the file on the left is distinguished from the file on the right "
 "by the addition of the <guilabel>Important (!)</guilabel> emblem to its "
@@ -12896,7 +12897,7 @@ msgstr ""
 "sayfasına bakın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2613
+#: C/goscaja.xml:2611
 msgid ""
 "The file manager automatically applies emblems for the following types of "
 "files:"
@@ -12904,39 +12905,39 @@ msgstr ""
 "Dosya yöneticisi aşağıdaki dosya türleri için otomatik olarak amblem ekler:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2616
+#: C/goscaja.xml:2614
 msgid "Symbolic links"
 msgstr "Sembolik bağlar"
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:2619
+#: C/goscaja.xml:2617
 msgid "<primary>permissions</primary><secondary>and emblems</secondary>"
 msgstr "<primary>izinler</primary><secondary>ve amblemler</secondary>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2619
+#: C/goscaja.xml:2617
 msgid "Items for which you have the following permissions:<_:indexterm-1/>"
 msgstr "Aşağıdaki izinleriniz bulunduğu unsurlar:<_:indexterm-1/>"
 
 #. (itstool) path: listitem/para
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2622 C/goscaja.xml:2694
+#: C/goscaja.xml:2620 C/goscaja.xml:2692
 msgid "No read permission"
 msgstr "Okuma izni yok"
 
 #. (itstool) path: listitem/para
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2625 C/goscaja.xml:2677
+#: C/goscaja.xml:2623 C/goscaja.xml:2675
 msgid "No write permission"
 msgstr "Yazma izni yok"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2630
+#: C/goscaja.xml:2628
 msgid "The following table shows the default emblems:"
 msgstr "Aşağıdaki tablo varsayılan amblemleri gösterir:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2638
+#: C/goscaja.xml:2636
 msgid "Default Emblem"
 msgstr "Varsayılan Amblem"
 
@@ -12945,7 +12946,7 @@ msgstr "Varsayılan Amblem"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2651
+#: C/goscaja.xml:2649
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_link_emblem.png' "
@@ -12955,7 +12956,7 @@ msgstr ""
 "md5='7fefb663977d2a003bc86b8eb61e9100'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2649
+#: C/goscaja.xml:2647
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_link_emblem.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Symbolic link "
@@ -12966,12 +12967,12 @@ msgstr ""
 "amblemi.</phrase> </textobject>"
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:2660
+#: C/goscaja.xml:2658
 msgid "<primary>symbolic links</primary><secondary>and emblems</secondary>"
 msgstr "<primary>sembolik bağlar</primary><secondary>ve amblemler</secondary>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2660
+#: C/goscaja.xml:2658
 msgid "<_:indexterm-1/>Symbolic link"
 msgstr "<_:indexterm-1/>Sembolik bağ"
 
@@ -12980,7 +12981,7 @@ msgstr "<_:indexterm-1/>Sembolik bağ"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2668
+#: C/goscaja.xml:2666
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_nowrite_emblem.png' "
@@ -12990,7 +12991,7 @@ msgstr ""
 "md5='06a5b7050d82e38d2f54048a1f698092'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2666
+#: C/goscaja.xml:2664
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_nowrite_emblem.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>No write permission "
@@ -13005,7 +13006,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2685
+#: C/goscaja.xml:2683
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_noread_emblem.png' "
@@ -13015,7 +13016,7 @@ msgstr ""
 "md5='e54419d1a042a072d0a56effcc13278a'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2683
+#: C/goscaja.xml:2681
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_noread_emblem.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>No read permission "
@@ -13026,12 +13027,12 @@ msgstr ""
 "amblemi.</phrase> </textobject>"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2701
+#: C/goscaja.xml:2699
 msgid "Changing the Icon for a File or Folder"
 msgstr "Bir Dosya veya Klasör için İkonun Değiştirilmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2703
+#: C/goscaja.xml:2701
 msgid ""
 "<primary>file manager</primary> <secondary>icons</secondary> "
 "<tertiary>changing</tertiary>"
@@ -13040,7 +13041,7 @@ msgstr ""
 "<tertiary>değiştirilme</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2708
+#: C/goscaja.xml:2706
 msgid ""
 "To change the icon that represents an individual file or folder, perform the"
 " following steps:"
@@ -13049,12 +13050,12 @@ msgstr ""
 "adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2712
+#: C/goscaja.xml:2710
 msgid "Select the file or folder that you want to change."
 msgstr "Değiştirmek istediğiniz dosya veya klasörü seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2718
+#: C/goscaja.xml:2716
 msgid ""
 "On the <guilabel>Basic</guilabel> tabbed section, click on the current "
 "<guibutton>Icon</guibutton>. A <guilabel>Select custom icon</guilabel> "
@@ -13065,7 +13066,7 @@ msgstr ""
 "diyaloğu görüntülenecektir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2723
+#: C/goscaja.xml:2721
 msgid ""
 "Use the <guilabel>Select custom icon</guilabel> dialog to choose the icon to"
 " represent the file or folder."
@@ -13074,55 +13075,49 @@ msgstr ""
 "Seç</guilabel> diyaloğunu kullanın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2730
+#: C/goscaja.xml:2728
 msgid ""
 "To restore an icon from a custom icon to the default icon, Select the file "
 "or folder that you want to change, choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
-" click on the <guibutton>Icon</guibutton> button, in the <guilabel>Select "
+" Click on the <guibutton>Icon</guibutton> button, in the <guilabel>select "
 "custom icon</guilabel> dialog click <guibutton>Revert</guibutton>."
 msgstr ""
-"Özel bir ikondan varsayılan ikona geri gelmek için değiştirmek istediğiniz "
-"dosya veya klasörü seçin, ardından  "
-"<menuchoice><guimenu>Dosya</guimenu><guimenuitem>Özellikler</guimenuitem></menuchoice>i"
-" seçin. Sonra <guibutton>İkon</guibutton> düğmesine tıklayın, <guilabel>Özel"
-" Simge Seç</guilabel> diyaloğunda <guibutton>Eskiye Dön</guibutton> "
-"düğmesine tıklayın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2736
+#: C/goscaja.xml:2734
 msgid "Adding an Emblem to a File or Folder"
 msgstr "Bir Dosya veya Klasöre Amblem Eklenmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2739
+#: C/goscaja.xml:2737
 msgid "<primary>emblems</primary> <secondary>adding to file</secondary>"
 msgstr "<primary>amblemler</primary> <secondary>dosyaya eklemek</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2743
+#: C/goscaja.xml:2741
 msgid "<primary>emblems</primary> <secondary>adding to folder</secondary>"
 msgstr "<primary>amblemler</primary> <secondary>klasöre eklemek</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2747
+#: C/goscaja.xml:2745
 msgid "To add an emblem to an item perform the following steps:"
 msgstr "Bir unsura amblem eklemek için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2750
+#: C/goscaja.xml:2748
 msgid "Select the item to which you want to add an emblem."
 msgstr "Amblem eklemek istediğiniz unsuru seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2753
+#: C/goscaja.xml:2751
 msgid ""
 "Right-click on the item, then choose <guimenuitem>Properties</guimenuitem>. "
 "The <xref linkend=\"caja-properties\"/> for the item is displayed."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2756
+#: C/goscaja.xml:2754
 msgid ""
 "Click on the <guilabel>Emblems</guilabel> tab to display the "
 "<guilabel>Emblems</guilabel> tabbed section."
@@ -13131,12 +13126,12 @@ msgstr ""
 "<guilabel>Amblemler</guilabel> sekmesine tıklayın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2759
+#: C/goscaja.xml:2757
 msgid "Select the emblem to add to the item."
 msgstr "Unsura eklenecek amblemi seçin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2765
+#: C/goscaja.xml:2763
 msgid ""
 "In browser windows you may also add emblems to items by dragging them from "
 "the emblem side pane."
@@ -13145,22 +13140,22 @@ msgstr ""
 "de ekleyebilirsiniz."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2768
+#: C/goscaja.xml:2766
 msgid "Creating a New Emblem"
 msgstr "Yeni bir Amblem Oluşturulması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2770
+#: C/goscaja.xml:2768
 msgid "<primary>emblems</primary> <secondary>adding new</secondary>"
 msgstr "<primary>amblemler</primary> <secondary>yeni ekleme</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2774
+#: C/goscaja.xml:2772
 msgid "To Create a new emblem, perform the following steps:"
 msgstr "Yeni bir amblem oluşturmak için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2777
+#: C/goscaja.xml:2775
 msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Backgrounds and "
 "Emblems</guimenuitem></menuchoice>."
@@ -13169,7 +13164,7 @@ msgstr ""
 "Amblemler</guimenuitem></menuchoice>i seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2780
+#: C/goscaja.xml:2778
 msgid ""
 "Click on the <guibutton>Emblem</guibutton> button, then click on the "
 "<guibutton>Add a New Emblem</guibutton> button. A <guilabel>Create a New "
@@ -13180,7 +13175,7 @@ msgstr ""
 "<guilabel>Yeni Bir Amblem Oluştur</guilabel> diyaloğu görüntülenecektir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2785
+#: C/goscaja.xml:2783
 msgid ""
 "Type a name for the emblem in the <guilabel>Keyword</guilabel> text box."
 msgstr ""
@@ -13188,7 +13183,7 @@ msgstr ""
 "yazın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2788
+#: C/goscaja.xml:2786
 msgid ""
 "Click on the <guilabel>Image</guilabel> button. A dialog is displayed, click"
 " <guibutton>Browse</guibutton>. When you choose an emblem, click "
@@ -13199,7 +13194,7 @@ msgstr ""
 "<guibutton>TAMAM</guibutton> düğmesine tıklayın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2793
+#: C/goscaja.xml:2791
 msgid ""
 "Click <guibutton>OK</guibutton> on the <guilabel>Create a New "
 "Emblem</guilabel> dialog."
@@ -13208,12 +13203,12 @@ msgstr ""
 "<guibutton>TAMAM</guibutton> düğmesine tıklayın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2799
+#: C/goscaja.xml:2797
 msgid "Changing Backgrounds"
 msgstr "Arkaplanların Değiştirilmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2804
+#: C/goscaja.xml:2802
 msgid ""
 "<primary>file manager</primary> <secondary>changing backgrounds</secondary>"
 msgstr ""
@@ -13221,7 +13216,7 @@ msgstr ""
 "değiştirilmesi</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2808
+#: C/goscaja.xml:2806
 msgid ""
 "<primary>backgrounds</primary> <secondary>changing screen "
 "component</secondary>"
@@ -13230,7 +13225,7 @@ msgstr ""
 "değiştirilmesi</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2812
+#: C/goscaja.xml:2810
 msgid ""
 "The file manager includes background patterns and emblems that you can use "
 "to change the appearance of your folders. Background patterns and emblems "
@@ -13243,7 +13238,7 @@ msgstr ""
 "tarayıcısının bazı bölmelerinde ve panellerde kullanılabilir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2816
+#: C/goscaja.xml:2814
 msgid ""
 "To change the background of a window, pane, or panel, perform the following "
 "steps:"
@@ -13252,7 +13247,7 @@ msgstr ""
 "adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2820
+#: C/goscaja.xml:2818
 msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Backgrounds and "
 "Emblems</guimenuitem></menuchoice> in any file manager window. The "
@@ -13264,7 +13259,7 @@ msgstr ""
 "Amblemler</guilabel> diyaloğu görüntülenecektir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2824
+#: C/goscaja.xml:2822
 msgid ""
 "Click the <guibutton>Patterns</guibutton> button or the "
 "<guibutton>Colors</guibutton> button to see a list of background patterns or"
@@ -13275,7 +13270,7 @@ msgstr ""
 "düğmesine tıklayın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2828
+#: C/goscaja.xml:2826
 msgid ""
 "To change the background, drag a pattern or color to the desired window, "
 "pane, or panel. To reset the background, drag the <guilabel>Reset</guilabel>"
@@ -13286,7 +13281,7 @@ msgstr ""
 "unsurunu istenen pencere, bölme veya panele sürükleyin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2834
+#: C/goscaja.xml:2832
 msgid ""
 "You can set the background of all folders in the file manager by dragging a "
 "pattern or color with your right or middle mouse button. When you release "
@@ -13299,7 +13294,7 @@ msgstr ""
 "şıkkına sahip açılır bir menü göreceksiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2838
+#: C/goscaja.xml:2836
 msgid ""
 "You can add a new pattern to the list by clicking the <guibutton>Add a New "
 "Pattern</guibutton> button when the patterns are selected. Locate an image "
@@ -13312,7 +13307,7 @@ msgstr ""
 "tıklayın. Resim dosyası kullanabileceğiniz desenler listesinde belirecektir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2842
+#: C/goscaja.xml:2840
 msgid ""
 "You can add a new color to the list by clicking the <guibutton>Add a New "
 "Color</guibutton> button when the colors are selected. Select a color in the"
@@ -13325,17 +13320,17 @@ msgstr ""
 "kullanabileceğiniz renk listesinde belirecektir."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2849
+#: C/goscaja.xml:2847
 msgid "Using Removable Media"
 msgstr "Çıkartılabilir Ortamların Kullanımı"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2853
+#: C/goscaja.xml:2851
 msgid "<primary>removable media</primary> <secondary>introduction</secondary>"
 msgstr "<primary>Çıkartılabilir ortam</primary> <secondary>giriş</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2857
+#: C/goscaja.xml:2855
 msgid ""
 "The file manager can initiate various actions when removable media appear, "
 "such as mounting it, opening a file manager window showing its contents, or "
@@ -13351,18 +13346,18 @@ msgstr ""
 "linkend=\"goscaja-61\"/> sayfasına bakın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2865
+#: C/goscaja.xml:2863
 msgid "To Mount Media"
 msgstr "Ortamın Takılması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2866
+#: C/goscaja.xml:2864
 msgid "<primary>removable media</primary> <secondary>mounting</secondary>"
 msgstr ""
 "<primary>çıkartılabilir ortam</primary> <secondary>takılış</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2870
+#: C/goscaja.xml:2868
 msgid ""
 "To <firstterm>mount</firstterm> media is to make the file system of the "
 "media available for access. When you mount media, the file system of the "
@@ -13373,7 +13368,7 @@ msgstr ""
 "sistemi dosya sisteminize bir alt klasör olarak eklenecektir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2873
+#: C/goscaja.xml:2871
 msgid ""
 "To mount media, insert the media in the appropriate device. An icon that "
 "represents the media is added to the desktop. The icon is added only if your"
@@ -13385,35 +13380,29 @@ msgstr ""
 "edildiğinde cihazı otomatik olarak takmak için yapılandırıldıysa eklenir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2877
+#: C/goscaja.xml:2875
 msgid ""
 "If your system is not configured to mount the device automatically, you must"
 " mount the device manually. Double-click on the "
-"<guilabel>Computer</guilabel> icon from the desktop. A <guilabel>Computer "
-"</guilabel> dialog is displayed. Double-click on the icon that represents "
-"the media. For example, to mount a floppy diskette, double-click on the "
-"<guilabel>Floppy</guilabel> icon. An icon that represents the media is added"
-" to the desktop."
+"<guilabel>Computer</guilabel> icon from the desktop. A "
+"<guilabel>Computer</guilabel> dialog is displayed. Double-click on the icon "
+"that represents the media. For example, to mount a floppy diskette, double-"
+"click on the <guilabel>Floppy</guilabel> icon. An icon that represents the "
+"media is added to the desktop."
 msgstr ""
-"Eğer sisteminiz cihazı otomatik olarak takmak için yapılındırılmadıysa el "
-"ile takmanız gerekir. Masaüstündeki <guilabel>Bilgisayar</guilabel> ikonuna "
-"çift tıklayın. <guilabel>Bilgisayar</guilabel> diyaloğu görüntülenecektir. "
-"Ortamı temsil eden ikona çift tıklayın. Mesela bir disket takmak için "
-"<guilabel>Disket</guilabel> ikonuna çift tıklayın. Ortamı temsil eden bir "
-"ikon masaüstüne eklenecektir."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:2883
+#: C/goscaja.xml:2881
 msgid "You cannot change the name of a removable media icon."
 msgstr "Çıkartılabilir bir ortam ikonunun ismini değiştiremezsiniz."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2887
+#: C/goscaja.xml:2885
 msgid "To Display Media Contents"
 msgstr "Ortam İçeriklerinin Görüntülenmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2888
+#: C/goscaja.xml:2886
 msgid ""
 "<primary>removable media</primary> <secondary>displaying media "
 "contents</secondary>"
@@ -13422,17 +13411,17 @@ msgstr ""
 "görüntülenmesi</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2892
+#: C/goscaja.xml:2890
 msgid "You can display media contents in any of the following ways:"
 msgstr "Ortam içeriklerini aşağıdaki yollardan biriyle görüntüleyebilirsiniz:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2895
+#: C/goscaja.xml:2893
 msgid "Double-click on the icon that represents the media on the desktop."
 msgstr "Ortamı masaüstünde temsil eden ikona çift tıklayın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2898
+#: C/goscaja.xml:2896
 msgid ""
 "Right-click on the icon that represents the media on the desktop, then "
 "choose <guimenuitem>Open</guimenuitem>."
@@ -13441,7 +13430,7 @@ msgstr ""
 "<guimenuitem>Aç</guimenuitem>ı seçin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2902
+#: C/goscaja.xml:2900
 msgid ""
 "A file manager window displays the contents of the media. To reload the "
 "display, click on the <guibutton>Reload</guibutton> button."
@@ -13451,12 +13440,12 @@ msgstr ""
 "tıklayın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2906
+#: C/goscaja.xml:2904
 msgid "To Display Media Properties"
 msgstr "Ortam Özelliklerinin Görüntülenmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2907
+#: C/goscaja.xml:2905
 msgid ""
 "<primary>removable media</primary> <secondary>displaying media "
 "properties</secondary>"
@@ -13465,7 +13454,7 @@ msgstr ""
 "görüntülenmesi</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2911
+#: C/goscaja.xml:2909
 msgid ""
 "To display the properties of removable media, right-click on the icon that "
 "represents the media on the desktop, then choose "
@@ -13478,25 +13467,25 @@ msgstr ""
 "özelliklerini görüntüleyecektir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2913
+#: C/goscaja.xml:2911
 msgid "To close the properties dialog, click <guibutton>Close</guibutton>."
 msgstr ""
 "Özellikler diyaloğunu kapatmak için <guibutton>Kapat</guibutton> düğmesine "
 "tıklayın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2916
+#: C/goscaja.xml:2914
 msgid "To Eject Media"
 msgstr "Ortamın Çıkartılması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2917
+#: C/goscaja.xml:2915
 msgid "<primary>removable media</primary> <secondary>ejecting</secondary>"
 msgstr ""
 "<primary>çıkartılabilir ortam</primary> <secondary>çıkartma</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2921
+#: C/goscaja.xml:2919
 msgid ""
 "To eject media, right-click on the media icon on the desktop, then choose "
 "<guimenuitem>Eject</guimenuitem>. If the drive for the media is a motorized "
@@ -13510,7 +13499,7 @@ msgstr ""
 "masaüstü ikonunun kaybolmasını bekleyin, ardından ortamı el ile çıkartın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2926
+#: C/goscaja.xml:2924
 msgid ""
 "You cannot eject media from a motorized drive when the media is mounted. To "
 "eject media, first unmount the media. For example, to remove a USB flash "
@@ -13521,7 +13510,7 @@ msgstr ""
 "sürücüyü kaldırmak için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2930
+#: C/goscaja.xml:2928
 msgid ""
 "Close all file manager windows, <application>Terminal</application> windows,"
 " and any other windows that access the USB drive."
@@ -13530,7 +13519,7 @@ msgstr ""
 "pencerelerini ve USB sürücüsüne erişen diğer tüm pencereleri kapatın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2934
+#: C/goscaja.xml:2932
 msgid ""
 "Right-click on the icon that represents the drive on the desktop, then "
 "choose <guimenuitem>Eject</guimenuitem>. The desktop icon for the drive "
@@ -13541,12 +13530,12 @@ msgstr ""
 "kaybolacaktır."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2939
+#: C/goscaja.xml:2937
 msgid "Remove the USB flash drive."
 msgstr "USB flash sürücüsünü kaldırın."
 
 #. (itstool) path: caution/para
-#: C/goscaja.xml:2943
+#: C/goscaja.xml:2941
 msgid ""
 "You must unmount removable media before ejecting. Do not remove a USB flash "
 "drive before you unmount the flash drive. If you do not unmount the media "
@@ -13557,33 +13546,33 @@ msgstr ""
 "takılmasını kaldırmazsanız veri kaybedebilirsiniz."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2948
+#: C/goscaja.xml:2946
 msgid "Writing CDs or DVDs"
 msgstr "CD veya DVD Yazılması"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2952
+#: C/goscaja.xml:2950
 msgid "<primary>file manager</primary> <secondary>writing CDs</secondary>"
 msgstr ""
 "<primary>dosya yöneticisi</primary> <secondary>CD yazılması</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2956
+#: C/goscaja.xml:2954
 msgid "<primary>CDs, writing</primary>"
 msgstr "<primary>CD, yazma</primary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2959
+#: C/goscaja.xml:2957
 msgid "<primary>writing CDs</primary>"
 msgstr "<primary>CD yazma</primary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2962
+#: C/goscaja.xml:2960
 msgid "<primary>burning CDs</primary> <see>writing CDs</see>"
 msgstr "<primary>CD oluşturma</primary> <see>CD yazma</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2966
+#: C/goscaja.xml:2964
 msgid ""
 "Writing to a CD or DVD may be useful for backing up your important "
 "documents. To do this, your computer must have a CD or DVD writer."
@@ -13593,7 +13582,7 @@ msgstr ""
 " olmalıdır."
 
 #. (itstool) path: tip/para
-#: C/goscaja.xml:2968
+#: C/goscaja.xml:2966
 msgid ""
 "A simple way to check what sort of CD or DVD drive your computer has is to "
 "choose "
@@ -13609,7 +13598,7 @@ msgstr ""
 "\"DVD(+-)R\" gibi terimler varsa, bilgisayarınız disk yazabilir demektir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2970
+#: C/goscaja.xml:2968
 msgid ""
 "You can start choosing files to burn to a disc at any time. The file manager"
 " provides a special folder for files and folders that you wish to write to a"
@@ -13618,17 +13607,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2973
+#: C/goscaja.xml:2971
 msgid "Creating Data Discs"
 msgstr "Veri Diskleri Oluşturulması"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2975
+#: C/goscaja.xml:2973
 msgid "To write a CD or DVD, perform the following steps:"
 msgstr "Bir CD veya DVD yazmak için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2978
+#: C/goscaja.xml:2976
 msgid ""
 "Open <menuchoice><guimenu>Applications</guimenu><guimenu>System "
 "Tools</guimenu><guimenuitem>CD/DVD Creator</guimenuitem></menuchoice>. The "
@@ -13640,7 +13629,7 @@ msgstr ""
 "Oluşturucu klasörünü açacaktır."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:2979
+#: C/goscaja.xml:2977
 msgid ""
 "In a File Browser window, the <guimenuitem>CD/DVD Creator</guimenuitem> item"
 " is available in the <guimenu>Go</guimenu> menu."
@@ -13649,7 +13638,7 @@ msgstr ""
 "<guimenuitem>CD/DVD Oluşturucu</guimenuitem> unsuru mevcuttur."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2982
+#: C/goscaja.xml:2980
 msgid ""
 "Drag the files and folders that you want to write to CD or DVD to the CD/DVD"
 " Creator folder."
@@ -13658,7 +13647,7 @@ msgstr ""
 "klasörüne sürükleyin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2986
+#: C/goscaja.xml:2984
 msgid ""
 "Insert a writable CD or DVD into the CD/DVD writer device on your system."
 msgstr ""
@@ -13666,7 +13655,7 @@ msgstr ""
 "yerleştirin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2989
+#: C/goscaja.xml:2987
 msgid ""
 "Press the <guibutton>Write to Disc</guibutton> button, or choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Write to "
@@ -13679,7 +13668,7 @@ msgstr ""
 "diyaloğu görüntülenecektir."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2992
+#: C/goscaja.xml:2990
 msgid ""
 "Use the <guilabel>Write to Disc</guilabel> dialog to specify how you want to"
 " write the CD, as follows:"
@@ -13688,12 +13677,12 @@ msgstr ""
 "diyaloğunu kullanarak aşağıdaki gibi belirtin:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3011
+#: C/goscaja.xml:3009
 msgid "<guilabel>Write disc to</guilabel>"
 msgstr "<guilabel>Diski şuraya yaz</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3016
+#: C/goscaja.xml:3014
 msgid ""
 "Select the device to which you want to write the CD from the drop-down list."
 " To create an CD image file, select the <guilabel>File image</guilabel> "
@@ -13702,22 +13691,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3022
+#: C/goscaja.xml:3020
 msgid "<guilabel>Disc name</guilabel>"
 msgstr "<guilabel>Disc ismi</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3027
+#: C/goscaja.xml:3025
 msgid "Type a name for the CD in the text box."
 msgstr "Metin kutusunda CD için bir isim yazın."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3032
+#: C/goscaja.xml:3030
 msgid "<guilabel>Data size</guilabel>"
 msgstr "<guilabel>Veri boyutu</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3037
+#: C/goscaja.xml:3035
 msgid ""
 "Shows the size of the data to be written to disc. The blank disk must be at "
 "least this size."
@@ -13726,23 +13715,23 @@ msgstr ""
 "olmalıdır."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3043
+#: C/goscaja.xml:3041
 msgid "<guilabel>Write speed</guilabel>"
 msgstr "<guilabel>Yazma hızı</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3048
+#: C/goscaja.xml:3046
 msgid ""
 "Select the speed at which you want to write the CD from the drop-down list."
 msgstr "CD'nin yazılmasını istediğiniz hızı açılır listeden seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3057
+#: C/goscaja.xml:3055
 msgid "Click on the <guibutton>Write</guibutton> button."
 msgstr "<guibutton>Yazdır</guibutton> düğmesine tıklayın."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3058
+#: C/goscaja.xml:3056
 msgid ""
 "If you selected the <guilabel>File image</guilabel> option from the "
 "<guilabel>Target to write to</guilabel> drop-down list, a <guilabel>Choose a"
@@ -13758,7 +13747,7 @@ msgstr ""
 "<filename>.iso</filename> dosya uzantısına sahiptirler."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3062
+#: C/goscaja.xml:3060
 msgid ""
 "A <guilabel>Writing disc</guilabel> dialog is displayed. This process takes "
 "some time. When the disc is written or when the disc image file is created, "
@@ -13771,14 +13760,14 @@ msgstr ""
 "görüntülenecektir."
 
 #. (itstool) path: tip/para
-#: C/goscaja.xml:3067
+#: C/goscaja.xml:3065
 msgid ""
 "You can set the CD/DVD Creator folder to open automatically when you insert "
 "a blank disc. See <xref linkend=\"goscaja-61\"/>."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:3068
+#: C/goscaja.xml:3066
 msgid ""
 "The filesystem written to the CD will be readable with long filenames on all"
 " recent operating systems. Both the Joliet and the Rock Ridge CD-ROM "
@@ -13789,12 +13778,12 @@ msgstr ""
 "sistemi uzantıları kullanılır."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3071
+#: C/goscaja.xml:3069
 msgid "Copying CDs or DVDs"
 msgstr "CD veya DVD Kopyalanması"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3072
+#: C/goscaja.xml:3070
 msgid ""
 "You can create a copy of a CD or DVD, either to another disc or to an image "
 "file stored on your computer. To create a copy, perform the following steps:"
@@ -13804,12 +13793,12 @@ msgstr ""
 "için aşağıdaki adımları gerçekleştirin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3074
+#: C/goscaja.xml:3072
 msgid "Insert the disc you want to copy."
 msgstr "Kopyalamak istediğiniz diski yerleştirin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3075
+#: C/goscaja.xml:3073
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Computer</guimenuitem></menuchoice>"
@@ -13820,19 +13809,19 @@ msgstr ""
 " seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3076
+#: C/goscaja.xml:3074
 msgid ""
 "Right-click on the CD icon, and choose <guimenuitem>Copy Disc</guimenuitem>."
 msgstr ""
 "CD ikonuna sağ tıklayın ve <guimenuitem>Disk Kopyala</guimenuitem>yı seçin."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3077
+#: C/goscaja.xml:3075
 msgid "The <guilabel>Write to Disc</guilabel> dialog is displayed."
 msgstr "<guilabel>Diske Yaz</guilabel> diyaloğu görüntülenecektir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3079
+#: C/goscaja.xml:3077
 msgid ""
 "If you have only one drive with write capabilities, the process will first "
 "create a disc image file on your computer. It will then eject the original "
@@ -13844,7 +13833,7 @@ msgstr ""
 "isteyecektir."
 
 #. (itstool) path: tip/para
-#: C/goscaja.xml:3080
+#: C/goscaja.xml:3078
 msgid ""
 "If you want to create more than one copy, choose the Image File option on "
 "the <guilabel>Write to Disc</guilabel> and then write the disc image: see "
@@ -13856,12 +13845,12 @@ msgstr ""
 "writeimage\"/> sayfasına bakın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3083
+#: C/goscaja.xml:3081
 msgid "Creating a Disc from an Image File"
 msgstr "Kalıp Dosyasından Disk Oluşturulması"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3084
+#: C/goscaja.xml:3082
 msgid ""
 "You can write a disc image to a CD or DVD. For example, you may have "
 "downloaded a disc image from the internet, or previously created one "
@@ -13875,7 +13864,7 @@ msgstr ""
 "dosyaları olarak adlandırılırlar."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3085
+#: C/goscaja.xml:3083
 msgid ""
 "To write a disc image, right-click on the disc image file, then choose "
 "<guimenuitem>Write to Disc</guimenuitem> from the popup menu."
@@ -13884,12 +13873,12 @@ msgstr ""
 "açılır menüden <guimenuitem>Diske Yaz</guimenuitem>ı seçin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3089
+#: C/goscaja.xml:3087
 msgid "Navigating Remote Servers"
 msgstr "Uzak Sunucularda Gezinme"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3090
+#: C/goscaja.xml:3088
 msgid ""
 "The <application>Caja</application> file manager provides an integrated "
 "access point to your files, applications, FTP sites, Windows shares, WebDav "
@@ -13900,17 +13889,17 @@ msgstr ""
 "sunucularına birleşik bir erişim noktası sağlar."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3093
+#: C/goscaja.xml:3091
 msgid "To Access a remote server"
 msgstr "Uzak bir sunucuya erişim"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3100
+#: C/goscaja.xml:3098
 msgid "<primary>FTP sites</primary> <secondary>accessing</secondary>"
 msgstr "<primary>FTP siteleri</primary> <secondary>erişim</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3104
+#: C/goscaja.xml:3102
 msgid ""
 "<primary>file manager</primary> <secondary>FTP sites</secondary> <see>FTP "
 "sites</see>"
@@ -13919,7 +13908,7 @@ msgstr ""
 "<see>FTP siteleri</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3109
+#: C/goscaja.xml:3107
 msgid ""
 "You can use the file manager to access a remote server, be it an FTP site, a"
 " Windows share, a WebDav server or an SSH server."
@@ -13929,7 +13918,7 @@ msgstr ""
 "kullanabilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3111
+#: C/goscaja.xml:3109
 msgid ""
 "To access a remote server, choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Connect to "
@@ -13945,7 +13934,7 @@ msgstr ""
 "Bağlan</guimenuitem></menuchoice>ı seçerek de erişebilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3113
+#: C/goscaja.xml:3111
 msgid ""
 "To connect to a remote server, start by choosing the service type, then "
 "enter the server address."
@@ -13954,45 +13943,43 @@ msgstr ""
 "ardından sunucu adresini girin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3114
+#: C/goscaja.xml:3112
 msgid ""
 "If required by your server, you may provide the following optional "
-"information :"
+"information:"
 msgstr ""
-"Eğer sunucunuz tarafından isteniyorsa, aşağıdaki isteğe bağlı bilgileri "
-"girebilirsiniz:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3132
+#: C/goscaja.xml:3130
 msgid "<guilabel>Port</guilabel>"
-msgstr "<guilabel>Kapı</guilabel>"
+msgstr "<guilabel>Port</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3137
+#: C/goscaja.xml:3135
 msgid ""
 "Port to connect to on the server. This should only be used if it is "
 "necessary to change the default port, you would normally leave this blank."
 msgstr ""
-"Sunucuda bağlanılacak kapı ya da port. Bu sadece varsayılan port numarasını "
-"değiştirmek için kullanılmalıdır, normalde bunu boş bırakmanız yeterlidir."
+"Sunucuda bağlanılacak port. Bu sadece varsayılan port numarasını değiştirmek"
+" için kullanılmalıdır, normalde bunu boş bırakmanız yeterlidir."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3143
+#: C/goscaja.xml:3141
 msgid "<guilabel>Folder</guilabel>"
 msgstr "<guilabel>Klasör</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3148
+#: C/goscaja.xml:3146
 msgid "Folder to open upon connecting to server."
 msgstr "Sunucuya bağlanıldığında açılacak klasör."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3153
+#: C/goscaja.xml:3151
 msgid "<guilabel>User Name</guilabel>"
 msgstr "<guilabel>Kullanıcı İsmi</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3158
+#: C/goscaja.xml:3156
 msgid ""
 "The user name of the account used to connect to the server. This should be "
 "supplied with the connection information if needed. The user name "
@@ -14003,23 +13990,23 @@ msgstr ""
 "açık ya da genel FTP bağlantısı için uygun değildir."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3165
+#: C/goscaja.xml:3163
 msgid "<guilabel>Name to use for connection</guilabel>"
 msgstr "<guilabel>Bağlantı için kullanılacak isim</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3170
+#: C/goscaja.xml:3168
 msgid ""
 "The designation of the connection as it will appear in the file manager."
 msgstr "Dosya yöneticisinde görünecek şekilde bağlantının ismi."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3175
+#: C/goscaja.xml:3173
 msgid "<guilabel>Share</guilabel>"
 msgstr "<guilabel>Paylaşım</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3180
+#: C/goscaja.xml:3178
 msgid ""
 "Name of desired windows share. This is only applicable to Windows shares."
 msgstr ""
@@ -14027,17 +14014,17 @@ msgstr ""
 "geçerlidir."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3185
+#: C/goscaja.xml:3183
 msgid "<guilabel>Domain name</guilabel>"
 msgstr "<guilabel>Alan adı</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3190
+#: C/goscaja.xml:3188
 msgid "Windows domain. This is only applicable to Windows shares."
 msgstr "Windows alanı. Bu sadece Windows paylaşımlarında geçerlidir."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3196
+#: C/goscaja.xml:3194
 msgid ""
 "If the server information is provided in the form of a URI, or you require a"
 " specialized connection, choose <menuchoice><guimenuitem>Custom "
@@ -14048,7 +14035,7 @@ msgstr ""
 "Konum</guimenuitem></menuchoice>u seçin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3197
+#: C/goscaja.xml:3195
 msgid ""
 "Once you have filled in the information, click on the "
 "<guibutton>Connect</guibutton> button. When the connection succeeds, the "
@@ -14060,17 +14047,17 @@ msgstr ""
 " sunucudan ve uzaktaki sunucya dosya sürükleyip bırakabilirsiniz."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3201
+#: C/goscaja.xml:3199
 msgid "To Access Network Places"
 msgstr "Ağ Yerlerine Erişim"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3208
+#: C/goscaja.xml:3206
 msgid "<primary>network places</primary> <secondary>accessing</secondary>"
 msgstr "<primary>ağ yerleri</primary> <secondary>erişim</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3212
+#: C/goscaja.xml:3210
 msgid ""
 "<primary>file manager</primary> <secondary>network places</secondary> "
 "<see>network places</see>"
@@ -14079,7 +14066,7 @@ msgstr ""
 "<see>ağ yerleri</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3217
+#: C/goscaja.xml:3215
 msgid ""
 "If your system is configured to access places on a network, you can use the "
 "file manager to access the network places."
@@ -14088,7 +14075,7 @@ msgstr ""
 "yöneticisini ağ yerlerine erişmek için kullanabilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3220
+#: C/goscaja.xml:3218
 msgid ""
 "To access network places, open the file manager and choose "
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Network "
@@ -14103,50 +14090,44 @@ msgstr ""
 "tıklayın."
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:3222
+#: C/goscaja.xml:3220
 msgid "<primary>NFS servers</primary><see>Unix network</see>"
 msgstr "<primary>NFS sunucuları</primary><see>Unix ağı</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3222
+#: C/goscaja.xml:3220
 msgid ""
 "<_:indexterm-1/>To access UNIX shares, double-click on the <guilabel>Unix "
-"Network (NFS) </guilabel> object. A list of the UNIX shares available to you"
-" is displayed in the file manager window."
+"Network (NFS)</guilabel> object. A list of the UNIX shares available to you "
+"is displayed in the file manager window."
 msgstr ""
-"<_:indexterm-1/>UNIX paylaşımlarına erişmek için <guilabel>Unix Ağı "
-"(NFS)</guilabel> nesnesine çift tıklayın. Dosya yöneticisi penceresinde "
-"kullanabileceğiniz UNIX paylaşımlarının listesi görüntülenecektir. "
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:3226
+#: C/goscaja.xml:3224
 msgid "<primary>Samba servers</primary><see>Windows network</see>"
 msgstr "<primary>Samba sunucuları</primary><see>Windows ağı</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3226
+#: C/goscaja.xml:3224
 msgid ""
 "<_:indexterm-1/>To access Windows shares, double-click on the "
-"<guilabel>Windows Network (SMB) </guilabel> object. A list of the Windows "
+"<guilabel>Windows Network (SMB)</guilabel> object. A list of the Windows "
 "shares available to you is displayed in the file manager window."
 msgstr ""
-"<_:indexterm-1/>Windows paylaşımlarına erişmek için <guilabel>Windows Ağı "
-"(SMB)</guilabel> nesnesine çift tıklayın. Dosya yöneticisi penceresinde "
-"kullanabileceğiniz Windows paylaşımlarının listesi görüntülenecektir."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3232
+#: C/goscaja.xml:3230
 msgid "Accessing Special URI Locations"
 msgstr "Özel URI Konumlarına Erişim"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3233
+#: C/goscaja.xml:3231
 msgid ""
 "<primary>special URI locations</primary> <secondary>accessing</secondary>"
 msgstr "<primary>özel URI konumları</primary> <secondary>erişim</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3237
+#: C/goscaja.xml:3235
 msgid ""
 "<primary>file manager</primary> <secondary>special URI locations</secondary>"
 msgstr ""
@@ -14154,12 +14135,12 @@ msgstr ""
 "konumları</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3241
+#: C/goscaja.xml:3239
 msgid "<primary>URI, special</primary> <see>special URI locations</see>"
 msgstr "<primary>URI, özel</primary> <see>özel URI konumları</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3245
+#: C/goscaja.xml:3243
 msgid ""
 "Caja has certain special URI locations that enable you to access particular "
 "functions from the file manager."
@@ -14168,7 +14149,7 @@ msgstr ""
 "URI konumları vardır."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3246
+#: C/goscaja.xml:3244
 msgid ""
 "These are intended for advanced users: in most cases, an easier method of "
 "accessing the function or location exists."
@@ -14177,7 +14158,7 @@ msgstr ""
 "veya konuma erişmek için daha kolay bir yöntem bulunur."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3247
+#: C/goscaja.xml:3245
 msgid ""
 "<xref linkend=\"goscaja-TBL-479\"/> lists the special URI locations that you"
 " can use with the file manager."
@@ -14186,22 +14167,22 @@ msgstr ""
 "kullanabileceğiniz özel URI konumlarını listeler."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3249
+#: C/goscaja.xml:3247
 msgid "Special URI Locations"
 msgstr "Özel URI Konumları"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3256
+#: C/goscaja.xml:3254
 msgid "URI Location"
 msgstr "URI Konumu"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3266
+#: C/goscaja.xml:3264
 msgid "<command>burn:///</command>"
 msgstr "<command>burn:///</command>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3271
+#: C/goscaja.xml:3269
 msgid ""
 "This is a special location where you can copy files and folders that you "
 "want to write to a CD. From here you can write the contents of the location "
@@ -14212,12 +14193,12 @@ msgstr ""
 "yazabilirsiniz. Ayrıca <xref linkend=\"caja-cdwriter\"/> sayfasına da bakın."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3277
+#: C/goscaja.xml:3275
 msgid "<command>network:///</command>"
 msgstr "<command>network:///</command>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3282
+#: C/goscaja.xml:3280
 msgid ""
 "Displays network locations to which you can connect, if your system is "
 "configured to access locations on a network. To access a network location, "
@@ -14232,18 +14213,18 @@ msgstr ""
 "bakın."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3295
+#: C/goscaja.xml:3293
 msgid "Caja Preferences"
 msgstr "Caja Tercihleri"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3303
+#: C/goscaja.xml:3301
 msgid "<primary>file manager</primary> <secondary>customizing</secondary>"
 msgstr ""
 "<primary>dosya yöneticisi</primary> <secondary>özelleştirme</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3307
+#: C/goscaja.xml:3305
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>introduction</tertiary>"
@@ -14252,7 +14233,7 @@ msgstr ""
 "<tertiary>giriş</tertiary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3312
+#: C/goscaja.xml:3310
 msgid ""
 "<primary>preferences, file manager</primary> <see>file manager "
 "preferences</see>"
@@ -14261,7 +14242,7 @@ msgstr ""
 "tercihleri</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3316
+#: C/goscaja.xml:3314
 msgid ""
 "Use the <guilabel>File Management Preferences</guilabel> dialog to customize"
 " the file manager to suit your requirements and preferences."
@@ -14271,7 +14252,7 @@ msgstr ""
 "diyaloğunu kullanın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3318
+#: C/goscaja.xml:3316
 msgid ""
 "To display the <guilabel>File Management Preferences</guilabel> dialog, "
 "choose "
@@ -14289,50 +14270,50 @@ msgstr ""
 " Yönetimi</guimenuitem></menuchoice>ni seçerek de ulaşabilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3320
+#: C/goscaja.xml:3318
 msgid "You can set preferences in the following categories:"
 msgstr "Aşağıdaki kategorilerde tercih ayarlayabilirsiniz:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3323
+#: C/goscaja.xml:3321
 msgid "The default settings for views."
 msgstr "Görünümler için varsayılan ayarlar."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3326
+#: C/goscaja.xml:3324
 msgid "The behavior of files and folders, executable text files, and Trash."
 msgstr ""
 "Dosya ve klasörlerin, yürütülebilir metin dosyalarının ve Çöp kutusunun "
 "davranışı."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3329
+#: C/goscaja.xml:3327
 msgid ""
 "The information that is displayed in icon captions and the date format."
 msgstr "İkon etiketlerinde ve tarih biçiminde görüntülenen bilgiler."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3332
+#: C/goscaja.xml:3330
 msgid "The columns that appear in the list view and their order."
 msgstr "Liste görünümünde beliren sütunlar ve sıraları."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3335
+#: C/goscaja.xml:3333
 msgid "Preview options to improve the performance of the file manager."
 msgstr "Dosya yöneticisinin performansını artırmak için önizleme seçenekleri."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3338
+#: C/goscaja.xml:3336
 msgid "How removable media and connected devices are handled."
 msgstr "Çıkartılabilir ortam ve bağlı cihazların nasıl yönetileceği."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3342 C/goscaja.xml:3356
+#: C/goscaja.xml:3340 C/goscaja.xml:3354
 msgid "Views Preferences"
 msgstr "Görünüm Tercihleri"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3343
+#: C/goscaja.xml:3341
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>views</tertiary>"
@@ -14341,7 +14322,7 @@ msgstr ""
 "<tertiary>görünümler</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3348
+#: C/goscaja.xml:3346
 msgid ""
 "You can specify a default view, and select sort options and display options."
 " You can also specify default settings for icon views and list views."
@@ -14351,7 +14332,7 @@ msgstr ""
 "ayarları belirtebilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3351
+#: C/goscaja.xml:3349
 msgid ""
 "To specify your default view settings, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -14364,7 +14345,7 @@ msgstr ""
 "<guilabel>Görünümler</guilabel>  sekmesine tıklayın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3354
+#: C/goscaja.xml:3352
 msgid ""
 "<xref linkend=\"goscaja-TBL-30\"/> lists the views preferences that you can "
 "modify."
@@ -14373,30 +14354,26 @@ msgstr ""
 " listeler."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3373
+#: C/goscaja.xml:3371
 msgid "<guilabel>View new folders using</guilabel>"
-msgstr "<guilabel>Yeni dizinleri bunu kullanarak görüntüle</guilabel>"
+msgstr "<guilabel>Yeni klasörleri bunu kullanarak görüntüle</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3378
+#: C/goscaja.xml:3376
 msgid ""
 "Select the default view for folders. When you open a folder, the folder is "
 "displayed in the view that you select. This can be the icon view, the list "
 "view, or the compact view, which is a variant of the icon view that is "
-"organized in columns rather than rows.."
+"organized in columns rather than rows."
 msgstr ""
-"Klasörler için varsayılan görünümü seçin. Bir klasör açtığınızda klasör, "
-"seçtiğiniz görünümde görüntülenecektir. Bu, ikon görünümü, liste görünümü "
-"veya ikon görünümünün satırlar yerine sütunlar halinde düzenlenmiş farklı "
-"bir biçimi olan sıkışık görünüm olabilir."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3384
+#: C/goscaja.xml:3382
 msgid "<guilabel>Arrange items</guilabel>"
 msgstr "<guilabel>Öğeleri düzenle</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3389
+#: C/goscaja.xml:3387
 msgid ""
 "Select the characteristic by which you want to sort the items in folders "
 "that are displayed in this view."
@@ -14405,12 +14382,12 @@ msgstr ""
 "özelliği seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3395
+#: C/goscaja.xml:3393
 msgid "<guilabel>Sort folders before files</guilabel>"
-msgstr "<guilabel>Dizinleri dosyalardan önce sırala</guilabel>"
+msgstr "<guilabel>Klasörleri dosyalardan önce sırala</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3400
+#: C/goscaja.xml:3398
 msgid ""
 "Select this option to list folders before files when you sort a folder."
 msgstr ""
@@ -14418,12 +14395,12 @@ msgstr ""
 "şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3406
+#: C/goscaja.xml:3404
 msgid "<guilabel>Show hidden and backup files</guilabel>"
 msgstr "<guilabel>Gizli ve yedek dosyaları göster</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3411
+#: C/goscaja.xml:3409
 msgid ""
 "Select this option to display files that are normally not shown in folders. "
 "For more on hidden files, see <xref linkend=\"caja-hidden-files\"/>."
@@ -14433,7 +14410,7 @@ msgstr ""
 "hidden-files\"/> sayfasına bakın."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3416
+#: C/goscaja.xml:3414
 msgid ""
 "<guilabel>Default zoom level</guilabel> in the Icon View, Compact View, or "
 "List View sections"
@@ -14442,7 +14419,7 @@ msgstr ""
 "yaklaştırma seviyesi</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3421
+#: C/goscaja.xml:3419
 msgid ""
 "Select the default zoom level for folders that are displayed in this view. "
 "The zoom level specifies the size of items in a view."
@@ -14451,12 +14428,12 @@ msgstr ""
 "seçin. Yaklaştırma seviyesi görünümdeki unsurların boyutunu belirler."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3427
+#: C/goscaja.xml:3425
 msgid "<guilabel>Use compact layout</guilabel>"
 msgstr "<guilabel>Sıkışık görünüm kullan</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3432
+#: C/goscaja.xml:3430
 msgid ""
 "Select this option to arrange the items in icon view so that the items in "
 "the folder are closer to each other."
@@ -14465,12 +14442,12 @@ msgstr ""
 "düzenlemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3439
+#: C/goscaja.xml:3437
 msgid "<guilabel>Text beside icons</guilabel>"
 msgstr "<guilabel>Simgelerin yanında metin</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3444
+#: C/goscaja.xml:3442
 msgid ""
 "Select this option to place the icon captions for items beside the icon "
 "rather than under the icon."
@@ -14479,12 +14456,12 @@ msgstr ""
 "bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3450
+#: C/goscaja.xml:3448
 msgid "<guilabel>All columns have the same width</guilabel>"
 msgstr "<guilabel>Tüm sütunlar aynı genişliğe sahip</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3455
+#: C/goscaja.xml:3453
 msgid ""
 "Select this option to make all columns in a compact view have the same "
 "width."
@@ -14493,12 +14470,12 @@ msgstr ""
 "seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3460
+#: C/goscaja.xml:3458
 msgid "<guilabel>Show only folders</guilabel>"
-msgstr "<guilabel>Sadece dizinleri göster</guilabel>"
+msgstr "<guilabel>Sadece klasörleri göster</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3465
+#: C/goscaja.xml:3463
 msgid ""
 "Select this option to display only folders in the <guilabel>Tree</guilabel> "
 "in the side pane."
@@ -14507,12 +14484,12 @@ msgstr ""
 "için bu şıkkı seçin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3473
+#: C/goscaja.xml:3471
 msgid "Behavior Preferences"
 msgstr "İşleyiş Tercihleri"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3474
+#: C/goscaja.xml:3472
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>behavior</tertiary>"
@@ -14521,7 +14498,7 @@ msgstr ""
 "<tertiary>işleyiş</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3479
+#: C/goscaja.xml:3477
 msgid ""
 "To set your preferences for files and folders, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -14536,12 +14513,12 @@ msgstr ""
 " tercihleri ayarlayabilirsiniz:"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3485
+#: C/goscaja.xml:3483
 msgid "<guilabel>Single click to open items</guilabel>"
 msgstr "<guilabel>Öğeleri açmak için tek tık</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3487
+#: C/goscaja.xml:3485
 msgid ""
 "Select this option to perform the default action for an item when you click "
 "on the item. When this option is selected, and you point to an item, the "
@@ -14552,12 +14529,12 @@ msgstr ""
 "üzerine getirdiğinizde, unsurun başlığı altı çizili hale gelir."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3493
+#: C/goscaja.xml:3491
 msgid "<guilabel>Double click to open items</guilabel>"
 msgstr "<guilabel>Öğeleri açmak için çift tıklayın</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3495
+#: C/goscaja.xml:3493
 msgid ""
 "Select this option to perform the default action for an item when you "
 "double-click on the item."
@@ -14566,12 +14543,12 @@ msgstr ""
 "gerçekleştirilmesi için bu şıkkı seçin."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3500
+#: C/goscaja.xml:3498
 msgid "<guilabel>Always open in browser windows</guilabel>"
 msgstr "<guilabel>Daima tarayıcı pencerelerinde aç</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3502
+#: C/goscaja.xml:3500
 msgid ""
 "Select this option to use <application>Caja</application> in browser mode "
 "rather than spatial mode. Selecting this lets you browse your files and "
@@ -14584,13 +14561,13 @@ msgstr ""
 "nesneler olarak gezinirsiniz."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3507
+#: C/goscaja.xml:3505
 msgid "<guilabel>Run executable text files when they are opened</guilabel>"
 msgstr ""
 "<guilabel>Açıldığında çalıştırılabilir metin dosyalarını çalıştır</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3509
+#: C/goscaja.xml:3507
 msgid ""
 "Select this option to run an text executable file when you choose the file. "
 "An executable text file is a text file that can execute, that is, a shell "
@@ -14601,14 +14578,14 @@ msgstr ""
 "dosya yani bir kabuk betiğidir."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3515
+#: C/goscaja.xml:3513
 msgid "<guilabel>View executable text files when they are opened</guilabel>"
 msgstr ""
 "<guilabel>Açıldığında çalıştırılabilir metin dosyalarını "
 "görüntüle</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3517
+#: C/goscaja.xml:3515
 msgid ""
 "Select this option to display the contents of an executable text file when "
 "you choose the executable text file."
@@ -14617,12 +14594,12 @@ msgstr ""
 "görüntülenmesi için bu şıkkı seçin."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3522
+#: C/goscaja.xml:3520
 msgid "<guilabel>Ask each time</guilabel>"
 msgstr "<guilabel>Her zaman sor</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3524
+#: C/goscaja.xml:3522
 msgid ""
 "Select this option to display a dialog when you choose an executable text "
 "file. The dialog asks whether you want to execute the file or display the "
@@ -14633,13 +14610,13 @@ msgstr ""
 "istediğinizi soracaktır."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3530
+#: C/goscaja.xml:3528
 msgid "<guilabel>Ask before emptying the Trash or deleting files</guilabel>"
 msgstr ""
 "<guilabel>Çöpü boşaltmadan ya da dosyaları silmeden önce sor</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3532
+#: C/goscaja.xml:3530
 msgid ""
 "Select this option to display a confirmation message before "
 "<guilabel>Trash</guilabel> is emptied, or files are deleted. Leave this "
@@ -14650,12 +14627,12 @@ msgstr ""
 "nedeniniz olmadıkça, bunu seçili bırakın."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3536
+#: C/goscaja.xml:3534
 msgid "<guilabel>Include a Delete command that bypasses Trash</guilabel>"
 msgstr "<guilabel>Çöpü kullanmayacak bir Sil komutu ekle</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3538
+#: C/goscaja.xml:3536
 msgid ""
 "Select this option to add a <guimenuitem>Delete</guimenuitem> menu item to "
 "the following menus:"
@@ -14664,12 +14641,12 @@ msgstr ""
 " şıkkı seçin:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3542
+#: C/goscaja.xml:3540
 msgid "The <guimenu>Edit</guimenu> menu."
 msgstr "<guimenu>Düzenle</guimenu> menüsü."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3545
+#: C/goscaja.xml:3543
 msgid ""
 "The popup menu that is displayed when you right-click on a file, folder, or "
 "desktop object."
@@ -14678,7 +14655,7 @@ msgstr ""
 " açılır menü."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3549
+#: C/goscaja.xml:3547
 msgid ""
 "When you select an item then choose the <guimenuitem>Delete</guimenuitem> "
 "menu item, the item is deleted from your file system immediately. There is "
@@ -14691,12 +14668,12 @@ msgstr ""
 "seçmeyin."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3556
+#: C/goscaja.xml:3554
 msgid "Display Preferences"
 msgstr "Görüntü Tercihleri"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3557
+#: C/goscaja.xml:3555
 msgid ""
 "<primary>file manager</primary> <secondary>icons</secondary> "
 "<tertiary>caption preferences</tertiary>"
@@ -14705,7 +14682,7 @@ msgstr ""
 "<tertiary>etiket tercihleri</tertiary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3562
+#: C/goscaja.xml:3560
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>icon captions</tertiary>"
@@ -14714,7 +14691,7 @@ msgstr ""
 "<tertiary>ikon etiketleri</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3567
+#: C/goscaja.xml:3565
 msgid ""
 "An icon caption displays the name of a file or folder in an icon view. The "
 "icon caption also includes three additional items of information on the file"
@@ -14731,7 +14708,7 @@ msgstr ""
 " ek bilginin görüntüleneceğini değiştirebilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3573
+#: C/goscaja.xml:3571
 msgid ""
 "To set your preferences for icon captions, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -14744,7 +14721,7 @@ msgstr ""
 "<guilabel>Görüntü</guilabel> sekmesine tıklayın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3575
+#: C/goscaja.xml:3573
 msgid ""
 "Select the items of information that you want to display in the icon caption"
 " from the three drop-down lists. Select the first item from the first drop-"
@@ -14757,80 +14734,80 @@ msgstr ""
 " seçebileceğiniz bilgi unsurlarını açıklar:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3587 C/goscaja.xml:3727
+#: C/goscaja.xml:3585 C/goscaja.xml:3725
 msgid "Information"
 msgstr "Bilgi"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3597 C/goscaja.xml:3747 C/gospanel.xml:189
+#: C/goscaja.xml:3595 C/goscaja.xml:3745 C/gospanel.xml:189
 #: C/gospanel.xml:1420
 msgid "<guilabel>Size</guilabel>"
 msgstr "<guilabel>Boyut</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3602 C/goscaja.xml:3752
+#: C/goscaja.xml:3600 C/goscaja.xml:3750
 msgid "Choose this option to display the size of the item."
 msgstr "Unsurun boyutunu görüntülemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3607 C/goscaja.xml:3757
+#: C/goscaja.xml:3605 C/goscaja.xml:3755
 msgid "<guilabel>Type</guilabel>"
 msgstr "<guilabel>Tür</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3612
+#: C/goscaja.xml:3610
 msgid ""
 "Choose this option to display the description of the MIME type of the item."
 msgstr "Unsurun MIME türünün açıklamasını görüntülemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3617 C/goscaja.xml:3769
+#: C/goscaja.xml:3615 C/goscaja.xml:3767
 msgid "<guilabel>Date Modified</guilabel>"
 msgstr "<guilabel>Değiştirilme Tarihi</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3622 C/goscaja.xml:3774
+#: C/goscaja.xml:3620 C/goscaja.xml:3772
 msgid "Choose this option to display the last modification date of the item."
 msgstr "Unsurun son değiştirilme tarihini görüntülemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3627 C/goscaja.xml:3779
+#: C/goscaja.xml:3625 C/goscaja.xml:3777
 msgid "<guilabel>Date Accessed</guilabel>"
 msgstr "<guilabel>Kullanım Tarihi</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3632 C/goscaja.xml:3784
+#: C/goscaja.xml:3630 C/goscaja.xml:3782
 msgid ""
 "Choose this option to display the date that the item was last accessed."
 msgstr "Unsura son erişim tarihini görüntülemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3637 C/goscaja.xml:3820
+#: C/goscaja.xml:3635 C/goscaja.xml:3818
 msgid "<guilabel>Owner</guilabel>"
 msgstr "<guilabel>Sahip</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3642 C/goscaja.xml:3825
+#: C/goscaja.xml:3640 C/goscaja.xml:3823
 msgid "Choose this option to display the owner of the item."
 msgstr "Unsurun sahibini görüntülemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3647 C/goscaja.xml:3789
+#: C/goscaja.xml:3645 C/goscaja.xml:3787
 msgid "<guilabel>Group</guilabel>"
 msgstr "<guilabel>Grubu</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3652 C/goscaja.xml:3794
+#: C/goscaja.xml:3650 C/goscaja.xml:3792
 msgid "Choose this option to display the group to which the item belongs."
 msgstr "Unsurun ait olduğu grubu görüntülemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3657 C/goscaja.xml:3830
+#: C/goscaja.xml:3655 C/goscaja.xml:3828
 msgid "<guilabel>Permissions</guilabel>"
 msgstr "<guilabel>Erişim Hakları</guilabel>"
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:3662 C/goscaja.xml:3835
+#: C/goscaja.xml:3660 C/goscaja.xml:3833
 msgid ""
 "<primary>permissions</primary><secondary>displaying as "
 "characters</secondary>"
@@ -14838,7 +14815,7 @@ msgstr ""
 "<primary>izinler</primary><secondary>karakter olarak görüntüleme</secondary>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3662 C/goscaja.xml:3835
+#: C/goscaja.xml:3660 C/goscaja.xml:3833
 msgid ""
 "<_:indexterm-1/>Choose this option to display the permissions of the item as"
 " three sets of three characters, for example "
@@ -14849,12 +14826,12 @@ msgstr ""
 "<computeroutput>-rwxrw-r--</computeroutput>."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3669 C/goscaja.xml:3809
+#: C/goscaja.xml:3667 C/goscaja.xml:3807
 msgid "<guilabel>Octal Permissions</guilabel>"
 msgstr "<guilabel>Sekizli Erişim Hakları</guilabel>"
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:3674 C/goscaja.xml:3814
+#: C/goscaja.xml:3672 C/goscaja.xml:3812
 msgid ""
 "<primary>permissions</primary><secondary>displaying in octal "
 "notation</secondary>"
@@ -14863,7 +14840,7 @@ msgstr ""
 "görüntüleme</secondary>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3674 C/goscaja.xml:3814
+#: C/goscaja.xml:3672 C/goscaja.xml:3812
 msgid ""
 "<_:indexterm-1/>Choose this option to display the permissions of the item in"
 " octal notation, for example <computeroutput>764</computeroutput>."
@@ -14872,27 +14849,27 @@ msgstr ""
 "şıkkı seçin, mesela <computeroutput>764</computeroutput>."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3680
+#: C/goscaja.xml:3678
 msgid "<guilabel>MIME Type</guilabel>"
 msgstr "<guilabel>MIME Türü</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3685 C/goscaja.xml:3804
+#: C/goscaja.xml:3683 C/goscaja.xml:3802
 msgid "Choose this option to display the MIME type of the item."
 msgstr "Unsurun MIME türünü görüntülemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3690
+#: C/goscaja.xml:3688
 msgid "<guilabel>None</guilabel>"
 msgstr "<guilabel>Hiçbiri</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3695
+#: C/goscaja.xml:3693
 msgid "Choose this option to display no information for the item."
 msgstr "Unsur hakkında hiçbir bilgi göstermemek için bu şıkkı seçin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3701
+#: C/goscaja.xml:3699
 msgid ""
 "The date <guilabel>Format</guilabel> option lets you choose how the date is "
 "displayed throughout Caja."
@@ -14901,12 +14878,12 @@ msgstr ""
 "göstereceğini seçmenize imkân sağlar."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3706
+#: C/goscaja.xml:3704
 msgid "List Columns Preferences"
 msgstr "Liste Sütun Tercihleri"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3707
+#: C/goscaja.xml:3705
 msgid ""
 "You can specify what information is displayed in list view in file manager "
 "windows. You can specify which columns are displayed in list view, and the "
@@ -14917,7 +14894,7 @@ msgstr ""
 "görüntüleneceğini ve sütunların görüntülenme sırasını belirleyebilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3710
+#: C/goscaja.xml:3708
 msgid ""
 "To set your preferences for list columns, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -14930,7 +14907,7 @@ msgstr ""
 "için <guilabel>Liste Sütunları</guilabel> sekmesine tıklayın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3712
+#: C/goscaja.xml:3710
 msgid ""
 "To specify a column to display in list view, select the option that "
 "corresponds to the column, then click on the <guibutton>Show</guibutton> "
@@ -14944,7 +14921,7 @@ msgstr ""
 "şıkkı seçin, ardından <guibutton>Gizle</guibutton> düğmesine tıklayın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3716
+#: C/goscaja.xml:3714
 msgid ""
 "Use the <guibutton>Move Up</guibutton> and <guibutton>Move Down</guibutton> "
 "buttons to specify the position of columns in list view."
@@ -14953,7 +14930,7 @@ msgstr ""
 "Taşı</guibutton> ve <guibutton>Aşağı Taşı</guibutton> düğmelerini kullanın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3718
+#: C/goscaja.xml:3716
 msgid ""
 "To use the default columns and column positions, click on the <guibutton>Use"
 " Default</guibutton> button."
@@ -14962,17 +14939,17 @@ msgstr ""
 "<guibutton>Öntanımlı Kullan</guibutton> düğmesine tıklayın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3719
+#: C/goscaja.xml:3717
 msgid "The following table describes the columns that you can display:"
 msgstr "Aşağıdaki tablo görüntüleyebileceğiniz sütunları açıklar:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3742
+#: C/goscaja.xml:3740
 msgid "Choose this option to display the name of the item."
 msgstr "Unsurun ismini görüntülemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3762
+#: C/goscaja.xml:3760
 msgid ""
 "Choose this option to display the description of the MIME type of the item "
 "from the <application>File Types and Programs</application> preference tool."
@@ -14981,17 +14958,17 @@ msgstr ""
 "unsurun MIME türünün açıklamasını görüntülemek için bu şıkkı seçin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3799
+#: C/goscaja.xml:3797
 msgid "<guilabel>MIME type</guilabel>"
 msgstr "<guilabel>MIME türü</guilabel>"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3845 C/goscaja.xml:3910 C/goscaja.xml:4062
+#: C/goscaja.xml:3843 C/goscaja.xml:3908 C/goscaja.xml:4060
 msgid "Preview Preferences"
 msgstr "Önizleme Tercihleri"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3846
+#: C/goscaja.xml:3844
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>preview</tertiary>"
@@ -15000,7 +14977,7 @@ msgstr ""
 "<tertiary>önizleme</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3851
+#: C/goscaja.xml:3849
 msgid ""
 "The file manager include some file preview features. The preview features "
 "can affect the speed with which the file manager responds to your requests. "
@@ -15015,12 +14992,12 @@ msgstr ""
 "açıklanan şıklardan birini seçebilirsiniz:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3874
+#: C/goscaja.xml:3872
 msgid "<guilabel>Always</guilabel>"
 msgstr "<guilabel>Her zaman</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3879
+#: C/goscaja.xml:3877
 msgid ""
 "Performs the action for both local files, and files on other file systems."
 msgstr ""
@@ -15028,27 +15005,27 @@ msgstr ""
 "gerçekleştirir."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3885
+#: C/goscaja.xml:3883
 msgid "<guilabel>Local Files Only</guilabel>"
 msgstr "<guilabel>Sadece Yerel Dosyalar</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3890
+#: C/goscaja.xml:3888
 msgid "Performs the action for local files only."
 msgstr "Eylemi sadece yerel dosyalar için gerçekleştirir."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3895
+#: C/goscaja.xml:3893
 msgid "<guilabel>Never</guilabel>"
 msgstr "<guilabel>Asla</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3900
+#: C/goscaja.xml:3898
 msgid "Never performs the action."
 msgstr "Eylemi asla gerçekleştirmez."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3906
+#: C/goscaja.xml:3904
 msgid ""
 "To set your preview preferences, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -15061,7 +15038,7 @@ msgstr ""
 "<guilabel>Önizleme</guilabel> sekmesine tıklayın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3908
+#: C/goscaja.xml:3906
 msgid ""
 "<xref linkend=\"goscaja-TBL-41\"/> lists the preview preferences that you "
 "can modify."
@@ -15070,12 +15047,12 @@ msgstr ""
 "tercihlerini listeler."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3927
+#: C/goscaja.xml:3925
 msgid "<guilabel>Show text in icons</guilabel>"
 msgstr "<guilabel>Simgelerde metni göster</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3932
+#: C/goscaja.xml:3930
 msgid ""
 "Select an option to specify when to preview the content of text files in the"
 " icon that represents the file."
@@ -15084,12 +15061,12 @@ msgstr ""
 "önizlemede bulunacağını belirtmek için bir seçenek belirleyin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3938
+#: C/goscaja.xml:3936
 msgid "<guilabel>Show thumbnails</guilabel>"
 msgstr "<guilabel>Küçük resimleri göster</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3943
+#: C/goscaja.xml:3941
 msgid ""
 "Select an option to specify when to show thumbnails of image files. The file"
 " manager stores the thumbnail files for each folder in a "
@@ -15101,12 +15078,12 @@ msgstr ""
 "klasöründe muhafaza eder."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3951
+#: C/goscaja.xml:3949
 msgid "<guilabel>Only for files smaller than</guilabel>"
 msgstr "<guilabel>Sadece bundan daha küçük dosyalar</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3956
+#: C/goscaja.xml:3954
 msgid ""
 "Specify the maximum file size for files for which the file manager creates a"
 " thumbnail."
@@ -15115,24 +15092,24 @@ msgstr ""
 "boyutunu belirtin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3962
+#: C/goscaja.xml:3960
 msgid "<guilabel>Preview sound files</guilabel>"
 msgstr "<guilabel>Ses dosyaları önizleme</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3967
+#: C/goscaja.xml:3965
 msgid "Select an option to specify when to preview sound files."
 msgstr ""
 "Ses dosyalarının ne zaman önizleneceğini belirtmek için bir seçenek "
 "belirleyin."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3972
+#: C/goscaja.xml:3970
 msgid "<guilabel>Count number of items</guilabel>"
 msgstr "<guilabel>Öğe sayısını hesapla</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3977
+#: C/goscaja.xml:3975
 msgid ""
 "Select an option to specify when to show the number of items in folders. "
 "When in icon view, you might need to increase your zoom level to see the "
@@ -15143,12 +15120,12 @@ msgstr ""
 " yakınlaştırma seviyesini artımanız gerekebilir."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3987
+#: C/goscaja.xml:3985
 msgid "Media Preferences"
 msgstr "Ortam Tercihleri"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3988
+#: C/goscaja.xml:3986
 msgid ""
 "You can configure how <application>Caja</application> handles removable "
 "media and devices that are connected to the computer, such as music players "
@@ -15163,12 +15140,12 @@ msgstr ""
 "çalıştırmayı önerecektir, ayrıca aşağıdaki seçenekleri de sunacaktır:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4013
+#: C/goscaja.xml:4011
 msgid "<guilabel>Ask what to do</guilabel>"
 msgstr "<guilabel>Ne yapılacağını sor</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4018
+#: C/goscaja.xml:4016
 msgid ""
 "Make <application>Caja</application> ask for the desired action when the "
 "media or device appears."
@@ -15177,22 +15154,22 @@ msgstr ""
 "yapılacağını sormasını sağlar."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4024
+#: C/goscaja.xml:4022
 msgid "<guilabel>Do Nothing</guilabel>"
 msgstr "<guilabel>Hiçbir Şey Yapma</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4029
+#: C/goscaja.xml:4027
 msgid "Do nothing."
 msgstr "Hiçbir şey yapmaz."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4034
+#: C/goscaja.xml:4032
 msgid "<guilabel>Open Folder</guilabel>"
-msgstr "<guilabel>Dizin Aç</guilabel>"
+msgstr "<guilabel>Klasör Aç</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4039
+#: C/goscaja.xml:4037
 msgid ""
 "Treat the media or device like an ordinary folder and open it in a "
 "<application>Caja</application> window."
@@ -15201,12 +15178,12 @@ msgstr ""
 "<application>Caja</application> penceresinde açar."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4045
+#: C/goscaja.xml:4043
 msgid "<guilabel>Open with other Application</guilabel>"
 msgstr "<guilabel>Başka Bir Uygulama ile Aç</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4050
+#: C/goscaja.xml:4048
 msgid ""
 "Select an application to run with the <application>Caja</application> "
 "application chooser dialog. Note that applications known to handle the media"
@@ -15217,7 +15194,7 @@ msgstr ""
 "doğrudan açılır listeden seçilebileceğini unutmayın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4059
+#: C/goscaja.xml:4057
 msgid ""
 "The most common media formats can be configured in the <guilabel>Media "
 "Handling</guilabel> section: audio CDs, video DVDs, music players, cameras, "
@@ -15228,7 +15205,7 @@ msgstr ""
 "ve yazılım CD'leri."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4060
+#: C/goscaja.xml:4058
 msgid ""
 "To configure the handling for other media formats, first select the format "
 "in the <guilabel>Type</guilabel> drop-down list, then select the desired "
@@ -15240,7 +15217,7 @@ msgstr ""
 " seçin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4061
+#: C/goscaja.xml:4059
 msgid ""
 "<xref linkend=\"goscaja-TBL-43\"/> lists other media handling preferences "
 "that you can modify."
@@ -15249,14 +15226,14 @@ msgstr ""
 "tercihlerini listeler."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4079
+#: C/goscaja.xml:4077
 msgid "<guilabel>Never prompt or start programs on media insertion</guilabel>"
 msgstr ""
 "<guilabel>Ortam takıldığı zaman asla programları başlatmak için "
 "sorma</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4084
+#: C/goscaja.xml:4082
 msgid ""
 "Select this option to prevent <application>Caja</application> from showing "
 "dialogs or running programs when media or devices appear. When this option "
@@ -15269,12 +15246,12 @@ msgstr ""
 "alınmaz."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4091
+#: C/goscaja.xml:4089
 msgid "<guilabel>Browse media when inserted</guilabel>"
 msgstr "<guilabel>Takıldığında ortama göz at</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4096
+#: C/goscaja.xml:4094
 msgid ""
 "When this option is selected, <application>Caja</application> will "
 "automatically open a folder when media is inserted. This only applies for "
@@ -15285,24 +15262,24 @@ msgstr ""
 "  işlemin açıkça yapılandırılmadığı ortam biçimleri için geçerlidir."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4110
+#: C/goscaja.xml:4108
 msgid "Extending Caja"
 msgstr "Caja'nın Genişletilmesi"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:4111
+#: C/goscaja.xml:4109
 msgid "<primary>file manager</primary> <secondary>running scripts</secondary>"
 msgstr ""
 "<primary>dosya yöneticisi</primary> <secondary>betik "
 "çalıştırılması</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:4115
+#: C/goscaja.xml:4113
 msgid "<primary>scripts, running from file manager</primary>"
 msgstr "<primary>betikler, dosya yöneticisinden çalıştırma</primary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4118
+#: C/goscaja.xml:4116
 msgid ""
 "Caja can be extended in two main ways. Through "
 "<application>Caja</application> extensions, and through scripts. This "
@@ -15313,12 +15290,12 @@ msgstr ""
 " kurulum yapılacağını açıklar."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4120
+#: C/goscaja.xml:4118
 msgid "Caja Scripts"
 msgstr "Caja Betikleri"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4121
+#: C/goscaja.xml:4119
 msgid ""
 "Caja can run scripts. Scripts are typically simpler in operation than full "
 "<application>Caja</application> extensions and can be written in any "
@@ -15335,7 +15312,7 @@ msgstr ""
 " seçin, ardından alt menüden çalıştırmak istediğiniz betiği seçin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4122
+#: C/goscaja.xml:4120
 msgid ""
 "To run a script on a particular file, select the file in the view pane. "
 "Choose "
@@ -15350,24 +15327,24 @@ msgstr ""
 "menüden seçin. Betik çalışıtırılacak birden fazla dosya da seçebilirsiniz."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4125
+#: C/goscaja.xml:4123
 msgid "You may also access scripts from the context menu."
 msgstr "Betiklere bağlam menüsünden de erişebilirsiniz."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:4127
+#: C/goscaja.xml:4125
 msgid ""
 "If you do not have any scripts installed, the script menu will not appear."
 msgstr ""
 "Eğer hiçbir kurulu betiğiniz yoksa, betik menüsü görüntülenmeyecektir."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4130
+#: C/goscaja.xml:4128
 msgid "Installing File Manager Scripts"
 msgstr "Dosya Yönetici Betiklerin Kurulumu"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4131
+#: C/goscaja.xml:4129
 msgid ""
 "The file manager includes a special folder where you can store your scripts."
 " All executable files in this folder will appear in the Scripts menu. The "
@@ -15378,7 +15355,7 @@ msgstr ""
 "görüntülenecektir. Betik klasörü $HOME/.config/caja/scripts konumundadır."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4134
+#: C/goscaja.xml:4132
 msgid ""
 "To install a script, simply copy the script to the script folder and give it"
 " the user executable permission."
@@ -15387,7 +15364,7 @@ msgstr ""
 "kullanıcı tarafından çalıştırılabilir izni verin."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4135
+#: C/goscaja.xml:4133
 msgid ""
 "To view the contents of your scripts folder, if you already have scripts "
 "installed, choose "
@@ -15401,14 +15378,14 @@ msgstr ""
 "Eğer kurulu betikleriniz varsa betikler klasörünüzün içeriklerini görmek "
 "için "
 "<menuchoice><guimenu>Dosya</guimenu><guisubmenu>Betikler</guisubmenu><guimenuitem>Betikler"
-" Dizinini Aç</guimenuitem></menuchoice>ı seçin. Eğer henüz hiçbir betiğiniz "
-"yoksa betikler klasörüne dosya yöneticisi ile gitmeniz gerekir. Bunun için "
+" Klasörünü Aç</guimenuitem></menuchoice>ı seçin. Eğer henüz hiçbir betiğiniz"
+" yoksa betikler klasörüne dosya yöneticisi ile gitmeniz gerekir. Bunun için "
 "gizli dosyaları göstermeniz gerekebilir, "
 "<menuchoice><guimenu>Görünüm</guimenu><guimenuitem>Gizli Dosyaları "
 "Göster</guimenuitem></menuchoice>i kullanın."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4137
+#: C/goscaja.xml:4135
 msgid ""
 "A good source to download <application>Caja</application> scripts is from "
 "the <link "
@@ -15417,12 +15394,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4140
+#: C/goscaja.xml:4138
 msgid "Writing File Manager Scripts"
 msgstr "Dosya Yönetici Betiklerin Yazılımı"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4141
+#: C/goscaja.xml:4139
 msgid ""
 "When executed from a local folder, scripts will be passed the selected file "
 "names. When executed from a remote folder (e.g. a folder showing web or ftp "
@@ -15433,64 +15410,64 @@ msgstr ""
 "içeriği gösteren bir klasör), betiklere hiçbir parametre iletilmez."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4143
-msgid "The following table shows variables passed to the script :"
-msgstr "Aşağıdaki tablo betiğe iletilen değişkenleri gösterir:"
+#: C/goscaja.xml:4141
+msgid "The following table shows variables passed to the script:"
+msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4151
+#: C/goscaja.xml:4149
 msgid "Environment variable"
 msgstr "Çevre değişkeni"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4161
+#: C/goscaja.xml:4159
 msgid "<guilabel>CAJA_SCRIPT_SELECTED_FILE_PATHS</guilabel>"
 msgstr "<guilabel>CAJA_SCRIPT_SELECTED_FILE_PATHS</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4166
+#: C/goscaja.xml:4164
 msgid "newline-delimited paths for selected files (only if local)"
 msgstr ""
 "Seçili dosyalar için yeni satırlarla sınırlandırılmış yollar (sadece "
 "yerelse)"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4171
+#: C/goscaja.xml:4169
 msgid "<guilabel>CAJA_SCRIPT_SELECTED_URIS</guilabel>"
 msgstr "<guilabel>CAJA_SCRIPT_SELECTED_URIS</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4176
+#: C/goscaja.xml:4174
 msgid "newline-delimited URIs for selected files"
 msgstr "Seçili dosyalar için yeni satırlarla sınırlandırılmış URI'ler."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4181
+#: C/goscaja.xml:4179
 msgid "<guilabel>CAJA_SCRIPT_CURRENT_URI</guilabel>"
 msgstr "<guilabel>CAJA_SCRIPT_CURRENT_URI</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4186
+#: C/goscaja.xml:4184
 msgid "URI for current location"
 msgstr "Güncel konum için URI"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4191
+#: C/goscaja.xml:4189
 msgid "<guilabel>CAJA_SCRIPT_WINDOW_GEOMETRY</guilabel>"
 msgstr "<guilabel>CAJA_SCRIPT_WINDOW_GEOMETRY</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4196
+#: C/goscaja.xml:4194
 msgid "position and size of current window"
 msgstr "Güncel  pencerenin konum ve boyutu"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4205
+#: C/goscaja.xml:4203
 msgid "Caja Extensions"
 msgstr "Caja Eklentileri"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4206
+#: C/goscaja.xml:4204
 msgid ""
 "<application>Caja</application> extensions are far more powerful than "
 "<application>Caja</application> scripts, allowing more freedom where and how"
@@ -15505,23 +15482,23 @@ msgstr ""
 "tarafından kurulur."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4210
+#: C/goscaja.xml:4208
 msgid "caja-actions"
 msgstr "caja-actions"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4211
+#: C/goscaja.xml:4209
 msgid "This extension allows you to easily assign actions based on file type"
 msgstr ""
 "Bu eklenti, kolayca dosya türüne dayalı olarak eylem atamanıza izin verir"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4214
+#: C/goscaja.xml:4212
 msgid "caja-send-to"
 msgstr "caja-send-to"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4215
+#: C/goscaja.xml:4213
 msgid ""
 "This extension provides a simple way to send a file or folder to another "
 "using email, instant messaging, or Bluetooth."
@@ -15530,12 +15507,12 @@ msgstr ""
 "veya klasörü başka birine göndermek için sade bir yol sağlar."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4218
+#: C/goscaja.xml:4216
 msgid "caja-open-terminal."
 msgstr "caja-open-terminal."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4219
+#: C/goscaja.xml:4217
 msgid ""
 "This extension provides an easy way to open a terminal at the selected "
 "starting location."
@@ -15544,7 +15521,7 @@ msgstr ""
 "yolunu sunar."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4207
+#: C/goscaja.xml:4205
 msgid ""
 "Some popular <application>Caja</application> extensions include: "
 "<_:orderedlist-1/>"
@@ -15553,7 +15530,7 @@ msgstr ""
 "içerir:<_:orderedlist-1/>"
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:4224
+#: C/goscaja.xml:4222
 msgid ""
 "If you are looking for the <guilabel>Open Terminal</guilabel> command which "
 "used to exist in the <application>Caja</application> right click menu by "
@@ -15615,8 +15592,8 @@ msgstr "MATE Masaüstü'nün ana bileşenleri aşağıdaki gibidir:"
 msgid ""
 "The desktop itself is behind all the other components on the desktop. You "
 "can place objects on the desktop to access your files and directories "
-"quickly, or to start applications that you use often. See <xref linkend"
-"=\"overview-desktop\"/> for more information."
+"quickly, or to start applications that you use often. See <xref "
+"linkend=\"overview-desktop\"/> for more information."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
@@ -16199,9 +16176,9 @@ msgstr "Pencerenin yeniden boyutlandırılması"
 #: C/gosoverview.xml:237
 msgid ""
 "Drag one of the borders to expand or contract the window on that side. Drag "
-"a corner to change two sides at once. The resize pointer (see <xref linkend"
-"=\"mouse-pointers\"/>) appears when your mouse is in the correct position to"
-" begin the drag action."
+"a corner to change two sides at once. The resize pointer (see <xref "
+"linkend=\"mouse-pointers\"/>) appears when your mouse is in the correct "
+"position to begin the drag action."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -16854,8 +16831,8 @@ msgid ""
 "shortcut keys."
 msgstr ""
 "MATE uyumlu uygulamalar, aynı eylemler için aynı kısayol tuşlarını "
-"kullanırlar. Sık kullanılan kısayol tuşlarının listesi için <xref linkend"
-"=\"keyboard-skills\"/> sayfasına bakın."
+"kullanırlar. Sık kullanılan kısayol tuşlarının listesi için <xref "
+"linkend=\"keyboard-skills\"/> sayfasına bakın."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:446
@@ -17195,8 +17172,8 @@ msgstr ""
 #: C/gosoverview.xml:514
 msgid ""
 "Changes you make to the bookmarks list also affect the "
-"<guimenu>Places</guimenu> menu. For more on bookmarks, see <xref linkend"
-"=\"caja-bookmarks\"/>."
+"<guimenu>Places</guimenu> menu. For more on bookmarks, see <xref "
+"linkend=\"caja-bookmarks\"/>."
 msgstr ""
 "Yer imleri listesinde yaptığınız değişiklikler aynı zamanda "
 "<guimenu>Yerler</guimenu> menüsünü de etkiler. Yer imleri hakkında daha "
@@ -17482,7 +17459,7 @@ msgid ""
 "Until an application adds an icon to the notification area, only a narrow "
 "bar is visible."
 msgstr ""
-"Bir uygulama bildirim alanına bir ikon ekleyene kadar, sadece dar bir çubuk "
+"Uygulama bildirim alanına bir ikon ekleyene kadar, sadece dar bir çubuk "
 "görünür."
 
 #. (itstool) path: varlistentry/term
@@ -17837,9 +17814,9 @@ msgstr "<guilabel>Yok (sistem temasını kullan)</guilabel>"
 #. (itstool) path: entry/para
 #: C/gospanel.xml:268
 msgid ""
-"Select this option to have the panel use the settings in the <xref linkend"
-"=\"prefs-theme\"/> tool. This keeps your panel's background looking the same"
-" as the rest of the desktop and applications."
+"Select this option to have the panel use the settings in the <xref "
+"linkend=\"prefs-theme\"/> tool. This keeps your panel's background looking "
+"the same as the rest of the desktop and applications."
 msgstr ""
 
 #. (itstool) path: entry/para
@@ -18572,7 +18549,7 @@ msgid ""
 msgstr ""
 "Bir panelden nesne kaldırmak için panel nesnesinin açılır menüsünü açmak "
 "amacıyla nesneye sağ tıklayın, ardından  <guimenuitem>Panelden "
-"Sil</guimenuitem> şıkkını seçin."
+"Kaldır</guimenuitem> şıkkını seçin."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:654
@@ -18735,13 +18712,13 @@ msgstr ""
 msgid ""
 "You can modify the properties of a launcher. For example, the properties of "
 "a launcher include the name of the launcher, the icon that represents the "
-"launcher, and how the launcher runs. For more on this, see <xref linkend"
-"=\"launchers-modify\"/>."
+"launcher, and how the launcher runs. For more on this, see <xref "
+"linkend=\"launchers-modify\"/>."
 msgstr ""
 "Başlatıcıların özelliklerini değiştirebilirsiniz. Mesela, bir başlatıcının "
 "özellikleri, başlatıcının ismini, başlatıcıyı temsil eden ikonu ve "
-"başlatıcının nasıl çalışacağını içerir. Daha fazla bilgi için <xref linkend"
-"=\"launchers-modify\"/> sayfasına bakın."
+"başlatıcının nasıl çalışacağını içerir. Daha fazla bilgi için <xref "
+"linkend=\"launchers-modify\"/> sayfasına bakın."
 
 #. (itstool) path: note/para
 #: C/gospanel.xml:727
@@ -18896,8 +18873,8 @@ msgstr ""
 "<guimenuitem>Özellikler</guimenuitem> şıkkını seçin.  Özellikleri "
 "ihtiyacınız olduğu gibi değiştirmek için <guilabel>Başlatıcı "
 "Özellikleri</guilabel> diyaloğunu kullanın. <guilabel>Başlatıcı "
-"Özellikleri</guilabel> diyaloğu hakkında daha fazla bilgi için <xref linkend"
-"=\"launchers-properties\"/> sayfasına bakın."
+"Özellikleri</guilabel> diyaloğu hakkında daha fazla bilgi için <xref "
+"linkend=\"launchers-properties\"/> sayfasına bakın."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:787
@@ -18996,8 +18973,8 @@ msgstr ""
 msgid ""
 "For a location launcher, specify the location to be opened. Click "
 "<guibutton>Browse</guibutton> to select a location on your computer, or type"
-" a web address to launch a web page. For sample locations, see <xref linkend"
-"=\"launchers-properties-commands\"/>"
+" a web address to launch a web page. For sample locations, see <xref "
+"linkend=\"launchers-properties-commands\"/>"
 msgstr ""
 "Bir konum başlatıcısı için açılacak konumu belirtin. Bilgisayarınızda bir "
 "konum seçmek için <guibutton>Göz at</guibutton> düğmesine tıklayın, veya bir"
@@ -19349,8 +19326,8 @@ msgstr ""
 "Bir panele <guibutton>Ekranı Kilitle</guibutton> düğmesi eklemek için "
 "panelde boş bir alana sağ tıklayın. <guimenu>Panele Ekle</guimenu> şıkkını "
 "seçin, ardından Panele Ekle diyaloğundan <application>Ekranı "
-"Kilitle</application> şıkkını seçin. Daha fazla bilgi için <xref linkend"
-"=\"panels-addobject\"/>  sayfasına bakın."
+"Kilitle</application> şıkkını seçin. Daha fazla bilgi için <xref "
+"linkend=\"panels-addobject\"/>  sayfasına bakın."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1062
@@ -19360,9 +19337,9 @@ msgid ""
 "describes the commands that are available from the menu."
 msgstr ""
 "Ekran koruyucusuyla alakalı komutlar içeren bir menü açmak için "
-"<guibutton>Ekranı Kilitle</guibutton> düğmesine sağ tıklayın. <xref linkend"
-"=\"gosstartsession-TBL-83\"/> sayfası menüdeki komutlar hakkında açıklama "
-"içerir."
+"<guibutton>Ekranı Kilitle</guibutton> düğmesine sağ tıklayın. <xref "
+"linkend=\"gosstartsession-TBL-83\"/> sayfası menüdeki komutlar hakkında "
+"açıklama içerir."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1065
@@ -19425,7 +19402,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1118
 msgid "Log Out Button"
-msgstr "Çıkış Düğmesi"
+msgstr "Oturumu Kapat Düğmesi"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -19449,24 +19426,25 @@ msgid ""
 "</textobject>"
 msgstr ""
 "<imageobject> <imagedata fileref=\"figures/logout_icon.png\" "
-"format=\"PNG\"/> </imageobject> <textobject> <phrase>Çıkış ikonu.</phrase> "
-"</textobject>"
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Oturumu Kapat "
+"ikonu.</phrase> </textobject>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1129
 msgid "<primary>buttons</primary> <secondary>Log Out</secondary>"
-msgstr "<primary>düğmeler</primary> <secondary>Çıkış</secondary>"
+msgstr "<primary>düğmeler</primary> <secondary>Oturumu Kapat</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1133
 msgid "<primary>panel objects</primary> <secondary>Log Out button</secondary>"
 msgstr ""
-"<primary>panel nesneleri</primary> <secondary>Çıkış düğmesi</secondary>"
+"<primary>panel nesneleri</primary> <secondary>Oturumu Kapat "
+"düğmesi</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1137
 msgid "<primary>Log Out button</primary>"
-msgstr "<primary>Çıkış düğmesi</primary>"
+msgstr "<primary>Oturumu Kapat düğmesi</primary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1140
@@ -19474,8 +19452,8 @@ msgid ""
 "The <guibutton>Log Out</guibutton> button allows you to log out of a MATE "
 "session or switch to a different user account."
 msgstr ""
-"<guibutton>Çıkış</guibutton> düğmesi, MATE oturumunuzu kapatmanıza veya "
-"başka bir kullanıcı hesabına geçiş yapmanıza imkân verir."
+"<guibutton>Oturumu Kapat</guibutton> düğmesi, MATE oturumunuzu kapatmanıza "
+"veya başka bir kullanıcı hesabına geçiş yapmanıza imkân verir."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1142
@@ -19485,11 +19463,11 @@ msgid ""
 "choose <application>Log Out</application> from the Add to Panel dialog. See "
 "<xref linkend=\"panels-addobject\"/> for more on this."
 msgstr ""
-"Bir panele <guibutton>Çıkış</guibutton> düğmesi eklemek için, panelde boş "
-"bir alana sağ tıklayın. <guimenu>Panele Ekle</guimenu> şıkkını seçin, "
-"ardından Panele EKle diyaloğundan <application>Çıkış</application> şıkkını "
-"seçin. Daha fazla bilgi için <xref linkend=\"panels-addobject\"/> sayfasına "
-"bakın."
+"Bir panele <guibutton>Oturumu Kapat</guibutton> düğmesi eklemek için, "
+"panelde boş bir alana sağ tıklayın. <guimenu>Panele Ekle</guimenu> şıkkını "
+"seçin, ardından Panele Ekle diyaloğundan <application>Oturumu "
+"Kapat</application> şıkkını seçin. Daha fazla bilgi için <xref "
+"linkend=\"panels-addobject\"/> sayfasına bakın."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1146
@@ -19498,9 +19476,9 @@ msgid ""
 "Out</guibutton> button and then click on the appropriate button in the "
 "dialog that appears."
 msgstr ""
-"Oturumunuzu kapatmak veya kullanıcı değiştirmek için "
-"<guibutton>Çıkış</guibutton> düğmesine tıklayın ve ardından görüntülenecek "
-"diyalogda uygun düğmeye tıklayın."
+"Oturumunuzu kapatmak veya kullanıcı değiştirmek için <guibutton>Oturumu "
+"Kapat</guibutton> düğmesine tıklayın ve ardından görüntülenecek diyalogda "
+"uygun düğmeye tıklayın."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1151
@@ -19569,8 +19547,8 @@ msgstr ""
 "Bir panele <guibutton>Uygulama Çalıştır</guibutton> düğmesi eklemek için "
 "panelde boş bir alana sağ tıklayın. <guimenu>Panele Ekle</guimenu> şıkkını "
 "seçin, ardından Panele Ekle diyaloğundan <application>Uygulama "
-"Çalıştır</application> şıkkını seçin. Daha fazla bilgi için  <xref linkend"
-"=\"panels-addobject\"/> sayfasına bakın."
+"Çalıştır</application> şıkkını seçin. Daha fazla bilgi için  <xref "
+"linkend=\"panels-addobject\"/> sayfasına bakın."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1180
@@ -19744,8 +19722,8 @@ msgstr ""
 "Bir panele <guibutton>Masaüstünü Göster</guibutton> düğmesi eklemek için "
 "paneldeki boş bir alana sağ tıklayın. <guimenu>Panele Ekle</guimenu> şıkkını"
 " seçin, ardından Panele Ekle diyaloğundan <application>Masaüstünü "
-"Göster</application> şıkkını seçin. Daha fazla bilgi için <xref linkend"
-"=\"panels-addobject\"/> sayfasına bakın."
+"Göster</application> şıkkını seçin. Daha fazla bilgi için <xref "
+"linkend=\"panels-addobject\"/> sayfasına bakın."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1248
@@ -20235,7 +20213,8 @@ msgstr "Uyarı Alanı Uygulamacığı"
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1520
 msgid "<primary>applets</primary> <secondary>Notification Area</secondary>"
-msgstr "<primary>uyglamacıklar</primary> <secondary>Uyarı Alanı</secondary>"
+msgstr ""
+"<primary>uyglamacıklar</primary> <secondary>Bildirim Alanı</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1524
@@ -20243,13 +20222,13 @@ msgid ""
 "<primary>panel objects</primary> <secondary>Notification Area "
 "applet</secondary>"
 msgstr ""
-"<primary>panel nesneleri</primary> <secondary>Uyarı Alanı "
+"<primary>panel nesneleri</primary> <secondary>Bildirim Alanı "
 "uygulamacığı</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1529
 msgid "<primary>Notification Area applet</primary>"
-msgstr "<primary>Uyarı Alanı uygulamacığı</primary>"
+msgstr "<primary>Bildirim Alanı uygulamacığı</primary>"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -20273,7 +20252,7 @@ msgid ""
 "icon.</phrase> </textobject>"
 msgstr ""
 "<imageobject> <imagedata fileref=\"figures/notification_area_icon.png\" "
-"format=\"PNG\"/> </imageobject> <textobject> <phrase>Uyarı Alanı "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Bildirim Alanı "
 "ikonu.</phrase> </textobject>"
 
 #. (itstool) path: section/para
@@ -20286,12 +20265,13 @@ msgid ""
 "Area</application> applet. The graphic above illustrates the CD icon in the "
 "<application>Notification Area</application> applet."
 msgstr ""
-"<application>Uyarı Alanı</application> uygulamacığı, uygulamadaki faaliyete "
-"işaret etmek için çeşitli uygulamalardan ikonlar gösterir. Mesela bir CD "
-"çalmak için  <application>CD Çalıcı</application> uygulamasını kullandığınız"
-" zaman, <application>Uyarı Alanı</application> uygulamacığında bir CD ikonu "
-"görüntülenecektir. Yukarıdaki grafik <application>Uyarı Alanı</application> "
-"uygulamacığında CD ikonunu gösterir."
+"<application>Bildirim Alanı</application> uygulamacığı, uygulamadaki "
+"faaliyete işaret etmek için çeşitli uygulamalardan ikonlar gösterir. Mesela "
+"bir CD çalmak için  <application>CD Çalıcı</application> uygulamasını "
+"kullandığınız zaman, <application>Bildirim Alanı</application> "
+"uygulamacığında bir CD ikonu görüntülenecektir. Yukarıdaki grafik "
+"<application>Bildirim Alanı</application> uygulamacığında CD ikonunu "
+"gösterir."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1550
@@ -21162,10 +21142,10 @@ msgid ""
 msgstr ""
 "Oturum yöneticisi çıkış yaptığınızda hangi programların çalışmakta "
 "olduklarını hatırlayabilir ve onları tekrar giriş yaptığınızda otomatik "
-"olarak yeniden başlatabilir. Eğer bunun her çıkış yapmanızda meydana "
-"gelmesini istiyorsanız, <guilabel>Çıkarken çalışan uygulamaları "
+"olarak yeniden başlatabilir. Eğer bunun her oturum kapattığınızda meydana "
+"gelmesini istiyorsanız, <guilabel>Oturumu kapatırken çalışan uygulamaları "
 "kendiliğinden hatırla</guilabel> şıkkını seçin. Eğer bunun sadece bir defa "
-"meydana gelmesini istiyorsanız, çıkış yapmadan önce <guibutton>Şu anda "
+"meydana gelmesini istiyorsanız, oturumu kapatmadan önce <guibutton>Şu anda "
 "çalışan uygulamayı hatırla</guibutton> düğmesine basın."
 
 #. (itstool) path: info/title
@@ -21181,12 +21161,13 @@ msgstr "<primary>oturumlar</primary> <secondary>sonlandırma</secondary>"
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:281
 msgid "<primary>sessions</primary> <secondary>logging out</secondary>"
-msgstr "<primary>oturumlar</primary> <secondary>çıkış</secondary>"
+msgstr ""
+"<primary>oturumlar</primary> <secondary>oturumlar kapatılıyor</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:285
 msgid "<primary>logging out</primary>"
-msgstr "<primary>çıkış</primary>"
+msgstr "<primary>çıkış yapılıyor</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:288
@@ -21216,9 +21197,10 @@ msgid ""
 "<replaceable>username</replaceable></guimenuitem></menuchoice> ."
 msgstr ""
 "Çıkış yapıp bilgisayarı başka bir kullanıcının çalışmaya başlaması için "
-"hazır bir şekilde bırakmak. MATE'den çıkış yapmak için "
-"<menuchoice><guimenu>Sistem</guimenu><guimenuitem>Çıkış<replaceable>kullanıcıismi</replaceable></guimenuitem></menuchoice>"
-" şıkkını seçin."
+"hazır bir şekilde bırakmak. MATE oturumunu kapatmak için "
+"<menuchoice><guimenu>Sistem</guimenu><guimenuitem>Oturumu "
+"Kapat<replaceable>kullanıcıismi</replaceable></guimenuitem></menuchoice> "
+"şıkkını seçin."
 
 #. (itstool) path: listitem/para
 #: C/gosstartsession.xml:313
@@ -21376,8 +21358,8 @@ msgstr ""
 msgid ""
 "If you enter only the location of a file, an appropriate application will "
 "launch to open it. If you enter a web page address, your default web browser"
-" will open the page. Prefix the web page address with https://, as in https"
-"://mate-desktop.org."
+" will open the page. Prefix the web page address with https://, as in "
+"https://mate-desktop.org."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -21450,9 +21432,9 @@ msgid ""
 " take a screenshot of the entire screen."
 msgstr ""
 "Herhangi bir panele <guibutton>Ekran Görüntüsü Al</guibutton> düğmesi "
-"ekleyebilirsiniz. Bunun yapılışı hakkında talimatlar için <xref linkend"
-"=\"panels-addobject\"/> sayfasına bakın. Tüm ekranın görüntüsünü almak için "
-"<guibutton>Ekran Görüntüsü Al</guibutton> düğmesine tıklayın."
+"ekleyebilirsiniz. Bunun yapılışı hakkında talimatlar için <xref "
+"linkend=\"panels-addobject\"/> sayfasına bakın. Tüm ekranın görüntüsünü "
+"almak için <guibutton>Ekran Görüntüsü Al</guibutton> düğmesine tıklayın."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:86
@@ -21932,8 +21914,8 @@ msgstr ""
 #: C/gostools.xml:453
 msgid ""
 "Alternatively, you may view a particular document by invoking Yelp Help "
-"Browser from the command line or dragging files to Yelp. See <xref linkend"
-"=\"yelp-open-specific\"/> for more on this."
+"Browser from the command line or dragging files to Yelp. See <xref "
+"linkend=\"yelp-open-specific\"/> for more on this."
 msgstr ""
 "Alternatif olarak, belirli bir belgeyi Yelp Yardım Tarayıcısını komut "
 "satırından başlatarak veya dosyaları Yelp'e sürükleyerek "
@@ -22100,8 +22082,8 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gostools.xml:547
 msgid ""
-"<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
-"=\"yelp-preferences\"/>:"
+"<_:itemizedlist-1/>A window will appear that looks like <xref "
+"linkend=\"yelp-preferences\"/>:"
 msgstr ""
 "<_:itemizedlist-1/><xref linkend=\"yelp-preferences\"/> gibi görünen bir "
 "pencere açılacaktır:"
@@ -22416,8 +22398,8 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gostools.xml:759
 msgid ""
-"<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
-"=\"yelp-add-bookmark\"/>."
+"<_:itemizedlist-1/>A window will appear that looks like <xref "
+"linkend=\"yelp-add-bookmark\"/>."
 msgstr ""
 "<_:itemizedlist-1/> <xref linkend=\"yelp-add-bookmark\"/> gibi görünen bir "
 "pencere açılacaktır."
@@ -22485,8 +22467,8 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gostools.xml:789
 msgid ""
-"<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
-"=\"yelp-edit-bookmarks\"/>."
+"<_:itemizedlist-1/>A window will appear that looks like <xref "
+"linkend=\"yelp-edit-bookmarks\"/>."
 msgstr ""
 "<_:itemizedlist-1/><xref linkend=\"yelp-edit-bookmarks\"/> gibi bir pencere "
 "açılacaktır."
@@ -22836,10 +22818,11 @@ msgstr "Ana Sayfa ve e-Posta Listesi"
 #: C/gostools.xml:983
 msgid ""
 "For further information on <application>Yelp Help Browser</application>, "
-"please visit the Documentation Project homepage, <uri xlink:href=\"http"
-"://mate-desktop.org\">http://mate-desktop.org</uri>, or subscribe to the "
-"mailing list, <uri xlink:href=\"http://ml.mate-desktop.org/listinfo/mate-"
-"dev\">http://ml.mate-desktop.org/listinfo/mate-dev</uri>."
+"please visit the Documentation Project homepage, <uri "
+"xlink:href=\"http://mate-desktop.org\">http://mate-desktop.org</uri>, or "
+"subscribe to the mailing list, <uri xlink:href=\"http://ml.mate-"
+"desktop.org/listinfo/mate-dev\">http://ml.mate-desktop.org/listinfo/mate-"
+"dev</uri>."
 msgstr ""
 
 #. (itstool) path: info/title

@@ -6,13 +6,13 @@
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Wolfgang Ulbrich <mate@raveit.de>, 2018
 # HanSol Park <totron114@gmail.com>, 2018
-# 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>, 2019
+# 1763f4a4329a2376c933c5e919a36cbc_341ca53 <1f851310383599d03339229d772e1290_119292>, 2019
 # JungHee Lee <daemul72@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-16 14:23+0100\n"
+"POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
 "Last-Translator: JungHee Lee <daemul72@gmail.com>, 2021\n"
 "Language-Team: Korean (https://www.transifex.com/mate/teams/13566/ko/)\n"
@@ -682,8 +682,8 @@ msgid ""
 "linkend=\"prefs-mouse\"/> for more information."
 msgstr ""
 "마우스를 움직이지 않고 왼쪽 마우스 버튼을 빠르게 연속으로 두 번 눌렀다 뗍니다. <emphasis>두 번 누르기 제한 "
-"시간</emphasis> 설정에서 두 번 누르기 동작의 민감도를 설정할 수 있습니다. 자세한 내용은, <xref linkend"
-"=\"prefs-mouse\"/> 부분을 참조하십시오."
+"시간</emphasis> 설정에서 두 번 누르기 동작의 민감도를 설정할 수 있습니다. 자세한 내용은, <xref "
+"linkend=\"prefs-mouse\"/> 부분을 참조하십시오."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:188
@@ -1160,8 +1160,8 @@ msgid ""
 "folder. For more on this, see <xref linkend=\"caja-symlink\"/>."
 msgstr ""
 "이 포인터는 오브젝트를 내려 놓을 때 그 오브젝트에 대한 <firstterm>심볼릭 링크</firstterm>를 만든다는 사실을 "
-"나타냅니다. 심볼릭 링크는 다른 파일이나 폴더를 가리키는 특수한 형식의 파일을 말합니다. 자세한 내용은, <xref linkend"
-"=\"caja-symlink\"/> 부분을 참조하십시오."
+"나타냅니다. 심볼릭 링크는 다른 파일이나 폴더를 가리키는 특수한 형식의 파일을 말합니다. 자세한 내용은, <xref "
+"linkend=\"caja-symlink\"/> 부분을 참조하십시오."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1302,8 +1302,8 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:513
 msgid ""
-"This pointer appears when you drag a window to move it. See <xref linkend"
-"=\"windows-manipulating\"/> for more information on moving windows."
+"This pointer appears when you drag a window to move it. See <xref "
+"linkend=\"windows-manipulating\"/> for more information on moving windows."
 msgstr ""
 "이 포인터는 창을 옮기려고 끌 때 나타납니다. 창 옮기기에 대해 자세한 내용은 <xref linkend=\"windows-"
 "manipulating\"/> 부분을 참조하십시오."
@@ -1437,8 +1437,8 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:608
 msgid ""
-"Display the <guilabel>Run Application</guilabel> dialog. See <xref linkend"
-"=\"tools-run-app\"/> for more information."
+"Display the <guilabel>Run Application</guilabel> dialog. See <xref "
+"linkend=\"tools-run-app\"/> for more information."
 msgstr ""
 "<guilabel>프로그램 실행</guilabel> 대화 창을 표시합니다. 자세한 내용은 <xref linkend=\"tools-run-"
 "app\"/> 부분을 참조하십시오."
@@ -1482,8 +1482,8 @@ msgid ""
 " See <xref linkend=\"overview-workspaces\"/> for more information on working"
 " with multiple workspaces."
 msgstr ""
-"현재 작업 공간의 지정한 방향에 있는 작업 공간으로 이동합니다. 작업 공간을 사용하는 방법에 대해 자세한 내용은 <xref linkend"
-"=\"overview-workspaces\"/> 부분을 참조하십시오."
+"현재 작업 공간의 지정한 방향에 있는 작업 공간으로 이동합니다. 작업 공간을 사용하는 방법에 대해 자세한 내용은 <xref "
+"linkend=\"overview-workspaces\"/> 부분을 참조하십시오."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:649
@@ -1646,8 +1646,8 @@ msgid ""
 " <xref linkend=\"overview-workspaces\"/> for more information on working "
 "with multiple workspaces."
 msgstr ""
-"현재 창을 지정한 방향의 다른 작업 공간으로 옮깁니다. 작업 공간을 사용하는 방법에 대해 자세한 내용은 <xref linkend"
-"=\"overview-workspaces\"/> 부분을 참조하십시오."
+"현재 창을 지정한 방향의 다른 작업 공간으로 옮깁니다. 작업 공간을 사용하는 방법에 대해 자세한 내용은 <xref "
+"linkend=\"overview-workspaces\"/> 부분을 참조하십시오."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:828
@@ -2008,8 +2008,8 @@ msgstr "보조 기술 기본 설정"
 #: C/goscustdesk.xml:1760 C/goscustdesk.xml:1857 C/goscustdesk.xml:1928
 #: C/goscustdesk.xml:2029 C/goscustdesk.xml:2187 C/goscustdesk.xml:2467
 #: C/goscustdesk.xml:2534 C/goscustdesk.xml:2595 C/goscustdesk.xml:2717
-#: C/goscustdesk.xml:2791 C/goscaja.xml:2382 C/goscaja.xml:3001
-#: C/goscaja.xml:3122 C/goscaja.xml:3363 C/goscaja.xml:3917 C/goscaja.xml:4069
+#: C/goscustdesk.xml:2791 C/goscaja.xml:2380 C/goscaja.xml:2999
+#: C/goscaja.xml:3120 C/goscaja.xml:3361 C/goscaja.xml:3915 C/goscaja.xml:4067
 #: C/gospanel.xml:168 C/gospanel.xml:253 C/gospanel.xml:1410
 msgid "Dialog Element"
 msgstr "대화 창 컨트롤"
@@ -2021,10 +2021,10 @@ msgstr "대화 창 컨트롤"
 #: C/goscustdesk.xml:2032 C/goscustdesk.xml:2190 C/goscustdesk.xml:2470
 #: C/goscustdesk.xml:2537 C/goscustdesk.xml:2598 C/goscustdesk.xml:2720
 #: C/goscustdesk.xml:2794 C/goscaja.xml:209 C/goscaja.xml:395
-#: C/goscaja.xml:1219 C/goscaja.xml:1383 C/goscaja.xml:2049 C/goscaja.xml:2385
-#: C/goscaja.xml:2641 C/goscaja.xml:3004 C/goscaja.xml:3125 C/goscaja.xml:3259
-#: C/goscaja.xml:3366 C/goscaja.xml:3590 C/goscaja.xml:3730 C/goscaja.xml:3867
-#: C/goscaja.xml:3920 C/goscaja.xml:4006 C/goscaja.xml:4072 C/goscaja.xml:4154
+#: C/goscaja.xml:1219 C/goscaja.xml:1383 C/goscaja.xml:2047 C/goscaja.xml:2383
+#: C/goscaja.xml:2639 C/goscaja.xml:3002 C/goscaja.xml:3123 C/goscaja.xml:3257
+#: C/goscaja.xml:3364 C/goscaja.xml:3588 C/goscaja.xml:3728 C/goscaja.xml:3865
+#: C/goscaja.xml:3918 C/goscaja.xml:4004 C/goscaja.xml:4070 C/goscaja.xml:4152
 #: C/gospanel.xml:171 C/gospanel.xml:256 C/gospanel.xml:577
 #: C/gospanel.xml:1413
 msgid "Description"
@@ -4229,9 +4229,9 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1283
 msgid ""
-"Select this option to enable other to access and control your session from a"
-" remote location."
-msgstr "이 옵션을 선택하면 다른 사람이 원격에서 세션을 조작할 수 있습니다."
+"Select this option to enable others to access and control your session from "
+"a remote location."
+msgstr ""
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1304
@@ -5343,9 +5343,9 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2139
 msgid ""
-"Perform different types of mouse button click by software; this useful for "
-"users that are not able to manipulate any buttons. The types of click that "
-"can be performed are: <_:variablelist-1/>"
+"Perform different types of mouse button click by software; this is useful "
+"for users that are not able to manipulate any buttons. The types of click "
+"that can be performed are: <_:variablelist-1/>"
 msgstr ""
 
 #. (itstool) path: section/para
@@ -5741,8 +5741,8 @@ msgid ""
 "A sound theme is collection of sound effects that are associated to various "
 "events, such as opening a dialog, clicking a button or selecting an item in "
 "a menu. One of the most prominent event sounds is the <emphasis>System "
-"Bell</emphasis> sound that often played to indicate a keyboard input error. "
-"Use the <guilabel>Sound Effects</guilabel> tabbed section of the "
+"Bell</emphasis> sound that is often played to indicate a keyboard input "
+"error. Use the <guilabel>Sound Effects</guilabel> tabbed section of the "
 "<application>Sound</application> preference tool to choose a sound theme and"
 " modify the bell sound."
 msgstr ""
@@ -6340,8 +6340,8 @@ msgstr "바탕 화면 폴더, 바탕 화면에 표시하는 항목들이 들어 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:64
 msgid ""
-"The items in your Caja bookmarks. For more on this, see <xref linkend"
-"=\"caja-bookmarks\"/>."
+"The items in your Caja bookmarks. For more on this, see <xref "
+"linkend=\"caja-bookmarks\"/>."
 msgstr ""
 "Caja 책갈피에 있는 항목입니다. 이에 대한 자세한 내용은, <xref linkend=\"caja-bookmarks\"/> 부분을 "
 "참조하십시오."
@@ -6651,8 +6651,8 @@ msgid ""
 "<application>Caja</application> is always running while you are using MATE. "
 "To open a new <application>Caja</application> window, double-click on an "
 "appropriate icon on the desktop such as <guimenuitem>Home</guimenuitem> or "
-"<guimenuitem>Computer</guimenuitem>, or choose an item from <xref linkend"
-"=\"places-menu\"/> on the top panel."
+"<guimenuitem>Computer</guimenuitem>, or choose an item from <xref "
+"linkend=\"places-menu\"/> on the top panel."
 msgstr ""
 
 #. (itstool) path: section/para
@@ -6758,8 +6758,8 @@ msgid ""
 "time. For more information on using browser mode see <xref linkend=\"caja-"
 "browser-mode\"/>."
 msgstr ""
-"탐색기 모드에서는, 한 번에 더 적은 수의 파일 관리자 창을 띄웁니다. 탐색기 모드에 대해 자세한 내용은 <xref linkend"
-"=\"caja-browser-mode\"/> 부분을 참조하십시오."
+"탐색기 모드에서는, 한 번에 더 적은 수의 파일 관리자 창을 띄웁니다. 탐색기 모드에 대해 자세한 내용은 <xref "
+"linkend=\"caja-browser-mode\"/> 부분을 참조하십시오."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:98
@@ -6902,8 +6902,8 @@ msgstr "폴더를 열 때마다 새 스페이셜 창이 열립니다. 폴더를 
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:154
-msgid "Double-click the folder's icon on the desktop or an existing window"
-msgstr "바탕 화면이나 다른 창에 있는 폴더 아이콘을 두 번 누르십시오"
+msgid "Double-click the folder's icon on the desktop or an existing window."
+msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:155
@@ -7084,7 +7084,7 @@ msgid "Shows the contents of the following:"
 msgstr "다음의 내용을 표시합니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:237 C/goscaja.xml:535 C/goscaja.xml:2450
+#: C/goscaja.xml:237 C/goscaja.xml:535 C/goscaja.xml:2448
 msgid "Folders"
 msgstr "폴더"
 
@@ -7488,9 +7488,9 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:453
 msgid ""
-"<guimenu>Zoom</guimenu> buttons: Enable you to change the size of items in "
+"<guimenu>Zoom</guimenu> buttons: Enables you to change the size of items in "
 "the view pane."
-msgstr "<guimenu>크기 조정</guimenu> 버튼: 보기 창에 들어 있는 항목의 크기를 바꿉니다."
+msgstr ""
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:457
@@ -7847,13 +7847,9 @@ msgid ""
 "By pressing <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> or "
 "selecting the <guibutton>Search</guibutton> toolbar button the search bar "
 "appears. For more information on searching see <xref linkend=\"caja-"
-"searching\"/>. The search bar is excellent for locating files of folders "
+"searching\"/>. The search bar is excellent for locating files or folders "
 "when you are not sure of their exact location."
 msgstr ""
-"<keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo>를 누르거나 "
-"<guibutton>찾기</guibutton> 도구 모음 버튼을 선택하면 찾기 표시줄이 나타납니다. 찾기에 대해 자세한 내용은 <xref"
-" linkend=\"caja-searching\"/> 부분을 참조하십시오. 찾기 표시줄은 위치를 정확히 알지 못할 때 파일이나 폴더를 "
-"찾는데 매우 좋습니다."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:642 C/goscaja.xml:980
@@ -8064,9 +8060,9 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscaja.xml:745
 msgid ""
-"In the <guilabel>Tree</guilabel>view, open folders are represented as "
+"In the <guilabel>Tree</guilabel> view, open folders are represented as "
 "downwards facing arrows."
-msgstr "<guilabel>트리</guilabel> 보기에서, 열린 폴더는 아래쪽을 향한 화살표로 표시됩니다."
+msgstr ""
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:747
@@ -8172,11 +8168,9 @@ msgstr "<primary>파일 관리자</primary> <secondary>기록 목록 탐색하�
 msgid ""
 "The file browser window maintains a history list of files, folders, FTP "
 "sites, and URI locations you have recently visited. You can use the history "
-"list to navigate to quickly return to these places. Your history list "
+"list to navigate to or quickly return to these places. Your history list "
 "contains the last ten items that you viewed."
 msgstr ""
-"파일 찾아보기 창은 최근에 사용한 파일, 폴더, FTP 사이트, URI 위치의 기록을 유지하고 있습니다. 이 기록을 사용해 빠르게 해당 "
-"위치로 돌아갈 수 있습니다. 기록에는 최대 10개까지의 항목이 들어 있습니다."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:831
@@ -8325,8 +8319,8 @@ msgstr ""
 msgid ""
 "If you open an executable text file, that is, one that Caja considers can be"
 " run as a program, then you will be asked what you want to do: run it, or "
-"display it in a text editor. You can modify this behavior in <xref linkend"
-"=\"caja-preferences\"/>."
+"display it in a text editor. You can modify this behavior in <xref "
+"linkend=\"caja-preferences\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -9049,7 +9043,7 @@ msgid ""
 msgstr "다음 표의 설명에 따라, 서브메뉴에서 적당한 옵션을 사용하십시오:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:1216 C/goscaja.xml:3864 C/goscaja.xml:4003 C/gostools.xml:150
+#: C/goscaja.xml:1216 C/goscaja.xml:3862 C/goscaja.xml:4001 C/gostools.xml:150
 msgid "Option"
 msgstr "옵션"
 
@@ -9284,8 +9278,8 @@ msgid ""
 " change the size of items in a view. <xref linkend=\"goscaja-TBL-42\"/> "
 "describes how to use the zoom buttons."
 msgstr ""
-"찾아보기 창의 위치 표시줄에 있는 크기 조정 버튼을 사용해도 항목의 크기를 바꿀 수 있습니다. <xref linkend"
-"=\"goscaja-TBL-42\"/>에서 크기 조정 버튼 사용법을 설명합니다."
+"찾아보기 창의 위치 표시줄에 있는 크기 조정 버튼을 사용해도 항목의 크기를 바꿀 수 있습니다. <xref "
+"linkend=\"goscaja-TBL-42\"/>에서 크기 조정 버튼 사용법을 설명합니다."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1369
@@ -9440,9 +9434,9 @@ msgstr "<primary>파일 관리자</primary> <secondary>파일 및 폴더 선택�
 msgid ""
 "You can select files and folders in several ways in the file manager. "
 "Typically, this is achieved by clicking on the files using the mouse, as "
-"explained in <xref linkend=\"goscaja-TBL-10\"/>. In addition, <xref linkend"
-"=\"caja-select-pattern\"/> describes how to select a group of files matching"
-" a specific pattern."
+"explained in <xref linkend=\"goscaja-TBL-10\"/>. In addition, <xref "
+"linkend=\"caja-select-pattern\"/> describes how to select a group of files "
+"matching a specific pattern."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -9801,7 +9795,7 @@ msgstr ""
 "설명합니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1741 C/goscaja.xml:1784
+#: C/goscaja.xml:1741 C/goscaja.xml:1783
 msgid "Drag to the New Location"
 msgstr "새 위치로 끌어 놓기"
 
@@ -9812,17 +9806,17 @@ msgid ""
 msgstr "파일이나 폴더를 새 위치로 끌어 놓으려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1745 C/goscaja.xml:1788
+#: C/goscaja.xml:1745 C/goscaja.xml:1787
 msgid "Open two file manager windows:"
 msgstr "파일 관리자 창을 두 개 엽니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1747 C/goscaja.xml:1790
+#: C/goscaja.xml:1747 C/goscaja.xml:1789
 msgid "The window containing the item you want to move."
 msgstr "옮기려는 항목이 들어 있는 창."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1748 C/goscaja.xml:1791
+#: C/goscaja.xml:1748 C/goscaja.xml:1790
 msgid ""
 "The window you want to move it to, or the window containing the folder you "
 "want to move it to."
@@ -9849,7 +9843,7 @@ msgstr ""
 "새 위치로 끌어 놓으면 됩니다."
 
 #. (itstool) path: tip/para
-#: C/goscaja.xml:1758 C/goscaja.xml:1802 C/goscaja.xml:2014
+#: C/goscaja.xml:1758 C/goscaja.xml:1801 C/goscaja.xml:2012
 msgid "For more on dragging items, see <xref linkend=\"caja-dragndrop\"/>."
 msgstr ""
 "항목 끌어 놓기에 대해 이에 대한 자세한 내용은, <xref linkend=\"caja-dragndrop\"/> 부분을 참조하십시오."
@@ -9880,27 +9874,23 @@ msgstr ""
 #: C/goscaja.xml:1769
 msgid ""
 "Open the folder to which you want to move the file or folder, then choose "
-"<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste "
-"</guimenuitem></menuchoice>."
+"<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>."
 msgstr ""
-"파일이나 폴더를 옮기려는 대상 위치의 폴더를 선택하고, "
-"<menuchoice><guimenu>편집</guimenu><guimenuitem>붙여넣기</guimenuitem></menuchoice>를"
-" 선택하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1777
+#: C/goscaja.xml:1776
 msgid "Copying a File or Folder"
 msgstr "파일이나 폴더 복사하기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1778
+#: C/goscaja.xml:1777
 msgid ""
 "<primary>file manager</primary> <secondary>copying files and "
 "folders</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>파일 및 폴더 복사하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1782
+#: C/goscaja.xml:1781
 msgid ""
 "You can copy a file or folder by dragging it with the mouse, or with the "
 "copy and paste commands. The following sections describe these two methods."
@@ -9908,12 +9898,12 @@ msgstr ""
 "마우스로 끌어 놓거나, 복사와 붙여넣기 명령을 이용해 파일이나 폴더를 복사할 수 있습니다. 다음 섹션에서 이 두 가지 방법을 설명합니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1785
+#: C/goscaja.xml:1784
 msgid "To copy a file or folder, perform the following steps:"
 msgstr "파일이나 폴더를 복사하려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1795
+#: C/goscaja.xml:1794
 msgid ""
 "Drag the file or folder that you want to move to the new location. Press-"
 "and-hold <keycap>Ctrl</keycap> either before or during the drag. If the new "
@@ -9924,7 +9914,7 @@ msgstr ""
 "위치가 창이라면, 창 안의 아무 곳에나 끌어 놓으십시오. 새 위치가 폴더 아이콘이라면, 그 폴더로 끌어 놓으십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1798
+#: C/goscaja.xml:1797
 msgid ""
 "To copy the file or folder to a folder that is one level below the current "
 "location, do not open a new window. Instead, grab the file or folder, then "
@@ -9935,19 +9925,19 @@ msgstr ""
 "<keycap>Ctrl</keycap>을 누른 상태로 같은 창에 있는 새 위치로 끌어 놓으면 됩니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1805
+#: C/goscaja.xml:1804
 msgid "Copy and Paste to the New Location"
 msgstr "새 위치로 복사 및 붙여넣기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1807
+#: C/goscaja.xml:1806
 msgid ""
 "You can copy a file or folder and paste the file or folder into another "
 "folder, as follows:"
 msgstr "다음 방법으로 파일이나 폴더를 복사하고 다른 폴더로 붙여 넣을 수 있습니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1811
+#: C/goscaja.xml:1810
 msgid ""
 "Select the file or folder that you want to copy, then choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
@@ -9957,42 +9947,38 @@ msgstr ""
 " 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1814
+#: C/goscaja.xml:1813
 msgid ""
 "Open the folder to which you want to copy the file or folder, then choose "
-"<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste "
-"</guimenuitem></menuchoice>."
+"<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>."
 msgstr ""
-"파일이나 폴더를 복사하려는 대상 위치의 폴더를 열고, "
-"<menuchoice><guimenu>편집</guimenu><guimenuitem>붙여넣기</guimenuitem></menuchoice>를"
-" 선택하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1822
+#: C/goscaja.xml:1820
 msgid "Duplicating a File or Folder"
 msgstr "파일이나 폴더 복사본 만들기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1823
+#: C/goscaja.xml:1821
 msgid ""
 "<primary>file manager</primary> <secondary>duplicating files and "
 "folders</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>파일 및 폴더 복제하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1828
+#: C/goscaja.xml:1826
 msgid ""
 "To create a copy of a file or folder in the current folder, perform the "
 "following steps:"
 msgstr "현재 폴더 안에서 파일이나 폴더의 복사본을 만드려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1832
+#: C/goscaja.xml:1830
 msgid "Select the file or folder that you want to duplicate."
 msgstr "복사본을 만드려는 파일이나 폴더를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1835
+#: C/goscaja.xml:1833
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Duplicate</guimenuitem></menuchoice>."
@@ -10001,33 +9987,33 @@ msgstr ""
 "만들기</guimenuitem></menuchoice>를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1836
+#: C/goscaja.xml:1834
 msgid "A copy of the file or folder appears in the current folder."
 msgstr "현재 폴더안에 그 파일이나 폴더의 복사본이 생깁니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1841
+#: C/goscaja.xml:1839
 msgid "Creating a Folder"
 msgstr "폴더 만들기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1842
+#: C/goscaja.xml:1840
 msgid ""
 "<primary>file manager</primary> <secondary>creating folders</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>폴더 만들기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1846
+#: C/goscaja.xml:1844
 msgid "To create a folder, perform the following steps:"
 msgstr "폴더를 만드려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1849
+#: C/goscaja.xml:1847
 msgid "Open the folder where you want to create the new folder."
 msgstr "새로 만들 폴더가 들어갈 폴더를 여십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1852
+#: C/goscaja.xml:1850
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Create "
 "Folder</guimenuitem></menuchoice>. Alternatively, right-click on the "
@@ -10039,30 +10025,30 @@ msgstr ""
 "<guimenuitem>폴더 만들기</guimenuitem>를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1854
+#: C/goscaja.xml:1852
 msgid ""
 "An <guilabel>untitled</guilabel> folder is added to the location. The name "
 "of the folder is selected."
 msgstr "<guilabel>이름 없는</guilabel> 폴더를 그 위치에 추가됩니다. 그 폴더의 이름이 선택되어 있습니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1858
+#: C/goscaja.xml:1856
 msgid "Type a name for the folder, then press <keycap>Return</keycap>."
 msgstr "그 폴더의 이름을 입력하고, <keycap>Return</keycap>을 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1863
+#: C/goscaja.xml:1861
 msgid "Templates and Documents"
 msgstr "템플릿과 문서"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1864
+#: C/goscaja.xml:1862
 msgid ""
 "<primary>file manager</primary> <secondary>creating documents</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>만들기 documents</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1868
+#: C/goscaja.xml:1866
 msgid ""
 "You can create templates from documents that you frequently create. For "
 "example, if you often create invoices, you can create an empty invoice "
@@ -10074,7 +10060,7 @@ msgstr ""
 "일므으로 저장합니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1872
+#: C/goscaja.xml:1870
 msgid ""
 "You can also access the templates folder from a file browser window. Choose "
 "<menuchoice><guimenu>Go</guimenu><guimenuitem>Templates</guimenuitem></menuchoice>."
@@ -10084,50 +10070,50 @@ msgstr ""
 " 선택하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1874
+#: C/goscaja.xml:1872
 msgid ""
 "The template name is displayed as a submenu item in the <guilabel>Create "
 "Document</guilabel> menu."
 msgstr "<guilabel>문서 만들기</guilabel> 메뉴에서 그 템플릿의 이름을 서브메뉴의 항목으로 표시됩니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1876
+#: C/goscaja.xml:1874
 msgid ""
 "You can also create subfolders in the template folder. Subfolders display as"
 " submenus in the menu."
 msgstr "템플릿 폴더 안에 다시 폴더를 만들 수도 있습니다. 그 서브폴더는 메뉴의 서브 메뉴로 표시됩니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1878
+#: C/goscaja.xml:1876
 msgid ""
 "You can also share templates. Create a symbolic link from the template "
 "folder to the folder containing the shared templates."
 msgstr "템플릿을 공유할 수도 있습니다. 템플릿 폴더에서 공유 템플릿이 들어 있는 폴더로 심볼릭 링크를 만드십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1881
+#: C/goscaja.xml:1879
 msgid "To Create a Document"
 msgstr "문서를 만드려면"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1882
+#: C/goscaja.xml:1880
 msgid ""
 "If you have document templates, you can choose to create a document from one"
 " of the installed templates."
 msgstr "문서 템플릿이 있으면, 설치한 템플릿 중에 하나를 선택하면 문서를 만듭니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1884
+#: C/goscaja.xml:1882
 msgid "To create a document perform the following steps:"
 msgstr "문서를 만드려면 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1887
+#: C/goscaja.xml:1885
 msgid "Select the folder where you want to create the new document."
 msgstr "새 문서를 만드려는 위치의 폴더를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1890
+#: C/goscaja.xml:1888
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Create "
 "Document</guimenuitem></menuchoice>. Alternatively, right-click on the "
@@ -10139,46 +10125,46 @@ msgstr ""
 "<guimenuitem>문서 만들기</guimenuitem>를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1892
+#: C/goscaja.xml:1890
 msgid ""
 "The names of any available templates are displayed as submenu items from the"
 " <guilabel>Create Document</guilabel> menu."
 msgstr "사용 가능한 템플릿의 이름이 <guilabel>문서 만들기</guilabel> 메뉴의 서브메뉴 항목으로 표시됩니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1896
+#: C/goscaja.xml:1894
 msgid ""
 "Double-click on the template name for the document that you want to create."
 msgstr "만드려는 문서의 템플릿 이름을 두 번 누르십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1900
+#: C/goscaja.xml:1898
 msgid "Rename the document before saving to the appropriate folder."
 msgstr "문서 이름을 바꾸고 다른 적당한 폴더에 저장하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1906
+#: C/goscaja.xml:1904
 msgid "Renaming a File or Folder"
 msgstr "파일이나 폴더의 이름 바꾸기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1907
+#: C/goscaja.xml:1905
 msgid ""
 "<primary>file manager</primary> <secondary>renaming folders</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>폴더 이름 바꾸기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1911
+#: C/goscaja.xml:1909
 msgid "To rename a file or folder perform the following steps:"
 msgstr "파일이나 폴더의 이름을 바꾸려면 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1914
+#: C/goscaja.xml:1912
 msgid "Select the file or folder that you want to rename."
 msgstr "이름을 바꾸려는 파일이나 폴더를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1917
+#: C/goscaja.xml:1915
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Rename</guimenuitem></menuchoice>."
@@ -10190,50 +10176,50 @@ msgstr ""
 " <guimenuitem>이름 바꾸기</guimenuitem>를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1919
+#: C/goscaja.xml:1917
 msgid "The name of the file or folder is selected."
 msgstr "그 파일이나 폴더의 이름이 선택됩니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1922
+#: C/goscaja.xml:1920
 msgid ""
 "Type a new name for the file or folder, then press <keycap>Return</keycap>."
 msgstr "그 파일이나 폴더의 새 이름을 입력하시고, <keycap>Return</keycap>을 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1927
+#: C/goscaja.xml:1925
 msgid "Moving a File or Folder to Trash"
 msgstr "파일이나 폴더를 휴지통으로 옮기기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1928
+#: C/goscaja.xml:1926
 msgid ""
 "<primary>file manager</primary> <secondary>Trash</secondary> "
 "<see>Trash</see>"
 msgstr "<primary>파일 관리자</primary> <secondary>휴지통</secondary> <see>휴지통</see>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1933
+#: C/goscaja.xml:1931
 msgid ""
 "<primary>Trash</primary> <secondary>moving files or folders to</secondary>"
 msgstr "<primary>휴지통</primary> <secondary>파일 또는 폴더로 이동하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1937
+#: C/goscaja.xml:1935
 msgid ""
 "To move a file or folder to <guilabel>Trash</guilabel> perform the following"
 " steps:"
 msgstr "파일이나 폴더를 <guilabel>휴지통</guilabel>에 옮기려면 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1941
+#: C/goscaja.xml:1939
 msgid ""
 "Select the file or folder that you want to move to "
 "<guilabel>Trash</guilabel>."
 msgstr "<guilabel>휴지통</guilabel>에 옮기려는 파일이나 폴더를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1944
+#: C/goscaja.xml:1942
 msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Move to "
 "Trash</guimenuitem></menuchoice>. Alternatively, right-click on the file or "
@@ -10244,7 +10230,7 @@ msgstr ""
 " <guimenuitem>휴지통으로 옮기기</guimenuitem>를 선택하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1948
+#: C/goscaja.xml:1946
 msgid ""
 "Alternatively, you can drag the file or folder to the "
 "<guilabel>Trash</guilabel> object on the desktop."
@@ -10252,7 +10238,7 @@ msgstr ""
 "다른 방법으로, 그 파일이나 폴더를 바탕 화면에 있는 <guilabel>휴지통</guilabel> 오브젝트로 끌어 놓을 수도 있습니다."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:1950
+#: C/goscaja.xml:1948
 msgid ""
 "When you move a file or folder from a removable media to "
 "<guilabel>Trash</guilabel>, the file or folder is stored in a "
@@ -10265,19 +10251,19 @@ msgstr ""
 "<guilabel>휴지통</guilabel>을 비워야 합니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1956
+#: C/goscaja.xml:1954
 msgid "Deleting a File or Folder"
 msgstr "파일이나 폴더 지우기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1957
+#: C/goscaja.xml:1955
 msgid ""
 "<primary>file manager</primary> <secondary>deleting files or "
 "folders</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>파일 또는 폴더 삭제하기</secondary> "
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1961
+#: C/goscaja.xml:1959
 msgid ""
 "When you delete a file or folder, the file or folder is not moved to "
 "<guilabel>Trash</guilabel>, but is deleted from your file system "
@@ -10291,17 +10277,17 @@ msgstr ""
 "지우기</guilabel> 옵션을 선택한 경우에만 <guimenuitem>삭제</guimenuitem> 메뉴 항목이 나타납니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1967
+#: C/goscaja.xml:1965
 msgid "To delete a file or folder perform the following steps:"
 msgstr "파일이나 폴더를 지우려면 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1970
+#: C/goscaja.xml:1968
 msgid "Select the file or folder that you want to delete."
 msgstr "지우려는 파일이나 폴더를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:1973
+#: C/goscaja.xml:1971
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Delete</guimenuitem></menuchoice>."
@@ -10313,40 +10299,40 @@ msgstr ""
 " 선택하십시오."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:1980
+#: C/goscaja.xml:1978
 msgid ""
 "This shortcut is independent from the <guilabel>Include a Delete command "
 "that bypasses Trash</guilabel> option."
 msgstr "이 바로 가기는 <guilabel>휴지통을 거치지 않고 바로 삭제</guilabel> 옵션에 관계없이 사용할 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1977
+#: C/goscaja.xml:1975
 msgid ""
 "Alternatively, select the file or folder you want to delete, and press "
 "<keycombo><keycap>Shift</keycap><keycap>Del</keycap></keycombo>. <_:note-1/>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:1986
+#: C/goscaja.xml:1984
 msgid "Creating a Symbolic Link to a File or Folder"
 msgstr "파일이나 폴더에 대한 심볼릭 링크 만들기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1990
+#: C/goscaja.xml:1988
 msgid ""
 "<primary>file manager</primary> <secondary>creating symbolic "
 "link</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>심볼릭 링크 만들기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:1994
+#: C/goscaja.xml:1992
 msgid ""
 "<primary>symbolic link</primary> <secondary>to file or folder, "
 "creating</secondary>"
 msgstr "<primary>심볼릭 링크</primary> <secondary>파일 또는 폴더에, 만들기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:1998
+#: C/goscaja.xml:1996
 msgid ""
 "A symbolic link is a special type of file that points to another file or "
 "folder. When you perform an action on a symbolic link, the action is "
@@ -10359,7 +10345,7 @@ msgstr ""
 "않습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2003
+#: C/goscaja.xml:2001
 msgid ""
 "To create a symbolic link to a file or folder, select the file or folder to "
 "which you want to create a link. Choose "
@@ -10372,7 +10358,7 @@ msgstr ""
 "만들기</guimenuitem></menuchoice>를 선택하십시오. 그 파일이나 폴더에 대한 링크가 현재 폴더에 만들어집니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2006
+#: C/goscaja.xml:2004
 msgid ""
 "Alternatively, grab the item to which you want to create a link, then press-"
 "and-hold <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap></keycombo>. "
@@ -10383,41 +10369,41 @@ msgstr ""
 " 그 항목을 링크를 만드려는 위치로 끌어 놓으십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2009
+#: C/goscaja.xml:2007
 msgid "By default, the file manager adds an emblem to symbolic links."
 msgstr "기본값으로, 파일 관리자에서 심볼릭 링크에 대해 꼬리표를 붙입니다."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:2011
+#: C/goscaja.xml:2009
 msgid ""
 "The permissions of a symbolic link are determined by the file or folder to "
 "which a symbolic link points."
 msgstr "심볼릭 링크의 접근 권한은 그 심볼릭 링크가 가리키는 파일이나 폴더의 권한에 따라 달라집니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2017
+#: C/goscaja.xml:2015
 msgid "Viewing the Properties of a File or Folder"
 msgstr "파일이나 폴더의 속성 보기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2018
+#: C/goscaja.xml:2016
 msgid ""
 "<primary>file manager</primary> <secondary>viewing properties</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>속성 보기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2022
+#: C/goscaja.xml:2020
 msgid ""
 "To view the properties of a file or folder, perform the following steps:"
 msgstr "파일이나 폴더의 속성을 보려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2025
+#: C/goscaja.xml:2023
 msgid "Select the file or folder whose properties you want to view."
 msgstr "속성을 보려는 파일이나 폴더를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2028
+#: C/goscaja.xml:2026
 msgid ""
 "Choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
@@ -10427,36 +10413,36 @@ msgstr ""
 " 선택하십시오. 속성 대화 창을 표시합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2031
+#: C/goscaja.xml:2029
 msgid ""
 "Use the properties dialog to view the properties of the file or folder."
 msgstr "속성 대화 창에서 파일이나 폴더의 속성을 봅니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2034 C/goscaja.xml:2727 C/goscaja.xml:2762
+#: C/goscaja.xml:2032 C/goscaja.xml:2725 C/goscaja.xml:2760
 msgid "Click <guibutton>Close</guibutton> to close the properties dialog."
 msgstr "속성 대화 창을 닫으려면 <guibutton>닫기</guibutton>를 누르십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2038
+#: C/goscaja.xml:2036
 msgid ""
 "The following table lists the properties that you can view or set for files "
 "and folders, the exact information shown depends on the object type:"
 msgstr "다음 표는 파일이나 폴더에 대해 보거나 고칠 수 있는 속성들입니다. 오브젝트의 종류에 따라 아래 정보는 조금씩 달라집니다:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2046
+#: C/goscaja.xml:2044
 msgid "Property"
 msgstr "속성"
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2056 C/gospanel.xml:823
+#: C/goscaja.xml:2054 C/gospanel.xml:823
 msgid "Name"
 msgstr "이름"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2059
+#: C/goscaja.xml:2057
 msgid ""
 "The name of the file or folder. You can change the name here and the file or"
 " folder will be renamed when you click on <guibutton>Close</guibutton>."
@@ -10466,35 +10452,35 @@ msgstr ""
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2064 C/gospanel.xml:798
+#: C/goscaja.xml:2062 C/gospanel.xml:798
 msgid "Type"
 msgstr "종류"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2067
+#: C/goscaja.xml:2065
 msgid "The type of object, file or folder for example."
 msgstr "오브젝트의 종류. (예를 들어 파일이나 폴더)"
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2072 C/gospanel.xml:812 C/gospanel.xml:835
+#: C/goscaja.xml:2070 C/gospanel.xml:812 C/gospanel.xml:835
 msgid "Location"
 msgstr "위치"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2075
+#: C/goscaja.xml:2073
 msgid ""
 "The system path for the object. This represents where the object is situated"
 " on your computer, relative to the system root."
 msgstr "그 오브젝트의 시스템 경로. 경로는 컴퓨터에서 루트 디렉토리에 대해 상대적으로 오브젝트가 어디에 있느냐를 나타냅니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2080
+#: C/goscaja.xml:2078
 msgid "Volume"
 msgstr "볼륨"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2083
+#: C/goscaja.xml:2081
 msgid ""
 "The volume on which a folder resides. This is the physical location of the "
 "folder, on which media it resides, for example which hard disk or CD-ROM "
@@ -10502,54 +10488,54 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2088
+#: C/goscaja.xml:2086
 msgid "Free space"
 msgstr "빈 공간"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2091
+#: C/goscaja.xml:2089
 msgid ""
 "The amount of free space on the media upon which a folder resides. This "
 "represents the maximum amount of data you can copy to this folder."
 msgstr "폴더가 들어 있는 미디어의 빈 공간의 크기. 이 폴더로 복사해 올 수 있는 데이터의 최대 크기를 말합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2096
+#: C/goscaja.xml:2094
 msgid "MIME Type"
 msgstr "MIME 종류"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2099
+#: C/goscaja.xml:2097
 msgid "The official naming of the type of file."
 msgstr "그 파일 종류의 공식 이름."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2104
+#: C/goscaja.xml:2102
 msgid "Modified"
 msgstr "고친 날짜"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2107
+#: C/goscaja.xml:2105
 msgid "The date and time at which the object was last changed."
 msgstr "오브젝트를 가장 최근에 바꾼 날짜와 시각."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2112
+#: C/goscaja.xml:2110
 msgid "Accessed"
 msgstr "접근 날짜"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2115
+#: C/goscaja.xml:2113
 msgid "The date and time at which the object was last viewed."
 msgstr "오브젝트를 가장 최근에 본 날짜와 시각."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2123
+#: C/goscaja.xml:2121
 msgid "File Permissions"
 msgstr "파일 권한"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2124
+#: C/goscaja.xml:2122
 msgid ""
 "Permissions are settings assigned to each file and folder that determine "
 "what type of access users can have to the file or folder. For example, you "
@@ -10560,7 +10546,7 @@ msgstr ""
 " 사용자가 읽고 편집할 수 있도록 지정할 수도 있고, 아니면 읽을 수만 있고 바꿀 수느 없도록 지정할 수도 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2126
+#: C/goscaja.xml:2124
 msgid ""
 "Each file belongs to a particular user, and is associated with a group that "
 "the owner belongs to. The super user \"root\" has the ability to access any "
@@ -10570,134 +10556,134 @@ msgstr ""
 "\"root\" 사용자는 어떤 파일이라도 접근할 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2127
+#: C/goscaja.xml:2125
 msgid "You can set permissions for three categories of users:"
 msgstr "세 가지 부류의 사용자에 대해 구너한을 설정할 수 있습니다:"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2129
+#: C/goscaja.xml:2127
 msgid "Owner"
 msgstr "소유자"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2131
+#: C/goscaja.xml:2129
 msgid "The user that created the file or folder."
 msgstr "그 파일이나 폴더를 만든 사용자."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2134
+#: C/goscaja.xml:2132
 msgid "Group"
 msgstr "그룹"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2136
+#: C/goscaja.xml:2134
 msgid "A group of users to which the owner belongs."
 msgstr "소유자가 속한 사용자 모임."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2139
+#: C/goscaja.xml:2137
 msgid "Others"
 msgstr "다른 사람"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2141
+#: C/goscaja.xml:2139
 msgid "All other users not already included."
 msgstr "그 외에 다른 모든 사용자들."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2145
+#: C/goscaja.xml:2143
 msgid ""
 "For each category of user, different permissions can be set. These behave "
 "differently for files and folders, as follows:"
 msgstr "이 세 가지 부류의 사용자에 대해, 각각 권한을 설정합니다. 다음과 같이 파일이냐 폴더이냐에 따라 다르게 동작합니다:"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2148
+#: C/goscaja.xml:2146
 msgid "read"
 msgstr "읽기"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2150
+#: C/goscaja.xml:2148
 msgid "Files can be opened"
 msgstr "파일을 열 수 있습니다"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2151
+#: C/goscaja.xml:2149
 msgid "Directory contents can be displayed"
 msgstr "디렉토리 내용을 표시할 수 있습니다"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2154
+#: C/goscaja.xml:2152
 msgid "write"
 msgstr "쓰기"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2156
+#: C/goscaja.xml:2154
 msgid "Files can be edited or deleted"
 msgstr "파일을 편집하거나 지울 수 있습니다"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2157
+#: C/goscaja.xml:2155
 msgid "Directory contents can be modified"
 msgstr "디렉토리의 내용을 바꿀 수 있습니다"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2160
+#: C/goscaja.xml:2158
 msgid "execute"
 msgstr "실행"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2162
+#: C/goscaja.xml:2160
 msgid "Executable files can be run as a program"
 msgstr "실행 가능한 파일을 프로그램으로 실행할 수 있습니다"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2163
+#: C/goscaja.xml:2161
 msgid "Directories can be entered"
 msgstr "디렉토리로 들어갈 수 있습니다"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2168
+#: C/goscaja.xml:2166
 msgid ""
-"For more on changing the permissions for a file or folder, see <xref linkend"
-"=\"caja-permissions\"/>."
+"For more on changing the permissions for a file or folder, see <xref "
+"linkend=\"caja-permissions\"/>."
 msgstr ""
 "파일이나 폴더의 권한을 바꾸는 방법에 대해 이에 대한 자세한 내용은, <xref linkend=\"caja-permissions\"/> "
 "부분을 참조하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2171
+#: C/goscaja.xml:2169
 msgid "Changing Permissions"
 msgstr "권한 바꾸기"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2175
+#: C/goscaja.xml:2173
 msgid "Changing Permissions for a File"
 msgstr "파일의 권한 바꾸기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2176
+#: C/goscaja.xml:2174
 msgid ""
 "<primary>file manager</primary> <secondary>changing permissions</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>권한 변경하기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2180
+#: C/goscaja.xml:2178
 msgid "<primary>permissions</primary> <secondary>changing file</secondary>"
 msgstr "<primary>권한</primary> <secondary>파일 변경하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2184
+#: C/goscaja.xml:2182
 msgid "To change the permissions of a file, perform the following steps:"
 msgstr "파일의 권한을 바꾸려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2187
+#: C/goscaja.xml:2185
 msgid "Select the file that you want to change."
 msgstr "바꾸려는 파일을 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2190 C/goscaja.xml:2233 C/goscaja.xml:2304 C/goscaja.xml:2715
+#: C/goscaja.xml:2188 C/goscaja.xml:2231 C/goscaja.xml:2302 C/goscaja.xml:2713
 msgid ""
 "Choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
@@ -10705,132 +10691,132 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2193 C/goscaja.xml:2236
+#: C/goscaja.xml:2191 C/goscaja.xml:2234
 msgid "Click on the <guilabel>Permissions</guilabel> tab."
 msgstr "<guilabel>권한</guilabel> 탭을 누르십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2196
+#: C/goscaja.xml:2194
 msgid ""
 "To change the file's group, choose from the groups the user belongs to in "
 "the drop-down selector."
 msgstr "파일의 그룹을 바꾸려면, 드롭다운 메뉴에 있는 사용자가 속한 그룹 중에서 하나를 고르십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2199
+#: C/goscaja.xml:2197
 msgid ""
 "For each of the owner, the group, and all other users, choose from these "
 "permissions for the file:"
 msgstr "사용자 분류, 그룹 분류, 다른 사용자 분류 각각에 대해, 그 파일의 권한을 선택하십시오:"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2201 C/goscaja.xml:2244
+#: C/goscaja.xml:2199 C/goscaja.xml:2242
 msgid "None"
 msgstr "없음"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2203
+#: C/goscaja.xml:2201
 msgid "No access to the file is possible. (You can't set this for the owner.)"
 msgstr "파일에 대해 권한이 없습니다. (사용자 분류에 대해서는 이렇게 설정할 수 없습니다.)"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2206
+#: C/goscaja.xml:2204
 msgid "Read-only"
 msgstr "읽기 전용"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2208
+#: C/goscaja.xml:2206
 msgid ""
 "The users can open a file to see its contents, but not make any changes."
 msgstr "사용자가 파일을 열고 그 내용을 볼 수 있지만, 고칠 수는 없습니다."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2211
+#: C/goscaja.xml:2209
 msgid "Read and write"
 msgstr "읽기 및 쓰기"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2213
+#: C/goscaja.xml:2211
 msgid "Normal access to a file is possible: it can be opened and saved."
 msgstr "파일에 대해 일반적인 접근을 할 수 있습니다. 파일을 열고 저장할 수 있습니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2219
+#: C/goscaja.xml:2217
 msgid ""
 "To allow a file to be run as a program, select <guilabel>Execute</guilabel>"
 msgstr "파일을 프로그램으로 실행할 수 있게 하려면, <guilabel>실행</guilabel>을 선택하십시오"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2224
+#: C/goscaja.xml:2222
 msgid "Changing Permissions for a Folder"
 msgstr "폴더의 권한 바꾸기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2227
+#: C/goscaja.xml:2225
 msgid "To change the permissions of a folder, perform the following steps:"
 msgstr "폴더의 권한을 바꾸려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2230
+#: C/goscaja.xml:2228
 msgid "Select the folder that you want to change."
 msgstr "바꾸려는 폴더를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2239
+#: C/goscaja.xml:2237
 msgid ""
 "To change the folder's group, choose from the groups the user belongs to in "
 "the drop-down selector."
 msgstr "폴더의 그룹을 바꾸려면, 드롭다운 메뉴에 있는 사용자가 속한 그룹 중에서 하나를 고르십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2242
+#: C/goscaja.xml:2240
 msgid ""
 "For each of the owner, the group, and all other users, choose from these "
 "folder access permissions:"
 msgstr "소유자, 그룹, 기타 사용자 분류 각각에 대해, 다음 폴더 접근 권한 중의 하나를 선택하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2246
+#: C/goscaja.xml:2244
 msgid ""
 "No access to the folder is possible. (You can't set this for the owner.)"
 msgstr "폴더에 접근할 수 없습니다. (소유자에 대해 이렇게 지정할 수 없습니다.)"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2249
+#: C/goscaja.xml:2247
 msgid "List files only"
 msgstr "파일 목록만 가능"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2251
+#: C/goscaja.xml:2249
 msgid "The users can see the items in the folder, but not open any of them."
 msgstr "폴더 안의 항목을 볼 수 있지만, 그 항목을 열 수는 없습니다."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2254
+#: C/goscaja.xml:2252
 msgid "Access files"
 msgstr "파일에 접근"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2256
+#: C/goscaja.xml:2254
 msgid ""
 "Items in the folder can be opened and modified, provided their own "
 "permissions allow it."
 msgstr "폴더 안의 항목을 열고 바꿀 수 있습니다 (그 항목의 권한이 허용한다면)."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:2259
+#: C/goscaja.xml:2257
 msgid "Create and delete files"
 msgstr "파일 만들기 및 삭제"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2261
+#: C/goscaja.xml:2259
 msgid ""
 "The user can create new files and delete files in the folder, in addition to"
 " being able to access existing files."
 msgstr "사용자가 폴더 안에서 새 파일을 만들 수 있고 파일을 지울 수 있습니다. 기존 파일에 접근할 수도 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2268
+#: C/goscaja.xml:2266
 msgid ""
 "To set permissions for all the items contained in a folder, set the "
 "<guilabel>File Access</guilabel> and <guilabel>Execute</guilabel> properties"
@@ -10841,40 +10827,40 @@ msgstr ""
 "누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2273
+#: C/goscaja.xml:2271
 msgid "Adding Notes to Files and Folders"
 msgstr "파일과 폴더에 메모 추가하기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2274
+#: C/goscaja.xml:2272
 msgid ""
 "You can add notes to files or folders. You can add notes to files or folders"
 " in the following ways:"
 msgstr "파일이나 폴더에 메모를 추가할 수 있습니다. 다음 방법으로 파일이나 폴더에 메모를 추가할 수 있습니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2278
+#: C/goscaja.xml:2276
 msgid "From the properties dialog"
 msgstr "속성 대화 창에서"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2281
+#: C/goscaja.xml:2279
 msgid "From <guilabel>Notes</guilabel> in the side pane"
 msgstr "가장자리 창의 <guilabel>메모</guilabel>에서"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2285
+#: C/goscaja.xml:2283
 msgid "To Add a Note Using the Properties Dialog"
 msgstr "속성 대화 창을 사용해 메모 추가하기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2288
+#: C/goscaja.xml:2286
 msgid ""
 "<primary>notes</primary> <secondary>adding to files and folders</secondary>"
 msgstr "<primary>메모</primary> <secondary>파일 및 폴더에 추가하기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2292
+#: C/goscaja.xml:2290
 msgid ""
 "<primary>file manager</primary> <secondary>notes</secondary> "
 "<tertiary>adding</tertiary>"
@@ -10883,17 +10869,17 @@ msgstr ""
 "<tertiary>추가하기</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2297 C/goscaja.xml:2318
+#: C/goscaja.xml:2295 C/goscaja.xml:2316
 msgid "To add a note to a file or folder, perform the following steps:"
 msgstr "파일이나 폴더에 메모를 추가하려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2301
+#: C/goscaja.xml:2299
 msgid "Select the file or folder to which you want to add a note."
 msgstr "메모를 추가하려는 파일이나 폴더를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2307
+#: C/goscaja.xml:2305
 msgid ""
 "Click on the <guilabel>Notes</guilabel> tab. In the "
 "<guilabel>Notes</guilabel> tabbed section, type the note."
@@ -10901,7 +10887,7 @@ msgstr ""
 "<guilabel>메모</guilabel> 탭을 누르십시오. <guilabel>메모</guilabel> 탭 섹션에서 메모를 입력하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2310
+#: C/goscaja.xml:2308
 msgid ""
 "Click <guibutton>Close</guibutton> to close the properties dialog. A note "
 "emblem is added to the file or folder."
@@ -10909,12 +10895,12 @@ msgstr ""
 "<guibutton>닫기</guibutton>를 눌러 속성 창을 닫으십시오. 그러면 메모 꼬리표를 그 파일이나 폴더에 추가합니다."
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:2314
+#: C/goscaja.xml:2312
 msgid "<primary>notes</primary><secondary>deleting</secondary>"
 msgstr "<primary>메모</primary><secondary>삭제하기</secondary>"
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:2314
+#: C/goscaja.xml:2312
 msgid ""
 "<primary>file "
 "manager</primary><secondary>notes</secondary><tertiary>deleting</tertiary>"
@@ -10922,25 +10908,25 @@ msgstr ""
 "<primary>파일 관리자</primary><secondary>메모</secondary><tertiary>삭제하기</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2314
+#: C/goscaja.xml:2312
 msgid ""
 "<_:indexterm-1/><_:indexterm-2/>To delete a note, delete the note text from "
 "the <guilabel>Notes</guilabel> tabbed section."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2316
+#: C/goscaja.xml:2314
 msgid "To Add a Note Using Notes in the Side Pane"
 msgstr "가장자리 창의 메모 기능으로 메모 추가하기"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2321
+#: C/goscaja.xml:2319
 msgid ""
 "Open the file or folder to which you want to add a note in the view pane."
 msgstr "보기 창에서 메모를 추가하려는 파일이나 폴더를 여십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2325
+#: C/goscaja.xml:2323
 msgid ""
 "Choose <guilabel>Notes</guilabel> from the drop-down list at the top of the "
 "side pane. To display the side pane, choose "
@@ -10952,7 +10938,7 @@ msgstr ""
 "창</guimenuitem></menuchoice>을 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2329
+#: C/goscaja.xml:2327
 msgid ""
 "Type the note in the side pane. A note emblem is added to the file or folder"
 " in the view pane, and a note icon is added to the side pane. You can click "
@@ -10962,24 +10948,24 @@ msgstr ""
 "이 아이콘을 누르면 메모를 표시합니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2334
+#: C/goscaja.xml:2332
 msgid ""
 "To delete a note, delete the note text from <guilabel>Notes</guilabel> in "
 "the side pane."
 msgstr "메모를 지우려면, 가장자리 창의 <guilabel>메모</guilabel>에서 메모 텍스트를 지우십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2339
+#: C/goscaja.xml:2337
 msgid "Using Bookmarks For Your Favorite Locations"
 msgstr "자주 사용하는 위치에 책갈피 사용하기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2343
+#: C/goscaja.xml:2341
 msgid "<primary>file manager</primary> <secondary>bookmarks</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>책갈피</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2347
+#: C/goscaja.xml:2345
 msgid ""
 "You can keep a list of <firstterm>bookmarks</firstterm> in "
 "<application>Caja</application>: folders and other locations that you "
@@ -10989,36 +10975,36 @@ msgstr ""
 "책갈피는 자주 사용하는 폴더 및 기타 위치를 말합니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2348
+#: C/goscaja.xml:2346
 msgid "Your bookmarks are listed in the following places:"
 msgstr "책갈피 목록은 다음 위치에서 볼 수 있습니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2350
+#: C/goscaja.xml:2348
 msgid "The <guimenu>Places</guimenu> menu on the top panel."
 msgstr "위 패널의 <guimenu>배치</guimenu> 메뉴."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2351
+#: C/goscaja.xml:2349
 msgid "The <guimenu>Places</guimenu> menu in a folder window."
 msgstr "폴더 창의 <guimenu>배치</guimenu> 메뉴."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2352
+#: C/goscaja.xml:2350
 msgid ""
 "The <guimenu>Bookmarks</guimenu> menu in a <application>Caja</application> "
 "browser window."
 msgstr "<application>Caja</application> 창의 <guimenu>책갈피</guimenu> 메뉴."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2353
+#: C/goscaja.xml:2351
 msgid ""
 "The side pane in the <xref linkend=\"filechooser-open\"/>. This allows you "
 "to quickly open a file that is in one of your bookmarked locations."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2354
+#: C/goscaja.xml:2352
 msgid ""
 "The list of commonly used locations in the <xref linkend=\"filechooser-"
 "save\"/>. This allows you to quickly save a file to a location you have in "
@@ -11026,18 +11012,18 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2357
+#: C/goscaja.xml:2355
 msgid ""
 "To open an item that is in your bookmarks, choose the item from a menu."
 msgstr "책갈피에 있는 항목을 열려면, 메뉴에서 그 항목을 선택하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2359
+#: C/goscaja.xml:2357
 msgid "Adding a Bookmark"
 msgstr "책갈피 추가하기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2360
+#: C/goscaja.xml:2358
 msgid ""
 "To add a bookmark, open the folder or location that you want to bookmark, "
 "then choose <menuchoice><guimenu>Places</guimenu><guimenuitem>Add "
@@ -11047,7 +11033,7 @@ msgstr ""
 "<guimenuitem>책갈피 추가</guimenuitem></menuchoice>를 선택하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2361
+#: C/goscaja.xml:2359
 msgid ""
 "If you are using a <application>Caja</application> browser window, choose "
 "<menuchoice><guimenu>Bookmarks</guimenu><guimenuitem>Add "
@@ -11058,17 +11044,17 @@ msgstr ""
 "추가</guimenuitem></menuchoice>를 선택하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2364
+#: C/goscaja.xml:2362
 msgid "To Edit a Bookmark"
 msgstr "책갈피 편집하기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2365
+#: C/goscaja.xml:2363
 msgid "To edit your bookmarks perform the following steps:"
 msgstr "책갈피를 편집하려면 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2368
+#: C/goscaja.xml:2366
 msgid ""
 "Choose <menuchoice><guimenu>Places</guimenu><guimenuitem>Edit "
 "Bookmarks</guimenuitem></menuchoice>, or in a browser window, "
@@ -11083,7 +11069,7 @@ msgstr ""
 "나타납니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2372
+#: C/goscaja.xml:2370
 msgid ""
 "Select the bookmark on the left side of the <guilabel>Edit "
 "Bookmarks</guilabel> dialog. Edit the details for the bookmark on the right "
@@ -11093,34 +11079,34 @@ msgstr ""
 "편집</guilabel> 대화 창의 오른쪽에서 그 책갈피에 대한 자세한 정보를 다음과 같이 편집할 수 있습니다:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2392 C/goscaja.xml:3737
+#: C/goscaja.xml:2390 C/goscaja.xml:3735
 msgid "<guilabel>Name</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2397
+#: C/goscaja.xml:2395
 msgid ""
 "Use this text box to specify the name that identifies the bookmark in the "
 "menus."
 msgstr "이 텍스트 창에서 메뉴에 나타날 책갈피의 이름을 지정하십시오."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2403
+#: C/goscaja.xml:2401
 msgid "<guilabel>Location</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2408
+#: C/goscaja.xml:2406
 msgid "Use this field to specify the location of the bookmark."
 msgstr "이 입력란에서 책갈피의 위치를 지정하십시오."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2409
+#: C/goscaja.xml:2407
 msgid "Folders on your system use the <uri>file:///</uri> URI."
 msgstr "시스템에 있는 폴더는 <uri>file:///</uri> URI를 사용합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2417
+#: C/goscaja.xml:2415
 msgid ""
 "To delete a bookmark, select the bookmark on the left side of the dialog. "
 "Click <guilabel>Delete</guilabel>."
@@ -11128,7 +11114,7 @@ msgstr ""
 "책갈피를 지우려면, 대화 창의 왼쪽에 있는 책갈피를 선택하십시오. 그리고 <guilabel>삭제</guilabel>를 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2424
+#: C/goscaja.xml:2422
 msgid "Using Trash"
 msgstr "휴지통 사용하기"
 
@@ -11137,7 +11123,7 @@ msgstr "휴지통 사용하기"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2430
+#: C/goscaja.xml:2428
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_trash_launcher.png' "
@@ -11147,7 +11133,7 @@ msgstr ""
 "md5='42951c298a8bc2e3cd779e636e64efcd'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2428
+#: C/goscaja.xml:2426
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_trash_launcher.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Trash icon, "
@@ -11158,12 +11144,12 @@ msgstr ""
 "</textobject>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2437
+#: C/goscaja.xml:2435
 msgid "<primary>Trash</primary> <secondary>introduction</secondary>"
 msgstr "<primary>휴지통</primary> <secondary>소개</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2441
+#: C/goscaja.xml:2439
 msgid ""
 "Trash is a special folder that holds files that you no longer want to keep. "
 "Files in the Trash are not deleted permanently until you empty the trash. "
@@ -11174,22 +11160,22 @@ msgstr ""
 "지운 다음에 마음이 바뀌었을 때나 잘못된 파일을 실수로 지웠을 때를 대비하기 위해 이렇게 두 단계로 지웁니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2444
+#: C/goscaja.xml:2442
 msgid "You can move the following items to <guilabel>Trash</guilabel>:"
 msgstr "다음과 같은 항목을 <guilabel>휴지통</guilabel>에 옮길 수 있습니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2447
+#: C/goscaja.xml:2445
 msgid "Files"
 msgstr "파일"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2453
+#: C/goscaja.xml:2451
 msgid "Desktop objects"
 msgstr "데스크톱 오브젝트"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2456
+#: C/goscaja.xml:2454
 msgid ""
 "If you need to retrieve a file from <guilabel>Trash</guilabel>, you can "
 "display <guilabel>Trash</guilabel> and move the file out of "
@@ -11201,29 +11187,29 @@ msgstr ""
 "<guilabel>휴지통</guilabel>에 들어 있는 내용을 완전히 지우게 됩니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2460
+#: C/goscaja.xml:2458
 msgid "To Display Trash"
 msgstr "휴지통을 표시하려면"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2461
+#: C/goscaja.xml:2459
 msgid "<primary>Trash</primary> <secondary>displaying</secondary>"
 msgstr "<primary>휴지통</primary> <secondary>표시하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2465
+#: C/goscaja.xml:2463
 msgid ""
 "You can display the contents of <guilabel>Trash</guilabel> in the following "
 "ways:"
 msgstr "다음 방법으로 <guilabel>휴지통</guilabel>의 내용을 표시할 수 있습니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2469 C/goscaja.xml:2494
+#: C/goscaja.xml:2467 C/goscaja.xml:2492
 msgid "From a file browser window"
 msgstr "파일 찾아보기 창에서"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2470
+#: C/goscaja.xml:2468
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Go</guimenu><guimenuitem>Trash</guimenuitem></menuchoice>."
@@ -11233,12 +11219,12 @@ msgstr ""
 " 선택하십시오. <guilabel>휴지통</guilabel>의 내용을 창에 표시합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2474
+#: C/goscaja.xml:2472
 msgid "From a spatial window"
 msgstr "스페이셜 창에서"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2475
+#: C/goscaja.xml:2473
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Trash</guimenuitem></menuchoice>."
@@ -11248,34 +11234,34 @@ msgstr ""
 " 선택하십시오. <guilabel>휴지통</guilabel>의 내용을 창에 표시합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2479 C/goscaja.xml:2499
+#: C/goscaja.xml:2477 C/goscaja.xml:2497
 msgid "From the desktop"
 msgstr "바탕 화면에서"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2480
+#: C/goscaja.xml:2478
 msgid "Double-click on the <guilabel>Trash</guilabel> object on the desktop."
 msgstr "바탕 화면의 <guilabel>휴지통</guilabel> 오브젝트를 두 번 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2484
+#: C/goscaja.xml:2482
 msgid "To Empty Trash"
 msgstr "휴지통을 비우려면"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2486
+#: C/goscaja.xml:2484
 msgid "<primary>Trash</primary> <secondary>emptying</secondary>"
 msgstr "<primary>휴지통</primary> <secondary>비우기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2490
+#: C/goscaja.xml:2488
 msgid ""
 "You can empty the contents of <guilabel>Trash</guilabel> in the following "
 "ways:"
 msgstr "다음 방법으로 <guilabel>휴지통</guilabel>의 내용을 비울 수 있습니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2495
+#: C/goscaja.xml:2493
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Empty "
 "Trash</guimenuitem></menuchoice>."
@@ -11284,7 +11270,7 @@ msgstr ""
 "비우기</guimenuitem></menuchoice>를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2500
+#: C/goscaja.xml:2498
 msgid ""
 "Right-click on the <guilabel>Trash</guilabel> object, then choose "
 "<guimenuitem>Empty Trash</guimenuitem>."
@@ -11293,7 +11279,7 @@ msgstr ""
 "비우기</guimenuitem>을 선택하십시오."
 
 #. (itstool) path: caution/para
-#: C/goscaja.xml:2504
+#: C/goscaja.xml:2502
 msgid ""
 "When you empty trash, you destroy all files in the trash. Be sure that the "
 "trash only contains files you no longer need."
@@ -11301,17 +11287,17 @@ msgstr ""
 "휴지통을 비우면, 휴지통 안에 있는 모든 파일이 없어집니다. 휴지통에 들어 있는 파일이 모두 필요 없는 파일인지 먼저 확인하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2511
+#: C/goscaja.xml:2509
 msgid "Hidden Files"
 msgstr "숨긴 파일"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2512
+#: C/goscaja.xml:2510
 msgid "<primary>hidden</primary> <secondary>files</secondary>"
 msgstr "<primary>숨김</primary> <secondary>파일</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2516
+#: C/goscaja.xml:2514
 msgid ""
 "By default, <application>Caja</application> does not display certain system "
 "and backup files in folders. This prevents accidental modification or "
@@ -11324,24 +11310,24 @@ msgstr ""
 "표시되지 않습니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2518
+#: C/goscaja.xml:2516
 msgid "Hidden files, whose filename begins with a period (.),"
 msgstr "숨긴 파일, 파일 이름이 점(.)으로 시작합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2519
+#: C/goscaja.xml:2517
 msgid "Backup files, whose filename ends with a tilde (~)"
 msgstr "백업 파일, 파일 이름이 물결(~)로 끝납니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2520
+#: C/goscaja.xml:2518
 msgid ""
 "Files that are listed in a particular folder's <filename>.hidden</filename> "
 "file."
 msgstr "폴더의 <filename>.hidden</filename> 파일에 들어 있는 파일."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2523
+#: C/goscaja.xml:2521
 msgid ""
 "You may hide or show hidden files in a particular folder by selecting "
 "<menuchoice><guimenu>View</guimenu><guimenuitem>Show Hidden "
@@ -11350,26 +11336,26 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2525
+#: C/goscaja.xml:2523
 msgid ""
 "To set <application>Caja</application> to always show hidden files, see "
 "<xref linkend=\"caja-preferences\"/>."
 msgstr ""
-"<application>Caja</application>에서 항상 숨긴 파일을 표시하도록 만드려면, <xref linkend"
-"=\"caja-preferences\"/> 부분을 참고하십시오."
+"<application>Caja</application>에서 항상 숨긴 파일을 표시하도록 만드려면, <xref "
+"linkend=\"caja-preferences\"/> 부분을 참고하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2527
+#: C/goscaja.xml:2525
 msgid "Hiding a File or Folder"
 msgstr "파일이나 폴더 숨기기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2528
+#: C/goscaja.xml:2526
 msgid "<primary>create</primary> <secondary>hidden</secondary>"
 msgstr "<primary>만들기</primary> <secondary>숨김</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2532
+#: C/goscaja.xml:2530
 msgid ""
 "To hide a file or folder in <application>Caja</application>, either rename "
 "the file so its name begins with the period (.) character, or create a text "
@@ -11381,7 +11367,7 @@ msgstr ""
 " 그 안에 쓰십시오:"
 
 #. (itstool) path: section/programlisting
-#: C/goscaja.xml:2533
+#: C/goscaja.xml:2531
 #, no-wrap
 msgid ""
 "filename\n"
@@ -11391,7 +11377,7 @@ msgstr ""
 "폴더_이름"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2535
+#: C/goscaja.xml:2533
 msgid ""
 "You may need to refresh the relevant <application>Caja</application> window "
 "to see the change: press "
@@ -11401,22 +11387,22 @@ msgstr ""
 "<keycombo><keycap>Ctrl</keycap><keycap>R</keycap></keycombo> 키를 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2541
+#: C/goscaja.xml:2539
 msgid "Item Properties"
 msgstr "항목 속성"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2545
+#: C/goscaja.xml:2543
 msgid "<primary>file manager</primary> <secondary>properties</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>속성</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2549
+#: C/goscaja.xml:2547
 msgid "<primary>file manager</primary> <secondary>file properties</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>파일 속성</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2553
+#: C/goscaja.xml:2551
 msgid ""
 "The <guilabel>Item Properties</guilabel> window shows more information about"
 " any file, folder, or other item in the file manager. With this window, you "
@@ -11426,41 +11412,41 @@ msgstr ""
 "창으로 다음과 같은 일을 할 수 있습니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2556
+#: C/goscaja.xml:2554
 msgid "Change the icon for an item: see <xref linkend=\"caja-icon\"/>."
 msgstr "항목의 아이콘 바꾸기: <xref linkend=\"caja-icon\"/> 참고."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2557
+#: C/goscaja.xml:2555
 msgid "Add or remove emblems for an item: see <xref linkend=\"caja-emblems\"/>."
 msgstr "항목의 꼬리표 추가 또는 제거: <xref linkend=\"caja-emblems\"/> 참고."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2558
+#: C/goscaja.xml:2556
 msgid ""
 "Change the UNIX file permissions for an item: see <xref linkend=\"caja-"
 "permissions\"/>."
 msgstr "항목의 유닉스 파일 권한 바꾸기: <xref linkend=\"caja-permissions\"/> 참고."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2559
+#: C/goscaja.xml:2557
 msgid ""
 "Choose which application is used to open an item, and others of the same "
 "type."
 msgstr "항목을 열 때 (그 항목 및 같은 종류의 항목에 대해) 어떤 응용 프로그램을 사용할 지 선택합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2560
+#: C/goscaja.xml:2558
 msgid "Add notes to an item: see <xref linkend=\"caja-notes\"/>."
 msgstr "항목에 메모 추가: <xref linkend=\"caja-notes\"/> 참고."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2562
+#: C/goscaja.xml:2560
 msgid "To open the item properties window, perform the following steps:"
 msgstr "항목 속성 창을 열려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2564
+#: C/goscaja.xml:2562
 msgid ""
 "Select the item whose properties you want to examine or change. If you "
 "select more than one item, the properties window will show the properties "
@@ -11469,45 +11455,45 @@ msgstr ""
 "속성을 살펴보거나 바꾸려는 항목을 선택하십시오. 여러 개의 항목을 선택한 경우, 그 항목에 대해 공통인 속성을 속성 창에 표시합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2566
+#: C/goscaja.xml:2564
 msgid "Do one of the following:"
 msgstr "다음 중 하나를 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2568
+#: C/goscaja.xml:2566
 msgid ""
 "Choose <menuchoice> "
 "<guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2570
+#: C/goscaja.xml:2568
 msgid ""
 "Right-click on the selected item and choose "
 "<guimenuitem>Properties</guimenuitem>."
 msgstr "선택한 항목에 마우스 오른쪽 버튼을 누르고 <guimenuitem>속성</guimenuitem>을 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2571
+#: C/goscaja.xml:2569
 msgid ""
 "Press <keycombo><keycap>Alt</keycap><keycap>Return</keycap></keycombo>."
 msgstr ""
 "<keycombo><keycap>Alt</keycap><keycap>Return</keycap></keycombo>을 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2578
+#: C/goscaja.xml:2576
 msgid "Modifying the Appearance of Files and Folders"
 msgstr "파일과 폴더의 모양 바꾸기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2579
+#: C/goscaja.xml:2577
 msgid ""
 "<primary>file manager</primary> <secondary>modifying appearance of files and"
 " folders</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>파일 및 폴더 모양새 수정하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2583
+#: C/goscaja.xml:2581
 msgid ""
 "The <application>Caja</application> file manager enables you to modify the "
 "appearance of your files and folders in several ways. You may customize the "
@@ -11521,12 +11507,12 @@ msgstr ""
 "설명합니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2585
+#: C/goscaja.xml:2583
 msgid "Icons and Emblems"
 msgstr "아이콘 및 꼬리표"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2586
+#: C/goscaja.xml:2584
 msgid ""
 "<primary>file manager</primary> <secondary>icons</secondary> "
 "<tertiary>introduction</tertiary>"
@@ -11534,19 +11520,19 @@ msgstr ""
 "<primary>파일 관리자</primary> <secondary>아이콘</secondary> <tertiary>소개</tertiary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2591
+#: C/goscaja.xml:2589
 msgid ""
 "<primary>file manager</primary> <secondary>emblems</secondary> "
 "<see>emblems</see>"
 msgstr "<primary>파일 관리자</primary> <secondary>꼬리표</secondary> <see>꼬리표</see>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2596
+#: C/goscaja.xml:2594
 msgid "<primary>emblems</primary> <secondary>introduction</secondary>"
 msgstr "<primary>꼬리표</primary> <secondary>소개</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2600
+#: C/goscaja.xml:2598
 msgid ""
 "The file manager displays your files and folders as icons. Depending on the "
 "type of the file the icon may be a image representative of the file type, a "
@@ -11566,7 +11552,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2604
+#: C/goscaja.xml:2602
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_emblem.png' "
@@ -11576,7 +11562,7 @@ msgstr ""
 "md5='4dfffab4440360f5b2a307b42fa50691'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2602
+#: C/goscaja.xml:2600
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_emblem.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>File icon with "
@@ -11587,7 +11573,7 @@ msgstr ""
 "</textobject>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2612
+#: C/goscaja.xml:2610
 msgid ""
 "Notice how the file on the left is distinguished from the file on the right "
 "by the addition of the <guilabel>Important (!)</guilabel> emblem to its "
@@ -11597,46 +11583,46 @@ msgstr ""
 "꼬리표 추가에 대해 자세한 내용은 <xref linkend=\"caja-emblems\"/> 부분을 참조하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2613
+#: C/goscaja.xml:2611
 msgid ""
 "The file manager automatically applies emblems for the following types of "
 "files:"
 msgstr "다음 종류의 파일에 대해서는 파일 관리자에서 자동으로 꼬리표를 적용합니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2616
+#: C/goscaja.xml:2614
 msgid "Symbolic links"
 msgstr "심볼릭 링크"
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:2619
+#: C/goscaja.xml:2617
 msgid "<primary>permissions</primary><secondary>and emblems</secondary>"
 msgstr "<primary>권한</primary><secondary>및 꼬리표</secondary>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2619
+#: C/goscaja.xml:2617
 msgid "Items for which you have the following permissions:<_:indexterm-1/>"
 msgstr ""
 
 #. (itstool) path: listitem/para
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2622 C/goscaja.xml:2694
+#: C/goscaja.xml:2620 C/goscaja.xml:2692
 msgid "No read permission"
 msgstr "읽기 권한 없음"
 
 #. (itstool) path: listitem/para
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2625 C/goscaja.xml:2677
+#: C/goscaja.xml:2623 C/goscaja.xml:2675
 msgid "No write permission"
 msgstr "쓰기 권한 없음"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2630
+#: C/goscaja.xml:2628
 msgid "The following table shows the default emblems:"
 msgstr "다음 표는 기본값 꼬리표입니다:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2638
+#: C/goscaja.xml:2636
 msgid "Default Emblem"
 msgstr "기본 꼬리표"
 
@@ -11645,7 +11631,7 @@ msgstr "기본 꼬리표"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2651
+#: C/goscaja.xml:2649
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_link_emblem.png' "
@@ -11655,7 +11641,7 @@ msgstr ""
 "md5='7fefb663977d2a003bc86b8eb61e9100'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2649
+#: C/goscaja.xml:2647
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_link_emblem.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Symbolic link "
@@ -11666,12 +11652,12 @@ msgstr ""
 "</textobject>"
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:2660
+#: C/goscaja.xml:2658
 msgid "<primary>symbolic links</primary><secondary>and emblems</secondary>"
 msgstr "<primary>심볼릭 링크</primary><secondary>및 꼬리표</secondary>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:2660
+#: C/goscaja.xml:2658
 msgid "<_:indexterm-1/>Symbolic link"
 msgstr ""
 
@@ -11680,7 +11666,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2668
+#: C/goscaja.xml:2666
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_nowrite_emblem.png' "
@@ -11690,7 +11676,7 @@ msgstr ""
 "md5='06a5b7050d82e38d2f54048a1f698092'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2666
+#: C/goscaja.xml:2664
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_nowrite_emblem.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>No write permission "
@@ -11705,7 +11691,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/goscaja.xml:2685
+#: C/goscaja.xml:2683
 msgctxt "_"
 msgid ""
 "external ref='figures/caja_noread_emblem.png' "
@@ -11715,7 +11701,7 @@ msgstr ""
 "md5='e54419d1a042a072d0a56effcc13278a'"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/goscaja.xml:2683
+#: C/goscaja.xml:2681
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/caja_noread_emblem.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>No read permission "
@@ -11726,12 +11712,12 @@ msgstr ""
 "없습니다.</phrase> </textobject>"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2701
+#: C/goscaja.xml:2699
 msgid "Changing the Icon for a File or Folder"
 msgstr "파일이나 폴더의 아이콘 바꾸기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2703
+#: C/goscaja.xml:2701
 msgid ""
 "<primary>file manager</primary> <secondary>icons</secondary> "
 "<tertiary>changing</tertiary>"
@@ -11740,19 +11726,19 @@ msgstr ""
 "<tertiary>변경하기</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2708
+#: C/goscaja.xml:2706
 msgid ""
 "To change the icon that represents an individual file or folder, perform the"
 " following steps:"
 msgstr "각 파일과 폴더의 아이콘을 바꾸려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2712
+#: C/goscaja.xml:2710
 msgid "Select the file or folder that you want to change."
 msgstr "바꾸려는 파일이나 폴더를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2718
+#: C/goscaja.xml:2716
 msgid ""
 "On the <guilabel>Basic</guilabel> tabbed section, click on the current "
 "<guibutton>Icon</guibutton>. A <guilabel>Select custom icon</guilabel> "
@@ -11762,7 +11748,7 @@ msgstr ""
 "<guilabel>사용자 선택 아이콘</guilabel> 대화 창을 표시합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2723
+#: C/goscaja.xml:2721
 msgid ""
 "Use the <guilabel>Select custom icon</guilabel> dialog to choose the icon to"
 " represent the file or folder."
@@ -11770,87 +11756,83 @@ msgstr ""
 "<guilabel>사용자 선택 아이콘</guilabel> 대화 창을 이용해 그 파일이나 폴더에 해당하는 아이콘을 선택하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2730
+#: C/goscaja.xml:2728
 msgid ""
 "To restore an icon from a custom icon to the default icon, Select the file "
 "or folder that you want to change, choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
-" click on the <guibutton>Icon</guibutton> button, in the <guilabel>Select "
+" Click on the <guibutton>Icon</guibutton> button, in the <guilabel>select "
 "custom icon</guilabel> dialog click <guibutton>Revert</guibutton>."
 msgstr ""
-"사용자 설정 아이콘을 기본 아이콘으로 되돌리려면, 바꾸려는 파일이나 폴더를 선택하고, "
-"<menuchoice><guimenu>파일</guimenu><guimenuitem>속성</guimenuitem></menuchoice>을"
-" 선택하십시오. <guibutton>아이콘</guibutton> 버튼을 누르고, <guilabel>사용자 선택 아이콘</guilabel>"
-" 대화 창에서 <guibutton>되돌리기</guibutton>를 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2736
+#: C/goscaja.xml:2734
 msgid "Adding an Emblem to a File or Folder"
 msgstr "파일이나 폴더에 꼬리표 추가하기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2739
+#: C/goscaja.xml:2737
 msgid "<primary>emblems</primary> <secondary>adding to file</secondary>"
 msgstr "<primary>꼬리표</primary> <secondary>파일에 추가하기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2743
+#: C/goscaja.xml:2741
 msgid "<primary>emblems</primary> <secondary>adding to folder</secondary>"
 msgstr "<primary>꼬리표</primary> <secondary>폴더에 추가하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2747
+#: C/goscaja.xml:2745
 msgid "To add an emblem to an item perform the following steps:"
 msgstr "항목에 꼬리표를 추가하려면 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2750
+#: C/goscaja.xml:2748
 msgid "Select the item to which you want to add an emblem."
 msgstr "꼬리표를 추가하려는 항목을 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2753
+#: C/goscaja.xml:2751
 msgid ""
 "Right-click on the item, then choose <guimenuitem>Properties</guimenuitem>. "
 "The <xref linkend=\"caja-properties\"/> for the item is displayed."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2756
+#: C/goscaja.xml:2754
 msgid ""
 "Click on the <guilabel>Emblems</guilabel> tab to display the "
 "<guilabel>Emblems</guilabel> tabbed section."
 msgstr "<guilabel>꼬리표</guilabel> 탭을 누르면 <guilabel>꼬리표</guilabel> 탭 섹션을 표시합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2759
+#: C/goscaja.xml:2757
 msgid "Select the emblem to add to the item."
 msgstr "그 항목에 추가하려는 꼬리표를 선택하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2765
+#: C/goscaja.xml:2763
 msgid ""
 "In browser windows you may also add emblems to items by dragging them from "
 "the emblem side pane."
 msgstr "찾아보기 창에서는 꼬리표 가장자리 창에서 꼬리표를 해당 항목으로 끌어서 꼬리표를 추가할 수도 있습니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2768
+#: C/goscaja.xml:2766
 msgid "Creating a New Emblem"
 msgstr "새 꼬리표 만들기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2770
+#: C/goscaja.xml:2768
 msgid "<primary>emblems</primary> <secondary>adding new</secondary>"
 msgstr "<primary>꼬리표</primary> <secondary>새로 추가하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2774
+#: C/goscaja.xml:2772
 msgid "To Create a new emblem, perform the following steps:"
 msgstr "새 꼬리표를 만드려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2777
+#: C/goscaja.xml:2775
 msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Backgrounds and "
 "Emblems</guimenuitem></menuchoice>."
@@ -11859,7 +11841,7 @@ msgstr ""
 "꼬리표</guimenuitem></menuchoice>를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2780
+#: C/goscaja.xml:2778
 msgid ""
 "Click on the <guibutton>Emblem</guibutton> button, then click on the "
 "<guibutton>Add a New Emblem</guibutton> button. A <guilabel>Create a New "
@@ -11869,13 +11851,13 @@ msgstr ""
 "누르십시오. <guilabel>새 꼬리표 만들기</guilabel> 대화 창이 나타납니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2785
+#: C/goscaja.xml:2783
 msgid ""
 "Type a name for the emblem in the <guilabel>Keyword</guilabel> text box."
 msgstr "<guilabel>키워드</guilabel> 텍스트 창에서 꼬리표의 이름을 입력하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2788
+#: C/goscaja.xml:2786
 msgid ""
 "Click on the <guilabel>Image</guilabel> button. A dialog is displayed, click"
 " <guibutton>Browse</guibutton>. When you choose an emblem, click "
@@ -11885,7 +11867,7 @@ msgstr ""
 "누르십시오. 꼬리표를 선택한 다음에 <guibutton>확인</guibutton>을 누르십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2793
+#: C/goscaja.xml:2791
 msgid ""
 "Click <guibutton>OK</guibutton> on the <guilabel>Create a New "
 "Emblem</guilabel> dialog."
@@ -11893,25 +11875,25 @@ msgstr ""
 "<guilabel>새 꼬리표 만들기</guilabel> 대화 창에서 <guibutton>확인</guibutton>을 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2799
+#: C/goscaja.xml:2797
 msgid "Changing Backgrounds"
 msgstr "배경 바꾸기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2804
+#: C/goscaja.xml:2802
 msgid ""
 "<primary>file manager</primary> <secondary>changing backgrounds</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>배경 변경하기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2808
+#: C/goscaja.xml:2806
 msgid ""
 "<primary>backgrounds</primary> <secondary>changing screen "
 "component</secondary>"
 msgstr "<primary>배경</primary> <secondary>화면 구성 요소 변경하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2812
+#: C/goscaja.xml:2810
 msgid ""
 "The file manager includes background patterns and emblems that you can use "
 "to change the appearance of your folders. Background patterns and emblems "
@@ -11920,14 +11902,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2816
+#: C/goscaja.xml:2814
 msgid ""
 "To change the background of a window, pane, or panel, perform the following "
 "steps:"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2820
+#: C/goscaja.xml:2818
 msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Backgrounds and "
 "Emblems</guimenuitem></menuchoice> in any file manager window. The "
@@ -11938,7 +11920,7 @@ msgstr ""
 "상자가 표시됩니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2824
+#: C/goscaja.xml:2822
 msgid ""
 "Click the <guibutton>Patterns</guibutton> button or the "
 "<guibutton>Colors</guibutton> button to see a list of background patterns or"
@@ -11946,7 +11928,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2828
+#: C/goscaja.xml:2826
 msgid ""
 "To change the background, drag a pattern or color to the desired window, "
 "pane, or panel. To reset the background, drag the <guilabel>Reset</guilabel>"
@@ -11954,7 +11936,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2834
+#: C/goscaja.xml:2832
 msgid ""
 "You can set the background of all folders in the file manager by dragging a "
 "pattern or color with your right or middle mouse button. When you release "
@@ -11963,7 +11945,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2838
+#: C/goscaja.xml:2836
 msgid ""
 "You can add a new pattern to the list by clicking the <guibutton>Add a New "
 "Pattern</guibutton> button when the patterns are selected. Locate an image "
@@ -11972,7 +11954,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2842
+#: C/goscaja.xml:2840
 msgid ""
 "You can add a new color to the list by clicking the <guibutton>Add a New "
 "Color</guibutton> button when the colors are selected. Select a color in the"
@@ -11981,17 +11963,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2849
+#: C/goscaja.xml:2847
 msgid "Using Removable Media"
 msgstr "이동식 미디어 사용하기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2853
+#: C/goscaja.xml:2851
 msgid "<primary>removable media</primary> <secondary>introduction</secondary>"
 msgstr "<primary>제거 가능한 미디어</primary> <secondary>소개</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2857
+#: C/goscaja.xml:2855
 msgid ""
 "The file manager can initiate various actions when removable media appear, "
 "such as mounting it, opening a file manager window showing its contents, or "
@@ -12001,17 +11983,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2865
+#: C/goscaja.xml:2863
 msgid "To Mount Media"
 msgstr "미디어를 마운트하려면"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2866
+#: C/goscaja.xml:2864
 msgid "<primary>removable media</primary> <secondary>mounting</secondary>"
 msgstr "<primary>제거 가능한 미디어</primary> <secondary>마운트하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2870
+#: C/goscaja.xml:2868
 msgid ""
 "To <firstterm>mount</firstterm> media is to make the file system of the "
 "media available for access. When you mount media, the file system of the "
@@ -12021,7 +12003,7 @@ msgstr ""
 "마운트하면, 그 미디어의 파일 시스템이 컴퓨터의 파일 시스템의 서브 디렉토리로 붙습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2873
+#: C/goscaja.xml:2871
 msgid ""
 "To mount media, insert the media in the appropriate device. An icon that "
 "represents the media is added to the desktop. The icon is added only if your"
@@ -12030,53 +12012,53 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2877
+#: C/goscaja.xml:2875
 msgid ""
 "If your system is not configured to mount the device automatically, you must"
 " mount the device manually. Double-click on the "
-"<guilabel>Computer</guilabel> icon from the desktop. A <guilabel>Computer "
-"</guilabel> dialog is displayed. Double-click on the icon that represents "
-"the media. For example, to mount a floppy diskette, double-click on the "
-"<guilabel>Floppy</guilabel> icon. An icon that represents the media is added"
-" to the desktop."
+"<guilabel>Computer</guilabel> icon from the desktop. A "
+"<guilabel>Computer</guilabel> dialog is displayed. Double-click on the icon "
+"that represents the media. For example, to mount a floppy diskette, double-"
+"click on the <guilabel>Floppy</guilabel> icon. An icon that represents the "
+"media is added to the desktop."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:2883
+#: C/goscaja.xml:2881
 msgid "You cannot change the name of a removable media icon."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2887
+#: C/goscaja.xml:2885
 msgid "To Display Media Contents"
 msgstr "미디어 내용을 표시하려면"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2888
+#: C/goscaja.xml:2886
 msgid ""
 "<primary>removable media</primary> <secondary>displaying media "
 "contents</secondary>"
 msgstr "<primary>제거 가능한 미디어</primary> <secondary>미디어 내용 표시하기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2892
+#: C/goscaja.xml:2890
 msgid "You can display media contents in any of the following ways:"
 msgstr "다음 방법으로 미디어의 내용을 표시할 수 있습니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2895
+#: C/goscaja.xml:2893
 msgid "Double-click on the icon that represents the media on the desktop."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2898
+#: C/goscaja.xml:2896
 msgid ""
 "Right-click on the icon that represents the media on the desktop, then "
 "choose <guimenuitem>Open</guimenuitem>."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2902
+#: C/goscaja.xml:2900
 msgid ""
 "A file manager window displays the contents of the media. To reload the "
 "display, click on the <guibutton>Reload</guibutton> button."
@@ -12085,19 +12067,19 @@ msgstr ""
 "읽기</guibutton> 버튼을 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2906
+#: C/goscaja.xml:2904
 msgid "To Display Media Properties"
 msgstr "미디어 속성을 표시하려면"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2907
+#: C/goscaja.xml:2905
 msgid ""
 "<primary>removable media</primary> <secondary>displaying media "
 "properties</secondary>"
 msgstr "<primary>제거 가능한 미디어</primary> <secondary>표시하기 미디어 속성</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2911
+#: C/goscaja.xml:2909
 msgid ""
 "To display the properties of removable media, right-click on the icon that "
 "represents the media on the desktop, then choose "
@@ -12106,22 +12088,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2913
+#: C/goscaja.xml:2911
 msgid "To close the properties dialog, click <guibutton>Close</guibutton>."
 msgstr "속성 대화 창을 닫으려면, <guibutton>닫기</guibutton>를 누르십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2916
+#: C/goscaja.xml:2914
 msgid "To Eject Media"
 msgstr "미디어를 꺼내려면"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2917
+#: C/goscaja.xml:2915
 msgid "<primary>removable media</primary> <secondary>ejecting</secondary>"
 msgstr "<primary>제거 가능한 미디어</primary> <secondary>꺼내기</secondary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2921
+#: C/goscaja.xml:2919
 msgid ""
 "To eject media, right-click on the media icon on the desktop, then choose "
 "<guimenuitem>Eject</guimenuitem>. If the drive for the media is a motorized "
@@ -12131,7 +12113,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2926
+#: C/goscaja.xml:2924
 msgid ""
 "You cannot eject media from a motorized drive when the media is mounted. To "
 "eject media, first unmount the media. For example, to remove a USB flash "
@@ -12139,14 +12121,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2930
+#: C/goscaja.xml:2928
 msgid ""
 "Close all file manager windows, <application>Terminal</application> windows,"
 " and any other windows that access the USB drive."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2934
+#: C/goscaja.xml:2932
 msgid ""
 "Right-click on the icon that represents the drive on the desktop, then "
 "choose <guimenuitem>Eject</guimenuitem>. The desktop icon for the drive "
@@ -12154,12 +12136,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2939
+#: C/goscaja.xml:2937
 msgid "Remove the USB flash drive."
 msgstr ""
 
 #. (itstool) path: caution/para
-#: C/goscaja.xml:2943
+#: C/goscaja.xml:2941
 msgid ""
 "You must unmount removable media before ejecting. Do not remove a USB flash "
 "drive before you unmount the flash drive. If you do not unmount the media "
@@ -12167,32 +12149,32 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2948
+#: C/goscaja.xml:2946
 msgid "Writing CDs or DVDs"
 msgstr "CD 또는 DVD에 쓰기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2952
+#: C/goscaja.xml:2950
 msgid "<primary>file manager</primary> <secondary>writing CDs</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>CD 쓰기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2956
+#: C/goscaja.xml:2954
 msgid "<primary>CDs, writing</primary>"
 msgstr "<primary>CD, 쓰기</primary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2959
+#: C/goscaja.xml:2957
 msgid "<primary>writing CDs</primary>"
 msgstr "<primary>CD 쓰기</primary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:2962
+#: C/goscaja.xml:2960
 msgid "<primary>burning CDs</primary> <see>writing CDs</see>"
 msgstr "<primary>CD 굽기</primary> <see>CD 쓰기</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2966
+#: C/goscaja.xml:2964
 msgid ""
 "Writing to a CD or DVD may be useful for backing up your important "
 "documents. To do this, your computer must have a CD or DVD writer."
@@ -12200,7 +12182,7 @@ msgstr ""
 "중요 문서를 백업할 때 CD나 DVD에 쓰면 편리합니다. CD나 DVD에 쓰려면, 컴퓨터에 CD 라이터나 DVD 라이터가 있어야 합니다."
 
 #. (itstool) path: tip/para
-#: C/goscaja.xml:2968
+#: C/goscaja.xml:2966
 msgid ""
 "A simple way to check what sort of CD or DVD drive your computer has is to "
 "choose "
@@ -12215,7 +12197,7 @@ msgstr ""
 " 이름에 \"CD-RW\" 또는 \"DVD(+-)R\"과 같은 용어가 있으면, 컴퓨터에서 디스크를 쓸 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2970
+#: C/goscaja.xml:2968
 msgid ""
 "You can start choosing files to burn to a disc at any time. The file manager"
 " provides a special folder for files and folders that you wish to write to a"
@@ -12224,17 +12206,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:2973
+#: C/goscaja.xml:2971
 msgid "Creating Data Discs"
 msgstr "데이터 디스크 만들기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:2975
+#: C/goscaja.xml:2973
 msgid "To write a CD or DVD, perform the following steps:"
 msgstr "CD나 DVD를 쓰려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2978
+#: C/goscaja.xml:2976
 msgid ""
 "Open <menuchoice><guimenu>Applications</guimenu><guimenu>System "
 "Tools</guimenu><guimenuitem>CD/DVD Creator</guimenuitem></menuchoice>. The "
@@ -12242,27 +12224,27 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:2979
+#: C/goscaja.xml:2977
 msgid ""
 "In a File Browser window, the <guimenuitem>CD/DVD Creator</guimenuitem> item"
 " is available in the <guimenu>Go</guimenu> menu."
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2982
+#: C/goscaja.xml:2980
 msgid ""
 "Drag the files and folders that you want to write to CD or DVD to the CD/DVD"
 " Creator folder."
 msgstr "CD나 DVD에 쓰려는 파일과 폴더를 CD/DVD 만들기 폴더에 끌어 놓으십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2986
+#: C/goscaja.xml:2984
 msgid ""
 "Insert a writable CD or DVD into the CD/DVD writer device on your system."
 msgstr "시스템의 CD/DVD 라이터 장치에 쓰기 가능한 CD나 DVD를 넣으십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2989
+#: C/goscaja.xml:2987
 msgid ""
 "Press the <guibutton>Write to Disc</guibutton> button, or choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Write to "
@@ -12275,19 +12257,19 @@ msgstr ""
 "나타납니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:2992
+#: C/goscaja.xml:2990
 msgid ""
 "Use the <guilabel>Write to Disc</guilabel> dialog to specify how you want to"
 " write the CD, as follows:"
 msgstr "<guilabel>디스크에 쓰기</guilabel> 대화 창에서 다음과 같이 CD에 쓰는 방법을 지정하십시오:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3011
+#: C/goscaja.xml:3009
 msgid "<guilabel>Write disc to</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3016
+#: C/goscaja.xml:3014
 msgid ""
 "Select the device to which you want to write the CD from the drop-down list."
 " To create an CD image file, select the <guilabel>File image</guilabel> "
@@ -12296,45 +12278,45 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3022
+#: C/goscaja.xml:3020
 msgid "<guilabel>Disc name</guilabel>"
 msgstr "<guilabel>디스크 이름</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3027
+#: C/goscaja.xml:3025
 msgid "Type a name for the CD in the text box."
 msgstr "CD의 이름을 텍스트 입력란에 입력하십시오."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3032
+#: C/goscaja.xml:3030
 msgid "<guilabel>Data size</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3037
+#: C/goscaja.xml:3035
 msgid ""
 "Shows the size of the data to be written to disc. The blank disk must be at "
 "least this size."
 msgstr "디스크에 쓸 데이터의 크기를 표시합니다. 새로 쓸 빈 디스크의 크기는 최소한 이 크기보다 커야 합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3043
+#: C/goscaja.xml:3041
 msgid "<guilabel>Write speed</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3048
+#: C/goscaja.xml:3046
 msgid ""
 "Select the speed at which you want to write the CD from the drop-down list."
 msgstr "CD에 쓸 때 사용할 속도를 드롭다운 목록에서 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3057
+#: C/goscaja.xml:3055
 msgid "Click on the <guibutton>Write</guibutton> button."
 msgstr "<guibutton>쓰기</guibutton> 버튼을 누르십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3058
+#: C/goscaja.xml:3056
 msgid ""
 "If you selected the <guilabel>File image</guilabel> option from the "
 "<guilabel>Target to write to</guilabel> drop-down list, a <guilabel>Choose a"
@@ -12347,7 +12329,7 @@ msgstr ""
 " 위치를 지정하십시오. 기본값으로 디스크 이미지 파일에는 <filename>.iso</filename> 파일 확장자가 붙습니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3062
+#: C/goscaja.xml:3060
 msgid ""
 "A <guilabel>Writing disc</guilabel> dialog is displayed. This process takes "
 "some time. When the disc is written or when the disc image file is created, "
@@ -12358,14 +12340,14 @@ msgstr ""
 "이미지 파일을 다 만들면, 작업이 끝났다는 메세지를 이 대화 창에 표시합니다."
 
 #. (itstool) path: tip/para
-#: C/goscaja.xml:3067
+#: C/goscaja.xml:3065
 msgid ""
 "You can set the CD/DVD Creator folder to open automatically when you insert "
 "a blank disc. See <xref linkend=\"goscaja-61\"/>."
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:3068
+#: C/goscaja.xml:3066
 msgid ""
 "The filesystem written to the CD will be readable with long filenames on all"
 " recent operating systems. Both the Joliet and the Rock Ridge CD-ROM "
@@ -12375,12 +12357,12 @@ msgstr ""
 "파일 시스템 확장을 모두 이용합니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3071
+#: C/goscaja.xml:3069
 msgid "Copying CDs or DVDs"
 msgstr "CD 또는 DVD 복사하기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3072
+#: C/goscaja.xml:3070
 msgid ""
 "You can create a copy of a CD or DVD, either to another disc or to an image "
 "file stored on your computer. To create a copy, perform the following steps:"
@@ -12388,12 +12370,12 @@ msgstr ""
 "디스크나 컴퓨터에 저장한 이미지 파일을 이용해 CD나 DVD를 복사할 수 있습니다. 복사본을 만드려면, 다음 순서대로 하십시오:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3074
+#: C/goscaja.xml:3072
 msgid "Insert the disc you want to copy."
 msgstr "복사하려는 디스크를 넣으십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3075
+#: C/goscaja.xml:3073
 msgid ""
 "Choose "
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Computer</guimenuitem></menuchoice>"
@@ -12403,18 +12385,18 @@ msgstr ""
 "<guimenuitem>컴퓨터</guimenuitem></menuchoice>를 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3076
+#: C/goscaja.xml:3074
 msgid ""
 "Right-click on the CD icon, and choose <guimenuitem>Copy Disc</guimenuitem>."
 msgstr "CD 아이콘에 마우스 오른쪽 버튼을 누르고, <guimenuitem>디스크 복사</guimenuitem>을 선택하십시오."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3077
+#: C/goscaja.xml:3075
 msgid "The <guilabel>Write to Disc</guilabel> dialog is displayed."
 msgstr "<guilabel>디스크에 쓰기</guilabel> 대화 창이 나타납니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3079
+#: C/goscaja.xml:3077
 msgid ""
 "If you have only one drive with write capabilities, the process will first "
 "create a disc image file on your computer. It will then eject the original "
@@ -12424,7 +12406,7 @@ msgstr ""
 "사용할 비어있는 디스크로 바꾸라고 안내합니다."
 
 #. (itstool) path: tip/para
-#: C/goscaja.xml:3080
+#: C/goscaja.xml:3078
 msgid ""
 "If you want to create more than one copy, choose the Image File option on "
 "the <guilabel>Write to Disc</guilabel> and then write the disc image: see "
@@ -12434,12 +12416,12 @@ msgstr ""
 "<xref linkend=\"caja-cdwriter-writeimage\"/> 부분을 참고하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3083
+#: C/goscaja.xml:3081
 msgid "Creating a Disc from an Image File"
 msgstr "이미지 파일에서 디스크 만들기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3084
+#: C/goscaja.xml:3082
 msgid ""
 "You can write a disc image to a CD or DVD. For example, you may have "
 "downloaded a disc image from the internet, or previously created one "
@@ -12451,7 +12433,7 @@ msgstr ""
 "합니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3085
+#: C/goscaja.xml:3083
 msgid ""
 "To write a disc image, right-click on the disc image file, then choose "
 "<guimenuitem>Write to Disc</guimenuitem> from the popup menu."
@@ -12460,12 +12442,12 @@ msgstr ""
 "쓰기</guimenuitem>를 선택하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3089
+#: C/goscaja.xml:3087
 msgid "Navigating Remote Servers"
 msgstr "원격 서버 둘러보기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3090
+#: C/goscaja.xml:3088
 msgid ""
 "The <application>Caja</application> file manager provides an integrated "
 "access point to your files, applications, FTP sites, Windows shares, WebDav "
@@ -12475,17 +12457,17 @@ msgstr ""
 "WebDAV 서버, SSH 서버를 통합된 방법으로 접근할 수 있습니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3093
+#: C/goscaja.xml:3091
 msgid "To Access a remote server"
 msgstr "원격 서버에 접근하려면"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3100
+#: C/goscaja.xml:3098
 msgid "<primary>FTP sites</primary> <secondary>accessing</secondary>"
 msgstr "<primary>FTP 사이트</primary> <secondary>접속하기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3104
+#: C/goscaja.xml:3102
 msgid ""
 "<primary>file manager</primary> <secondary>FTP sites</secondary> <see>FTP "
 "sites</see>"
@@ -12493,7 +12475,7 @@ msgstr ""
 "<primary>파일 관리자</primary> <secondary>FTP 사이트</secondary> <see>FTP 사이트</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3109
+#: C/goscaja.xml:3107
 msgid ""
 "You can use the file manager to access a remote server, be it an FTP site, a"
 " Windows share, a WebDav server or an SSH server."
@@ -12502,7 +12484,7 @@ msgstr ""
 "접근할 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3111
+#: C/goscaja.xml:3109
 msgid ""
 "To access a remote server, choose "
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Connect to "
@@ -12517,48 +12499,48 @@ msgstr ""
 "연결</guimenuitem></menuchoice>을 선택하여 메뉴 모음에서 이 대화상자에 접근할 수도 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3113
+#: C/goscaja.xml:3111
 msgid ""
 "To connect to a remote server, start by choosing the service type, then "
 "enter the server address."
 msgstr "원격 서버에 연결하려면, 서비스 종류를 먼저 선택하고, 서버 주소를 입력하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3114
+#: C/goscaja.xml:3112
 msgid ""
 "If required by your server, you may provide the following optional "
-"information :"
-msgstr "서버에서 필요한 경우, 다음 정보를 추가로 입력해야 할 수도 있습니다:"
+"information:"
+msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3132
+#: C/goscaja.xml:3130
 msgid "<guilabel>Port</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3137
+#: C/goscaja.xml:3135
 msgid ""
 "Port to connect to on the server. This should only be used if it is "
 "necessary to change the default port, you would normally leave this blank."
 msgstr "서버에 연결할 때 사용할 포트. 기본 포트를 바꿔야 할 경우에만 필요합니다. 이 부분은 보통 비워 놔도 됩니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3143
+#: C/goscaja.xml:3141
 msgid "<guilabel>Folder</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3148
+#: C/goscaja.xml:3146
 msgid "Folder to open upon connecting to server."
 msgstr "서버에 연결할 때 열 폴더."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3153
+#: C/goscaja.xml:3151
 msgid "<guilabel>User Name</guilabel>"
 msgstr "<guilabel>사용자 이름</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3158
+#: C/goscaja.xml:3156
 msgid ""
 "The user name of the account used to connect to the server. This should be "
 "supplied with the connection information if needed. The user name "
@@ -12566,39 +12548,39 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3165
+#: C/goscaja.xml:3163
 msgid "<guilabel>Name to use for connection</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3170
+#: C/goscaja.xml:3168
 msgid ""
 "The designation of the connection as it will appear in the file manager."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3175
+#: C/goscaja.xml:3173
 msgid "<guilabel>Share</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3180
+#: C/goscaja.xml:3178
 msgid ""
 "Name of desired windows share. This is only applicable to Windows shares."
 msgstr "연결하려는 윈도우즈 공유의 이름. 윈도우즈 공유의 경우에만 사용할 수 있습니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3185
+#: C/goscaja.xml:3183
 msgid "<guilabel>Domain name</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3190
+#: C/goscaja.xml:3188
 msgid "Windows domain. This is only applicable to Windows shares."
 msgstr "윈도우즈 도메인. 윈도우즈 공유의 경우에만 사용할 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3196
+#: C/goscaja.xml:3194
 msgid ""
 "If the server information is provided in the form of a URI, or you require a"
 " specialized connection, choose <menuchoice><guimenuitem>Custom "
@@ -12608,7 +12590,7 @@ msgstr ""
 "설정 위치</guimenuitem></menuchoice>를 선택하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3197
+#: C/goscaja.xml:3195
 msgid ""
 "Once you have filled in the information, click on the "
 "<guibutton>Connect</guibutton> button. When the connection succeeds, the "
@@ -12619,17 +12601,17 @@ msgstr ""
 "표시됩니다. 그러면 원격 서버의 파일을 끌어 오거나 원격 서버로 끌어 놓을 수 있습니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3201
+#: C/goscaja.xml:3199
 msgid "To Access Network Places"
 msgstr "네트워크 위치에 접근하려면"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3208
+#: C/goscaja.xml:3206
 msgid "<primary>network places</primary> <secondary>accessing</secondary>"
 msgstr "<primary>네트워크 환경</primary> <secondary>접속하기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3212
+#: C/goscaja.xml:3210
 msgid ""
 "<primary>file manager</primary> <secondary>network places</secondary> "
 "<see>network places</see>"
@@ -12637,14 +12619,14 @@ msgstr ""
 "<primary>파일 관리자</primary> <secondary>네트워크 환경</secondary> <see>네트워크 환경</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3217
+#: C/goscaja.xml:3215
 msgid ""
 "If your system is configured to access places on a network, you can use the "
 "file manager to access the network places."
 msgstr "네트워크의 위치에 접근하도록 시스템이 설정되어 있으면, 파일 관리자를 이용해 그 네트워크 위치에 접근할 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3220
+#: C/goscaja.xml:3218
 msgid ""
 "To access network places, open the file manager and choose "
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Network "
@@ -12658,69 +12640,69 @@ msgstr ""
 " 네트워크를 두 번 누르십시오."
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:3222
+#: C/goscaja.xml:3220
 msgid "<primary>NFS servers</primary><see>Unix network</see>"
 msgstr "<primary>NFS 서버</primary><see>Unix 네트워크</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3222
+#: C/goscaja.xml:3220
 msgid ""
 "<_:indexterm-1/>To access UNIX shares, double-click on the <guilabel>Unix "
-"Network (NFS) </guilabel> object. A list of the UNIX shares available to you"
-" is displayed in the file manager window."
+"Network (NFS)</guilabel> object. A list of the UNIX shares available to you "
+"is displayed in the file manager window."
 msgstr ""
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:3226
+#: C/goscaja.xml:3224
 msgid "<primary>Samba servers</primary><see>Windows network</see>"
 msgstr "<primary>Samba 서버</primary><see>네트워크 창 </see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3226
+#: C/goscaja.xml:3224
 msgid ""
 "<_:indexterm-1/>To access Windows shares, double-click on the "
-"<guilabel>Windows Network (SMB) </guilabel> object. A list of the Windows "
+"<guilabel>Windows Network (SMB)</guilabel> object. A list of the Windows "
 "shares available to you is displayed in the file manager window."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3232
+#: C/goscaja.xml:3230
 msgid "Accessing Special URI Locations"
 msgstr "특수 URI 위치에 접근하기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3233
+#: C/goscaja.xml:3231
 msgid ""
 "<primary>special URI locations</primary> <secondary>accessing</secondary>"
 msgstr "<primary>특수 URI 위치</primary> <secondary>접속하기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3237
+#: C/goscaja.xml:3235
 msgid ""
 "<primary>file manager</primary> <secondary>special URI locations</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>특수 URI 위치</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3241
+#: C/goscaja.xml:3239
 msgid "<primary>URI, special</primary> <see>special URI locations</see>"
 msgstr "<primary>URI, 특수</primary> <see>특수 URI 위치</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3245
+#: C/goscaja.xml:3243
 msgid ""
 "Caja has certain special URI locations that enable you to access particular "
 "functions from the file manager."
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3246
+#: C/goscaja.xml:3244
 msgid ""
 "These are intended for advanced users: in most cases, an easier method of "
 "accessing the function or location exists."
 msgstr "이 기능은 고급 사용자용 기능입니다. 보통은 이 기능 또는 위치에 접근할 때 이보다 더 쉬운 방법이 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3247
+#: C/goscaja.xml:3245
 msgid ""
 "<xref linkend=\"goscaja-TBL-479\"/> lists the special URI locations that you"
 " can use with the file manager."
@@ -12728,22 +12710,22 @@ msgstr ""
 "<xref linkend=\"goscaja-TBL-479\"/>에 파일 관리자에서 사용할 수 있는 특수 URI 위치 목록이 있습니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3249
+#: C/goscaja.xml:3247
 msgid "Special URI Locations"
 msgstr "특수 URI 위치"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3256
+#: C/goscaja.xml:3254
 msgid "URI Location"
 msgstr "URI 위치"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3266
+#: C/goscaja.xml:3264
 msgid "<command>burn:///</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3271
+#: C/goscaja.xml:3269
 msgid ""
 "This is a special location where you can copy files and folders that you "
 "want to write to a CD. From here you can write the contents of the location "
@@ -12753,12 +12735,12 @@ msgstr ""
 "linkend=\"caja-cdwriter\"/> 부분도 참고하십시오."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3277
+#: C/goscaja.xml:3275
 msgid "<command>network:///</command>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3282
+#: C/goscaja.xml:3280
 msgid ""
 "Displays network locations to which you can connect, if your system is "
 "configured to access locations on a network. To access a network location, "
@@ -12771,17 +12753,17 @@ msgstr ""
 "<xref linkend=\"caja-accessnetwork\"/> 부분도 참고하십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3295
+#: C/goscaja.xml:3293
 msgid "Caja Preferences"
 msgstr "Caja 기본 설정"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3303
+#: C/goscaja.xml:3301
 msgid "<primary>file manager</primary> <secondary>customizing</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>사용자화하기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3307
+#: C/goscaja.xml:3305
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>introduction</tertiary>"
@@ -12790,14 +12772,14 @@ msgstr ""
 "<tertiary>소개</tertiary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3312
+#: C/goscaja.xml:3310
 msgid ""
 "<primary>preferences, file manager</primary> <see>file manager "
 "preferences</see>"
 msgstr "<primary>기본 설정, 파일 관리자</primary> <see>파일 관리자 기본 설정</see>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3316
+#: C/goscaja.xml:3314
 msgid ""
 "Use the <guilabel>File Management Preferences</guilabel> dialog to customize"
 " the file manager to suit your requirements and preferences."
@@ -12805,7 +12787,7 @@ msgstr ""
 "<guilabel>파일 관리 기본 설정</guilabel> 대화 창에서 파일 관리자를 자기 필요와 취향에 맞게 설정할 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3318
+#: C/goscaja.xml:3316
 msgid ""
 "To display the <guilabel>File Management Preferences</guilabel> dialog, "
 "choose "
@@ -12823,48 +12805,48 @@ msgstr ""
 " 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3320
+#: C/goscaja.xml:3318
 msgid "You can set preferences in the following categories:"
 msgstr "다음 분류에 대해 기본 설정을 할 수 있습니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3323
+#: C/goscaja.xml:3321
 msgid "The default settings for views."
 msgstr "보기의 설정 기본값."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3326
+#: C/goscaja.xml:3324
 msgid "The behavior of files and folders, executable text files, and Trash."
 msgstr "파일 및 폴더, 실행 가능한 텍스트 파일, 휴지통의 동작."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3329
+#: C/goscaja.xml:3327
 msgid ""
 "The information that is displayed in icon captions and the date format."
 msgstr "아이콘 설명에 표시하는 정보 및 날짜 형식."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3332
+#: C/goscaja.xml:3330
 msgid "The columns that appear in the list view and their order."
 msgstr "목록 보기에 표시할 열 및 그 열의 순서"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3335
+#: C/goscaja.xml:3333
 msgid "Preview options to improve the performance of the file manager."
 msgstr "파일 관리자 성능 조정용 미리 보기 옵션."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3338
+#: C/goscaja.xml:3336
 msgid "How removable media and connected devices are handled."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3342 C/goscaja.xml:3356
+#: C/goscaja.xml:3340 C/goscaja.xml:3354
 msgid "Views Preferences"
 msgstr "보기 기본 설정"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3343
+#: C/goscaja.xml:3341
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>views</tertiary>"
@@ -12873,7 +12855,7 @@ msgstr ""
 "<tertiary>보기</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3348
+#: C/goscaja.xml:3346
 msgid ""
 "You can specify a default view, and select sort options and display options."
 " You can also specify default settings for icon views and list views."
@@ -12881,7 +12863,7 @@ msgstr ""
 "기본 보기를 지정할 수 있고, 정렬 옵션과 표시 옵션을 고를 수 있습니다. 아이콘 보기와 목록 보기의 기본 설정을 지정할 수도 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3351
+#: C/goscaja.xml:3349
 msgid ""
 "To specify your default view settings, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -12893,132 +12875,132 @@ msgstr ""
 "<guilabel>보기</guilabel> 탭 섹션을 표시하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3354
+#: C/goscaja.xml:3352
 msgid ""
 "<xref linkend=\"goscaja-TBL-30\"/> lists the views preferences that you can "
 "modify."
 msgstr "<xref linkend=\"goscaja-TBL-30\"/>에 바꿀 수 있는 보기 기본 설정 목록이 있습니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3373
+#: C/goscaja.xml:3371
 msgid "<guilabel>View new folders using</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3378
+#: C/goscaja.xml:3376
 msgid ""
 "Select the default view for folders. When you open a folder, the folder is "
 "displayed in the view that you select. This can be the icon view, the list "
 "view, or the compact view, which is a variant of the icon view that is "
-"organized in columns rather than rows.."
+"organized in columns rather than rows."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3384
+#: C/goscaja.xml:3382
 msgid "<guilabel>Arrange items</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3389
+#: C/goscaja.xml:3387
 msgid ""
 "Select the characteristic by which you want to sort the items in folders "
 "that are displayed in this view."
 msgstr "이 보기에서 폴더 안의 항목을 어떤 방식의 순서로 표시할 지 고릅니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3395
+#: C/goscaja.xml:3393
 msgid "<guilabel>Sort folders before files</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3400
+#: C/goscaja.xml:3398
 msgid ""
 "Select this option to list folders before files when you sort a folder."
 msgstr "이 옵션을 선택하면 어떤 폴더를 정렬할 때 폴더를 파일보다 앞에 나열합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3406
+#: C/goscaja.xml:3404
 msgid "<guilabel>Show hidden and backup files</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3411
+#: C/goscaja.xml:3409
 msgid ""
 "Select this option to display files that are normally not shown in folders. "
 "For more on hidden files, see <xref linkend=\"caja-hidden-files\"/>."
 msgstr ""
-"이 옵션을 선택하면 보통 폴더에 표시하지 않는 파일을 표시합니다. 숨긴 파일에 대해 자세한 내용은, <xref linkend"
-"=\"caja-hidden-files\"/> 부분을 참조하십시오."
+"이 옵션을 선택하면 보통 폴더에 표시하지 않는 파일을 표시합니다. 숨긴 파일에 대해 자세한 내용은, <xref "
+"linkend=\"caja-hidden-files\"/> 부분을 참조하십시오."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3416
+#: C/goscaja.xml:3414
 msgid ""
 "<guilabel>Default zoom level</guilabel> in the Icon View, Compact View, or "
 "List View sections"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3421
+#: C/goscaja.xml:3419
 msgid ""
 "Select the default zoom level for folders that are displayed in this view. "
 "The zoom level specifies the size of items in a view."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3427
+#: C/goscaja.xml:3425
 msgid "<guilabel>Use compact layout</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3432
+#: C/goscaja.xml:3430
 msgid ""
 "Select this option to arrange the items in icon view so that the items in "
 "the folder are closer to each other."
 msgstr "이 옵션을 선택하면 아이콘 보기에서 각 항목의 간격이 좀 더 가깝게 정렬합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3439
+#: C/goscaja.xml:3437
 msgid "<guilabel>Text beside icons</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3444
+#: C/goscaja.xml:3442
 msgid ""
 "Select this option to place the icon captions for items beside the icon "
 "rather than under the icon."
 msgstr "이 옵션을 선택하면 아이콘 설명을 아이콘 아래가 아니라 옆에 표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3450
+#: C/goscaja.xml:3448
 msgid "<guilabel>All columns have the same width</guilabel>"
 msgstr "<guilabel>모든 열의 너비가 동일합니다</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3455
+#: C/goscaja.xml:3453
 msgid ""
 "Select this option to make all columns in a compact view have the same "
 "width."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3460
+#: C/goscaja.xml:3458
 msgid "<guilabel>Show only folders</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3465
+#: C/goscaja.xml:3463
 msgid ""
 "Select this option to display only folders in the <guilabel>Tree</guilabel> "
 "in the side pane."
 msgstr "이 옵션을 선택하면 측면 창의 <guilabel>트리</guilabel>에 폴더만 표시합니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3473
+#: C/goscaja.xml:3471
 msgid "Behavior Preferences"
 msgstr "동작 기본 설정"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3474
+#: C/goscaja.xml:3472
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>behavior</tertiary>"
@@ -13027,7 +13009,7 @@ msgstr ""
 "<tertiary>behavior</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3479
+#: C/goscaja.xml:3477
 msgid ""
 "To set your preferences for files and folders, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -13040,12 +13022,12 @@ msgstr ""
 "<guilabel>동작</guilabel> 탭 섹션을 표시하십시오. 다음과 같은 설정을 할 수 있습니다:"
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3485
+#: C/goscaja.xml:3483
 msgid "<guilabel>Single click to open items</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3487
+#: C/goscaja.xml:3485
 msgid ""
 "Select this option to perform the default action for an item when you click "
 "on the item. When this option is selected, and you point to an item, the "
@@ -13055,24 +13037,24 @@ msgstr ""
 "옮기면, 그 항목의 이름에 밑줄이 그어집니다."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3493
+#: C/goscaja.xml:3491
 msgid "<guilabel>Double click to open items</guilabel>"
 msgstr "<guilabel>항목을 열려면 두 번 클릭</guilabel>"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3495
+#: C/goscaja.xml:3493
 msgid ""
 "Select this option to perform the default action for an item when you "
 "double-click on the item."
 msgstr "이 옵션을 선택하면 어떤 항목을 두 번 눌렀을 때 그 항목의 기본 동작을 실행합니다."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3500
+#: C/goscaja.xml:3498
 msgid "<guilabel>Always open in browser windows</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3502
+#: C/goscaja.xml:3500
 msgid ""
 "Select this option to use <application>Caja</application> in browser mode "
 "rather than spatial mode. Selecting this lets you browse your files and "
@@ -13083,12 +13065,12 @@ msgstr ""
 "옵션을 선택하면 동일한 창에서 파일과 폴더를 탐색할 수 있으며, 그렇지 않으면 파일과 폴더를 개체로 탐색할 수 있습니다."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3507
+#: C/goscaja.xml:3505
 msgid "<guilabel>Run executable text files when they are opened</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3509
+#: C/goscaja.xml:3507
 msgid ""
 "Select this option to run an text executable file when you choose the file. "
 "An executable text file is a text file that can execute, that is, a shell "
@@ -13098,24 +13080,24 @@ msgstr ""
 "텍스트 파일이면서 실행할 수 있는 파일을 말합니다."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3515
+#: C/goscaja.xml:3513
 msgid "<guilabel>View executable text files when they are opened</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3517
+#: C/goscaja.xml:3515
 msgid ""
 "Select this option to display the contents of an executable text file when "
 "you choose the executable text file."
 msgstr "이 옵션을 선택하면 실행할 수 있는 텍스트 파일을 선택했을 때 그 파일의 내용을 표시합니다."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3522
+#: C/goscaja.xml:3520
 msgid "<guilabel>Ask each time</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3524
+#: C/goscaja.xml:3522
 msgid ""
 "Select this option to display a dialog when you choose an executable text "
 "file. The dialog asks whether you want to execute the file or display the "
@@ -13125,12 +13107,12 @@ msgstr ""
 "물어봅니다."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3530
+#: C/goscaja.xml:3528
 msgid "<guilabel>Ask before emptying the Trash or deleting files</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3532
+#: C/goscaja.xml:3530
 msgid ""
 "Select this option to display a confirmation message before "
 "<guilabel>Trash</guilabel> is emptied, or files are deleted. Leave this "
@@ -13140,31 +13122,31 @@ msgstr ""
 " 없다면 이 옵션은 선택하지 마십시오."
 
 #. (itstool) path: varlistentry/term
-#: C/goscaja.xml:3536
+#: C/goscaja.xml:3534
 msgid "<guilabel>Include a Delete command that bypasses Trash</guilabel>"
 msgstr ""
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3538
+#: C/goscaja.xml:3536
 msgid ""
 "Select this option to add a <guimenuitem>Delete</guimenuitem> menu item to "
 "the following menus:"
 msgstr "이 옵션을 사용하면 <guimenuitem>삭제</guimenuitem> 메뉴 항목을 다음 메뉴에 추가합니다:"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3542
+#: C/goscaja.xml:3540
 msgid "The <guimenu>Edit</guimenu> menu."
 msgstr "<guimenu>편집</guimenu> 메뉴."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3545
+#: C/goscaja.xml:3543
 msgid ""
 "The popup menu that is displayed when you right-click on a file, folder, or "
 "desktop object."
 msgstr "파일, 폴더, 바탕 화면 오브젝트에 마우스 오른쪽 버튼을 눌렀을 때 나타나는 팝업 메뉴."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:3549
+#: C/goscaja.xml:3547
 msgid ""
 "When you select an item then choose the <guimenuitem>Delete</guimenuitem> "
 "menu item, the item is deleted from your file system immediately. There is "
@@ -13175,12 +13157,12 @@ msgstr ""
 "지웁니다. 지운 파일은 복구하지 못합니다. 특별한 이유가 없다면 이 옵션은 선택하지 마십시오."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3556
+#: C/goscaja.xml:3554
 msgid "Display Preferences"
 msgstr "표시 기본 설정"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3557
+#: C/goscaja.xml:3555
 msgid ""
 "<primary>file manager</primary> <secondary>icons</secondary> "
 "<tertiary>caption preferences</tertiary>"
@@ -13189,7 +13171,7 @@ msgstr ""
 "설정</tertiary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3562
+#: C/goscaja.xml:3560
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>icon captions</tertiary>"
@@ -13198,7 +13180,7 @@ msgstr ""
 "캡션</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3567
+#: C/goscaja.xml:3565
 msgid ""
 "An icon caption displays the name of a file or folder in an icon view. The "
 "icon caption also includes three additional items of information on the file"
@@ -13212,7 +13194,7 @@ msgstr ""
 "표시합니다. 아이콘 설명에서 어떤 정보를 추가로 표시할 지 바꿀 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3573
+#: C/goscaja.xml:3571
 msgid ""
 "To set your preferences for icon captions, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -13224,7 +13206,7 @@ msgstr ""
 "<guilabel>표시</guilabel> 탭 섹션을 표시하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3575
+#: C/goscaja.xml:3573
 msgid ""
 "Select the items of information that you want to display in the icon caption"
 " from the three drop-down lists. Select the first item from the first drop-"
@@ -13235,87 +13217,87 @@ msgstr ""
 "번째 드롭다운 목록에서 두 번째 표시할 항목을 고르고, 그런 식으로 고르십시오. 다음 표에서 고를 수 있는 정보 항목을 설명합니다:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3587 C/goscaja.xml:3727
+#: C/goscaja.xml:3585 C/goscaja.xml:3725
 msgid "Information"
 msgstr "정보"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3597 C/goscaja.xml:3747 C/gospanel.xml:189
+#: C/goscaja.xml:3595 C/goscaja.xml:3745 C/gospanel.xml:189
 #: C/gospanel.xml:1420
 msgid "<guilabel>Size</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3602 C/goscaja.xml:3752
+#: C/goscaja.xml:3600 C/goscaja.xml:3750
 msgid "Choose this option to display the size of the item."
 msgstr "이 옵션을 사용하면 항목의 크기를 표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3607 C/goscaja.xml:3757
+#: C/goscaja.xml:3605 C/goscaja.xml:3755
 msgid "<guilabel>Type</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3612
+#: C/goscaja.xml:3610
 msgid ""
 "Choose this option to display the description of the MIME type of the item."
 msgstr "이 옵션을 사용하면 항목의 MIME 형식을 표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3617 C/goscaja.xml:3769
+#: C/goscaja.xml:3615 C/goscaja.xml:3767
 msgid "<guilabel>Date Modified</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3622 C/goscaja.xml:3774
+#: C/goscaja.xml:3620 C/goscaja.xml:3772
 msgid "Choose this option to display the last modification date of the item."
 msgstr "이 옵션을 사용하면 항목을 마지막으로 바꾼 날짜를 표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3627 C/goscaja.xml:3779
+#: C/goscaja.xml:3625 C/goscaja.xml:3777
 msgid "<guilabel>Date Accessed</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3632 C/goscaja.xml:3784
+#: C/goscaja.xml:3630 C/goscaja.xml:3782
 msgid ""
 "Choose this option to display the date that the item was last accessed."
 msgstr "이 옵션을 사용하면 항목에 마지막으로 접근한 날짜를 표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3637 C/goscaja.xml:3820
+#: C/goscaja.xml:3635 C/goscaja.xml:3818
 msgid "<guilabel>Owner</guilabel>"
 msgstr "<guilabel>소유자</guilabel>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3642 C/goscaja.xml:3825
+#: C/goscaja.xml:3640 C/goscaja.xml:3823
 msgid "Choose this option to display the owner of the item."
 msgstr "이 옵션을 사용하면 항목의 소유자를 표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3647 C/goscaja.xml:3789
+#: C/goscaja.xml:3645 C/goscaja.xml:3787
 msgid "<guilabel>Group</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3652 C/goscaja.xml:3794
+#: C/goscaja.xml:3650 C/goscaja.xml:3792
 msgid "Choose this option to display the group to which the item belongs."
 msgstr "이 옵션을 사용하면 항목이 속한 그룹을 표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3657 C/goscaja.xml:3830
+#: C/goscaja.xml:3655 C/goscaja.xml:3828
 msgid "<guilabel>Permissions</guilabel>"
 msgstr ""
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:3662 C/goscaja.xml:3835
+#: C/goscaja.xml:3660 C/goscaja.xml:3833
 msgid ""
 "<primary>permissions</primary><secondary>displaying as "
 "characters</secondary>"
 msgstr "<primary>권한</primary><secondary>문자로 표시하기</secondary>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3662 C/goscaja.xml:3835
+#: C/goscaja.xml:3660 C/goscaja.xml:3833
 msgid ""
 "<_:indexterm-1/>Choose this option to display the permissions of the item as"
 " three sets of three characters, for example "
@@ -13325,58 +13307,58 @@ msgstr ""
 "<computeroutput>-rwxrw-r--</computeroutput>입니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3669 C/goscaja.xml:3809
+#: C/goscaja.xml:3667 C/goscaja.xml:3807
 msgid "<guilabel>Octal Permissions</guilabel>"
 msgstr ""
 
 #. (itstool) path: para/indexterm
-#: C/goscaja.xml:3674 C/goscaja.xml:3814
+#: C/goscaja.xml:3672 C/goscaja.xml:3812
 msgid ""
 "<primary>permissions</primary><secondary>displaying in octal "
 "notation</secondary>"
 msgstr "<primary>권한</primary><secondary>8진 표기법으로 표시하기</secondary>"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3674 C/goscaja.xml:3814
+#: C/goscaja.xml:3672 C/goscaja.xml:3812
 msgid ""
 "<_:indexterm-1/>Choose this option to display the permissions of the item in"
 " octal notation, for example <computeroutput>764</computeroutput>."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3680
+#: C/goscaja.xml:3678
 msgid "<guilabel>MIME Type</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3685 C/goscaja.xml:3804
+#: C/goscaja.xml:3683 C/goscaja.xml:3802
 msgid "Choose this option to display the MIME type of the item."
 msgstr "이 옵션을 사용하면 항목의 MIME 형식을 표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3690
+#: C/goscaja.xml:3688
 msgid "<guilabel>None</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3695
+#: C/goscaja.xml:3693
 msgid "Choose this option to display no information for the item."
 msgstr "이 옵션을 사용하면 항목에 아무 정보도 표시하지 않습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3701
+#: C/goscaja.xml:3699
 msgid ""
 "The date <guilabel>Format</guilabel> option lets you choose how the date is "
 "displayed throughout Caja."
 msgstr "날짜 <guilabel>형식</guilabel> 옵션으로 Caja에서 날짜를 어떻게 표시할 지 설정합니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3706
+#: C/goscaja.xml:3704
 msgid "List Columns Preferences"
 msgstr "목록 열 기본 설정"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3707
+#: C/goscaja.xml:3705
 msgid ""
 "You can specify what information is displayed in list view in file manager "
 "windows. You can specify which columns are displayed in list view, and the "
@@ -13386,7 +13368,7 @@ msgstr ""
 "표시할 지 지정할 수 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3710
+#: C/goscaja.xml:3708
 msgid ""
 "To set your preferences for list columns, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -13398,7 +13380,7 @@ msgstr ""
 "<guilabel>목록 열</guilabel> 탭 섹션을 표시하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3712
+#: C/goscaja.xml:3710
 msgid ""
 "To specify a column to display in list view, select the option that "
 "corresponds to the column, then click on the <guibutton>Show</guibutton> "
@@ -13411,7 +13393,7 @@ msgstr ""
 "버튼을 누르십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3716
+#: C/goscaja.xml:3714
 msgid ""
 "Use the <guibutton>Move Up</guibutton> and <guibutton>Move Down</guibutton> "
 "buttons to specify the position of columns in list view."
@@ -13420,24 +13402,24 @@ msgstr ""
 "위치를 지정하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3718
+#: C/goscaja.xml:3716
 msgid ""
 "To use the default columns and column positions, click on the <guibutton>Use"
 " Default</guibutton> button."
 msgstr "기본값 열 및 열 위치를 사용하려면, <guibutton>기본값 사용</guibutton> 버튼을 누르십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3719
+#: C/goscaja.xml:3717
 msgid "The following table describes the columns that you can display:"
 msgstr "다음 표에서 표시할 수 있는 각 열을 설명합니다:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3742
+#: C/goscaja.xml:3740
 msgid "Choose this option to display the name of the item."
 msgstr "이 옵션을 사용하면 항목의 이름을 표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3762
+#: C/goscaja.xml:3760
 msgid ""
 "Choose this option to display the description of the MIME type of the item "
 "from the <application>File Types and Programs</application> preference tool."
@@ -13446,17 +13428,17 @@ msgstr ""
 "표시합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3799
+#: C/goscaja.xml:3797
 msgid "<guilabel>MIME type</guilabel>"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3845 C/goscaja.xml:3910 C/goscaja.xml:4062
+#: C/goscaja.xml:3843 C/goscaja.xml:3908 C/goscaja.xml:4060
 msgid "Preview Preferences"
 msgstr "미리 보기 기본 설정"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:3846
+#: C/goscaja.xml:3844
 msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>preview</tertiary>"
@@ -13465,7 +13447,7 @@ msgstr ""
 "<tertiary>미리보기</tertiary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3851
+#: C/goscaja.xml:3849
 msgid ""
 "The file manager include some file preview features. The preview features "
 "can affect the speed with which the file manager responds to your requests. "
@@ -13478,38 +13460,38 @@ msgstr ""
 "중에서 하나를 선택할 수 있습니다:"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3874
+#: C/goscaja.xml:3872
 msgid "<guilabel>Always</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3879
+#: C/goscaja.xml:3877
 msgid ""
 "Performs the action for both local files, and files on other file systems."
 msgstr "로컬 파일과 그 외의 파일 시스템의 파일 모두에 대해 해당 동작을 합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3885
+#: C/goscaja.xml:3883
 msgid "<guilabel>Local Files Only</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3890
+#: C/goscaja.xml:3888
 msgid "Performs the action for local files only."
 msgstr "로컬 파일에 대해서만 해당 동작을 합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3895
+#: C/goscaja.xml:3893
 msgid "<guilabel>Never</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3900
+#: C/goscaja.xml:3898
 msgid "Never performs the action."
 msgstr "해당 동작을 전혀 하지 않습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3906
+#: C/goscaja.xml:3904
 msgid ""
 "To set your preview preferences, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>."
@@ -13521,31 +13503,31 @@ msgstr ""
 "<guilabel>미리 보기</guilabel> 탭 섹션을 표시하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3908
+#: C/goscaja.xml:3906
 msgid ""
 "<xref linkend=\"goscaja-TBL-41\"/> lists the preview preferences that you "
 "can modify."
 msgstr "<xref linkend=\"goscaja-TBL-41\"/>에 바꿀 수 있는 미리 보기 설정 목록이 있습니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3927
+#: C/goscaja.xml:3925
 msgid "<guilabel>Show text in icons</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3932
+#: C/goscaja.xml:3930
 msgid ""
 "Select an option to specify when to preview the content of text files in the"
 " icon that represents the file."
 msgstr "어떤 경우에 그 파일에 해당하는 아이콘 안에서 텍스트 파일의 내용을 미리 볼 지 지정합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3938
+#: C/goscaja.xml:3936
 msgid "<guilabel>Show thumbnails</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3943
+#: C/goscaja.xml:3941
 msgid ""
 "Select an option to specify when to show thumbnails of image files. The file"
 " manager stores the thumbnail files for each folder in a "
@@ -13555,34 +13537,34 @@ msgstr ""
 "<filename>.thumbnails</filename> 디렉토리에 저장합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3951
+#: C/goscaja.xml:3949
 msgid "<guilabel>Only for files smaller than</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3956
+#: C/goscaja.xml:3954
 msgid ""
 "Specify the maximum file size for files for which the file manager creates a"
 " thumbnail."
 msgstr "파일 관리자에서 섬네일을 만들 파일의 최대 크기를 지정합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3962
+#: C/goscaja.xml:3960
 msgid "<guilabel>Preview sound files</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3967
+#: C/goscaja.xml:3965
 msgid "Select an option to specify when to preview sound files."
 msgstr "어떤 경우에 사운드 파일을 미리 볼 지 지정합니다."
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3972
+#: C/goscaja.xml:3970
 msgid "<guilabel>Count number of items</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3977
+#: C/goscaja.xml:3975
 msgid ""
 "Select an option to specify when to show the number of items in folders. "
 "When in icon view, you might need to increase your zoom level to see the "
@@ -13592,12 +13574,12 @@ msgstr ""
 "할 수도 있습니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:3987
+#: C/goscaja.xml:3985
 msgid "Media Preferences"
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:3988
+#: C/goscaja.xml:3986
 msgid ""
 "You can configure how <application>Caja</application> handles removable "
 "media and devices that are connected to the computer, such as music players "
@@ -13607,46 +13589,46 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4013
+#: C/goscaja.xml:4011
 msgid "<guilabel>Ask what to do</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4018
+#: C/goscaja.xml:4016
 msgid ""
 "Make <application>Caja</application> ask for the desired action when the "
 "media or device appears."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4024
+#: C/goscaja.xml:4022
 msgid "<guilabel>Do Nothing</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4029
+#: C/goscaja.xml:4027
 msgid "Do nothing."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4034
+#: C/goscaja.xml:4032
 msgid "<guilabel>Open Folder</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4039
+#: C/goscaja.xml:4037
 msgid ""
 "Treat the media or device like an ordinary folder and open it in a "
 "<application>Caja</application> window."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4045
+#: C/goscaja.xml:4043
 msgid "<guilabel>Open with other Application</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4050
+#: C/goscaja.xml:4048
 msgid ""
 "Select an application to run with the <application>Caja</application> "
 "application chooser dialog. Note that applications known to handle the media"
@@ -13654,7 +13636,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4059
+#: C/goscaja.xml:4057
 msgid ""
 "The most common media formats can be configured in the <guilabel>Media "
 "Handling</guilabel> section: audio CDs, video DVDs, music players, cameras, "
@@ -13662,7 +13644,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4060
+#: C/goscaja.xml:4058
 msgid ""
 "To configure the handling for other media formats, first select the format "
 "in the <guilabel>Type</guilabel> drop-down list, then select the desired "
@@ -13670,19 +13652,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4061
+#: C/goscaja.xml:4059
 msgid ""
 "<xref linkend=\"goscaja-TBL-43\"/> lists other media handling preferences "
 "that you can modify."
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4079
+#: C/goscaja.xml:4077
 msgid "<guilabel>Never prompt or start programs on media insertion</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4084
+#: C/goscaja.xml:4082
 msgid ""
 "Select this option to prevent <application>Caja</application> from showing "
 "dialogs or running programs when media or devices appear. When this option "
@@ -13691,12 +13673,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4091
+#: C/goscaja.xml:4089
 msgid "<guilabel>Browse media when inserted</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4096
+#: C/goscaja.xml:4094
 msgid ""
 "When this option is selected, <application>Caja</application> will "
 "automatically open a folder when media is inserted. This only applies for "
@@ -13704,22 +13686,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4110
+#: C/goscaja.xml:4108
 msgid "Extending Caja"
 msgstr "Caja 확장하기"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:4111
+#: C/goscaja.xml:4109
 msgid "<primary>file manager</primary> <secondary>running scripts</secondary>"
 msgstr "<primary>파일 관리자</primary> <secondary>스크립트 실행하기</secondary>"
 
 #. (itstool) path: section/indexterm
-#: C/goscaja.xml:4115
+#: C/goscaja.xml:4113
 msgid "<primary>scripts, running from file manager</primary>"
 msgstr "<primary>스크립트, 파일 관리자에서 실행하기</primary>"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4118
+#: C/goscaja.xml:4116
 msgid ""
 "Caja can be extended in two main ways. Through "
 "<application>Caja</application> extensions, and through scripts. This "
@@ -13727,12 +13709,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4120
+#: C/goscaja.xml:4118
 msgid "Caja Scripts"
 msgstr "Caja 스크립트"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4121
+#: C/goscaja.xml:4119
 msgid ""
 "Caja can run scripts. Scripts are typically simpler in operation than full "
 "<application>Caja</application> extensions and can be written in any "
@@ -13747,7 +13729,7 @@ msgstr ""
 " 선택하고 서브메뉴에서 실행하려는 스크립트를 선택하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4122
+#: C/goscaja.xml:4120
 msgid ""
 "To run a script on a particular file, select the file in the view pane. "
 "Choose "
@@ -13760,23 +13742,23 @@ msgstr ""
 " 선택하고, 그 파일에 대해 실행하려는 스크립트를 서브 메뉴에서 선택하십시오. 스크립트를 실행할 파일을 여러 개 선택할 수도 있습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4125
+#: C/goscaja.xml:4123
 msgid "You may also access scripts from the context menu."
 msgstr "컨텍스트 메뉴에서도 스크립트를 사용할 수 있습니다."
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:4127
+#: C/goscaja.xml:4125
 msgid ""
 "If you do not have any scripts installed, the script menu will not appear."
 msgstr "스크립트를 설치하지 않았으면, 스크립트 메뉴가 나타나지 않습니다."
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4130
+#: C/goscaja.xml:4128
 msgid "Installing File Manager Scripts"
 msgstr "파일 관리자 스크립트 설치하기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4131
+#: C/goscaja.xml:4129
 msgid ""
 "The file manager includes a special folder where you can store your scripts."
 " All executable files in this folder will appear in the Scripts menu. The "
@@ -13784,14 +13766,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4134
+#: C/goscaja.xml:4132
 msgid ""
 "To install a script, simply copy the script to the script folder and give it"
 " the user executable permission."
 msgstr "스크립트를 설치하려면, 간단히 그 스크립트를 스크립트 폴더에 복사하고 사용자 실행 권한을 주면 됩니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4135
+#: C/goscaja.xml:4133
 msgid ""
 "To view the contents of your scripts folder, if you already have scripts "
 "installed, choose "
@@ -13809,7 +13791,7 @@ msgstr ""
 "파일 보기</guimenuitem></menuchoice>를 사용하십시오."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4137
+#: C/goscaja.xml:4135
 msgid ""
 "A good source to download <application>Caja</application> scripts is from "
 "the <link "
@@ -13818,12 +13800,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4140
+#: C/goscaja.xml:4138
 msgid "Writing File Manager Scripts"
 msgstr "파일 관리자 스크립트 작성하기"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4141
+#: C/goscaja.xml:4139
 msgid ""
 "When executed from a local folder, scripts will be passed the selected file "
 "names. When executed from a remote folder (e.g. a folder showing web or ftp "
@@ -13833,62 +13815,62 @@ msgstr ""
 "표시하는 폴더) 스크립트에는 아무 인자도 넘어가지 않습니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4143
-msgid "The following table shows variables passed to the script :"
-msgstr "스크립트에 전달하는 변수가 다음 표에 들어 있습니다:"
+#: C/goscaja.xml:4141
+msgid "The following table shows variables passed to the script:"
+msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4151
+#: C/goscaja.xml:4149
 msgid "Environment variable"
 msgstr "환경 변수"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4161
+#: C/goscaja.xml:4159
 msgid "<guilabel>CAJA_SCRIPT_SELECTED_FILE_PATHS</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4166
+#: C/goscaja.xml:4164
 msgid "newline-delimited paths for selected files (only if local)"
 msgstr "줄바꿈으로 구분한 선택한 파일의 경로 (로컬 파일일 경우만)"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4171
+#: C/goscaja.xml:4169
 msgid "<guilabel>CAJA_SCRIPT_SELECTED_URIS</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4176
+#: C/goscaja.xml:4174
 msgid "newline-delimited URIs for selected files"
 msgstr "줄바꿈으로 구분한 선택한 파일의 URI"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4181
+#: C/goscaja.xml:4179
 msgid "<guilabel>CAJA_SCRIPT_CURRENT_URI</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4186
+#: C/goscaja.xml:4184
 msgid "URI for current location"
 msgstr "현재 위치의 URI"
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4191
+#: C/goscaja.xml:4189
 msgid "<guilabel>CAJA_SCRIPT_WINDOW_GEOMETRY</guilabel>"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:4196
+#: C/goscaja.xml:4194
 msgid "position and size of current window"
 msgstr "현재 창의 위치 및 크기"
 
 #. (itstool) path: info/title
-#: C/goscaja.xml:4205
+#: C/goscaja.xml:4203
 msgid "Caja Extensions"
 msgstr "Caja 확장 기능"
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4206
+#: C/goscaja.xml:4204
 msgid ""
 "<application>Caja</application> extensions are far more powerful than "
 "<application>Caja</application> scripts, allowing more freedom where and how"
@@ -13901,48 +13883,48 @@ msgstr ""
 "자유롭게 허용합니다. <application>Caja</application> 확장 기능은 일반적으로 시스템 관리자가 설치합니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4210
+#: C/goscaja.xml:4208
 msgid "caja-actions"
 msgstr "caja-actions"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4211
+#: C/goscaja.xml:4209
 msgid "This extension allows you to easily assign actions based on file type"
 msgstr "이 확장 기능으로 파일 종류에 따라 동작을 간단히 지정할 수 있습니다"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4214
+#: C/goscaja.xml:4212
 msgid "caja-send-to"
 msgstr "caja-send-to"
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4215
+#: C/goscaja.xml:4213
 msgid ""
 "This extension provides a simple way to send a file or folder to another "
 "using email, instant messaging, or Bluetooth."
 msgstr "이 확장 기능으로 파일이나 폴더를 전자메일, 인스턴스 메신저, 블루투스를 통해 간단하게 다른 사람에게 보냅니다."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4218
+#: C/goscaja.xml:4216
 msgid "caja-open-terminal."
 msgstr "caja-open-terminal."
 
 #. (itstool) path: listitem/para
-#: C/goscaja.xml:4219
+#: C/goscaja.xml:4217
 msgid ""
 "This extension provides an easy way to open a terminal at the selected "
 "starting location."
 msgstr "이 확장 기능으로 간단히 선택한 위치에서 터미널을 엽니다."
 
 #. (itstool) path: section/para
-#: C/goscaja.xml:4207
+#: C/goscaja.xml:4205
 msgid ""
 "Some popular <application>Caja</application> extensions include: "
 "<_:orderedlist-1/>"
 msgstr ""
 
 #. (itstool) path: note/para
-#: C/goscaja.xml:4224
+#: C/goscaja.xml:4222
 msgid ""
 "If you are looking for the <guilabel>Open Terminal</guilabel> command which "
 "used to exist in the <application>Caja</application> right click menu by "
@@ -14001,8 +13983,8 @@ msgstr "MATE 데스크톱의 주요 구성 요소는 다음과 같습니다:"
 msgid ""
 "The desktop itself is behind all the other components on the desktop. You "
 "can place objects on the desktop to access your files and directories "
-"quickly, or to start applications that you use often. See <xref linkend"
-"=\"overview-desktop\"/> for more information."
+"quickly, or to start applications that you use often. See <xref "
+"linkend=\"overview-desktop\"/> for more information."
 msgstr ""
 
 #. (itstool) path: varlistentry/term
@@ -14508,9 +14490,9 @@ msgstr "창 크기 조정"
 #: C/gosoverview.xml:237
 msgid ""
 "Drag one of the borders to expand or contract the window on that side. Drag "
-"a corner to change two sides at once. The resize pointer (see <xref linkend"
-"=\"mouse-pointers\"/>) appears when your mouse is in the correct position to"
-" begin the drag action."
+"a corner to change two sides at once. The resize pointer (see <xref "
+"linkend=\"mouse-pointers\"/>) appears when your mouse is in the correct "
+"position to begin the drag action."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -14677,8 +14659,8 @@ msgid ""
 "to that workspace. For more on workspaces, see <xref linkend=\"overview-"
 "workspaces\"/>."
 msgstr ""
-"선택한 창이 다른 작업 공간에 있으면, 그 작업 공간으로 이동합니다. 작업 공간에 대해 자세한 내용은, <xref linkend"
-"=\"overview-workspaces\"/> 부분을 참조하십시오."
+"선택한 창이 다른 작업 공간에 있으면, 그 작업 공간으로 이동합니다. 작업 공간에 대해 자세한 내용은, <xref "
+"linkend=\"overview-workspaces\"/> 부분을 참조하십시오."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:316
@@ -15363,8 +15345,8 @@ msgstr "목록에서 책갈피를 제거하려면, 그 책갈피를 선택하고
 #: C/gosoverview.xml:514
 msgid ""
 "Changes you make to the bookmarks list also affect the "
-"<guimenu>Places</guimenu> menu. For more on bookmarks, see <xref linkend"
-"=\"caja-bookmarks\"/>."
+"<guimenu>Places</guimenu> menu. For more on bookmarks, see <xref "
+"linkend=\"caja-bookmarks\"/>."
 msgstr ""
 "책갈피 목록에 대한 변경사항은 <guimenu>배치</guimenu> 메뉴에도 영향을 미칩니다. 책갈피에 대한 자세한 내용은 <xref "
 "linkend=\"caja-bookmarks\"/> 부분을 참조하십시오."
@@ -15927,9 +15909,9 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:268
 msgid ""
-"Select this option to have the panel use the settings in the <xref linkend"
-"=\"prefs-theme\"/> tool. This keeps your panel's background looking the same"
-" as the rest of the desktop and applications."
+"Select this option to have the panel use the settings in the <xref "
+"linkend=\"prefs-theme\"/> tool. This keeps your panel's background looking "
+"the same as the rest of the desktop and applications."
 msgstr ""
 
 #. (itstool) path: entry/para
@@ -16736,8 +16718,8 @@ msgstr ""
 msgid ""
 "You can modify the properties of a launcher. For example, the properties of "
 "a launcher include the name of the launcher, the icon that represents the "
-"launcher, and how the launcher runs. For more on this, see <xref linkend"
-"=\"launchers-modify\"/>."
+"launcher, and how the launcher runs. For more on this, see <xref "
+"linkend=\"launchers-modify\"/>."
 msgstr ""
 "실행 아이콘의 속성을 바꿀 수 있습니다. 예를 들어 실행 아이콘의 속성에는 실행 아이콘의 이름, 표시할 아이콘, 실행하는 방법이 "
 "있습니다. 자세한 내용은, <xref linkend=\"launchers-modify\"/> 부분을 참조하십시오."
@@ -16960,16 +16942,16 @@ msgid ""
 "the launcher. For sample commands, see <xref linkend=\"launchers-properties-"
 "commands\"/>."
 msgstr ""
-"프로그램 실행 아이콘의 경우, 실행 아이콘을 눌렀을 때 실행할 명령어를 지정합니다. 명령어의 예제는, <xref linkend"
-"=\"launchers-properties-commands\"/> 부분을 참고하십시오."
+"프로그램 실행 아이콘의 경우, 실행 아이콘을 눌렀을 때 실행할 명령어를 지정합니다. 명령어의 예제는, <xref "
+"linkend=\"launchers-properties-commands\"/> 부분을 참고하십시오."
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:837
 msgid ""
 "For a location launcher, specify the location to be opened. Click "
 "<guibutton>Browse</guibutton> to select a location on your computer, or type"
-" a web address to launch a web page. For sample locations, see <xref linkend"
-"=\"launchers-properties-commands\"/>"
+" a web address to launch a web page. For sample locations, see <xref "
+"linkend=\"launchers-properties-commands\"/>"
 msgstr ""
 
 #. (itstool) path: varlistentry/term
@@ -17863,8 +17845,8 @@ msgid ""
 "You add an object to a drawer in the same way that you add objects to "
 "panels. For more information, see <xref linkend=\"panels-addobject\"/>."
 msgstr ""
-"패널에서 오브젝트를 더하는 방법과 마찬가지 방법으로 서랍에 오브젝트를 더할 수 있습니다. 자세한 내용은, <xref linkend"
-"=\"panels-addobject\"/> 부분을 참조하십시오."
+"패널에서 오브젝트를 더하는 방법과 마찬가지 방법으로 서랍에 오브젝트를 더할 수 있습니다. 자세한 내용은, <xref "
+"linkend=\"panels-addobject\"/> 부분을 참조하십시오."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1385
@@ -18978,9 +18960,9 @@ msgid ""
 " Application</guibutton> panel button to open the <guilabel>Run "
 "Application</guilabel> dialog."
 msgstr ""
-"<application>프로그램 실행</application> 버튼을 패널에 붙일 수 있습니다. <xref linkend"
-"=\"panels-addobject\"/> 부분을 참고하십시오. <guibutton>프로그램 실행</guibutton> 패널 버튼을 눌러"
-" <guilabel>프로그램 실행</guilabel> 대화 상자를 여십시오."
+"<application>프로그램 실행</application> 버튼을 패널에 붙일 수 있습니다. <xref "
+"linkend=\"panels-addobject\"/> 부분을 참고하십시오. <guibutton>프로그램 실행</guibutton> 패널"
+" 버튼을 눌러 <guilabel>프로그램 실행</guilabel> 대화 상자를 여십시오."
 
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:35
@@ -19020,8 +19002,8 @@ msgstr "빈 입력란에 실행하려는 명령어를 입력하십시오. 아니
 msgid ""
 "If you enter only the location of a file, an appropriate application will "
 "launch to open it. If you enter a web page address, your default web browser"
-" will open the page. Prefix the web page address with https://, as in https"
-"://mate-desktop.org."
+" will open the page. Prefix the web page address with https://, as in "
+"https://mate-desktop.org."
 msgstr ""
 
 #. (itstool) path: listitem/para
@@ -19087,9 +19069,9 @@ msgid ""
 "addobject\"/>. Click on the <guibutton>Take Screenshot</guibutton> button to"
 " take a screenshot of the entire screen."
 msgstr ""
-"<guibutton>스크린샷 찍기</guibutton> 버튼을 패널에 붙일 수 있습니다. 패널에 붙이는 방법은, <xref linkend"
-"=\"panels-addobject\"/> 부분을 참고하십시오. 전체 화면의 스크린샷을 찍으려면 <guibutton>스크린샷 "
-"찍기</guibutton> 버튼을 누르십시오."
+"<guibutton>스크린샷 찍기</guibutton> 버튼을 패널에 붙일 수 있습니다. 패널에 붙이는 방법은, <xref "
+"linkend=\"panels-addobject\"/> 부분을 참고하십시오. 전체 화면의 스크린샷을 찍으려면 <guibutton>스크린샷"
+" 찍기</guibutton> 버튼을 누르십시오."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:86
@@ -19525,8 +19507,8 @@ msgstr ""
 #: C/gostools.xml:453
 msgid ""
 "Alternatively, you may view a particular document by invoking Yelp Help "
-"Browser from the command line or dragging files to Yelp. See <xref linkend"
-"=\"yelp-open-specific\"/> for more on this."
+"Browser from the command line or dragging files to Yelp. See <xref "
+"linkend=\"yelp-open-specific\"/> for more on this."
 msgstr ""
 "아니면 옐프 도움말 보기 프로그램을 명령행에서 실행하거나 파일을 옐프로 끌어 놓는 방법으로 특정 문서를 볼 수 있습니다. 자세한 내용은,"
 " <xref linkend=\"yelp-open-specific\"/> 부분을 참조하십시오."
@@ -19670,8 +19652,8 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gostools.xml:547
 msgid ""
-"<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
-"=\"yelp-preferences\"/>:"
+"<_:itemizedlist-1/>A window will appear that looks like <xref "
+"linkend=\"yelp-preferences\"/>:"
 msgstr "<_:itemizedlist-1/><xref linkend=\"yelp-preferences\"/>와 같은 창이 나타납니다:"
 
 #. (itstool) path: info/title
@@ -19954,8 +19936,8 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gostools.xml:759
 msgid ""
-"<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
-"=\"yelp-add-bookmark\"/>."
+"<_:itemizedlist-1/>A window will appear that looks like <xref "
+"linkend=\"yelp-add-bookmark\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -20014,8 +19996,8 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gostools.xml:789
 msgid ""
-"<_:itemizedlist-1/>A window will appear that looks like <xref linkend"
-"=\"yelp-edit-bookmarks\"/>."
+"<_:itemizedlist-1/>A window will appear that looks like <xref "
+"linkend=\"yelp-edit-bookmarks\"/>."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -20339,10 +20321,11 @@ msgstr "홈페이지 및 메일링 리스트"
 #: C/gostools.xml:983
 msgid ""
 "For further information on <application>Yelp Help Browser</application>, "
-"please visit the Documentation Project homepage, <uri xlink:href=\"http"
-"://mate-desktop.org\">http://mate-desktop.org</uri>, or subscribe to the "
-"mailing list, <uri xlink:href=\"http://ml.mate-desktop.org/listinfo/mate-"
-"dev\">http://ml.mate-desktop.org/listinfo/mate-dev</uri>."
+"please visit the Documentation Project homepage, <uri "
+"xlink:href=\"http://mate-desktop.org\">http://mate-desktop.org</uri>, or "
+"subscribe to the mailing list, <uri xlink:href=\"http://ml.mate-"
+"desktop.org/listinfo/mate-dev\">http://ml.mate-desktop.org/listinfo/mate-"
+"dev</uri>."
 msgstr ""
 "<application>Yelp 도움말 브라우저</application>에 대한 자세한 내용은 문서화 프로젝트 홈페이지 <uri "
 "xlink:href=\"http://mate-desktop.org\">http://mate-desktop.org를 방문하거나, 메일링 "
