@@ -1,3 +1,12 @@
+### mate-user-guide 1.27.0
+
+  * tx: sync with transifex
+  * tx: update resource
+  * tx: migrate config file
+  * tx: update resource
+  * goscustdesk: fix typos reported by translators
+  * goscaja: fix typos reported by translator
+
 ### mate-user-guide 1.26.0
 
   * update translations
