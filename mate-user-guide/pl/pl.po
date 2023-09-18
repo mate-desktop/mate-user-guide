@@ -16,17 +16,17 @@
 # pietrasagh <kowalik.piotr@pm.me>, 2020
 # Dominik Adrian Grzywak, 2020
 # Piotr Strębski <strebski@gmail.com>, 2020
-# Wolfgang Ulbrich <mate@raveit.de>, 2021
 # Szymon Blaut <szymonblaut315@gmail.com>, 2021
-# Daniel Tokarzewski <bezimo@gmail.com>, 2021
+# Daniel Tokarzewski <bezimo@gmail.com>, 2023
+# Wolfgang Ulbrich <mate@raveit.de>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Daniel Tokarzewski <bezimo@gmail.com>, 2021\n"
-"Language-Team: Polish (https://www.transifex.com/mate/teams/13566/pl/)\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2023\n"
+"Language-Team: Polish (https://app.transifex.com/mate/teams/13566/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -989,7 +989,7 @@ msgid ""
 "external ref='figures/normal_pointer.png' "
 "md5='47960823c1883b50400d4fb7be857c72'"
 msgstr ""
-"external ref='figures/normal_pointer.png' "
+"zewnętrzny ref='figures/normal_pointer.png' "
 "md5='47960823c1883b50400d4fb7be857c72'"
 
 #. (itstool) path: varlistentry/term
@@ -1021,7 +1021,7 @@ msgid ""
 "external ref='figures/busy_pointer.png' "
 "md5='99db6994613731ca7687bd700c471b2d'"
 msgstr ""
-"external ref='figures/busy_pointer.png' "
+"zewnętrzny ref='figures/busy_pointer.png' "
 "md5='99db6994613731ca7687bd700c471b2d'"
 
 #. (itstool) path: varlistentry/term
@@ -1059,7 +1059,7 @@ msgid ""
 "external ref='figures/resize_pointer.png' "
 "md5='43e8186584e1879ba078caedf0a9f33f'"
 msgstr ""
-"external ref='figures/resize_pointer.png' "
+"zewnętrzny ref='figures/resize_pointer.png' "
 "md5='43e8186584e1879ba078caedf0a9f33f'"
 
 #. (itstool) path: varlistentry/term
@@ -1099,6 +1099,8 @@ msgid ""
 "external ref='figures/hyperlink_pointer.png' "
 "md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 msgstr ""
+"zewnętrzny ref='figures/hyperlink_pointer.png' "
+"md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:365
@@ -1135,6 +1137,8 @@ msgid ""
 "external ref='figures/ibeam_pointer.png' "
 "md5='77aa93e74d640173c96801747bf564d1'"
 msgstr ""
+"zewnętrzny ref='figures/ibeam_pointer.png' "
+"md5='77aa93e74d640173c96801747bf564d1'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:382
@@ -1181,6 +1185,8 @@ msgid ""
 "external ref='figures/move_pointer.png' "
 "md5='1a4e4a188a0132fc783c465d42c52426'"
 msgstr ""
+"zewnętrzny ref='figures/move_pointer.png' "
+"md5='1a4e4a188a0132fc783c465d42c52426'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:404
@@ -1214,6 +1220,8 @@ msgid ""
 "external ref='figures/copy_pointer.png' "
 "md5='228984e885befffd71ae4eadd7ee790e'"
 msgstr ""
+"zewnętrzny ref='figures/copy_pointer.png' "
+"md5='228984e885befffd71ae4eadd7ee790e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:420
@@ -1247,6 +1255,8 @@ msgid ""
 "external ref='figures/link_pointer.png' "
 "md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 msgstr ""
+"zewnętrzny ref='figures/link_pointer.png' "
+"md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:436
@@ -1286,6 +1296,8 @@ msgid ""
 "external ref='figures/ask_pointer.png' "
 "md5='bd23edcf2659006110ce30a14f0abb35'"
 msgstr ""
+"zewnętrzny ref='figures/ask_pointer.png' "
+"md5='bd23edcf2659006110ce30a14f0abb35'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:454
@@ -1322,6 +1334,8 @@ msgid ""
 "external ref='figures/not_available_pointer.png' "
 "md5='19601aaf360da25b8a0d1d18b45ed99e'"
 msgstr ""
+"zewnętrzny ref='figures/not_available_pointer.png' "
+"md5='19601aaf360da25b8a0d1d18b45ed99e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:471
@@ -1358,6 +1372,8 @@ msgid ""
 "external ref='figures/move_panel_object_pointer.png' "
 "md5='e4244fb77b0df2b0c451328dce6fa175'"
 msgstr ""
+"zewnętrzny ref='figures/move_panel_object_pointer.png' "
+"md5='e4244fb77b0df2b0c451328dce6fa175'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:486
@@ -1390,6 +1406,8 @@ msgid ""
 "external ref='figures/movewindow_pointer.png' "
 "md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 msgstr ""
+"zewnętrzny ref='figures/movewindow_pointer.png' "
+"md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:502
@@ -21265,8 +21283,9 @@ msgid ""
 "A <firstterm>keyboard shortcut</firstterm> is a key or combination of keys "
 "that provides an alternative to standard ways of performing an action."
 msgstr ""
-"<firstterm>Skrót klawiaturowy to klawisz lub kombinacja klawiszy, które "
-"stanowią alternatywę dla standardowych sposobów wykonywania czynności. "
+"<firstterm>Skrót klawiaturowy</firstterm> to klawisz lub kombinacja "
+"klawiszy, które stanowią alternatywę dla standardowych sposobów wykonywania "
+"czynności. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:88

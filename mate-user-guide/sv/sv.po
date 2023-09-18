@@ -7,20 +7,20 @@
 # Martin Wimpress <code@flexion.org>, 2018
 # 6a42dd6e7ca9a813693714b0d9aa1ad8, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Tobias Lekare <lekare@linux.com>, 2019
 # crash <d.ubuntu@gmail.com>, 2019
 # eckeman <eckeman@zoho.com>, 2020
 # Luna Jernberg <bittin@cafe8bitar.se>, 2021
 # Kristoffer Grundström <lovaren@gmail.com>, 2022
+# Wolfgang Ulbrich <mate@raveit.de>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Kristoffer Grundström <lovaren@gmail.com>, 2022\n"
-"Language-Team: Swedish (https://www.transifex.com/mate/teams/13566/sv/)\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2023\n"
+"Language-Team: Swedish (https://app.transifex.com/mate/teams/13566/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -253,7 +253,8 @@ msgstr ""
 #: C/index.docbook:214
 msgid ""
 "<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
-msgstr "<revnumber>2.5</revnumber> Mars 2003</date> <_:revdescription-1/>"
+msgstr ""
+"<revnumber>2.5</revnumber> <date>Mars 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
@@ -266,7 +267,8 @@ msgstr ""
 #: C/index.docbook:230
 msgid ""
 "<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
-msgstr "<revnumber>2.3</revnumber> Oktober 2002</date> <_:revdescription-1/>"
+msgstr ""
+"<revnumber>2.3</revnumber> <date>Oktober 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
@@ -285,7 +287,8 @@ msgstr ""
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:254
 msgid "<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
-msgstr "<revnumber>1.0</revnumber> Maj 2002</date> <_:revdescription-1/>"
+msgstr ""
+"<revnumber>1.0</revnumber> <date>Maj 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
@@ -1537,7 +1540,8 @@ msgid ""
 "<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
 "<keycap>Tab</keycap></keycombo>"
 msgstr ""
-"<keycap><keycombo>Ctrl</keycap><keycap>Alt</keycap><keycap>Tab</keycap></keycombo>"
+"<keycombo> "
+"<keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>Tab</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:679
@@ -7426,8 +7430,8 @@ msgid ""
 "mode.</phrase> </textobject>"
 msgstr ""
 "<imageobject> <imagedata fileref=\"figures/caja_browser_mode.png\" "
-"format=\"PNG\"/> <textobject> <phrase>Caja i bläddrarläge.</phrase> "
-"</textobject>"
+"format=\"PNG\"/> </imageobject><textobject> <phrase>Caja i "
+"bläddrarläge.</phrase> </textobject>"
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:113
@@ -18799,7 +18803,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1094
 msgid "<guimenuitem>Lock Screen</guimenuitem>"
-msgstr "Lås skärm<guimenuitem>"
+msgstr "<guimenuitem>Lås skärm</guimenuitem>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1099
@@ -20823,7 +20827,8 @@ msgstr "Tar en skärmbild av hela skärmen."
 #. (itstool) path: entry/para
 #: C/gostools.xml:115
 msgid "<keycombo><keycap>Alt</keycap><keycap>Print Screen</keycap></keycombo>"
-msgstr "<keycombo><keycap>Alt<keycap>Print Screen</keycap></keycombo>"
+msgstr ""
+"<keycombo><keycap>Alt</keycap><keycap>Print Screen</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:118

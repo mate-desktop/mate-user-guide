@@ -6,18 +6,18 @@
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Ibnu Daru Aji, 2018
-# Wolfgang Ulbrich <mate@raveit.de>, 2018
 # Willy Sudiarto Raharjo <willysr@slackware-id.org>, 2019
-# Andika Triwidada <andika@gmail.com>, 2022
 # Reza Almanda <rezaalmanda27@gmail.com>, 2022
+# Andika Triwidada <andika@gmail.com>, 2023
+# Wolfgang Ulbrich <mate@raveit.de>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>, 2022\n"
-"Language-Team: Indonesian (https://www.transifex.com/mate/teams/13566/id/)\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2023\n"
+"Language-Team: Indonesian (https://app.transifex.com/mate/teams/13566/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6153,7 +6153,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2217
 msgid "<guilabel>Initiate click when stopping pointer movement</guilabel>"
-msgstr "<guilabel>Memulai klik saat menghentikan gerakan penunjuk"
+msgstr "<guilabel>Memulai klik saat menghentikan gerakan penunjuk</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2222
@@ -8095,6 +8095,13 @@ msgid ""
 "click on the background of a view pane, you can choose items related to the "
 "display of items in the view pane."
 msgstr ""
+"Anda juga dapat membuka menu popup dari jendela manajer berkas. Untuk "
+"membuka menu popup ini klik kanan di jendela manajer berkas. Butir-butir "
+"dalam menu ini bergantung pada di mana Anda mengklik kanan. Misalnya, ketika"
+" Anda mengklik kanan pada berkas atau folder, Anda dapat memilih butir-butir"
+" yang terkait dengan berkas atau folder. Saat Anda mengklik kanan pada latar"
+" belakang panel tampilan, Anda dapat memilih butir-butir yang terkait dengan"
+" tampilan butir di panel tampilan."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:231 C/goscaja.xml:529
@@ -8119,7 +8126,7 @@ msgstr "Situs FTP"
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:243 C/goscaja.xml:541
 msgid "Windows shares"
-msgstr ""
+msgstr "Share Windows"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:246 C/goscaja.xml:544
@@ -8721,6 +8728,12 @@ msgid ""
 "Pane</guimenuitem></menuchoice> again. Alternatively you may press "
 "<keycap>F9</keycap> to toggle the visibility of the side pane."
 msgstr ""
+"Untuk menyembunyikan panel sisi, pilih <menuchoice> "
+"<guimenu>Tilikan</guimenu><guimenuitem>Panel "
+"Sisi</guimenuitem></menuchoice>. Untuk menampilkan panel sisi lagi, pilih "
+"<menuchoice> <guimenu>Tilikan</guimenu><guimenuitem>Panel Sisi</guimenuitem>"
+" </menuchoice> lagi. Atau Anda dapat menekan <keycap>F9</keycap> untuk "
+"menjungkitkan kenampakan panel sisi."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:579
@@ -8731,6 +8744,11 @@ msgid ""
 "<menuchoice><guimenu>View</guimenu><guimenuitem>Main "
 "Toolbar</guimenuitem></menuchoice> again."
 msgstr ""
+"Untuk menyembunyikan bilah alat, pilih <menuchoice> "
+"<guimenu>Tilikan</guimenu><guimenuitem>Bilah Alat "
+"Utama</guimenuitem></menuchoice>. Untuk menampilkan bilah alat lagi, pilih "
+"<menuchoice> <guimenu>Tilikan</guimenu><guimenuitem>Bilah Alat "
+"Utama</guimenuitem> </menuchoice> lagi."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:583
@@ -8741,6 +8759,11 @@ msgid ""
 "<menuchoice><guimenu>View</guimenu><guimenuitem>Location "
 "Bar</guimenuitem></menuchoice> again."
 msgstr ""
+"Untuk menyembunyikan bilah lokasi, pilih <menuchoice> "
+"<guimenu>Tilikan</guimenu><guimenuitem>Bilah "
+"Lokasi</guimenuitem></menuchoice>. Untuk menampilkan bilah lokasi lagi, "
+"pilih <menuchoice> <guimenu>Tilikan</guimenu><guimenuitem>Bilah "
+"Lokasi</guimenuitem> </menuchoice> lagi."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:587
@@ -8751,6 +8774,11 @@ msgid ""
 "<menuchoice><guimenu>View</guimenu><guimenuitem>Statusbar</guimenuitem></menuchoice>"
 " again."
 msgstr ""
+"Untuk menyembunyikan bilah status, pilih <menuchoice> "
+"<guimenu>Tilikan</guimenu><guimenuitem>Bilah "
+"Status</guimenuitem></menuchoice>. Untuk menampilkan statusbar lagi, pilih "
+"<menuchoice> <guimenu>Tilikan</guimenu><guimenuitem>Bilah "
+"Status</guimenuitem> </menuchoice> lagi."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:593
@@ -8779,6 +8807,10 @@ msgid ""
 " Click on the button to jump between folders in the hierarchy. You can "
 "return to the original folder, which is shown as the last button in the row."
 msgstr ""
+"Secara baku bilah tombol ditampilkan. Ini menunjukkan deretan tombol yang "
+"mewakili hirarki lokasi saat ini, dengan satu tombol untuk setiap folder. "
+"Klik tombol untuk melompat di antara folder dalam hirarki. Anda dapat "
+"kembali ke folder asli, yang ditampilkan sebagai tombol terakhir di baris."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:606
@@ -8786,6 +8818,8 @@ msgid ""
 "You can also drag buttons, for example to another location, in order to copy"
 " a folder."
 msgstr ""
+"Anda juga dapat menyeret tombol, misalnya ke lokasi lain, untuk menyalin "
+"folder."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:607
@@ -8813,6 +8847,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>The button "
 "bar.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/caja_button_bar.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Bilah tombol.</phrase> "
+"</textobject>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:621
@@ -8826,6 +8863,9 @@ msgid ""
 "example: '/home/user/Documents'. The location field is particularly useful "
 "for jumping to a known folder very quickly."
 msgstr ""
+"Bilah lokasi teks memperlihatkan lokasi saat ini sebagai path teks, "
+"misalnya: '/home/user/Documents'. Bidang lokasi sangat berguna untuk "
+"melompat ke folder yang dikenal dengan sangat cepat."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:623
@@ -8835,6 +8875,10 @@ msgid ""
 " typing when there is only one possibility. To accept the suggested "
 "completion, press <keycap>Tab</keycap>."
 msgstr ""
+"Untuk pegi ke suatu lokasi baru, ketik path baru atau sunting yang saat ini,"
+" lalu tekan <keycap>Enter</keycap>. Ruas path secara otomatis menyelesaikan "
+"apa yang Anda ketik ketika hanya ada satu kemungkinan. Untuk menerima "
+"penyelesaian yang disarankan, tekan <keycap>Tab</keycap>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:624
@@ -8842,6 +8886,8 @@ msgid ""
 "To always use the text location bar, click on the toggle button at the left "
 "of the location bar."
 msgstr ""
+"Untuk selalu menggunakan bilah lokasi teks, klik tombol jungkit di sebelah "
+"kiri bilah lokasi."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:625
@@ -8925,16 +8971,19 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>The search "
 "bar.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/caja_search_bar.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Bilah "
+"pencarian.</phrase> </textobject>"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:658
 msgid "Displaying Your Home Folder"
-msgstr ""
+msgstr "Menampilkan Folder Rumah Anda"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:659
 msgid "<primary>file manager</primary> <secondary>Home folder</secondary>"
-msgstr ""
+msgstr "<primary>manajer berkas</primary> <secondary>Folder rumah</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:672
@@ -8983,7 +9032,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:692
 msgid "Double-click on the folder in the view pane."
-msgstr ""
+msgstr "Klik ganda pada folder di panel tampilan."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:695
@@ -8996,7 +9045,7 @@ msgstr ""
 #: C/goscaja.xml:699
 msgid ""
 "Click on the <guilabel>Location</guilabel> buttons in the location bar."
-msgstr ""
+msgstr "Klik tombol <guilabel>Lokasi</guilabel> di bilah lokasi."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:703
@@ -9009,6 +9058,14 @@ msgid ""
 "characters to uniquely identify a directory, the file manager completes the "
 "name of the directory in the <guilabel>Location</guilabel> field."
 msgstr ""
+"Tekan <keycombo><keycap>Ctrl</keycap><keycap>L</keycap> </keycombo> untuk "
+"memperlihatkan bidang <guilabel>Lokasi</guilabel> teks, ketik path folder "
+"yang ingin Anda tampilkan, lalu tekan <keycap>Return</keycap>. Bidang "
+"<guilabel>Lokasi</guilabel> menyertakan fitur pelengkapan otomatis. Saat "
+"Anda mengetikkan path, manajer berkas membaca sistem berkas Anda. Ketika "
+"Anda mengetik karakter yang cukup untuk mengidentifikasi direktori secara "
+"unik, manajer berkas melengkapi nama direktori di bidang "
+"<guilabel>Lokasi</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:711
@@ -9017,6 +9074,8 @@ msgid ""
 "<guibutton>Forward</guibutton> toolbar button to browse through your "
 "navigation history."
 msgstr ""
+"Gunakan tombol bilah alat <guibutton>Kembali</guibutton> dan tombol bilah "
+"alat <guibutton>Maju</guibutton> untuk menelusuri riwayat navigasi Anda."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:714
@@ -9025,6 +9084,9 @@ msgid ""
 "<menuchoice><guimenu>Go</guimenu><guimenuitem>Up</guimenuitem></menuchoice>."
 " Alternatively, click on the <guibutton>Up</guibutton> toolbar button."
 msgstr ""
+"Untuk berpindah ke folder yang satu tingkat di atas folder saat ini, pilih "
+"<menuchoice><guimenu>Ke</guimenu><guimenuitem>Atas</guimenuitem></menuchoice>."
+" Atau, klik tombol bilah alat <guibutton>Naik</guibutton>. "
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:720
@@ -9034,6 +9096,9 @@ msgid ""
 " To display the contents of parent folder, perform one of the following "
 "steps:"
 msgstr ""
+"Folder induk dari folder saat ini yang Anda telusuri adalah yang ada, dalam "
+"representasi hierarkis, satu tingkat di atas yang saat ini. Untuk "
+"menampilkan isi folder induk, lakukan salah satu langkah berikut:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:724
@@ -10437,6 +10502,7 @@ msgid ""
 "This pattern would match all files or folders whose name contains the word "
 "memo."
 msgstr ""
+"Pola ini akan mencocokan semua file atau folder yang mengandung kata memo."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1576
@@ -11117,6 +11183,8 @@ msgid ""
 "<primary>symbolic link</primary> <secondary>to file or folder, "
 "creating</secondary>"
 msgstr ""
+"<primary>tautan simbolis</primary> <secondary>ke berkas atau folder, "
+"membuat</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1996
@@ -13198,7 +13266,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3146
 msgid "Folder to open upon connecting to server."
-msgstr ""
+msgstr "Folder yang akan dibuka setelah tersambung ke server."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3151
@@ -13776,7 +13844,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:3554
 msgid "Display Preferences"
-msgstr ""
+msgstr "Preferensi Tampilan"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:3555
@@ -15872,7 +15940,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:511
 msgid "Adding and Removing Bookmarks"
-msgstr ""
+msgstr "Menambah dan Menghapus Bookmark"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:512
@@ -17271,7 +17339,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:767
 msgid "Modifying a Launcher"
-msgstr ""
+msgstr "Memodifikasi Peluncur"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:770
@@ -17364,6 +17432,8 @@ msgid ""
 "This is the name that is displayed if you add the launcher to a menu or to "
 "the desktop."
 msgstr ""
+"Ini adalah nama yang ditampilkan jika Anda menambahkan peluncur ke menu atau"
+" ke desktop."
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:829
@@ -17559,7 +17629,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:995
 msgid "<primary>Force Quit button</primary>"
-msgstr ""
+msgstr "<primary>Tombol Keluar Paksa</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:998
@@ -17769,6 +17839,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Log Out icon.</phrase> "
 "</textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/logout_icon.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Ikon keluar.</phrase> "
+"</textobject>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1129
@@ -18539,7 +18612,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1586
 msgid "The window has focus."
-msgstr ""
+msgstr "Jendela memiliki fokus."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1589
@@ -19496,7 +19569,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:160
 msgid "<command>--window</command>"
-msgstr ""
+msgstr "<command>--jendela</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:165
@@ -19928,6 +20001,8 @@ msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Print this "
 "Document</guimenuitem> </menuchoice>"
 msgstr ""
+"Klik <menuchoice> <guimenu>Berkas</guimenu> <guimenuitem>Cetak Dokumen "
+"ini</guimenuitem> </menuchoice>"
 
 #. (itstool) path: note/para
 #: C/gostools.xml:520
@@ -19952,6 +20027,8 @@ msgid ""
 "Click <menuchoice> <guimenu>File</guimenu> <guimenuitem>Close "
 "Window</guimenuitem> </menuchoice>"
 msgstr ""
+"Klik <menuchoice> <guimenu>Berkas</guimenu> <guimenuitem>Tutup "
+"Jendela</guimenuitem> </menuchoice>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:538
@@ -20218,7 +20295,7 @@ msgstr "Menuju Isi"
 #. (itstool) path: section/para
 #: C/gostools.xml:738
 msgid "To go to the contents for a document:"
-msgstr ""
+msgstr "Untuk membuka konten dokumen:"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:742
@@ -20579,7 +20656,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:958
 msgid "MATE Documentation Utilites"
-msgstr ""
+msgstr "Utilitas Dokumentasi MATE"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:959
