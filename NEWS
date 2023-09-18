@@ -1,9 +1,12 @@
+### mate-user-guide 1.27.1
+
+  * update translations
+  * fix warnings in de, es, fr, id, it, ja, ko, pl, sl, sr and sv translations
+  * build warning: AC_OUTPUT should be used without arguments
+
 ### mate-user-guide 1.27.0
 
-  * tx: sync with transifex
-  * tx: update resource
-  * tx: migrate config file
-  * tx: update resource
+  * update translations
   * goscustdesk: fix typos reported by translators
   * goscaja: fix typos reported by translator
 
