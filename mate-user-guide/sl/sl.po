@@ -2,20 +2,21 @@
 # Translators:
 # worm <thewormhole@gmail.com>, 2021
 # jetomit <timotej.lazar@araneo.si>, 2021
-# Marko Šterman <marko.chamillionaire@gmail.com>, 2021
+# 392dbed06ed0617bcf734e5c3b88c2de_a806767 <56c3eb2cbfedb81f02a0c7d6830fdbf3_19707>, 2021
 # Damir Jerovšek <jierro@windowslive.com>, 2021
 # Martin Wimpress <code@flexion.org>, 2021
 # Damir Mevkić 52K <damir.mevkic@gmail.com>, 2021
 # Arnold Marko <arnold.marko@gmail.com>, 2021
 # Stefano Karapetsas <stefano@karapetsas.com>, 2021
 # Helena S <ele@tutamail.com>, 2021
+# Wolfgang Ulbrich <mate@raveit.de>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2021-09-18 15:10+0200\n"
 "PO-Revision-Date: 2021-09-21 17:49+0000\n"
-"Last-Translator: Helena S <ele@tutamail.com>, 2021\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2023\n"
 "Language-Team: Slovenian (https://app.transifex.com/mate/teams/13566/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -433,7 +434,7 @@ msgstr "Raba miške"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:23
 msgid "<primary>basic skills</primary> <secondary>mouse skills</secondary>"
-msgstr "<primary>osnovne veščine<secondary>raba miške</secondary>"
+msgstr "<primary>osnovne veščine</primary><secondary>raba miške</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:27

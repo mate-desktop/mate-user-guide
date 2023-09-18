@@ -11,15 +11,15 @@
 # c7a0a66e0476db158663636124cfb54f_370a183, 2021
 # Stefano Karapetsas <stefano@karapetsas.com>, 2021
 # shinmili <rmsk.pl.ur.lpt@gmail.com>, 2021
-# Wolfgang Ulbrich <mate@raveit.de>, 2021
 # Green <usergreen@users.osdn.me>, 2022
+# Wolfgang Ulbrich <mate@raveit.de>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2021-09-18 15:10+0200\n"
 "PO-Revision-Date: 2021-09-21 17:49+0000\n"
-"Last-Translator: Green <usergreen@users.osdn.me>, 2022\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2023\n"
 "Language-Team: Japanese (https://app.transifex.com/mate/teams/13566/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -732,9 +732,6 @@ msgid ""
 "Clicking on an element of the interface to move it is sometimes called a "
 "<emphasis>grab</emphasis>."
 msgstr ""
-"マウスを使ったドラッグ操作はいろいろなコンテキストで使用します。マウスを使って画面内でオブジェクトを移動します。そのオブジェクトはマウス・ボタンを放した場所に<emphasis>ドロップ</emphasis>されます。この操作を<emphasis>ドラッグ"
-" & "
-"ドロップ</emphasis>とも呼びます。ユーザ・インタフェースの要素をクリックして移動することを<emphasis>つかむ</emphasis>とも呼びます。"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:207
@@ -2810,7 +2807,7 @@ msgid ""
 " menu."
 msgstr ""
 "<xref linkend=\"overview-"
-"desktop\"/>背景とは、デスクトップに適用される画像や色のことです。<guilabel>背景</guilabel>タブの項目は、デスクトップを右クリックし<guimenuitem>デスクトップの背景を変更を変更</guimenuitem>するで<application>外観</application>設定ツールから、または<menuchoice><guimenu>システム<guisubmenu></menuchoice>設定メニューから開くことができます。"
+"desktop\"/>背景とは、デスクトップに適用される画像や色のことです。<guilabel>背景</guilabel>タブの項目は、デスクトップを右クリックし<application>デスクトップの背景を変更を変更</application>するで<guimenuitem>外観</guimenuitem>設定ツールから、または<menuchoice><guisubmenu>システム</guisubmenu></menuchoice>設定メニューから開くことができます。"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:471
@@ -5663,7 +5660,7 @@ msgid ""
 "changes. This is to prevent bad display settings from rendering your "
 "computer unusable."
 msgstr ""
-"モニター設定<application>行った変更は、<guibutton>適用</guibutton>ボタンをクリックするまで反映されません。変更を確定しない限り、設定は元に戻ることになります。これは、間違ったディスプレイ設定が原因でコンピューターが使えなくなるのを防ぐためです。"
+"モニター設定<application>行った変更は</application>、<guibutton>適用</guibutton>ボタンをクリックするまで反映されません。変更を確定しない限り、設定は元に戻ることになります。これは、間違ったディスプレイ設定が原因でコンピューターが使えなくなるのを防ぐためです。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2356
@@ -6197,7 +6194,7 @@ msgstr "<guilabel>ログアウト時に実行中のアプリケーションを�
 msgid ""
 "<primary>startup applications</primary> <secondary>session-"
 "managed</secondary>"
-msgstr "</primary>スタートアップ・アプリケーション</primary> <secondary>セッション管理</secondary>"
+msgstr "<primary>スタートアップ・アプリケーション</primary> <secondary>セッション管理</secondary>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2736
@@ -8556,7 +8553,7 @@ msgstr "アクションの編集"
 #: C/goscaja.xml:947
 msgid ""
 "<primary>file manager</primary> <secondary>modifying actions</secondary>"
-msgstr "<primary>ファイル・マネージャ<secondary>アクションの編集</secondary>"
+msgstr "<primary>ファイル・マネージャ</primary> <secondary>アクションの編集</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:951
@@ -9091,7 +9088,7 @@ msgid ""
 "displayed in a list view.</phrase> </textobject>"
 msgstr ""
 "<imageobject><imagedata fileref=\"figures/caja_spatial_list_view.png\" "
-"format=\"PNG\"/></imageobject></textobject></phrase>ホームフォルダをアイコンで表示。</phrase></textobject>"
+"format=\"PNG\"/></imageobject><textobject><phrase>ホームフォルダをアイコンで表示。</phrase></textobject>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1164
@@ -10773,8 +10770,8 @@ msgid ""
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
 " The <xref linkend=\"caja-properties\"/> for the item is displayed."
 msgstr ""
-"<menuchoice><guimenu>ファイル</guimenu><guimenuitem>プロパティ</guimenuitem></menuchoice>を選択してください。そのアイテムに関する<link"
-" linkend=\"caja-properties\">が表示されます。"
+"<menuchoice><guimenu>ファイル</guimenu><guimenuitem>プロパティ</guimenuitem></menuchoice>を選択してください。そのアイテムに関する<xref"
+" linkend=\"caja-properties\"/>が表示されます。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2191 C/goscaja.xml:2234
@@ -11045,7 +11042,7 @@ msgstr "お気に入りの場所に対してブックマークを活用する"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2341
 msgid "<primary>file manager</primary> <secondary>bookmarks</secondary>"
-msgstr "<primary>ファイル・マネージャ<secondary>ブックマーク</secondary>"
+msgstr "<primary>ファイル・マネージャ</primary> <secondary>ブックマーク</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2345
@@ -11993,7 +11990,7 @@ msgid ""
 "Emblems</guimenuitem></menuchoice> in any file manager window. The "
 "<guilabel>Backgrounds and Emblems</guilabel> dialog is displayed."
 msgstr ""
-"ファイル・マネージャーのウィンドウで、<menuchoice><guimenu>編集</guimenu><guimenuitem>背景とエンブレム</guimenuitem>を選択します。<guilabel>背景とエンブレム</guilabel>ダイアログが表示されます。"
+"ファイル・マネージャーのウィンドウで、<menuchoice><guimenu>編集</guimenu><guimenuitem>背景とエンブレム</guimenuitem></menuchoice>を選択します。<guilabel>背景とエンブレム</guilabel>ダイアログが表示されます。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2822
@@ -13256,7 +13253,8 @@ msgid ""
 "<primary>file manager</primary> <secondary>icons</secondary> "
 "<tertiary>caption preferences</tertiary>"
 msgstr ""
-"<primary>ファイル・マネージャ</primary> <secondary>アイコン</secondary> 見出しの設定<tertiary>"
+"<primary>ファイル・マネージャ</primary> <secondary>アイコン</secondary> "
+"<tertiary>見出しの設定</tertiary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:3560
@@ -13881,7 +13879,8 @@ msgid ""
 "xlink:href=\"http://g-scripts.sourceforge.net\"><citetitle>G-Scripts "
 "website</citetitle></link>."
 msgstr ""
-"<application>Caja</application> スクリプトをダウンロードするには、<citetitle>G-Scripts の "
+"<application>Caja</application> スクリプトをダウンロードするには、<link "
+"xlink:href=\"http://g-scripts.sourceforge.net\"><citetitle>G-Scripts の "
 "Webサイト</citetitle></link>利用が適しています。"
 
 #. (itstool) path: info/title
@@ -14617,7 +14616,7 @@ msgid ""
 "the change. Press <keycap>Escape</keycap> to cancel the resize action and "
 "return the window to its original size and shape."
 msgstr ""
-"ウィンドウ・メニューから「サイズ変更」を選択するか、<keycombo>Alt<keycap><keycap>F8</keycap></keycombo>を押下することでも可能です。サイズ変更ポインタが表示されます。サイズを変更したい辺の方向にマウスを動かすか、それに対応する矢印キーを押してください。ポインタが変化して、選択したエッジを示します。これで、マウスまたは矢印キーを使って、選択した辺を動かすことができます。マウスをクリックするか、<keycap>Return</keycap>キーを押して変更を確定します。<keycap>Escape</keycap>キーを押すと、サイズ変更操作が取り消され、ウィンドウが元のサイズと形状に戻ります。"
+"ウィンドウ・メニューから「サイズ変更」を選択するか、<keycombo><keycap>Alt</keycap><keycap>F8</keycap></keycombo>を押下することでも可能です。サイズ変更ポインタが表示されます。サイズを変更したい辺の方向にマウスを動かすか、それに対応する矢印キーを押してください。ポインタが変化して、選択した辺（へり）を示します。これで、マウスまたは矢印キーを使って、選択した辺を動かすことができます。マウスをクリックするか、<keycap>Return</keycap>キーを押して変更を確定します。<keycap>Escape</keycap>キーを押すと、サイズ変更操作が取り消され、ウィンドウが元のサイズと形状に戻ります。"
 
 #. (itstool) path: varlistentry/term
 #: C/gosoverview.xml:244
@@ -14675,7 +14674,7 @@ msgid ""
 "part of the titlebar except the buttons at either end."
 msgstr ""
 "最大化するには、ウィンドウ・メニューより「最大化」を選択するか、または "
-"<keycombo><keycap>Alt<keycap>F10</keycap></keycombo>キーを押すか、あるいはタイトルバーの両端のボタン以外の部分をダブルクリックしてもできます。"
+"<keycombo><keycap>Alt</keycap><keycap>F10</keycap></keycombo>キーを押すか、あるいはタイトルバーの両端のボタン以外の部分をダブルクリックしてもできます。"
 
 #. (itstool) path: tip/para
 #: C/gosoverview.xml:266
@@ -15037,7 +15036,7 @@ msgid ""
 " up definitions of a word."
 msgstr ""
 "<link xlink:href=\"help:mate-"
-"dictionary\"></application>辞書</application></link>を利用すると、単語の定義を調べることができます。"
+"dictionary\"><application>辞書</application></link>を利用すると、単語の定義を調べることができます。"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:413
@@ -15058,7 +15057,7 @@ msgid ""
 " you need will be on your keyboard."
 msgstr ""
 "<link "
-"xlink:href=\"help:gucharmap\"></application>文字マップ</application></link>を使って "
+"xlink:href=\"help:gucharmap\"><application>文字マップ</application></link>を使って "
 "<firstterm>Unicode</firstterm> "
 "の文字集合から任意の文字や記号を選択し、他のアプリケーションに貼り付けることができます。もし複数の言語で文書を作成しようとする場合、お使いのキーボードに必要な文字が揃っていないないかもしれません。"
 
@@ -20298,7 +20297,7 @@ msgid ""
 "<guibutton>Add</guibutton> to add the bookmark, or click "
 "<guibutton>Cancel</guibutton> to cancel the request."
 msgstr ""
-"<_:figure-1/></guilabel>タイトル</guilabel>入力欄に、希望するブックマークのタイトルを入力します。<guibutton>追加</guibutton>をクリックするとブックマークが追加され、<guibutton>キャンセル</guibutton>をクリックすると操作が取り消されます。"
+"<_:figure-1/><guilabel>タイトル</guilabel>入力欄に、希望するブックマークのタイトルを入力します。<guibutton>追加</guibutton>をクリックするとブックマークが追加され、<guibutton>キャンセル</guibutton>をクリックすると操作が取り消されます。"
 
 #. (itstool) path: info/title
 #: C/gostools.xml:786
@@ -21022,8 +21021,6 @@ msgid ""
 " for more information on how to use <command>dconf</command> command line "
 "tool."
 msgstr ""
-"<command>dconf</command> コマンドライン・ツールの詳しい使用方法については、<link "
-"xlink:href=\"man:dconf\"><citerefentry><refentrytitle>dconf</refentrytitle><manvolnum>1</manvolnum></citerefentry></link>を参照してください。"
 
 #. (itstool) path: tip/para
 #: C/gosdconf.xml:151
@@ -21247,9 +21244,6 @@ msgid ""
 "xlink:href=\"man:gsettings\"><citerefentry><refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></link>"
 " for more information on how to use <command>dconf</command>."
 msgstr ""
-"<command>dconf</command> の詳しい使い方については、<link "
-"xlink:href=\"man:gsettings\"></citerefentry></refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></link>"
-" を参照してください。"
 
 #. (itstool) path: info/title
 #: C/gosdconf.xml:280

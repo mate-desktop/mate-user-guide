@@ -17,18 +17,18 @@
 # Stefano Karapetsas <stefano@karapetsas.com>, 2021
 # clefebvre <clement.lefebvre@linuxmint.com>, 2021
 # Étienne Deparis <etienne@depar.is>, 2021
-# Wolfgang Ulbrich <mate@raveit.de>, 2021
 # Clément GERARDIN <clement.gerardin@univ-amu.fr>, 2021
 # David D, 2021
 # Adrien Golinelli, 2022
 # locness3, 2022
+# Wolfgang Ulbrich <mate@raveit.de>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2021-09-18 15:10+0200\n"
 "PO-Revision-Date: 2021-09-21 17:49+0000\n"
-"Last-Translator: locness3, 2022\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2023\n"
 "Language-Team: French (https://app.transifex.com/mate/teams/13566/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -169,8 +169,8 @@ msgid ""
 "</affiliation> <email>esodan@gmail.com</email>"
 msgstr ""
 "<personname> <firstname>Daniel</firstname> <surname>Espinosa Ortiz</surname>"
-" </personname> <affiliation> <orgname>Projet de documentation GNOME "
-"</affiliation> <email>esodan@gmail.com</email>"
+" </personname> <affiliation> <orgname>Projet de documentation "
+"GNOME</orgname> </affiliation> <email>esodan@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:101

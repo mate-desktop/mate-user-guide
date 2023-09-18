@@ -10,7 +10,6 @@
 # Przemek P <ppjg@dami.pl>, 2021
 # Jan Bońkowski <bonkowskijan@gmail.com>, 2021
 # Martin Wimpress <code@flexion.org>, 2021
-# Wolfgang Ulbrich <mate@raveit.de>, 2021
 # Piotr Drąg <piotrdrag@gmail.com>, 2021
 # Dominik Adrian Grzywak, 2021
 # emariusek <wisniowy@g.pl>, 2021
@@ -21,13 +20,14 @@
 # Kajetan Rosiak <roskaj@gmail.com>, 2021
 # Szymon Blaut <szymonblaut315@gmail.com>, 2021
 # Daniel Tokarzewski <bezimo@gmail.com>, 2023
+# Wolfgang Ulbrich <mate@raveit.de>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2021-09-18 15:10+0200\n"
 "PO-Revision-Date: 2021-09-21 17:49+0000\n"
-"Last-Translator: Daniel Tokarzewski <bezimo@gmail.com>, 2023\n"
+"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2023\n"
 "Language-Team: Polish (https://app.transifex.com/mate/teams/13566/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21285,8 +21285,9 @@ msgid ""
 "A <firstterm>keyboard shortcut</firstterm> is a key or combination of keys "
 "that provides an alternative to standard ways of performing an action."
 msgstr ""
-"<firstterm>Skrót klawiaturowy to klawisz lub kombinacja klawiszy, które "
-"stanowią alternatywę dla standardowych sposobów wykonywania czynności. "
+"<firstterm>Skrót klawiaturowy</firstterm> to klawisz lub kombinacja "
+"klawiszy, które stanowią alternatywę dla standardowych sposobów wykonywania "
+"czynności. "
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:88
