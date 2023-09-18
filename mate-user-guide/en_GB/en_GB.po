@@ -3,15 +3,15 @@
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Martin Wimpress <code@flexion.org>, 2019
 # Steven Maddox <s.maddox@lantizia.me.uk>, 2019
-# Andi Chandler <andi@gowling.com>, 2022
+# Andi Chandler <andi@gowling.com>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-18 15:10+0200\n"
+"POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Andi Chandler <andi@gowling.com>, 2022\n"
-"Language-Team: English (United Kingdom) (https://www.transifex.com/mate/teams/13566/en_GB/)\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>, 2023\n"
+"Language-Team: English (United Kingdom) (https://app.transifex.com/mate/teams/13566/en_GB/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +21,9 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Martin Wimpress"
+msgstr ""
+"Martin Wimpress\n"
+"Andi Chandler"
 
 #. (itstool) path: book/title
 #: C/index.docbook:7
@@ -71,6 +73,8 @@ msgid ""
 "<orgname>MATE Documentation Project</orgname> <affiliation> <orgname>MATE "
 "Desktop</orgname> </affiliation>"
 msgstr ""
+"<orgname>MATE Documentation Project</orgname> <affiliation> <orgname>MATE "
+"Desktop</orgname> </affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:44
@@ -79,6 +83,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
 "</affiliation>"
 msgstr ""
+"<personname> <firstname>Wolfgang</firstname> <surname>Ulbrich</surname> "
+"</personname> <affiliation> <orgname>Dark Side of the Moon</orgname> "
+"</affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:53
@@ -87,6 +94,9 @@ msgid ""
 "Team</surname> </personname> <affiliation> <orgname>Sun "
 "Microsystems</orgname> </affiliation>"
 msgstr ""
+"<personname> <firstname>Sun</firstname> <surname>GNOME Documentation "
+"Team</surname> </personname> <affiliation> <orgname>Sun "
+"Microsystems</orgname> </affiliation>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:62
@@ -95,6 +105,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>shaunm@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Shaun</firstname> <surname>McCance</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>shaunm@gnome.org</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:72
@@ -103,6 +116,9 @@ msgid ""
 "<orgname>GNOME Documentation Project</orgname> </affiliation> "
 "<email>karderio@gmail.com</email>"
 msgstr ""
+"<personname> <surname>Karderio</surname> </personname> <affiliation> "
+"<orgname>GNOME Documentation Project</orgname> </affiliation> "
+"<email>karderio@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:81
@@ -111,6 +127,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>jnoreiko@yahoo.com</email>"
 msgstr ""
+"<personname> <firstname>Joachim</firstname> <surname>Noreiko</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>jnoreiko@yahoo.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:91
@@ -119,6 +138,9 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>esodan@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>Daniel</firstname> <surname>Espinosa Ortiz</surname>"
+" </personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>esodan@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:101
@@ -127,6 +149,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>mate@nextreality.net</email>"
 msgstr ""
+"<personname> <firstname>Brent</firstname> <surname>Smith</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>mate@nextreality.net</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:111
@@ -135,6 +160,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>tim@tjl2.com</email>"
 msgstr ""
+"<personname> <firstname>Tim</firstname> <surname>Littlemore</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>tim@tjl2.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:121
@@ -143,6 +171,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>john.stowers@gmail.com</email>"
 msgstr ""
+"<personname> <firstname>John</firstname> <surname>Stowers</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>john.stowers@gmail.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:131
@@ -151,6 +182,9 @@ msgid ""
 "</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
 "</affiliation> <email>nigel.tao@myrealbox.com</email>"
 msgstr ""
+"<personname> <firstname>Nigel</firstname> <surname>Tao</surname> "
+"</personname> <affiliation> <orgname>GNOME Documentation Project</orgname> "
+"</affiliation> <email>nigel.tao@myrealbox.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:141
@@ -159,6 +193,9 @@ msgid ""
 "</personname> <affiliation> <orgname>Ubuntu Documentation Project</orgname> "
 "</affiliation> <email>mdke@ubuntu.com</email>"
 msgstr ""
+"<personname> <firstname>Matthew</firstname> <surname>East</surname> "
+"</personname> <affiliation> <orgname>Ubuntu Documentation Project</orgname> "
+"</affiliation> <email>mdke@ubuntu.com</email>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:151
@@ -167,22 +204,26 @@ msgid ""
 " </personname> <affiliation> <orgname>GNOME Project</orgname> </affiliation>"
 " <email>carlosg@gnome.org</email>"
 msgstr ""
+"<personname> <firstname>Carlos</firstname> <surname>Garnacho Parro</surname>"
+" </personname> <affiliation> <orgname>GNOME Project</orgname> </affiliation>"
+" <email>carlosg@gnome.org</email>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:171
 msgid "Wolfgang Ulbrich"
-msgstr ""
+msgstr "Wolfgang Ulbrich"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:167
 msgid ""
 "<revnumber>2.15</revnumber> <date>2015-07-01</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.15</revnumber> <date>2015-07-01</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:179
 msgid "Karderio"
-msgstr ""
+msgstr "Karderio"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:180 C/index.docbook:188 C/index.docbook:195
@@ -197,23 +238,26 @@ msgstr "GNOME Documentation Project"
 msgid ""
 "<revnumber>2.14</revnumber> <date>2006-02-03</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.14</revnumber> <date>2006-02-03</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:187
 msgid "Shaun McCance"
-msgstr ""
+msgstr "Shaun McCance"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:183
 msgid ""
 "<revnumber>2.10</revnumber> <date>2005-03-08</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.10</revnumber> <date>2005-03-08</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:191
 msgid ""
 "<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.8</revnumber> <date>September 2004</date> <_:revdescription-1/>"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:202 C/index.docbook:210 C/index.docbook:218
@@ -227,18 +271,21 @@ msgstr "Sun Microsystems"
 msgid ""
 "<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.7</revnumber> <date>September 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:206
 msgid ""
 "<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.6</revnumber> <date>August 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:214
 msgid ""
 "<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.5</revnumber> <date>March 2003</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:222
@@ -252,6 +299,7 @@ msgstr ""
 msgid ""
 "<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>2.3</revnumber> <date>October 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: revhistory/revision
 #: C/index.docbook:238
@@ -271,11 +319,12 @@ msgstr ""
 #: C/index.docbook:254
 msgid "<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
 msgstr ""
+"<revnumber>1.0</revnumber> <date>May 2002</date> <_:revdescription-1/>"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:264
 msgid "This manual describes version 1.22 of the MATE desktop."
-msgstr ""
+msgstr "This manual describes version 1.22 of the MATE desktop."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:4
@@ -288,6 +337,13 @@ msgid ""
 "xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">link</link> or in "
 "the file COPYING-DOCS distributed with this manual."
 msgstr ""
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation Licence (GFDL), Version 1.1 or any "
+"later version published by the Free Software Foundation with no Invariant "
+"Sections, no Front-Cover Texts, and no Back-Cover Texts. You can find a copy"
+" of the GFDL at this <link "
+"xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">link</link> or in "
+"the file COPYING-DOCS distributed with this manual."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:13
@@ -393,11 +449,14 @@ msgid ""
 "manual, follow the directions in the <link xlink:href=\"help:mate-user-"
 "guide/feedback\">MATE Feedback Page</link>."
 msgstr ""
+"To report a bug or make a suggestion regarding the MATE Desktop or this "
+"manual, follow the directions in the <link xlink:href=\"help:mate-user-"
+"guide/feedback\">MATE Feedback Page</link>."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:6
 msgid "Basic Skills"
-msgstr ""
+msgstr "Basic Skills"
 
 #. (itstool) path: highlights/para
 #: C/gosbasic.xml:14
@@ -405,21 +464,23 @@ msgid ""
 "This chapter introduces you to the basic skills that you need to work with "
 "the MATE Desktop."
 msgstr ""
+"This chapter introduces you to the basic skills that you need to work with "
+"the MATE Desktop."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:18
 msgid "Mouse Skills"
-msgstr ""
+msgstr "Mouse Skills"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:23
 msgid "<primary>basic skills</primary> <secondary>mouse skills</secondary>"
-msgstr ""
+msgstr "<primary>basic skills</primary> <secondary>mouse skills</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:27
 msgid "<primary>mouse</primary> <secondary>basic skills</secondary>"
-msgstr ""
+msgstr "<primary>mouse</primary> <secondary>basic skills</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:41
@@ -427,6 +488,8 @@ msgid ""
 "This section describes what the mouse buttons do, and what the different "
 "pointers mean."
 msgstr ""
+"This section describes what the mouse buttons do, and what the different "
+"pointers mean."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:45
@@ -437,11 +500,16 @@ msgid ""
 "action on the object over which your mouse pointer is situated, depending on"
 " which button you press."
 msgstr ""
+"A mouse is a pointing device that lets you move the mouse pointer on the "
+"screen. The mouse pointer is usually a small arrow with which you point to "
+"objects on your screen. Pressing a mouse button will perform a particular "
+"action on the object over which your mouse pointer is situated, depending on"
+" which button you press."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:50
 msgid "Mouse Button Conventions"
-msgstr ""
+msgstr "Mouse Button Conventions"
 
 #. (itstool) path: info/titleabbrev
 #. (itstool) path: info/title
@@ -452,7 +520,7 @@ msgstr "Buttons"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:55
 msgid "<primary>mouse</primary> <secondary>button conventions</secondary>"
-msgstr ""
+msgstr "<primary>mouse</primary> <secondary>button conventions</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:60
@@ -463,6 +531,11 @@ msgid ""
 "mouse. If you use a left-handed mouse, see the paragraph on setting mouse "
 "orientation below."
 msgstr ""
+"The instructions in this manual are for three buttoned, right-handed mouse "
+"devices, the most common type. If you use another type of mouse or pointing "
+"device, you should take care to locate the corresponding buttons on your "
+"mouse. If you use a left-handed mouse, see the paragraph on setting mouse "
+"orientation below."
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:65
@@ -471,6 +544,9 @@ msgid ""
 " button conventions used in this manual. This is normally also implied in "
 "most documentation and in many applications."
 msgstr ""
+"If you set your mouse device to be left-handed, you should reverse the mouse"
+" button conventions used in this manual. This is normally also implied in "
+"most documentation and in many applications."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:69
@@ -481,16 +557,21 @@ msgid ""
 " and right mouse buttons simultaneously, to simulate the the middle mouse "
 "button. A middle mouse button is by no means necessary to use MATE."
 msgstr ""
+"Some mice lack a middle button. If you have a two-button mouse device, then "
+"your system may be configured to use <firstterm>chording</firstterm> to "
+"allow middle button simulation. If chording is activated, you press the left"
+" and right mouse buttons simultaneously, to simulate the middle mouse "
+"button. A middle mouse button is by no means necessary to use MATE."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:74
 msgid "The mouse button conventions used in this manual are as follows:"
-msgstr ""
+msgstr "The mouse button conventions used in this manual are as follows:"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:78 C/gosbasic.xml:244
 msgid "Left mouse button"
-msgstr ""
+msgstr "Left mouse button"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:79
@@ -500,11 +581,15 @@ msgid ""
 " told to \"click\" it is implied that you should click with the left button,"
 " unless specifically stated."
 msgstr ""
+"The button on the left side of a mouse device. This is the main mouse "
+"button, used for selecting, activating, pressing buttons etc... When you are"
+" told to \"click\" it is implied that you should click with the left button,"
+" unless specifically stated."
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:85 C/gosbasic.xml:255
 msgid "Middle mouse button"
-msgstr ""
+msgstr "Middle mouse button"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:86
@@ -512,11 +597,13 @@ msgid ""
 "The middle button of a mouse device. On many mice with a scroll wheel, the "
 "scroll wheel can be pushed down for a middle mouse button click."
 msgstr ""
+"The middle button of a mouse device. On many mice with a scroll wheel, the "
+"scroll wheel can be pushed down for a middle mouse button click."
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:91 C/gosbasic.xml:265
 msgid "Right mouse button"
-msgstr ""
+msgstr "Right mouse button"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:92
@@ -524,6 +611,8 @@ msgid ""
 "The button on the right side of a mouse device. Often, this button displays "
 "a context menu for the object under the pointer."
 msgstr ""
+"The button on the right side of a mouse device. Often, this button displays "
+"a context menu for the object under the pointer."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:97
@@ -534,11 +623,16 @@ msgid ""
 "linkend=\"prefs-mouse\"/> for more information about setting your mouse "
 "preferences."
 msgstr ""
+"Use <application>Mouse Preferences</application> to reverse the orientation "
+"of your mouse device. You will then need to reverse the mouse button "
+"conventions used in this manual and other MATE documentation. See <xref "
+"linkend=\"prefs-mouse\"/> for more information about setting your mouse "
+"preferences."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:103
 msgid "Mouse Actions"
-msgstr ""
+msgstr "Mouse Actions"
 
 #. (itstool) path: info/titleabbrev
 #: C/gosbasic.xml:103
@@ -548,12 +642,12 @@ msgstr "Actions"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:109
 msgid "<primary>mouse</primary> <secondary>action conventions</secondary>"
-msgstr ""
+msgstr "<primary>mouse</primary> <secondary>action conventions</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:113
 msgid "<primary>mouse</primary> <secondary>action terminology</secondary>"
-msgstr ""
+msgstr "<primary>mouse</primary> <secondary>action terminology</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:118
@@ -561,6 +655,8 @@ msgid ""
 "The following conventions are used in this manual to describe actions that "
 "you take with the mouse:"
 msgstr ""
+"The following conventions are used in this manual to describe actions that "
+"you take with the mouse:"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:129 C/gosbasic.xml:855 C/gosbasic.xml:948 C/goscaja.xml:759
@@ -571,23 +667,23 @@ msgstr "Action"
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:132
 msgid "Definition"
-msgstr ""
+msgstr "Definition"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:139
 msgid "Click"
-msgstr ""
+msgstr "Click"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:142
 msgid "Press and release the left mouse button, without moving the mouse."
-msgstr ""
+msgstr "Press and release the left mouse button, without moving the mouse."
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:148 C/gospanel.xml:409
 msgid "Left-click"
-msgstr ""
+msgstr "Left-click"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:151
@@ -595,33 +691,35 @@ msgid ""
 "Same as <emphasis>click</emphasis>. The term 'left-click' is used where "
 "there might be confusion with <emphasis>right-click</emphasis>."
 msgstr ""
+"Same as <emphasis>click</emphasis>. The term 'left-click' is used where "
+"there might be confusion with <emphasis>right-click</emphasis>."
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:158 C/gospanel.xml:415
 msgid "Middle-click"
-msgstr ""
+msgstr "Middle-click"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:161
 msgid "Press and release the middle mouse button, without moving the mouse."
-msgstr ""
+msgstr "Press and release the middle mouse button, without moving the mouse."
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:167 C/gospanel.xml:422
 msgid "Right-click"
-msgstr ""
+msgstr "Right-click"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:170
 msgid "Press and release the right mouse button, without moving the mouse."
-msgstr ""
+msgstr "Press and release the right mouse button, without moving the mouse."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:176
 msgid "Double-click"
-msgstr ""
+msgstr "Double-click"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:179
@@ -631,11 +729,15 @@ msgid ""
 "changing the <emphasis>Double-click Timeout</emphasis> setting: see <xref "
 "linkend=\"prefs-mouse\"/> for more information."
 msgstr ""
+"Press and release the left mouse button twice in rapid succession without "
+"moving the mouse. You can configure the sensitivity to double-clicks by "
+"changing the <emphasis>Double-click Timeout</emphasis> setting: see <xref "
+"linkend=\"prefs-mouse\"/> for more information."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:188
 msgid "Click-and-drag"
-msgstr ""
+msgstr "Click-and-drag"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:191
@@ -643,6 +745,8 @@ msgid ""
 "Press and do not release the left mouse button, and then move the mouse with"
 " the button still held down, and finally release the button."
 msgstr ""
+"Press and do not release the left mouse button, and then move the mouse with"
+" the button still held down, and finally release the button."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:196
@@ -654,6 +758,12 @@ msgid ""
 "Clicking on an element of the interface to move it is sometimes called a "
 "<emphasis>grab</emphasis>."
 msgstr ""
+"Dragging with the mouse is used in many different contexts. This moves an "
+"object around the screen with the mouse. The object is "
+"<emphasis>dropped</emphasis> at the location where the mouse button is "
+"released. This action is also called <emphasis>drag-and-drop</emphasis>. "
+"Clicking on an element of the interface to move it is sometimes called a "
+"<emphasis>grab</emphasis>."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:207
@@ -662,6 +772,9 @@ msgid ""
 "title bar, or move a file by dragging its icon from one window and dropping "
 "it on another."
 msgstr ""
+"For example, you can change the position of a window by dragging on its "
+"title bar, or move a file by dragging its icon from one window and dropping "
+"it on another."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:211
@@ -669,61 +782,63 @@ msgid ""
 "The left mouse buttons is usually used to perform drag actions, although the"
 " middle mouse button is sometimes used for an alternate drag action."
 msgstr ""
+"The left mouse buttons is usually used to perform drag actions, although the"
+" middle mouse button is sometimes used for an alternate drag action."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:219
 msgid "Click-and-hold"
-msgstr ""
+msgstr "Click-and-hold"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:222
 msgid "Press and do not release the left mouse button."
-msgstr ""
+msgstr "Press and do not release the left mouse button."
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:230
 msgid "<primary>mouse</primary> <secondary>actions</secondary>"
-msgstr ""
+msgstr "<primary>mouse</primary> <secondary>actions</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:235
 msgid "You can perform the following actions with the mouse:"
-msgstr ""
+msgstr "You can perform the following actions with the mouse:"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:247
 msgid "Select text."
-msgstr ""
+msgstr "Select text."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:248
 msgid "Select items."
-msgstr ""
+msgstr "Select items."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:249
 msgid "Drag items."
-msgstr ""
+msgstr "Drag items."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:250
 msgid "Activate items."
-msgstr ""
+msgstr "Activate items."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:258
 msgid "Paste text."
-msgstr ""
+msgstr "Paste text."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:259
 msgid "Move items."
-msgstr ""
+msgstr "Move items."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:260
 msgid "Move windows to the back."
-msgstr ""
+msgstr "Move windows to the back."
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:266
@@ -733,6 +848,10 @@ msgid ""
 "<keycombo><keycap>Shift</keycap><keycap>F10</keycap></keycombo> keyboard "
 "shortcut to open the context menu once the item has been selected."
 msgstr ""
+"Use the right mouse button to open a context menu for an item, if a menu "
+"applies. For most items, you can also use the "
+"<keycombo><keycap>Shift</keycap><keycap>F10</keycap></keycombo> keyboard "
+"shortcut to open the context menu once the item has been selected."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:274
@@ -742,6 +861,10 @@ msgid ""
 "the left mouse button. Clicking with the right mouse button will bring up a "
 "context menu for that file."
 msgstr ""
+"For example, when viewing files in the file manager, you select a file by "
+"clicking with the left mouse button and open a file by double-clicking with "
+"the left mouse button. Clicking with the right mouse button will bring up a "
+"context menu for that file."
 
 #. (itstool) path: tip/para
 #: C/gosbasic.xml:279
@@ -751,6 +874,10 @@ msgid ""
 "called primary selection paste, and works separately from your normal "
 "clipboard operations."
 msgstr ""
+"In most applications, you can select text with your left mouse button and "
+"paste it in another application using the middle mouse button. This is "
+"called primary selection paste, and works separately from your normal "
+"clipboard operations."
 
 #. (itstool) path: tip/para
 #: C/gosbasic.xml:284
@@ -761,26 +888,31 @@ msgid ""
 "box</firstterm> to select several items by starting the drag in the empty "
 "space around items and dragging out a rectangle."
 msgstr ""
+"To select more than one item, you can hold the <keycap>Ctrl</keycap> key to "
+"select multiple items, or hold the <keycap>Shift</keycap> key to select a "
+"contiguous range of items. You can also drag a <firstterm>bounding "
+"box</firstterm> to select several items by starting the drag in the empty "
+"space around items and dragging out a rectangle."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:294
 msgid "Mouse Pointers"
-msgstr ""
+msgstr "Mouse Pointers"
 
 #. (itstool) path: info/titleabbrev
 #: C/gosbasic.xml:294
 msgid "Pointers"
-msgstr ""
+msgstr "Pointers"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:299
 msgid "<primary>mouse</primary> <secondary>pointers</secondary>"
-msgstr ""
+msgstr "<primary>mouse</primary> <secondary>pointers</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:303
 msgid "<primary>pointers</primary> <see>mouse pointers</see>"
-msgstr ""
+msgstr "<primary>pointers</primary> <see>mouse pointers</see>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:308
@@ -789,6 +921,9 @@ msgid ""
 "appearance of the pointer provides feedback about a particular operation, "
 "location, or state."
 msgstr ""
+"As you use the mouse, the appearance of the mouse pointer can change. The "
+"appearance of the pointer provides feedback about a particular operation, "
+"location, or state."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:312
@@ -796,6 +931,8 @@ msgid ""
 "The following mouse pointers are shown as your mouse passes over different "
 "elements of the screen:"
 msgstr ""
+"The following mouse pointers are shown as your mouse passes over different "
+"elements of the screen:"
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:315
@@ -804,6 +941,9 @@ msgid ""
 "different pointer theme. Your distributor or vendor may have set a different"
 " default theme."
 msgstr ""
+"Your mouse pointers will differ from those shown here if you are using a "
+"different pointer theme. Your distributor or vendor may have set a different"
+" default theme."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -816,6 +956,8 @@ msgid ""
 "external ref='figures/normal_pointer.png' "
 "md5='47960823c1883b50400d4fb7be857c72'"
 msgstr ""
+"external ref='figures/normal_pointer.png' "
+"md5='47960823c1883b50400d4fb7be857c72'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:319
@@ -825,11 +967,15 @@ msgid ""
 "<phrase>Normal pointer.</phrase> </textobject> </inlinemediaobject> Normal "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/normal_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Normal pointer.</phrase> </textobject> </inlinemediaobject> Normal "
+"pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:330
 msgid "This pointer appears during normal use of the mouse."
-msgstr ""
+msgstr "This pointer appears during normal use of the mouse."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -842,6 +988,8 @@ msgid ""
 "external ref='figures/busy_pointer.png' "
 "md5='99db6994613731ca7687bd700c471b2d'"
 msgstr ""
+"external ref='figures/busy_pointer.png' "
+"md5='99db6994613731ca7687bd700c471b2d'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:334
@@ -851,6 +999,10 @@ msgid ""
 "<phrase>Busy pointer.</phrase> </textobject> </inlinemediaobject> Busy "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/busy_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Busy pointer.</phrase> </textobject> </inlinemediaobject> Busy "
+"pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:345
@@ -859,6 +1011,9 @@ msgid ""
 "cannot use the mouse to give this window any input, but you can move to "
 "another window and work with that."
 msgstr ""
+"This pointer appears over a window that is busy performing a task. You "
+"cannot use the mouse to give this window any input, but you can move to "
+"another window and work with that."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -871,6 +1026,8 @@ msgid ""
 "external ref='figures/resize_pointer.png' "
 "md5='43e8186584e1879ba078caedf0a9f33f'"
 msgstr ""
+"external ref='figures/resize_pointer.png' "
+"md5='43e8186584e1879ba078caedf0a9f33f'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:348
@@ -880,6 +1037,10 @@ msgid ""
 "<phrase>Resize pointer.</phrase> </textobject> </inlinemediaobject> Resize "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/resize_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Resize pointer.</phrase> </textobject> </inlinemediaobject> Resize "
+"pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:359
@@ -889,6 +1050,10 @@ msgid ""
 "between panes in a window. The direction of the arrows indicates in which "
 "direction you can resize."
 msgstr ""
+"This pointer indicates that you can grab the control to resize parts of the "
+"interface. This appears over the borders of windows and over resize handles "
+"between panes in a window. The direction of the arrows indicates in which "
+"direction you can resize."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -901,6 +1066,8 @@ msgid ""
 "external ref='figures/hyperlink_pointer.png' "
 "md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 msgstr ""
+"external ref='figures/hyperlink_pointer.png' "
+"md5='41030ede726c6f3d9f1bd1f05456f3f6'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:365
@@ -910,6 +1077,10 @@ msgid ""
 "<phrase>Hand pointer</phrase> </textobject> </inlinemediaobject> Hand "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/hyperlink_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Hand pointer</phrase> </textobject> </inlinemediaobject> Hand "
+"pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:376
@@ -918,6 +1089,9 @@ msgid ""
 "link</glossterm>, in a web page for example. This pointer indicates that you"
 " can click on the link to load a new document or perform an action."
 msgstr ""
+"This pointer appears when you hover over a <glossterm>hypertext "
+"link</glossterm>, in a web page for example. This pointer indicates that you"
+" can click on the link to load a new document or perform an action."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -930,6 +1104,8 @@ msgid ""
 "external ref='figures/ibeam_pointer.png' "
 "md5='77aa93e74d640173c96801747bf564d1'"
 msgstr ""
+"external ref='figures/ibeam_pointer.png' "
+"md5='77aa93e74d640173c96801747bf564d1'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:382
@@ -939,6 +1115,10 @@ msgid ""
 "<phrase>I-beam pointer</phrase> </textobject> </inlinemediaobject> I-beam "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/ibeam_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>I-beam pointer</phrase> </textobject> </inlinemediaobject> I-beam "
+"pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:393
@@ -947,6 +1127,9 @@ msgid ""
 "edit. Click to place the cursor where you want to type text, or drag to "
 "select text."
 msgstr ""
+"This pointer is shown when the mouse is over text that you can select or "
+"edit. Click to place the cursor where you want to type text, or drag to "
+"select text."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:398
@@ -955,6 +1138,9 @@ msgid ""
 " or a piece of text. They indicate the result of releasing the mouse button "
 "to drop the object being moved."
 msgstr ""
+"The following mouse pointers are shown when dragging an item such as a file,"
+" or a piece of text. They indicate the result of releasing the mouse button "
+"to drop the object being moved."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -967,6 +1153,8 @@ msgid ""
 "external ref='figures/move_pointer.png' "
 "md5='1a4e4a188a0132fc783c465d42c52426'"
 msgstr ""
+"external ref='figures/move_pointer.png' "
+"md5='1a4e4a188a0132fc783c465d42c52426'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:404
@@ -976,6 +1164,10 @@ msgid ""
 "<phrase>Move pointer.</phrase> </textobject> </inlinemediaobject> Move "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/move_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Move pointer.</phrase> </textobject> </inlinemediaobject> Move "
+"pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:415
@@ -983,6 +1175,8 @@ msgid ""
 "This pointer indicates that when you drop the object, the object is moved "
 "from the old location to the new location."
 msgstr ""
+"This pointer indicates that when you drop the object, the object is moved "
+"from the old location to the new location."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -995,6 +1189,8 @@ msgid ""
 "external ref='figures/copy_pointer.png' "
 "md5='228984e885befffd71ae4eadd7ee790e'"
 msgstr ""
+"external ref='figures/copy_pointer.png' "
+"md5='228984e885befffd71ae4eadd7ee790e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:420
@@ -1004,6 +1200,10 @@ msgid ""
 "<phrase>Copy pointer.</phrase> </textobject> </inlinemediaobject> Copy "
 "pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/copy_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Copy pointer.</phrase> </textobject> </inlinemediaobject> Copy "
+"pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:431
@@ -1011,6 +1211,8 @@ msgid ""
 "This pointer indicates that when you drop the object, a copy of the object "
 "is created where you drop it."
 msgstr ""
+"This pointer indicates that when you drop the object, a copy of the object "
+"is created where you drop it."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1023,6 +1225,8 @@ msgid ""
 "external ref='figures/link_pointer.png' "
 "md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 msgstr ""
+"external ref='figures/link_pointer.png' "
+"md5='8fb4e2d2fcaea8b59a653a3d8fc85b5a'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:436
@@ -1032,6 +1236,10 @@ msgid ""
 "<phrase>Symbolic link pointer.</phrase> </textobject> </inlinemediaobject> "
 "Symbolic link pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/link_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Symbolic link pointer.</phrase> </textobject> </inlinemediaobject> "
+"Symbolic link pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:447
@@ -1041,6 +1249,10 @@ msgid ""
 "symbolic link is a special type of file that points to another file or "
 "folder. For more on this, see <xref linkend=\"caja-symlink\"/>."
 msgstr ""
+"This pointer indicates that when you drop the object, a <firstterm>symbolic "
+"link</firstterm> to the object is created where you drop the object. A "
+"symbolic link is a special type of file that points to another file or "
+"folder. For more on this, see <xref linkend=\"caja-symlink\"/>."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1053,6 +1265,8 @@ msgid ""
 "external ref='figures/ask_pointer.png' "
 "md5='bd23edcf2659006110ce30a14f0abb35'"
 msgstr ""
+"external ref='figures/ask_pointer.png' "
+"md5='bd23edcf2659006110ce30a14f0abb35'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:454
@@ -1061,6 +1275,9 @@ msgid ""
 "fileref=\"figures/ask_pointer.png\"/> </imageobject> <textobject> "
 "<phrase>Ask pointer.</phrase> </textobject> </inlinemediaobject> Ask pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/ask_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Ask pointer.</phrase> </textobject> </inlinemediaobject> Ask pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:465
@@ -1070,6 +1287,10 @@ msgid ""
 "operation you would like to perform. For instance, you may be able to move, "
 "copy, or create a symbolic link."
 msgstr ""
+"This pointer indicates that when you drop the object, you will be given a "
+"choice of what to do. A menu will open to allow you to choose which "
+"operation you would like to perform. For instance, you may be able to move, "
+"copy, or create a symbolic link."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1082,6 +1303,8 @@ msgid ""
 "external ref='figures/not_available_pointer.png' "
 "md5='19601aaf360da25b8a0d1d18b45ed99e'"
 msgstr ""
+"external ref='figures/not_available_pointer.png' "
+"md5='19601aaf360da25b8a0d1d18b45ed99e'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:471
@@ -1091,6 +1314,10 @@ msgid ""
 "<phrase>Not available pointer.</phrase> </textobject> </inlinemediaobject> "
 "Not available pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/not_available_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Not available pointer.</phrase> </textobject> </inlinemediaobject> "
+"Not available pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:482
@@ -1099,6 +1326,9 @@ msgid ""
 "location. Releasing the mouse button now will have no effect: the dragged "
 "object will be returned to its starting location."
 msgstr ""
+"This pointer indicates that you cannot drop the object at the current "
+"location. Releasing the mouse button now will have no effect: the dragged "
+"object will be returned to its starting location."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1111,6 +1341,8 @@ msgid ""
 "external ref='figures/move_panel_object_pointer.png' "
 "md5='e4244fb77b0df2b0c451328dce6fa175'"
 msgstr ""
+"external ref='figures/move_panel_object_pointer.png' "
+"md5='e4244fb77b0df2b0c451328dce6fa175'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:486
@@ -1120,6 +1352,10 @@ msgid ""
 "<textobject> <phrase>Move panel object pointer.</phrase> </textobject> "
 "</inlinemediaobject> Move panel object pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/move_panel_object_pointer.png\"/> </imageobject> "
+"<textobject> <phrase>Move panel object pointer.</phrase> </textobject> "
+"</inlinemediaobject> Move panel object pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:497
@@ -1128,6 +1364,9 @@ msgid ""
 " mouse button. See <xref linkend=\"panels\"/> for more information on "
 "panels."
 msgstr ""
+"This pointer appears when you drag a panel or a panel object with the middle"
+" mouse button. See <xref linkend=\"panels\"/> for more information on "
+"panels."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -1140,6 +1379,8 @@ msgid ""
 "external ref='figures/movewindow_pointer.png' "
 "md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 msgstr ""
+"external ref='figures/movewindow_pointer.png' "
+"md5='8496a1d62cbfbe5272f8f5fa6f173c4c'"
 
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:502
@@ -1149,6 +1390,10 @@ msgid ""
 "<phrase>Move window pointer.</phrase> </textobject> </inlinemediaobject> "
 "Move window pointer"
 msgstr ""
+"<inlinemediaobject> <imageobject> <imagedata format=\"PNG\" "
+"fileref=\"figures/movewindow_pointer.png\"/> </imageobject> <textobject> "
+"<phrase>Move window pointer.</phrase> </textobject> </inlinemediaobject> "
+"Move window pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:513
@@ -1156,21 +1401,24 @@ msgid ""
 "This pointer appears when you drag a window to move it. See <xref "
 "linkend=\"windows-manipulating\"/> for more information on moving windows."
 msgstr ""
+"This pointer appears when you drag a window to move it. See <xref "
+"linkend=\"windows-manipulating\"/> for more information on moving windows."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:521
 msgid "Keyboard Skills"
-msgstr ""
+msgstr "Keyboard Skills"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:527
 msgid "<primary>basic skills</primary> <secondary>keyboard skills</secondary>"
 msgstr ""
+"<primary>basic skills</primary> <secondary>keyboard skills</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:531
 msgid "<primary>keyboard</primary> <secondary>basic skills</secondary>"
-msgstr ""
+msgstr "<primary>keyboard</primary> <secondary>basic skills</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:536
@@ -1179,6 +1427,9 @@ msgid ""
 "keyboard to perform the same task. <firstterm>Shortcut keys</firstterm> are "
 "keys that provide you with a quick way to perform a task."
 msgstr ""
+"For almost every task that you can perform with the mouse, you can use the "
+"keyboard to perform the same task. <firstterm>Shortcut keys</firstterm> are "
+"keys that provide you with a quick way to perform a task."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:540
@@ -1190,6 +1441,12 @@ msgid ""
 "linkend=\"prefs-keyboard-shortcuts\"/> for more information about "
 "configuring keyboard shortcuts."
 msgstr ""
+"You can use shortcut keys to perform general MATE Desktop tasks and to work "
+"with interface items such as panels and windows. You can also use shortcut "
+"keys in applications. To customize your shortcut keys, use the "
+"<application>Keyboard Shortcuts</application> preference tool. See <xref "
+"linkend=\"prefs-keyboard-shortcuts\"/> for more information about "
+"configuring keyboard shortcuts."
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:547
@@ -1198,6 +1455,9 @@ msgid ""
 "system: a key with a Microsoft Windows™ logo and a key for accessing context"
 " menus."
 msgstr ""
+"Many PC keyboards come with two special keys for the Windows operating "
+"system: a key with a Microsoft Windows™ logo and a key for accessing context"
+" menus."
 
 #. (itstool) path: note/para
 #: C/gosbasic.xml:548
@@ -1208,6 +1468,11 @@ msgid ""
 " <keycombo><keycap>Shift</keycap><keycap>F10</keycap></keycombo> keyboard "
 "shortcut can."
 msgstr ""
+"In MATE, the Windows key is often configured to act as an additional "
+"modifier key, called the <firstterm>Super key</firstterm>. The context menu "
+"key can be used to access the context menu of the selected item, just as the"
+" <keycombo><keycap>Shift</keycap><keycap>F10</keycap></keycombo> keyboard "
+"shortcut can."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:554
@@ -1216,6 +1481,9 @@ msgid ""
 "accessibility features. See <xref linkend=\"prefs-keyboard-a11y\"/> for more"
 " information about the keyboard accessibility features."
 msgstr ""
+"You can also modify the MATE Desktop preferences to use keyboard "
+"accessibility features. See <xref linkend=\"prefs-keyboard-a11y\"/> for more"
+" information about the keyboard accessibility features."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:558
@@ -1223,16 +1491,18 @@ msgid ""
 "The following sections describe the shortcut keys that you can use "
 "throughout the desktop and applications."
 msgstr ""
+"The following sections describe the shortcut keys that you can use "
+"throughout the desktop and applications."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:561
 msgid "Global Shortcut Keys"
-msgstr ""
+msgstr "Global Shortcut Keys"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:567
 msgid "<primary>shortcut keys</primary> <secondary>global</secondary>"
-msgstr ""
+msgstr "<primary>shortcut keys</primary> <secondary>global</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:572
@@ -1245,28 +1515,28 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:583 C/gosbasic.xml:711 C/gosbasic.xml:852
 msgid "Shortcut Key"
-msgstr ""
+msgstr "Shortcut Key"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:586 C/gosbasic.xml:714 C/gospanel.xml:1075 C/gostools.xml:98
 #: C/gostools.xml:153
 msgid "Function"
-msgstr ""
+msgstr "Function"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:593
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F1</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F1</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:598
 msgid "Open the <guimenu>Applications Menu</guimenu>."
-msgstr ""
+msgstr "Open the <guimenu>Applications Menu</guimenu>."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:603
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F2</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:608
@@ -1274,11 +1544,13 @@ msgid ""
 "Display the <guilabel>Run Application</guilabel> dialog. See <xref "
 "linkend=\"tools-run-app\"/> for more information."
 msgstr ""
+"Display the <guilabel>Run Application</guilabel> dialog. See <xref "
+"linkend=\"tools-run-app\"/> for more information."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:615 C/gostools.xml:105
 msgid "<keycap>Print Screen</keycap>"
-msgstr ""
+msgstr "<keycap>Print Screen</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:620
@@ -1286,17 +1558,20 @@ msgid ""
 "Take a screenshot of the entire desktop. See <xref linkend=\"tools-"
 "screenshot\"/> for more information."
 msgstr ""
+"Take a screenshot of the entire desktop. See <xref linkend=\"tools-"
+"screenshot\"/> for more information."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:626
 msgid ""
 "<keycombo> <keycap>Alt</keycap><keycap>Print Screen</keycap> </keycombo>"
 msgstr ""
+"<keycombo> <keycap>Alt</keycap><keycap>Print Screen</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:631
 msgid "Take a screenshot of the currently focused window."
-msgstr ""
+msgstr "Take a screenshot of the currently focused window."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:636
@@ -1304,6 +1579,8 @@ msgid ""
 "<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> <keycap>Arrow "
 "keys</keycap> </keycombo>"
 msgstr ""
+"<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> <keycap>Arrow "
+"keys</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:642
@@ -1312,6 +1589,9 @@ msgid ""
 " See <xref linkend=\"overview-workspaces\"/> for more information on working"
 " with multiple workspaces."
 msgstr ""
+"Switch to the workspace to the specified direction of the current workspace."
+" See <xref linkend=\"overview-workspaces\"/> for more information on working"
+" with multiple workspaces."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:649
@@ -1319,6 +1599,8 @@ msgid ""
 "<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
 "<keycap>D</keycap></keycombo>"
 msgstr ""
+"<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
+"<keycap>D</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:655
@@ -1328,7 +1610,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:660 C/gosbasic.xml:721
 msgid "<keycombo> <keycap>Alt</keycap><keycap>Tab</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>Tab</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:665 C/gosbasic.xml:726
@@ -2218,11 +2500,13 @@ msgid ""
 "<primary>themes</primary><secondary>color "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>themes</primary><secondary>colour "
+"options</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:278
 msgid "<primary>color themes</primary><see>themes, color options</see>"
-msgstr ""
+msgstr "<primary>colour themes</primary><see>themes, colour options</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:278
@@ -2232,6 +2516,10 @@ msgid ""
 "colors from the <guilabel>Colors</guilabel> tabbed section in the "
 "<guilabel>Customize Theme</guilabel> window."
 msgstr ""
+"<_:indexterm-1/><_:indexterm-2/>The colour setting for a theme determines "
+"the colour of various user interface elements. You can choose several pairs "
+"of colours from the <guilabel>Colours</guilabel> tabbed section in the "
+"<guilabel>Customise Theme</guilabel> window."
 
 #. (itstool) path: note/para
 #: C/goscustdesk.xml:280
@@ -6021,6 +6309,8 @@ msgid ""
 "The <guimenuitem>About MATE</guimenuitem> item has a brief introduction to "
 "MATE, links to the MATE website, and credits."
 msgstr ""
+"The <guimenuitem>About MATE</guimenuitem> item has a brief introduction to "
+"MATE, links to the MATE website, and credits."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:88
@@ -6029,6 +6319,9 @@ msgid ""
 "and requires your password to return to the desktop. For more on this, see "
 "<xref linkend=\"lock-screen\"/>."
 msgstr ""
+"The <guimenuitem>Lock Screen</guimenuitem> command starts your screensaver, "
+"and requires your password to return to the desktop. For more on this, see "
+"<xref linkend=\"lock-screen\"/>."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:89
@@ -6036,6 +6329,8 @@ msgid ""
 "Choose <guimenuitem>Log Out</guimenuitem> to log out of MATE, or to switch "
 "user."
 msgstr ""
+"Choose <guimenuitem>Log Out</guimenuitem> to log out of MATE, or to switch "
+"user."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:90
@@ -6043,27 +6338,30 @@ msgid ""
 "Choose <guimenuitem>Shut Down</guimenuitem> to end your MATE session and "
 "turn off your computer, or restart it."
 msgstr ""
+"Choose <guimenuitem>Shut Down</guimenuitem> to end your MATE session and "
+"turn off your computer, or restart it."
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:93
 msgid ""
 "For more on logging out and shutting down, see <xref linkend=\"shutdown\"/>."
 msgstr ""
+"For more on logging out and shutting down, see <xref linkend=\"shutdown\"/>."
 
 #. (itstool) path: info/title
 #: C/goseditmainmenu.xml:97
 msgid "Customizing the Panel Menubar"
-msgstr ""
+msgstr "Customising the Panel Menubar"
 
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:100
 msgid "<primary>menus</primary> <secondary>customizing</secondary>"
-msgstr ""
+msgstr "<primary>menus</primary> <secondary>customising</secondary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:105
 msgid "You can modify the contents of the following menus:"
-msgstr ""
+msgstr "You can modify the contents of the following menus:"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:108
@@ -6076,6 +6374,8 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice>"
 " submenu"
 msgstr ""
+"<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice>"
+" submenu"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:114
@@ -6083,6 +6383,8 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Administration</guisubmenu></menuchoice>"
 " submenu"
 msgstr ""
+"<menuchoice><guimenu>System</guimenu><guisubmenu>Administration</guisubmenu></menuchoice>"
+" submenu"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:118
@@ -6091,6 +6393,9 @@ msgid ""
 "choose <guimenuitem>Edit Menus</guimenuitem>. The <guilabel>Menu "
 "Layout</guilabel> window opens."
 msgstr ""
+"To edit the items in these menus, right-click on the panel menubar, and "
+"choose <guimenuitem>Edit Menus</guimenuitem>. The <guilabel>Menu "
+"Layout</guilabel> window opens."
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:119
@@ -6099,6 +6404,9 @@ msgid ""
 "pane. Click on the expand arrows to show or hide submenus. Choose a menu in "
 "the left pane to see its items listed in the right pane."
 msgstr ""
+"The <guilabel>Menu Layout</guilabel> window lists the menus in the left "
+"pane. Click on the expand arrows to show or hide submenus. Choose a menu in "
+"the left pane to see its items listed in the right pane."
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:120
@@ -6106,11 +6414,13 @@ msgid ""
 "To remove an item from a menu, deselect it in the list. The item can be "
 "added back to the menu by selecting it once again."
 msgstr ""
+"To remove an item from a menu, deselect it in the list. The item can be "
+"added back to the menu by selecting it once again."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:7
 msgid "Working with Files"
-msgstr ""
+msgstr "Working with Files"
 
 #. (itstool) path: highlights/para
 #: C/goscaja.xml:42
@@ -6118,6 +6428,8 @@ msgid ""
 "This chapter describes how to use the <application>Caja</application> file "
 "manager."
 msgstr ""
+"This chapter describes how to use the <application>Caja</application> file "
+"manager."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:45 C/gosoverview.xml:32 C/gospanel.xml:19 C/gostools.xml:264
@@ -6569,7 +6881,7 @@ msgstr ""
 #. (itstool) path: term/interface
 #: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:319
 msgid "Menubar"
-msgstr ""
+msgstr "Menubar"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:219 C/goscaja.xml:405
@@ -6625,7 +6937,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:256 C/goscaja.xml:554
 msgid "Statusbar"
-msgstr ""
+msgstr "Statusbar"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:259 C/goscaja.xml:557
@@ -6898,7 +7210,7 @@ msgstr ""
 #: C/goscaja.xml:416 C/gostools.xml:378 C/gostools.xml:636 C/gostools.xml:660
 #: C/gostools.xml:684
 msgid "Toolbar"
-msgstr ""
+msgstr "Toolbar"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:419
@@ -8768,7 +9080,7 @@ msgstr "Pattern"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1544
 msgid "Files Matched"
-msgstr ""
+msgstr "Files Matched"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1551
@@ -21076,7 +21388,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:95
 msgid "menubar"
-msgstr ""
+msgstr "menubar"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:97
@@ -21162,7 +21474,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:147
 msgid "statusbar"
-msgstr ""
+msgstr "statusbar"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:149
@@ -21187,7 +21499,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:162
 msgid "toolbar"
-msgstr ""
+msgstr "toolbar"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:164

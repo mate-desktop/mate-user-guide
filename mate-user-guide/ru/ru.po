@@ -1,6 +1,6 @@
 # 
 # Translators:
-# Михаил Ильинский <mail@milinsky.com>, 2018
+# Михаил Ильинский (milinsky) <mail@milinsky.com>, 2018
 # XRevan86, 2018
 # Иван Горновский <pentuh@tut.by>, 2018
 # AlexL <loginov.alex.valer@gmail.com>, 2018
@@ -10,19 +10,20 @@
 # Oldboy Boyold <boyoldboyold@gmail.com>, 2018
 # Alex Puts, 2018
 # monsta <monsta@inbox.ru>, 2019
-# Olesya Gerasimenko <gammaray@basealt.ru>, 2019
 # Wolfgang Ulbrich <mate@raveit.de>, 2019
 # Aleksey Kabanov <ak099@mail.ru>, 2020
 # Cyber Tailor <cyber@sysrq.in>, 2020
-# Ser82, 2022
+# Sergej A. <Ser82-png@yandex.ru>, 2022
+# Olesya Gerasimenko <gammaray@basealt.ru>, 2022
+# Andrei Stepanov, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Ser82, 2022\n"
-"Language-Team: Russian (https://www.transifex.com/mate/teams/13566/ru/)\n"
+"Last-Translator: Andrei Stepanov, 2023\n"
+"Language-Team: Russian (https://app.transifex.com/mate/teams/13566/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4801,6 +4802,8 @@ msgid ""
 "Select this option to enable others to access and control your session from "
 "a remote location."
 msgstr ""
+"Выберите этот параметр, чтобы разрешить другим пользователем получать доступ"
+" и управлять вашим сеансом из удалённого расположения."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1304
@@ -6140,6 +6143,9 @@ msgid ""
 "for users that are not able to manipulate any buttons. The types of click "
 "that can be performed are: <_:variablelist-1/>"
 msgstr ""
+"Программное выполнение различных типов щелчков мышью; удобно для "
+"пользователей, которые не могут пользоваться кнопками. Можно выполнять "
+"следующие типы щелчков: <_:variablelist-1/>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2178
@@ -6623,6 +6629,13 @@ msgid ""
 "<application>Sound</application> preference tool to choose a sound theme and"
 " modify the bell sound."
 msgstr ""
+"Звуковая тема — это набор звуковых эффектов, связанных с различными "
+"событиями (например, открытием диалога, нажатием кнопки или выбором пункта "
+"меню). Одном из основных звуков событий является звук <emphasis>системного "
+"уведомления</emphasis>, который часто воспроизводится для обозначения ошибки"
+" ввода с клавиатуры. Перейдите на вкладку <guilabel>Звуковые "
+"эффекты</guilabel> средства настройки <application>Звук</application> для "
+"выбора звуковой темы и изменения звука системного уведомления."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2459
@@ -7960,6 +7973,8 @@ msgstr ""
 #: C/goscaja.xml:154
 msgid "Double-click the folder's icon on the desktop or an existing window."
 msgstr ""
+"Сделайте двойной щелчок по значку папки на рабочем столе или по "
+"существующему окну."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:155
@@ -8620,6 +8635,8 @@ msgid ""
 "<guimenu>Zoom</guimenu> buttons: Enables you to change the size of items in "
 "the view pane."
 msgstr ""
+"Кнопки изменения <guimenu>Масштаба</guimenu>: позволяют изменять размер "
+"объектов в области просмотра."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:457
@@ -9009,6 +9026,12 @@ msgid ""
 "searching\"/>. The search bar is excellent for locating files or folders "
 "when you are not sure of their exact location."
 msgstr ""
+"Воспользуйтесь комбинацией клавиш "
+"<keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> или нажмите "
+"кнопку <guibutton>Поиск</guibutton> для открытия строки поиска. "
+"Дополнительные сведения о поиске: <xref linkend=\"caja-searching\"/>. Строка"
+" поиска позволяет найти файлы или папки, когда их точное расположение "
+"неизвестно."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:642 C/goscaja.xml:980
@@ -9240,6 +9263,8 @@ msgid ""
 "In the <guilabel>Tree</guilabel> view, open folders are represented as "
 "downwards facing arrows."
 msgstr ""
+"В режиме <guilabel>Дерево</guilabel> открытые папки обозначаются "
+"направленными вниз стрелками."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:747
@@ -9354,6 +9379,10 @@ msgid ""
 "list to navigate to or quickly return to these places. Your history list "
 "contains the last ten items that you viewed."
 msgstr ""
+"В окне диспетчера файлов содержится список файлов, папок, FTP-сайтов и URI-"
+"адресов, которые недавно посещались. Этот список можно использовать для "
+"перехода или быстрого возврата к этим расположениям. В списке содержатся "
+"последние десять объектов."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:831
@@ -11227,6 +11256,9 @@ msgid ""
 "Open the folder to which you want to move the file or folder, then choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>."
 msgstr ""
+"Откройте папку, в которую следует переместить файл или папку, затем выберите"
+" пункт меню "
+"<menuchoice><guimenu>Правка</guimenu><guimenuitem>Вставить</guimenuitem></menuchoice>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1776
@@ -11312,6 +11344,9 @@ msgid ""
 "Open the folder to which you want to copy the file or folder, then choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>."
 msgstr ""
+"Откройте папку, в которую следует скопировать файл или папку, затем выберите"
+" пункт меню "
+"<menuchoice><guimenu>Правка</guimenu><guimenuitem>Вставить</guimenuitem></menuchoice>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1820
@@ -13303,6 +13338,12 @@ msgid ""
 " Click on the <guibutton>Icon</guibutton> button, in the <guilabel>select "
 "custom icon</guilabel> dialog click <guibutton>Revert</guibutton>."
 msgstr ""
+"Чтобы восстановить значок (то есть заменить пользовательский значок на "
+"стандартный), выберите нужный файл или папку и воспользуйтесь пунктом меню "
+"<menuchoice><guimenu>Файл</guimenu><guimenuitem>Свойства</guimenuitem></menuchoice>."
+" Нажмите кнопку <guibutton>Значок</guibutton>, а затем (в диалоге "
+"<guilabel>Выбрать другой значок</guilabel>) нажмите кнопку "
+"<guibutton>Восстановить</guibutton>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:2734
@@ -13471,7 +13512,7 @@ msgid ""
 "<guilabel>Backgrounds and Emblems</guilabel> dialog is displayed."
 msgstr ""
 "Выберите <menuchoice><guimenu>Правка</guimenu> <guimenuitem>Фон и "
-"эмблемы</guimenuitem></menuchoice>в любом окне диспетчера файлов. Появится "
+"эмблемы</guimenuitem></menuchoice> в любом окне диспетчера файлов. Появится "
 "диалог <guilabel>Фон и эмблемы</guilabel>."
 
 #. (itstool) path: listitem/para
@@ -13493,7 +13534,7 @@ msgid ""
 " entry to the desired window, pane, or panel."
 msgstr ""
 "Для изменения фона перетащите узор или цвет в нужное окно или панель. Для "
-"сброса фона, перетащите запись <guilabel>Сброс</guilabel> в нужное окно или "
+"сброса фона перетащите запись <guilabel>Сброс</guilabel> в нужное окно или "
 "панель."
 
 #. (itstool) path: section/para
@@ -13607,6 +13648,13 @@ msgid ""
 "click on the <guilabel>Floppy</guilabel> icon. An icon that represents the "
 "media is added to the desktop."
 msgstr ""
+"Если система не настроена на автоматическое подключение устройств, "
+"необходимо выполнить это вручную. Сделайте двойной щелчок по значку "
+"<guilabel>Компьютер</guilabel> на рабочем столе. Появится диалог "
+"<guilabel>Компьютер</guilabel>. Сделайте двойной щелчок по значку, который "
+"представляет носитель. Например, для подключения гибкого диска необходимо "
+"сделать двойной щелчок по значку <guilabel>дискеты</guilabel>. На рабочий "
+"стол будет добавлен значок, представляющий носитель."
 
 #. (itstool) path: note/para
 #: C/goscaja.xml:2881
@@ -14175,6 +14223,8 @@ msgid ""
 "If required by your server, you may provide the following optional "
 "information:"
 msgstr ""
+"Можно предоставить следующую необязательную информацию, если это требуется "
+"для работы сервера:"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3130
@@ -14331,6 +14381,9 @@ msgid ""
 "Network (NFS)</guilabel> object. A list of the UNIX shares available to you "
 "is displayed in the file manager window."
 msgstr ""
+"<_:indexterm-1/>Для получения доступа к ресурсам UNIX сделайте двойной "
+"щелчок по объекту <guilabel>Сеть Unix (NFS)</guilabel>. В окне диспетчера "
+"файлов будет показан список доступных ресурсов UNIX."
 
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:3224
@@ -14344,6 +14397,9 @@ msgid ""
 "<guilabel>Windows Network (SMB)</guilabel> object. A list of the Windows "
 "shares available to you is displayed in the file manager window."
 msgstr ""
+"<_:indexterm-1/>Для получения доступа к ресурсам Windows сделайте двойной "
+"щелчок по объекту <guilabel>Сеть Windows (SMB)</guilabel>. В окне диспетчера"
+" файлов будет показан список доступных ресурсов Windows."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:3230
@@ -14538,7 +14594,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3336
 msgid "How removable media and connected devices are handled."
-msgstr "Как обрабатываются съемные носители и подключенные устройства."
+msgstr "Как обрабатываются съёмные носители и подключённые устройства."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:3340 C/goscaja.xml:3354
@@ -14599,6 +14655,10 @@ msgid ""
 "view, or the compact view, which is a variant of the icon view that is "
 "organized in columns rather than rows."
 msgstr ""
+"Выберите представление папок по умолчанию. При открытии папка будет "
+"отображаться указанным образом. Можно просматривать папки в виде значков или"
+" списка, а также в компактном виде (это вариант режима значков, но значки "
+"упорядочены по столбцам, а не по строкам)."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3382
@@ -15371,7 +15431,7 @@ msgid ""
 "are known to support this format, as well as the following options:"
 msgstr ""
 "Вы можете настроить как <application>Caja</application> обрабатывает съемные"
-" носители и устройства подключенные к компьютеру, такие как музыкальные "
+" носители и устройства подключённые к компьютеру, такие как музыкальные "
 "проигрыватели и камеры. Для каждого формата или типа носителя, "
 "<application>Caja</application> предлагает запустить одно из приложений, "
 "которые поддерживают этот формат, вместе с следующими настройками:"
@@ -15652,12 +15712,12 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscaja.xml:4141
 msgid "The following table shows variables passed to the script:"
-msgstr ""
+msgstr "В следующей таблице показаны переменные, передаваемые сценарию:"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4149
 msgid "Environment variable"
-msgstr "Переменая окружения"
+msgstr "Переменная среды"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4159
@@ -23044,7 +23104,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:890
 msgid "<option>help:</option>"
-msgstr "<option>помощь:</option>"
+msgstr "<option>справка:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:893
@@ -23080,7 +23140,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:906
 msgid "<option>man:</option>"
-msgstr "<option>мануал:</option>"
+msgstr "<option>руководство:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:909
@@ -23115,8 +23175,8 @@ msgid ""
 "<userinput>yelp 'man:intro(1)'</userinput>\n"
 "<userinput>yelp 'man:intro(2)'</userinput>"
 msgstr ""
-"<userinput>yelp 'мануал:введение(1)'</userinput>\n"
-"<userinput>yelp 'мануал:введение(2)'</userinput>"
+"<userinput>yelp 'руководство:введение(1)'</userinput>\n"
+"<userinput>yelp 'руководство:введение(2)'</userinput>"
 
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:926
