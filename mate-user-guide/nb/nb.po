@@ -1,20 +1,20 @@
 # 
 # Translators:
 # Kenneth Jenssen <kennethjenssen@yahoo.com>, 2021
-# heskjestad <cato@heskjestad.xyz>, 2021
 # Martin Wimpress <code@flexion.org>, 2021
 # Imre Kristoffer Eilertsen <imreeil42@gmail.com>, 2021
 # Kim Malmo <berencamlost@msn.com>, 2021
 # Jan Sherdahl, 2021
 # Stefano Karapetsas <stefano@karapetsas.com>, 2021
 # Allan Nordhøy <epost@anotheragency.no>, 2021
+# heskjestad <cato@heskjestad.xyz>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2021-09-18 15:10+0200\n"
 "PO-Revision-Date: 2021-09-21 17:49+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>, 2021\n"
+"Last-Translator: heskjestad <cato@heskjestad.xyz>, 2023\n"
 "Language-Team: Norwegian Bokmål (https://app.transifex.com/mate/teams/13566/nb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -479,7 +479,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:85 C/gosbasic.xml:255
 msgid "Middle mouse button"
-msgstr ""
+msgstr "Midtre museknapp"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:86

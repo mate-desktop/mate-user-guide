@@ -3,7 +3,7 @@
 # Иван Горновский <pentuh@tut.by>, 2021
 # Dmitry Mandryk <dmandryk@gmail.com>, 2021
 # XRevan86, 2021
-# Михаил Ильинский <mail@milinsky.com>, 2021
+# Михаил Ильинский (milinsky) <mail@milinsky.com>, 2021
 # clefebvre <clement.lefebvre@linuxmint.com>, 2021
 # Alexey Rodionov <melenki@yandex.ru>, 2021
 # Александр Кураченко <alexander@basealt.ru>, 2021
