@@ -8,15 +8,15 @@
 # Ibnu Daru Aji, 2018
 # Willy Sudiarto Raharjo <willysr@slackware-id.org>, 2019
 # Reza Almanda <rezaalmanda27@gmail.com>, 2022
-# Andika Triwidada <andika@gmail.com>, 2023
 # Wolfgang Ulbrich <mate@raveit.de>, 2023
+# Andika Triwidada <andika@gmail.com>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Wolfgang Ulbrich <mate@raveit.de>, 2023\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>, 2023\n"
 "Language-Team: Indonesian (https://app.transifex.com/mate/teams/13566/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +33,7 @@ msgstr ""
 "Dirgita <dirgita@gmail.com>\n"
 "Tim MATE Indonesia <http://id.mate.org>\n"
 "Kukuh Syafaat <syafaatkukuh@gmail.com>, 2017.\n"
-"Andika Triwidada <andika@gmail.com>, 2020-2022."
+"Andika Triwidada <andika@gmail.com>, 2020-2023."
 
 #. (itstool) path: book/title
 #: C/index.docbook:7
@@ -9236,7 +9236,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:822
 msgid "Using Your Navigation History"
-msgstr ""
+msgstr "Menggunakan Riwayat Navigasi Anda"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:823
@@ -9244,6 +9244,8 @@ msgid ""
 "<primary>file manager</primary> <secondary>navigating history "
 "list</secondary>"
 msgstr ""
+"<primary>manajer berkas</primary> <secondary>menavigasi daftar "
+"riwayat</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:827

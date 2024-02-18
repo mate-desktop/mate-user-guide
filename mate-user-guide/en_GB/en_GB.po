@@ -1511,6 +1511,9 @@ msgid ""
 " to your desktop, rather than tasks on the currently selected window or "
 "application. The following table lists some global shortcut keys:"
 msgstr ""
+"Global shortcut keys enable you to use the keyboard to perform tasks related"
+" to your desktop, rather than tasks on the currently selected window or "
+"application. The following table lists some global shortcut keys:"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:583 C/gosbasic.xml:711 C/gosbasic.xml:852
@@ -1605,7 +1608,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:655
 msgid "Minimize all windows and give focus to the desktop."
-msgstr ""
+msgstr "Minimise all windows and give focus to the desktop."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:660 C/gosbasic.xml:721
