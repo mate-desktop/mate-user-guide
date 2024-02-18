@@ -1,18 +1,22 @@
+### mate-user-guide 1.28.0
+
+  * Translations update
+
 ### mate-user-guide 1.27.1
 
-  * update translations
+  * Translations update
   * fix warnings in de, es, fr, id, it, ja, ko, pl, sl, sr and sv translations
   * build warning: AC_OUTPUT should be used without arguments
 
 ### mate-user-guide 1.27.0
 
-  * update translations
+  * Translations update
   * goscustdesk: fix typos reported by translators
   * goscaja: fix typos reported by translator
 
 ### mate-user-guide 1.26.0
 
-  * update translations
+  * Translations update
   * pre-bump version
   * build: allow users to disable gettext support (--disable-nls)
   * Update copyright to 2021
@@ -22,7 +26,7 @@
 
 ### mate-user-guide 1.24.0
 
-  * update translations
+  * Translations update
   * Update copyright to 2020
   * Change language to refer to Classic Menu and Compact Menu
   * sets the required version for gettext (0.19.8)
@@ -30,12 +34,12 @@
 
 ### mate-user-guide 1.23.1
 
-  * update translations
+  * Translations update
   * gosoverview.xml: Reduce link attributes
 
 ### mate-user-guide 1.23.0
 
-  * update translations
+  * Translations update
   * Change url project's website
   * remove live.gnome & update joining MATE section
   * [ci] add CNAME for domain
@@ -51,7 +55,7 @@
 
 ### mate-user-guide 1.22.0
 
-  * update translations
+  * Translations update
   * Initialize Travis CI support
 
 ### mate-user-guide 1.21.2
@@ -62,7 +66,7 @@
 
 ### mate-user-guide 1.21.1
 
-  * update translations
+  * Translations update
   * Use make functions for HELP_LINGUAS
   * tx: fix source file header
   * tx: update sources for transifex
