@@ -11,16 +11,19 @@ infoend() {
 # Required packages on Archlinux
 requires=(
 	ccache # Use ccache to speed up build
+	clang  # Build with clang on Archlinux
 )
 
+# https://gitlab.archlinux.org/archlinux/packaging/packages/mate-user-guide
 requires+=(
+	autoconf-archive
 	gcc
 	git
-	intltool
 	itstool
 	make
 	mate-common
 	which
+	yelp
 	yelp-tools
 )
 
