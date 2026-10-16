@@ -12,27 +12,26 @@
 # Luna Jernberg <droidbittin@gmail.com>, 2021
 # Kristoffer Grundström <lovaren@gmail.com>, 2022
 # Wolfgang Ulbrich <raveit65.sun@gmail.com>, 2023
-# Daniel Nylander <po@danielnylander.se>, 2025
-# 
+# Daniel Nylander <po@danielnylander.se>, 2025, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
-"PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
-"Language-Team: Swedish (https://app.transifex.com/mate/teams/13566/sv/)\n"
+"PO-Revision-Date: 2026-10-11 12:37+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://translate.fedoraproject.org/projects/mate-"
+"desktop/help-documentation/mate-user-guide-content/sv/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sv\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
-"Daniel Nylander <po@danielnylander.se>\n"
-"Kristoffer Grundström <lovaren@gmail.com>"
+msgstr "Daniel Nylander <po@danielnylander.se>, 2026."
 
 #. (itstool) path: book/title
 #: C/index.docbook:7
@@ -402,15 +401,15 @@ msgstr ""
 "BEGRÄNSAT TILL, GARANTIER ATT DOKUMENTET ELLER EN MODIFIERAD VERSION AV "
 "DOKUMENTET INTE INNEHÅLLER NÅGRA FELAKTIGHETER, ÄR LÄMPLIGT FÖR ETT VISST "
 "ÄNDAMÅL ELLER INTE STRIDER MOT LAG. HELA RISKEN VAD GÄLLER KVALITET, "
-"EXAKTHET OCH UTFÖRANDE AV DOKUMENTET OCH MODIFIERADE VERSIONER AV DOKUMENTET"
-" LIGGER HELT OCH HÅLLET PÅ ANVÄNDAREN. OM ETT DOKUMENT ELLER EN MODIFIERAD "
+"EXAKTHET OCH UTFÖRANDE AV DOKUMENTET OCH MODIFIERADE VERSIONER AV DOKUMENTET "
+"LIGGER HELT OCH HÅLLET PÅ ANVÄNDAREN. OM ETT DOKUMENT ELLER EN MODIFIERAD "
 "VERSION AV ETT DOKUMENT SKULLE VISA SIG INNEHÅLLA FELAKTIGHETER I NÅGOT "
 "HÄNSEENDE ÄR DET DU (INTE DEN URSPRUNGLIGA SKRIBENTEN, FÖRFATTAREN ELLER "
 "NÅGON ANNAN MEDARBETARE) SOM FÅR STÅ FÖR ALLA EVENTUELLA KOSTNADER FÖR "
 "SERVICE, REPARATIONER ELLER KORRIGERINGAR. DENNA GARANTIFRISKRIVNING UTGÖR "
 "EN VÄSENTLIG DEL AV DETTA LICENSAVTAL. DETTA INNEBÄR ATT ALL ANVÄNDNING AV "
 "ETT DOKUMENT ELLER EN MODIFIERAD VERSION AV ETT DOKUMENT BEVILJAS ENDAST "
-"UNDER DENNA ANSVARSFRISKRIVNING;"
+"UNDER DENNA ANSVARSFRISKRIVNING"
 
 #. (itstool) path: listitem/para
 #: C/legal.xml:56
@@ -448,7 +447,7 @@ msgid ""
 msgstr ""
 "DOKUMENTET OCH MODIFIERADE VERSIONER AV DOKUMENTET TILLHANDAHÅLLS ENLIGT "
 "VILLKOREN I GNU:S LICENS FÖR FRI DOKUMENTATION MED DEN YTTERLIGARE "
-"ÖVERENSKOMMELSEN ATT: <_:beställningslista-1/>"
+"ÖVERENSKOMMELSEN ATT: <_:orderedlist-1/>"
 
 #. (itstool) path: formalpara/title
 #. (itstool) path: info/title
@@ -763,7 +762,7 @@ msgid ""
 " the button still held down, and finally release the button."
 msgstr ""
 "Tryck och släpp inte vänster musknapp, rör sedan musen med knappen "
-"fortfarande nere, och släpp till slut knappen."
+"fortfarande nere och släpp till slut knappen."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:196
@@ -890,9 +889,9 @@ msgid ""
 "called primary selection paste, and works separately from your normal "
 "clipboard operations."
 msgstr ""
-"I de flesta program kan du markera text med din vänstra musknapp och klistra"
-" in den i ett annat program med mittenmusknappen. Det här kallas för "
-"inklistring av primär markering, och fungerar separat från dina normala "
+"I de flesta program kan du markera text med din vänstra musknapp och klistra "
+"in den i ett annat program med mittenmusknappen. Det här kallas för "
+"inklistring av primär markering och fungerar separat från dina normala "
 "urklippsåtgärder."
 
 #. (itstool) path: tip/para
@@ -2305,9 +2304,9 @@ msgid ""
 "more on keyboard shortcuts, and a list of the default shortcuts in MATE, see"
 " <xref linkend=\"keyboard-skills\"/>."
 msgstr ""
-"En <firstterm>tangentbordsgenväg</firstterm> är en tangent eller kombination"
-" av tangenter som tillhandahåller ett alternativ till standardsätten för att"
-" genomföra en åtgärd. För mer information om tangentbordsgenvägar, och en "
+"En <firstterm>tangentbordsgenväg</firstterm> är en tangent eller kombination "
+"av tangenter som tillhandahåller ett alternativ till standardsätten för att "
+"genomföra en åtgärd. För mer information om tangentbordsgenvägar och en "
 "lista över standardgenvägar i MATE, se <xref linkend=\"keyboard-skills\"/>."
 
 #. (itstool) path: section/para
@@ -2396,7 +2395,7 @@ msgid ""
 "manipulating\"/> and <xref linkend=\"overview-workspaces\"/>."
 msgstr ""
 "Genvägar för att arbeta med fönster och arbetsytor, såsom maximera och "
-"flytta det aktuella fönstret, och växla till en annan arbetsyta. För mer "
+"flytta det aktuella fönstret och växla till en annan arbetsyta. För mer "
 "information om dessa typer av åtgärder, se <xref linkend=\"windows-"
 "manipulating\"/> och <xref linkend=\"overview-workspaces\"/>."
 
@@ -3255,9 +3254,9 @@ msgid ""
 "computer. A standard file selector will be presented. Choose the image you "
 "want and click <guibutton>Open</guibutton>."
 msgstr ""
-"Klicka på <guilabel>Lägg till</guilabel> för att bläddra efter en bild på "
-"din dator. En standardfilväljare kommer att visas. Välj bilden som du vill "
-"använda och klicka på <guibutton>Öppna</guibutton>."
+"Klicka på <guibutton>Lägg till</guibutton> för att bläddra efter en bild på "
+"din dator. En standardfilväljare visas. Välj bilden du vill använda och "
+"klicka på <guibutton>Öppna</guibutton>."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:563
@@ -7779,8 +7778,7 @@ msgid ""
 msgstr ""
 "Så väl som mappinnehållet kan bläddrarfönstret visa en verktygsrad men "
 "allmänn åtgärder och platser, en adressrad som visar den aktuella platsen i "
-"mapphierarkin, och en sidopanel som kan innehålla olika typer av "
-"information."
+"mapphierarkin och en sidopanel som kan innehålla olika typer av information."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:97
@@ -8328,14 +8326,13 @@ msgid ""
 "screen, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Close All "
 "Folders</guimenuitem></menuchoice>."
 msgstr ""
-"För att stänga mappar kan du helt enkelt klicka på fönsterstängningsknappen,"
-" dock behöver det inte vara det effektivaste sättet att stänga många fönster"
-" på. Om du vill endast visa den aktuella mappen, och inte mapparna som du "
-"öppnat för att nå fram till den aktuella mappen, välj "
-"<menuchoice><guimenu>Arkiv</guimenu><guimenuitem>Stäng "
-"föräldramappar</guimenuitem></menuchoice>. Om du vill stänga alla mappar på "
-"skärmen, välj <menuchoice><guimenu>Arkiv</guimenu><guimenuitem>Stäng alla "
-"mappar</guimenuitem></menuchoice>."
+"För att stänga mappar kan du helt enkelt klicka på fönsterstängningsknappen, "
+"dock behöver det inte vara det effektivaste sättet att stänga många fönster "
+"på. Om du vill endast visa den aktuella mappen och inte mapparna som du "
+"öppnat för att nå fram till den aktuella mappen, välj <menuchoice><guimenu>"
+"Arkiv</guimenu><guimenuitem>Stäng föräldramappar</guimenuitem></menuchoice>. "
+"Om du vill stänga alla mappar på skärmen, välj <menuchoice><guimenu>Arkiv</"
+"guimenu><guimenuitem>Stäng alla mappar</guimenuitem></menuchoice>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:321
@@ -9917,10 +9914,10 @@ msgid ""
 "<filename>home</filename> directory, which in turn, is under the root "
 "(<filename>/</filename>) directory."
 msgstr ""
-"Till exempel visar <filename>/home/svante/ostar.odt</filename> den korrekt "
-"fullständiga sökvägen till filen <filename>ostar.odt</filename> som finns i "
-"katalogen <filename>svante</filename> som finns under katalogen "
-"<filename>home</filename>, vilken i sin tur finns under katalogen "
+"Till exempel visar <filename>/home/jebediah/cheeses.odt</filename> den "
+"korrekta fullständiga sökvägen till filen <filename>cheeses.odt</filename> "
+"som finns i katalogen <filename>jebediah</filename> som ligger under "
+"katalogen <filename>home</filename>, vilken i sin tur ligger under "
 "rotkatalogen (<filename>/</filename>)."
 
 #. (itstool) path: section/para
@@ -9929,8 +9926,8 @@ msgid ""
 "Underneath the root (<filename>/</filename>) directory, there is a set of "
 "important directories, or symbolic links to directories:"
 msgstr ""
-"Under rotkatalogen<filename>(/)</filename> finns en uppsättning viktiga "
-"kataloger, eller symboliska länkar till kataloger:"
+"Under rotkatalogen (<filename>/</filename>) finns en uppsättning viktiga "
+"kataloger eller symboliska länkar till kataloger:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1060
@@ -12929,8 +12926,8 @@ msgid ""
 "Choose which application is used to open an item, and others of the same "
 "type."
 msgstr ""
-"Välja vilket program som används för att öppna ett objekt, och andra av "
-"samma typ."
+"Välja vilket program som används för att öppna ett objekt och andra av samma "
+"typ."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2558
@@ -14406,7 +14403,7 @@ msgstr "Uri-plats"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3264
 msgid "<command>burn:///</command>"
-msgstr "<command>bränn:///</command>"
+msgstr "<command>burn:///</command>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3269
@@ -14422,7 +14419,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3275
 msgid "<command>network:///</command>"
-msgstr "<command>nätverk:///</command>"
+msgstr "<command>network:///</command>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3280
@@ -14750,8 +14747,8 @@ msgid ""
 "title of the item is underlined."
 msgstr ""
 "Välj det här alternativet för att genomföra standardåtgärden för ett objekt "
-"när du klickar på objektet. När det här alternativet är valt, och du pekar "
-"på ett objekt, är titeln för objektet understruken."
+"när du klickar på objektet. När det här alternativet är valt och du pekar på "
+"ett objekt, är titeln för objektet understruken."
 
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:3491
@@ -14953,7 +14950,7 @@ msgid ""
 msgstr ""
 "Välj de sorters information som du vill visa i ikonrubriken från de tre "
 "rullgardinslistorna. Välj den första sorten från den första "
-"rullgardinslistan, välj den andra sorten från den andra rullgardinslistan, "
+"rullgardinslistan, välj den andra sorten från den andra rullgardinslistan "
 "och så vidare. Följande tabell beskriver den information som du kan välja:"
 
 #. (itstool) path: entry/para
@@ -15595,14 +15592,12 @@ msgid ""
 "<menuchoice><guimenu>View</guimenu><guimenuitem>Show Hidden "
 "Files</guimenuitem></menuchoice>"
 msgstr ""
-"För att visa innehållet i din skriptmapp, om du redan har skript "
-"installerade, välj "
-"<menuchoice><guimenu>Arkiv</guimenu><guisubmenu>Skript</guisubmenu><guimenuitem>Öppna"
-" skriptmapp</guimenuitem></menuchoice>. Du kommer att behöva navigera till "
-"skriptmappen med filhanteraren om du inte ännu har några skript. Du kan "
-"behöva att visa dolda filer, använd "
-"<menuchoice><guimenu>Visa</guimenu><guimenuitem>Visa dolda "
-"filer</guimenuitem></menuchoice>"
+"Om du redan har skript installerade väljer du <menuchoice><guimenu>Arkiv</"
+"guimenu><guisubmenu>Skript</guisubmenu><guimenuitem>Öppna skriptmapp</"
+"guimenuitem></menuchoice> för att öppna skriptmappen. Om du inte har några "
+"skript ännu öppnar du skriptmappen med filhanteraren. Du kan behöva visa "
+"dolda filer. Välj då <menuchoice><guimenu>Visa</guimenu><guimenuitem>Visa "
+"dolda filer</guimenuitem></menuchoice>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:4135
@@ -15844,7 +15839,7 @@ msgid ""
 msgstr ""
 "<firstterm>Panelerna</firstterm> är de två fält som löper längs skärmens "
 "över- och undersida. Som standard visar den övre panelen MATE Classic Menu, "
-"datum och tid och en uppsättning ikoner för programstart, och den nedre "
+"datum och tid och en uppsättning ikoner för programstart och den nedre "
 "panelen visar listan över öppna fönster och växlaren för arbetsytor."
 
 #. (itstool) path: listitem/para
@@ -16101,11 +16096,10 @@ msgid ""
 "difference is that anything placed into the Desktop folder will then show up"
 " on desktop itself."
 msgstr ""
-"Filerna och mapparna som du lägger på skrivbordet lagras i en speciell mapp "
-"i din hemmapp som kallas <filename>Skrivbord</filename>. Precis som många "
-"andra mappar så kan du lägga filer och andra mappar direkt i den. Den enda "
-"skillnaden är att allting som placeras i mappen Skrivbord även kommer att "
-"dyka upp på själva skrivbordet."
+"Filerna och mapparna som du lägger på skrivbordet lagras i en särskild mapp "
+"i din hemmapp som heter <filename>Desktop</filename>. Precis som i andra "
+"mappar kan du lägga filer och mappar direkt i den. Det som placeras i mappen "
+"Desktop visas på själva skrivbordet."
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:143
@@ -16858,14 +16852,12 @@ msgid ""
 "<keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>down "
 "arrow</keycap></keycombo> to switch workspaces."
 msgstr ""
-"Pilgenvägstangenterna fungerar på på samma sätt som hur dina arbetsytor är "
-"placerade i panelprogrammet <application>Arbetsyteväxlare</application>. Om "
-"du ändrar din panel så att arbetsytorna visas vertikalt istället för "
-"horisontellt kan du använda "
-"<keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>uppåtpil</keycap></keycombo>"
-" och "
-"<keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>nedåtpil</keycap></keycombo>"
-" för att växla arbetsyta."
+"Pilvägstangenterna fungerar enligt hur arbetsytorna är placerade i "
+"panelprogrammet <application>Arbetsyteväxlare</application>. Om du ändrar "
+"panelen så att arbetsytorna visas lodrätt i stället för vågrätt använder du "
+"<keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>uppåtpil</keycap>"
+"</keycombo> och <keycombo><keycap>Ctrl</keycap><keycap>Alt</keycap><keycap>"
+"nedåtpil</keycap></keycombo> för att växla arbetsyta."
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:381
@@ -17425,12 +17417,11 @@ msgid ""
 "beginning with \"Do\" is <filename>Documents</filename>, then the entire "
 "name appears in the field."
 msgstr ""
-"Om den del av namnet som angivits identifierar en unik fil eller mapp kommer"
-" namnet att automatiskt kompletteras. Tryck på <keycap>tabulator</keycap> "
-"för att acceptera den föreslagna texten. Till exempel om du skriver \"Do\" "
-"och det enda objektet i mappen börjar med \"Do\" är "
-"<filename>Dokument</filename> kommer det fullständiga namnet att visas i "
-"fältet."
+"Om den inskrivna delen av namnet identifierar en unik fil eller mapp "
+"kompletteras namnet automatiskt. Tryck på <keycap>Tab</keycap> för att godta "
+"den föreslagna texten. Om du till exempel skriver ”Do” och det enda objektet "
+"i mappen som börjar med ”Do” är <filename>Documents</filename>, visas hela "
+"namnet i fältet."
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:506
@@ -17647,8 +17638,8 @@ msgid ""
 "add new panels to the desktop."
 msgstr ""
 "Det här kapitlet beskriver hur man använder panelerna i över- och underkant "
-"av MATE-skrivbordet, hur man anpassar objekten som visas på dem, och hur man"
-" lägger till nya paneler på skrivbordet."
+"av MATE-skrivbordet, hur man anpassar objekten som visas på dem och hur man "
+"lägger till nya paneler på skrivbordet."
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:24
@@ -17667,7 +17658,7 @@ msgstr ""
 "En panel är ett område på MATE-skrivbordet där du har åtkomst du vissa "
 "åtgärder och information, oavsett tillståndet för dina programfönster. Till "
 "exempel, i standardpanelerna i MATE, kan du starta program, se datum och "
-"tid, kontrollera systemets ljudvolym, och mycket mer."
+"tid, kontrollera systemets ljudvolym och mycket mer."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:30
@@ -17678,8 +17669,8 @@ msgid ""
 "backgrounds for each panel. You can also hide panels."
 msgstr ""
 "Du kan anpassa panelerna så de passar dig. Du kan ändra deras beteende och "
-"utseende, och du kan lägga till eller ta bort objekt från dina paneler. Du "
-"kan skapa flera paneler, och välja olika egenskaper, objekt, och bakgrunder "
+"utseende och du kan lägga till eller ta bort objekt från dina paneler. Du "
+"kan skapa flera paneler och välja olika egenskaper, objekt och bakgrunder "
 "för varje panel. Du kan även dölja paneler."
 
 #. (itstool) path: section/para
@@ -18005,7 +17996,7 @@ msgid ""
 "panel, the hide behavior, and the visual appearance."
 msgstr ""
 "Du kan ändra egenskaperna för varje panel, såsom positionen för panelen, "
-"beteendet för att dölja den, och det visuella utseendet."
+"beteendet för att dölja den och det visuella utseendet."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:156
@@ -18721,7 +18712,7 @@ msgid ""
 "You can move panel objects within a panel, and from one panel to another "
 "panel. You can also move objects between panels and drawers."
 msgstr ""
-"Du kan flytta panelobjekt inom en panel, och från en panel till en annan "
+"Du kan flytta panelobjekt inom en panel och från en panel till en annan "
 "panel. Du kan även flytta objekt mellan paneler och lådor."
 
 #. (itstool) path: section/para
@@ -19410,7 +19401,7 @@ msgid ""
 "Opens the file <filename>/home/user/loremipsum.txt</filename> in the "
 "<application>pluma</application> text editor application."
 msgstr ""
-"Öppnar filen <filename>/home/användare/loremipsum.txt</filename> i "
+"Öppnar filen <filename>/home/user/loremipsum.txt</filename> i "
 "textredigeraren <application>pluma</application>."
 
 #. (itstool) path: entry/para
@@ -19424,7 +19415,7 @@ msgid ""
 "Opens the folder <filename>/home/user/Projects</filename> in a File Browser "
 "window."
 msgstr ""
-"Öppnar mappen <filename>/home/användare/Projekt</filename> i ett "
+"Öppnar mappen <filename>/home/user/Projects</filename> i ett "
 "filbläddrarfönster."
 
 #. (itstool) path: para/indexterm
@@ -19454,7 +19445,7 @@ msgstr "Exempelplats"
 #. (itstool) path: entry/para
 #: C/gospanel.xml:928
 msgid "<command>file:///home/user/loremipsum.txt</command>"
-msgstr "<command>fil://hem/användare/loremipsum.txt</command>"
+msgstr "<command>file:///home/user/loremipsum.txt</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:933
@@ -19462,13 +19453,13 @@ msgid ""
 "Opens the file <filename>/home/user/loremipsum.txt</filename> in the default"
 " viewer for its file type."
 msgstr ""
-"Öppnar filen <filename>/home/användare/loremipsum.txt</filename> i "
+"Öppnar filen <filename>/home/user/loremipsum.txt</filename> i "
 "standardvisaren för dess filtyp."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:939
 msgid "<command>file:///home/user/Projects</command>"
-msgstr "<command>file:///home/user/Projekt</command>"
+msgstr "<command>file:///home/user/Projects</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:949
@@ -20256,8 +20247,8 @@ msgid ""
 "You can add, move, and remove objects from drawers in the same way that you "
 "add, move, and remove objects from panels."
 msgstr ""
-"Du kan lägga till, flytta, och ta bort objekt från lådor på samma sätt som "
-"du lägger till, flyttar, och tar bort objekt från paneler."
+"Du kan lägga till, flytta och ta bort objekt från lådor på samma sätt som du "
+"lägger till, flyttar och tar bort objekt från paneler."
 
 #. (itstool) path: info/title
 #: C/gospanel.xml:1325
@@ -20702,12 +20693,11 @@ msgid ""
 "<application>Window List</application> buttons."
 msgstr ""
 "Panelprogrammet <application>Fönsterlista</application> låter dig hantera "
-"fönstren som är öppnade på MATE-skrivbordet. Fönsterlista använder en knapp "
-"för att representera varje fönster eller grupp av fönster som är öppnade. "
-"Tillståndet för knapparna i panelprogrammet varierar beroende på tillståndet"
-" för fönstret som knappen representerar. Följande tabell förklarar de "
-"möjliga tillstånden för knapparna i <application>Fönsterlista</application> "
-"."
+"fönster som är öppna på MATE-skrivbordet. Fönsterlista använder en knapp för "
+"varje öppet fönster eller fönstergrupp. Knapparnas tillstånd i "
+"panelprogrammet varierar beroende på fönstrets tillstånd. Tabellen nedan "
+"förklarar möjliga tillstånd för knapparna i <application>Fönsterlista</"
+"application>."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1579
@@ -21003,8 +20993,7 @@ msgid ""
 "MATE, and to start, manage, and end a desktop session."
 msgstr ""
 "Det har kapitlet ger dig den information du behöver för att logga in i och "
-"stänga av MATE, och för att starta, hantera, och avsluta "
-"skrivbordssessionen."
+"stänga av MATE och för att starta, hantera och avsluta skrivbordssessionen."
 
 #. (itstool) path: info/title
 #: C/gosstartsession.xml:18
@@ -21034,10 +21023,9 @@ msgid ""
 "the MATE Desktop: it is where you enter your username and password and "
 "select options such as the language you want MATE to use for your session."
 msgstr ""
-"När du loggar in i MATE påbörjas din session. Inloggningsskärmen är din port"
-" till MATE-skrivbordet: det är var du skriver ditt användarnamn och "
-"lösenord, och saker som vilket språk du vill att MATE ska använda under din "
-"session."
+"När du loggar in i MATE påbörjas din session. Inloggningsskärmen är din port "
+"till MATE-skrivbordet: det är var du skriver ditt användarnamn och lösenord "
+"och saker som vilket språk du vill att MATE ska använda under din session."
 
 #. (itstool) path: tip/para
 #: C/gosstartsession.xml:25
@@ -21095,7 +21083,7 @@ msgid ""
 "screen, then press <keycap>Return</keycap>."
 msgstr ""
 "Skriv ditt användarnamn i fältet <guilabel>Användarnamn</guilabel> på "
-"inloggningsskärmen, och tryck sedan på <keycap>Retur</keycap>."
+"inloggningsskärmen och tryck sedan på <keycap>Retur</keycap>."
 
 #. (itstool) path: listitem/para
 #: C/gosstartsession.xml:72 C/gosstartsession.xml:117
@@ -21104,7 +21092,7 @@ msgid ""
 "screen, then press <keycap>Return</keycap>."
 msgstr ""
 "Skriv ditt lösenord i fältet <guilabel>Lösenord</guilabel> på "
-"inloggningsskärmen, och tryck sedan på <keycap>Retur</keycap>."
+"inloggningsskärmen och tryck sedan på <keycap>Retur</keycap>."
 
 #. (itstool) path: section/para
 #: C/gosstartsession.xml:76
@@ -21125,7 +21113,7 @@ msgid ""
 "you logged out, then the session manager restores your previous session."
 msgstr ""
 "Första gången du loggar in så kommer sessionshanteraren att starta en ny "
-"session. Om du har loggat in tidigare, och sparat inställningarna för den "
+"session. Om du har loggat in tidigare och sparat inställningarna för den "
 "tidigare sessionen när du loggade ut, så kommer sessionshanteraren att "
 "återställa din förra session."
 
@@ -21268,8 +21256,8 @@ msgid ""
 "If the <guibutton>Lock Screen</guibutton> button is present on a panel, "
 "click on the <guibutton>Lock Screen</guibutton> button."
 msgstr ""
-"Om knappen <guibutton>Lås skärmen</guibutton> finns i panelen kan du klicka "
-"på den."
+"Om knappen <guibutton>Lås skärmen</guibutton> finns i panelen klickar du på "
+"knappen <guibutton>Lås skärmen</guibutton>."
 
 #. (itstool) path: note/para
 #: C/gosstartsession.xml:169
@@ -21287,7 +21275,7 @@ msgid ""
 "in the locked screen dialog, then press <keycap>Return</keycap>."
 msgstr ""
 "För att låsa upp skärmen rör du på musen eller trycker på valfri tangent, "
-"skriver in ditt lösenord i dialogen som kommer fram, och tryck sedan på "
+"skriver in ditt lösenord i dialogen som kommer fram och tryck sedan på "
 "<keycap>Retur</keycap>."
 
 #. (itstool) path: section/para
@@ -21718,9 +21706,9 @@ msgid ""
 "keyboard-shortcuts\"/></application> tool."
 msgstr ""
 "Tryck på <keycombo><keycap>Alt</keycap><keycap>F2</keycap></keycombo>. Du "
-"kan ändra de kortkommandon som visar dialogrutan <guilabel>Kör "
-"program</guilabel> i verktyget <application><xref linkend=\"prefs-keyboard-"
-"shortcuts\"/></application> verktyget."
+"kan ändra kortkommandona som visar dialogrutan <guilabel>Kör program</"
+"guilabel> i verktyget <application><xref linkend=\"prefs-keyboard-"
+"shortcuts\"/></application>."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:28
@@ -21774,10 +21762,10 @@ msgid ""
 " file to append to the command line. For example, you can enter "
 "<application>emacs</application> as the command, then choose a file to edit."
 msgstr ""
-"En annan möjlighet är att använda knappen <guibutton>Kör med "
-"fil...</guibutton> för att välja en fil som ska läggas till till "
-"kommandoraden. Du kan till exempel skriva <application>emacs</application> "
-"som kommandot, och sedan välja vilken fil som ska redigeras."
+"Du kan också använda knappen <guibutton>Kör med fil…</guibutton> för att "
+"välja en fil att lägga till på kommandoraden. Du kan till exempel ange "
+"<application>emacs</application> som kommando och sedan välja en fil att "
+"redigera."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:62
@@ -21904,7 +21892,7 @@ msgid ""
 msgstr ""
 "Du kan använda kommandot <command>mate-screenshot</command> för att ta en "
 "skärmbild. Kommandot <command>mate-screenshot</command> tar en skärmbild av "
-"hela skärmen, och visar dialogrutan <guilabel>Spara skärmbild</guilabel>. "
+"hela skärmen och visar dialogrutan <guilabel>Spara skärmbild</guilabel>. "
 "Använd dialogrutan <guilabel>Spara skärmbild</guilabel> för att spara "
 "skärmbilden."
 
@@ -21920,7 +21908,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:160
 msgid "<command>--window</command>"
-msgstr "<command>--fönster</command>"
+msgstr "<command>--window</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:165
@@ -21930,7 +21918,7 @@ msgstr "Tar en skärmbild av fönstret som har fokus."
 #. (itstool) path: entry/para
 #: C/gostools.xml:170
 msgid "<command>--delay=<replaceable>seconds</replaceable></command>"
-msgstr "<command>-<replaceable>-fördröjning=sekunder</replaceable></command>"
+msgstr "<command>--delay=<replaceable>seconds</replaceable></command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:175
@@ -21939,14 +21927,14 @@ msgid ""
 "<guilabel>Save Screenshot</guilabel> dialog. Use the <guilabel>Save "
 "Screenshot</guilabel> dialog to save the screenshot."
 msgstr ""
-"Tar en skärmbild efter det specificerade antalet sekunder, och visar sedan "
-"<guilabel>Spara skärmbild</guilabel>-dialogen. Använd dialogen "
-"<guilabel>Spara skärmbild</guilabel> för att spara skärmbilden."
+"Tar en skärmbild efter det specificerade antalet sekunder och visar sedan "
+"<guilabel>Spara skärmbild</guilabel>-dialogen. Använd dialogen <guilabel>"
+"Spara skärmbild</guilabel> för att spara skärmbilden."
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:185
 msgid "<command>--include-border</command>"
-msgstr "<command>--inkludera kant</command>"
+msgstr "<command>--include-border</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:190
@@ -21956,7 +21944,7 @@ msgstr "Tar en skärmbild inklusive fönstrets ram."
 #. (itstool) path: entry/para
 #: C/gostools.xml:195
 msgid "<command>--remove-border</command>"
-msgstr "<command>--ta-bort-kant</command>"
+msgstr "<command>--remove-border</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:200
@@ -21966,7 +21954,7 @@ msgstr "Tar en skärmbild utan fönstrets ram."
 #. (itstool) path: entry/para
 #: C/gostools.xml:205
 msgid "<command>--border-effect=shadow</command>"
-msgstr "<command>--gräns-effekt=skugga</command>"
+msgstr "<command>--border-effect=shadow</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:210
@@ -21976,7 +21964,7 @@ msgstr "Tar en skärmbild och lägger till en skuggeffekt runt den."
 #. (itstool) path: entry/para
 #: C/gostools.xml:215
 msgid "<command>--border-effect=border</command>"
-msgstr "<command>--border-effekt=border</command>"
+msgstr "<command>--border-effect=border</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:220
@@ -21986,7 +21974,7 @@ msgstr "Tar en skärmbild och lägger till en rameffekt runt den."
 #. (itstool) path: entry/para
 #: C/gostools.xml:225
 msgid "<command>--interactive</command>"
-msgstr "<command>--interaktiv</command>"
+msgstr "<command>--interactive</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:230
@@ -21998,7 +21986,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:235
 msgid "<command>--help</command>"
-msgstr "<command>--hjälp</command>"
+msgstr "<command>--help</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:240
@@ -23174,8 +23162,8 @@ msgid ""
 "track of translations for each document."
 msgstr ""
 "<application>Hjälpbläddraren Yelp</application> använder scrollkeeper för "
-"att generera innehållsförteckningar för DocBook- och HTML-dokumentation, och"
-" håller även reda på översättningar för varje dokument."
+"att generera innehållsförteckningar för DocBook- och HTML-dokumentation och "
+"håller även reda på översättningar för varje dokument."
 
 #. (itstool) path: info/title
 #: C/gostools.xml:958
@@ -23452,8 +23440,8 @@ msgid ""
 "only are showed the keys for dconf directory:"
 msgstr ""
 "Följande bild visar den fullständiga sökvägen till denna dconf-nyckel. "
-"Observera att de andra katalogerna inte har utökats, eller att de har tagits"
-" bort, och att endast nycklarna för katalogen dconf visas:"
+"Observera att de andra katalogerna inte har utökats, eller att de har tagits "
+"bort och att endast nycklarna för katalogen dconf visas:"
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:88 C/gosdconf.xml:191
@@ -25453,7 +25441,7 @@ msgid ""
 "in which you can help MATE."
 msgstr ""
 "Det här avsnittet innehåller information om hur man rapporterar fel i MATE, "
-"skickar in förslag och kommentarer om MATE-program eller dokumentation, och "
+"skickar in förslag och kommentarer om MATE-program eller dokumentation och "
 "på vilka sätt som du kan hjälpa MATE."
 
 #. (itstool) path: info/title
