@@ -59,7 +59,7 @@ file manager to do the following:</para>
        <listitem><para>Run scripts and launch applications</para></listitem>
        <listitem><para>Customize the appearance of files and folders</para></listitem>
        <listitem><para>Open special locations on your computer</para></listitem>
-       <listitem><para>Write data to a CD or DVD</para></listitem>
+       <!--<listitem><para>Write data to a CD or DVD</para></listitem>-->
        <listitem><para>Install and remove fonts</para></listitem>
      </itemizedlist>
     <para>The file manager lets you organize your files into folders. Folders can contain files and may also contain other folders. Using folders can help you find your files more easily.</para>
@@ -2943,9 +2943,9 @@ for the drive disappears.</para>
     </section>
   </section>
 
-  <section xml:id="caja-cdwriter"><info><title>Writing CDs or DVDs</title></info>
+  <!--<section xml:id="caja-cdwriter"><info><title>Writing CDs or DVDs</title></info>-->
     <!-- preserve id for backwards compatibility: 2.12 -->
-    <anchor xml:id="goscaja-475"/>
+<!--    <anchor xml:id="goscaja-475"/>
 
     <indexterm>
       <primary>file manager</primary>
@@ -3083,7 +3083,7 @@ process is complete is displayed in the dialog.</para>
         <para>To write a disc image, right-click on the disc image file, then choose <guimenuitem>Write to Disc</guimenuitem> from the popup menu.</para>      
     </section>
   </section>
-
+-->
   <section xml:id="goscaja-515"><info><title>Navigating Remote Servers</title></info>
     <para>The <application>Caja</application> file manager provides an integrated
 access point to your files, applications, FTP sites, Windows shares, WebDav servers and SSH servers.</para>
@@ -3259,7 +3259,7 @@ use with the file manager.</para>
             </row>
           </thead>
           <tbody>
-            <row>
+            <!--<row>
               <entry colname="colspec0" valign="top">
                 <para>
                   <command>burn:///</command>
@@ -3269,7 +3269,7 @@ use with the file manager.</para>
                 <para>This is a special location where you can copy files and folders that you want to write
 to a CD. From here you can write the contents of the location to a CD easily. See also <xref linkend="caja-cdwriter"/>.</para>
               </entry>
-            </row>
+            </row>-->
             <row>
               <entry colname="colspec0" valign="top">
                 <para>
