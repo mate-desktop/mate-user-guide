@@ -11,19 +11,21 @@
 # TheDimitris15, 2019
 # anvo anvo <fragos.george@hotmail.com>, 2019
 # Chris Balabanis, 2023
-# 
+# Jim Spentzos <jimspentzos2000@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
-"PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Chris Balabanis, 2023\n"
-"Language-Team: Greek (https://app.transifex.com/mate/teams/13566/el/)\n"
+"PO-Revision-Date: 2026-07-28 22:18+0000\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
+"Language-Team: Greek <https://translate.fedoraproject.org/projects/mate-"
+"desktop/help-documentation/mate-user-guide-content/el/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: el\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -1993,7 +1995,7 @@ msgstr "Προσωπικά"
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:37
 msgid "Assistive Technologies Preferences"
-msgstr "Προτιμήσεις βοηθητικής τεχνολογίας"
+msgstr "Προτιμήσεις βοηθητικών τεχνολογιών"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:38
@@ -2263,7 +2265,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:140
 msgid "Accessibility"
-msgstr "Προσιτότητα"
+msgstr "Προσβασιμότητα"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:141
@@ -5370,7 +5372,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1749
 msgid "Keyboard Accessibility Audio Feedback"
-msgstr "Ηχητική ανάδραση προσιτότητας πληκτρολογίου"
+msgstr "Ηχητική ανάδραση προσβασιμότητας πληκτρολογίου"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1750
@@ -6250,7 +6252,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2387
 msgid "<guilabel>Resolution</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ανάλυση</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2388
@@ -14093,9 +14095,9 @@ msgid ""
 "Use the <guilabel>File Management Preferences</guilabel> dialog to customize"
 " the file manager to suit your requirements and preferences."
 msgstr ""
-"Χρησιμοποιείστε το διάλογο <guilabel>Προτιμήσεις διαχείρισης "
-"αρχείων</guilabel> για να προσαρμόσετε το διαχειριστή αρχείων να ικανοποιεί "
-"τις απαιτήσεις και τις προτιμήσεις σας."
+"Χρησιμοποιήστε το παράθυρο διαλόγου <guilabel>Προτιμήσεις διαχείρισης "
+"αρχείων</guilabel> για να προσαρμόσετε την εφαρμογή διαχείρισης αρχείων "
+"έτσι, ώστε να ικανοποιεί τις απαιτήσεις και τις προτιμήσεις σας."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:3316
@@ -14873,7 +14875,7 @@ msgstr "Εκτελεί την ενέργεια μόνο για τοπικά αρ
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3893
 msgid "<guilabel>Never</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ποτέ</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3898
@@ -19001,7 +19003,7 @@ msgstr "Ανοίγει την ιστοσελίδα MATE στον προεπιλ�
 #. (itstool) path: entry/para
 #: C/gospanel.xml:959
 msgid "<command>ftp://ftp.mate-desktop.org</command>"
-msgstr ""
+msgstr "<command>ftp://ftp.mate-desktop.org</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:964
@@ -21425,7 +21427,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:215
 msgid "<command>--border-effect=border</command>"
-msgstr ""
+msgstr "<command>--border-effect=border</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:220
@@ -21449,7 +21451,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:235
 msgid "<command>--help</command>"
-msgstr ""
+msgstr "<command>--help</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:240
@@ -21593,7 +21595,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:324
 msgid "<guimenu>File</guimenu>"
-msgstr ""
+msgstr "<guimenu>Αρχείο</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:327
@@ -21650,7 +21652,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:363
 msgid "<guimenu>Help</guimenu>"
-msgstr ""
+msgstr "<guimenu>Βοήθεια</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:366
@@ -21680,7 +21682,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:392
 msgid "<guibutton>Forward</guibutton>"
-msgstr ""
+msgstr "<guibutton>Προώθηση</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:395
@@ -22313,7 +22315,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:814
 msgid "<guibutton>Open</guibutton>"
-msgstr ""
+msgstr "<guibutton>Άνοιγμα</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:817
@@ -22418,7 +22420,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:878
 msgid "<option>file:</option>"
-msgstr ""
+msgstr "<option>αρχείο:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:881
@@ -22783,7 +22785,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:88 C/gosdconf.xml:191
 msgid "/org/mate/desktop/background/"
-msgstr ""
+msgstr "/org/mate/desktop/background/"
 
 #. (itstool) path: info/title
 #: C/gosdconf.xml:92 C/gosdconf.xml:195
@@ -23234,7 +23236,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:31
 msgid "feature-state-change-beep"
-msgstr ""
+msgstr "feature-state-change-beep"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:41
@@ -23250,7 +23252,7 @@ msgstr ""
 #: C/gosdconfkeys.xml:53 C/gosdconfkeys.xml:1225 C/gosdconfkeys.xml:1235
 #: C/gosdconfkeys.xml:1245 C/gosdconfkeys.xml:1265 C/gosdconfkeys.xml:1275
 msgid "(i)"
-msgstr ""
+msgstr "(i)"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:61
@@ -23335,7 +23337,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:161
 msgid "slowkeys-beep-accept"
-msgstr ""
+msgstr "slowkeys-beep-accept"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:171
@@ -23362,7 +23364,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:201
 msgid "stickykeys-two-key-off"
-msgstr ""
+msgstr "stickykeys-two-key-off"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:203
@@ -23656,7 +23658,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:621
 msgid "caja"
-msgstr ""
+msgstr "caja"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:631
@@ -23676,7 +23678,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:661
 msgid "mate-panel"
-msgstr ""
+msgstr "mate-panel"
 
 #. (itstool) path: section/title
 #: C/gosdconfkeys.xml:673
@@ -23723,7 +23725,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:731
 msgid "menus-have-tearoff"
-msgstr ""
+msgstr "menus-have-tearoff"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:733
@@ -23804,7 +23806,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:811
 msgid "cursor-blink-time"
-msgstr ""
+msgstr "cursor-blink-time"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:813
@@ -23886,7 +23888,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:901
 msgid "gtk-dialogs-use-header"
-msgstr ""
+msgstr "gtk-dialogs-use-header"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:903
@@ -23955,7 +23957,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:961
 msgid "status-bar-meter-on-right"
-msgstr ""
+msgstr "status-bar-meter-on-right"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:963
@@ -23987,7 +23989,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:991
 msgid "show-input-method-menu"
-msgstr ""
+msgstr "show-input-method-menu"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:993
@@ -24054,7 +24056,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1041
 msgid "automatic-mnemonics"
-msgstr ""
+msgstr "automatic-mnemonics"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1043
@@ -24094,7 +24096,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1071
 msgid "gtk-enable-primary-paste"
-msgstr ""
+msgstr "gtk-enable-primary-paste"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1073
@@ -24192,7 +24194,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1168
 msgid "disable-theme-settings"
-msgstr ""
+msgstr "disable-theme-settings"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1170
@@ -24262,7 +24264,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1283
 msgid "bell-custom-file"
-msgstr ""
+msgstr "bell-custom-file"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1285
@@ -24272,7 +24274,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1293
 msgid "remember-numlock-state"
-msgstr ""
+msgstr "remember-numlock-state"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1295
@@ -24284,7 +24286,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1303
 msgid "numlock-state"
-msgstr ""
+msgstr "numlock-state"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1305
@@ -24353,7 +24355,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1378
 msgid "middle-button-enabled"
-msgstr ""
+msgstr "middle-button-enabled"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1380
@@ -24387,7 +24389,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1408
 msgid "cursor-size"
-msgstr ""
+msgstr "cursor-size"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1410
