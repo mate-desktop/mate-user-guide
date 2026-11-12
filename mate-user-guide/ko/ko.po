@@ -7,31 +7,28 @@
 # Junghee Lee <daemul72@gmail.com>, 2021
 # Wolfgang Ulbrich <raveit65.sun@gmail.com>, 2023
 # Seong-ho Cho <darkcircle.0426@gmail.com>, 2025
-# 
+# 김인수 <simmon@nplob.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
-"PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Seong-ho Cho <darkcircle.0426@gmail.com>, 2025\n"
-"Language-Team: Korean (https://app.transifex.com/mate/teams/13566/ko/)\n"
+"PO-Revision-Date: 2026-10-16 08:18+0000\n"
+"Last-Translator: 김인수 <simmon@nplob.com>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/mate-"
+"desktop/help-documentation/mate-user-guide-content/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
-"Elex https://launchpad.net/~mysticzizone\n"
-"Valmantas Palikša https://launchpad.net/~walmis\n"
-"Yoo Duk Nam https://launchpad.net/~yoo2001818\n"
-"onlyeriko https://launchpad.net/~onlyeriko\n"
-"Seong-ho Cho <darkcircle.0426@gmail.com>\n"
-"JungHee Lee <daemul72@gmail.com>\n"
-"MATE Desktop Environment Team <https://www.transifex.com/mate/teams/13566/ko/>"
+"# woosuk park <bjh13579@gmail.com>, 2020\n"
+"# 김인수 <simmon@nplob.com>, 2021-2026"
 
 #. (itstool) path: book/title
 #: C/index.docbook:7
@@ -374,10 +371,14 @@ msgid ""
 "ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION "
 "OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
 msgstr ""
-"문서는 \"있는 그대로\"로 제공되며 상품성, 특정 목적에의 적합성 또는 준수에 대한 보증을 비롯한 일체의 명시적 또는 암시적인 보증을 "
-"제한 없이 부인합니다. 문서 및 수정판의 품질, 정확성 및 성능에 대한 책임은 전적으로 사용자에게 있습니다. 문서 또는 수정판에 대한 "
-"오류를 입증하려면 사용자(원저작자, 저작자 또는 배포자 아님)는 필요한 서비스, 수리 및 수정 비용을 부담해야 합니다. 본 보증 부인은 "
-"라이센스의 필수 부분에 해당합니다. 본 보증 부인을 따르지 않는 모든 문서나 수정판은 사용할 수 없습니다."
+"본 문서는 \"있는 그대로\"로 제공되며, 상품성이 없거나, 특정 목적의 적합성 "
+"또는 준수에 대한 보증을 비롯한 일체의 명시적 또는 암시적인 보증을 제한 없이 "
+"부인합니다. 본 문서 또는 수정판의 품질, 정확성 및 성능에 대한 책임은 "
+"전적으로 사용자에게 있습니다. 문서 또는 수정판에 대해 결함이 있다고 판명된 "
+"경우, 사용자(원저작자, 저작자 또는 배포자 아님)는 필요한 서비스, 수리 및 "
+"수정 비용을 부담해야 합니다. 이 보증 면책 조항은 저작권의 필수 부분에 "
+"해당합니다. 이 보증 면책 조항에 따라 허용된 경우를 제외하고는 어떠한 문서나 "
+"문서의 수정판은 허용되지 않습니다"
 
 #. (itstool) path: listitem/para
 #: C/legal.xml:56
@@ -505,8 +506,9 @@ msgid ""
 " button conventions used in this manual. This is normally also implied in "
 "most documentation and in many applications."
 msgstr ""
-"마우스 장치를 왼손잡이용으로 세팅해놓으셨다면 이 매뉴얼 내의 마우스 버튼 방식을 반대로 바꾸어 생각해야 합니다. 이것은 다른 대부분의 "
-"문서나 응용프로그램에서도 일반적으로 적용되는 사안입니다. "
+"만약 당신이 마우스 장치를 왼손-용으로 설정하면, 이 설명서에서 사용된 마우스 "
+"누룸단추 방식을 반대로 해야 합니다. 이는 일반적으로 대부분의 문서 및 다른 "
+"응용프로그램에서도 적용됩니다."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:69
@@ -1926,15 +1928,17 @@ msgid ""
 " submenu. This menu also contains more complex utility applications for "
 "managing and updating your system."
 msgstr ""
-"일부 기본 설정 도구는 시스템의 중요 부분을 바꾸기 때문에, 관리자 권한이 필요합니다. 기본 설정 도구를 열면, 암호를 물어보는 대화 "
-"창이 나타납니다. 이런 설정 도구는 "
-"<menuchoice><guimenu>시스템</guimenu><guisubmenu>관리</guisubmenu></menuchoice> "
-"서브메뉴 안에 들어 있습니다. 이 메뉴에는 시스템 관리와 업데이트에 사용하는 더 복잡한 프로그램도 들어 있습니다."
+"일부 기본 설정 도구는 시스템의 중요 부분을 바꾸기 때문에, 관리자 권한이 "
+"필요합니다. 기본 설정 도구를 열면, 자신의 비밀번호를 물어보는 대화 창이 "
+"나타납니다. 이런 설정 도구는 <menuchoice><guimenu>시스템</guimenu>"
+"<guisubmenu>관리</guisubmenu></menuchoice> 하위메뉴에 들어 있습니다. 이 "
+"메뉴에는 시스템 관리 및 최신화에 사용하는 더 복잡한 유용한 응용프로그램도 "
+"포함됩니다."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:32
 msgid "Personal"
-msgstr "개인"
+msgstr "개인용"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:37
@@ -2145,7 +2149,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:134
 msgid "Sound"
-msgstr "사운드"
+msgstr "음향"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:135
@@ -2305,7 +2309,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:209
 msgid "Look and Feel"
-msgstr "룩앤필"
+msgstr "외관 및 느낌"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:211
@@ -3052,9 +3056,10 @@ msgid ""
 "preview area shows your current choice. Click <guibutton>OK</guibutton> to "
 "accept the change and update the desktop."
 msgstr ""
-"글꼴을 바꾸려면, 글꼴 선택 버튼을 누르십시오. 글꼴 선택 대화 창이 열립니다. 글꼴 패밀리, 유형, 포인트 크기를 목록에서 "
-"선택하십시오. 미리 보기 창에서 현재 선택한 글꼴을 표시합니다. <guibutton>확인</guibutton>을 누르면 선택한 글꼴을 "
-"사용하고 데스크톱을 업데이트합니다."
+"글꼴을 변경하려면, 글꼴 선택 누름단추를 눌러요. 글꼴 선택기 대화 상자가 "
+"열립니다. 목록에서 글꼴 종류 , 유형 및 크기를 선택하세요. 미리 보기 영역은 "
+"현재 선택한 부분을 표시합니다. <guibutton>확인</guibutton> 부분을 눌러 변경 "
+"부분을 적용하고 데스크탑을 최신화합니다."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:650
@@ -3273,7 +3278,9 @@ msgid ""
 "As you make changes to the settings, the preview display in the window "
 "updates. This allows you to see the changes if no application windows are "
 "currently open."
-msgstr "설정을 바꾸면, 창의 미리 보기 표시가 업데이트됩니다. 그래서 다른 창이 열려 있지 않아도 변경 사항을 확인할 수 있습니다."
+msgstr ""
+"설정 변경을 통해, 창의 미리 보기 표시가 최신화됩니다. 이는 만약 응용프로그램 "
+"창이 현재 열려 있지 않아도 변경 사항을 확인 할 수 있습니다."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:819
@@ -3555,8 +3562,9 @@ msgid ""
 "type of screensaver, the time before the screensaver starts, and whether to "
 "require a password to return to the desktop."
 msgstr ""
-"<application>화면 보호기</application> 설정 도구로 어떤 화면 보호기를 사용할 지, 얼마만큼의 시간이 지나야 화면 "
-"보호기를 시작할 지, 데스크톱으로 돌아갈 때 암호가 필요한 지 여부를 설정합니다."
+"<application>화면 보호기</application> 기본 설정 도구를 사용하여 화면 "
+"보호기의 유형, 화면 보호기의 시작 전의 시간, 데스크톱으로 돌아갈 때 "
+"비밀번호가 필요한 지 여부를 설정합니다."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:993
@@ -3644,7 +3652,8 @@ msgid ""
 "password when you try to return to the desktop. For more on locking your "
 "screen, see <xref linkend=\"lock-screen\"/>."
 msgstr ""
-"이 옵션을 선택하면 데스크톱으로 돌아가려고 할 때 화면 보호기에서 암호를 물어봅니다. 화면 잠그기에 대해 자세한 내용은, <xref "
+"이와 같은 옵션을 선택하면, 데스크톱으로 되돌아 갈 때 화면 보호기에서 "
+"비밀번호를 물어봅니다. 자신의 화면 잠금에 대한 더 자세한 내용은, <xref "
 "linkend=\"lock-screen\"/> 부분을 참조하십시오."
 
 #. (itstool) path: info/title
@@ -3671,8 +3680,9 @@ msgid ""
 "<application>Network Settings</application>. This is because the changes "
 "done with this tool will affect the whole system."
 msgstr ""
-"<application>네트워크 설정</application>을 시작하면 관리자 암호 입력 창이 나타납니다. 이 도구에서 바꾼 사항이 "
-"전체 시스템에 영향을 미치기 때문에 관리자 권한이 필요합니다."
+"<application>네트워크 설정</application>을 시작 할 때 관리자 비밀번호 입력 "
+"창이 나타납니다. 이는 해당 도구에서 수행한 변경은 전체 시스템에 영향을 "
+"미치기 때문입니다."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1026
@@ -3807,7 +3817,9 @@ msgid ""
 "pulses, the modem volume, the phone number, the username and password that "
 "your ISP provided and other advanced settings for PPP."
 msgstr ""
-"PPP에 사용할 모뎀 장치, 전화를 걸 때 톤인지 펄스인지, 전화 번호, ISP의 사용자 이름과 암호, 기타 설정을 바꿀 수 있습니다."
+"당신은 PPP를 위해 모뎀 장치, 톤 또는 펄스를 사용하여 전화를 걸 지 여부, 모뎀 "
+"크기, 전화 번호, 자신의 ISP 제공된 사용자이름 및 비밀번호, 기타 고급 설정을 "
+"변경 할 수 있습니다."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1095
@@ -4257,8 +4269,9 @@ msgid ""
 "option to authenticate the remote user if authentication is used. This "
 "option provides an extra level of security."
 msgstr ""
-"<guilabel>사용자가 다음 암호 입력 필요:</guilabel> 이 옵션을 선택하면 원격 사용자가 인증을 해야 합니다. 이 옵션을 "
-"사용하면 보안이 좀 더 좋아집니다."
+"<guilabel>사용자에게 해당 비밀번호 입력 요구:</guilabel> 이와 같은 옵션을 "
+"선택하면 만약 인증이 사용되는 원격 사용자를 인증합니다. 이 옵션은 추가적인 "
+"보안 수준을 제공합니다."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1310
@@ -4277,7 +4290,7 @@ msgstr ""
 msgid ""
 "Enter the password that the client who attempts to view or control your "
 "session must enter."
-msgstr "세션을 보거나 조작하려는 클라이언트가 입력해야 하는 암호를 입력하십시오."
+msgstr "세션을 보거나 제어하려는 클라이언트는 입력해야 하는 비밀번호를 입력하세요."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1337
@@ -5661,7 +5674,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2413
 msgid "Sound Preferences"
-msgstr "사운드 기본 설정"
+msgstr "음향 기본 설정"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2415
@@ -6449,8 +6462,9 @@ msgid ""
 "and requires your password to return to the desktop. For more on this, see "
 "<xref linkend=\"lock-screen\"/>."
 msgstr ""
-"<guimenuitem>화면 잠그기</guimenuitem> 명령을 실행하면 화면 보호기를 시작해서, 암호를 입력해야만 데스크톱으로 "
-"돌아갈 수 있습니다. 이에 대한 자세한 내용은, <xref linkend=\"lock-screen\"/> 부분을 참조하십시오."
+"<guimenuitem>화면 잠금</guimenuitem> 명령은 화면 보호기를 시작하고, 자신의 "
+"비밀번호는 데스크탑으로 돌아가려면 필요합니다. 이에 대한 더 많은 부분은, "
+"<xref linkend=\"lock-screen\"/> 을 참조하세요."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:89
@@ -8764,7 +8778,9 @@ msgstr ""
 msgid ""
 "<filename>/media</filename> - mounted (loaded) removable "
 "<emphasis>media</emphasis> such as CDs, digital cameras, etc..."
-msgstr "<filename>/media</filename> - 마운트한 (읽어들인) CD, 디지털 카메라 등과 같은 이동식 미디어"
+msgstr ""
+"<filename>/media</filename> - 적재된 (읽어들인) CD, 디지털 카메라 등과 같은 "
+"이동식 <emphasis>미디어</emphasis>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1092
@@ -8772,8 +8788,8 @@ msgid ""
 "<filename>/mnt</filename> - "
 "<emphasis>m</emphasis>ou<emphasis>nt</emphasis>ed filesystems"
 msgstr ""
-"<filename>/mnt</filename> - 마운트한 "
-"(<emphasis>m</emphasis>ou<emphasis>nt</emphasis>ed) 파일 시스템"
+"<filename>/mnt</filename> - <emphasis>적</emphasis>재<emphasis>된</emphasis> "
+"파일시스템"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1096
@@ -10259,7 +10275,7 @@ msgstr "파일이나 폴더 지우기"
 msgid ""
 "<primary>file manager</primary> <secondary>deleting files or "
 "folders</secondary>"
-msgstr "<primary>파일 관리자</primary> <secondary>파일 또는 폴더 삭제하기</secondary> "
+msgstr "<primary>파일 관리자</primary> <secondary>파일 또는 폴더 삭제하기</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1959
@@ -11984,12 +12000,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:2863
 msgid "To Mount Media"
-msgstr "미디어를 마운트하려면"
+msgstr "미디어를 적재하려면"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2864
 msgid "<primary>removable media</primary> <secondary>mounting</secondary>"
-msgstr "<primary>제거 가능한 미디어</primary> <secondary>마운트하기</secondary>"
+msgstr "<primary>제거 가능한 미디어</primary> <secondary>적재하기</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2868
@@ -11998,8 +12014,9 @@ msgid ""
 "media available for access. When you mount media, the file system of the "
 "media is attached as a subdirectory to your file system."
 msgstr ""
-"미디어 <firstterm>마운트</firstterm>는 그 미디어의 파일 시스템에 접근할 수 있게 만드는 일을 말합니다. 미디어를 "
-"마운트하면, 그 미디어의 파일 시스템이 컴퓨터의 파일 시스템의 서브 디렉토리로 붙습니다."
+"<firstterm>적재</firstterm>하는 미디어는 접근을 위해 사용 가능한 미디어 파일 "
+"시스템을 만드는 것입니다. 미디어를 적재 할 때에, 미디어의 파일 시스템은 "
+"자신의 파일 시스템의 하위 디렉토리에 부착됩니다."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2871
@@ -12427,9 +12444,10 @@ msgid ""
 "yourself. Disc images usually have a <filename>.iso</filename> file "
 "extension and are sometimes called iso files."
 msgstr ""
-"디스크 이미지를 CD나 DVD에 쓸 수 있습니다. 예를 들어, 인터넷에서 디스크 이미지를 다운로드했을 수도 있고, 예전에 만든 이미지가 "
-"있을 수도 있습니다. 디스크 이미지는 <filename>.iso</filename> 파일 확장자가 붙어 있고 ISO 파일이라고 말하기도 "
-"합니다."
+"디스크 이미지를 CD나 DVD에 쓸 수 있습니다. 예를 들어, 인터넷에서 디스크 "
+"이미지를 내려받을 수도 있고, 예전에 만든 이미지가 있을 수도 있습니다. 디스크 "
+"이미지는 <filename>.iso</filename> 파일 확장자가 붙어 있고 ISO 파일이라고 "
+"말하기도 합니다."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:3083
@@ -14870,7 +14888,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:395
 msgid "Applications"
-msgstr "응용 프로그램"
+msgstr "응용프로그램"
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:399
@@ -15314,7 +15332,9 @@ msgstr ""
 msgid ""
 "If you require a password to access the remote location, you will be asked "
 "for it when you open it."
-msgstr "원격 위치에 접근하는 데 암호가 필요하다면, 파일을 열면서 암호를 입력하게 됩니다."
+msgstr ""
+"만약 당신이 원격 위치에 접근하는 데 비밀번호가 필요하면, 이를 열 때에 "
+"비밀번가 요청됩니다."
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:511
@@ -18243,7 +18263,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1626
 msgid "Preferences"
-msgstr "기본 설정"
+msgstr "설정"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1627
@@ -18421,8 +18441,10 @@ msgid ""
 "the MATE Desktop: it is where you enter your username and password and "
 "select options such as the language you want MATE to use for your session."
 msgstr ""
-"MATE에 로그인하면 세션을 시작합니다. 로그인 화면을 통해 MATE 데스크톱으로 들어갑니다. 여기에서 사용자 이름과 암호를 입력하고, "
-"언어 등 MATE 세션에서 사용할 옵션들을 설정합니다."
+"MATE에 로그인하면 자신의 세션이 시작합니다. 로그인 화면은 MATE 데스크탑으로 "
+"들어가는 관문입니다: 자신의 세션을 위해 여기에서 당신은 사용자 이름과 "
+"비밀번호 및 당신이 MATE에서 사용하고자 하는 언어와 같은 선택 옵션을 "
+"입력합니다."
 
 #. (itstool) path: tip/para
 #: C/gosstartsession.xml:25
@@ -18481,8 +18503,8 @@ msgid ""
 "Enter your password in the <guilabel>Password</guilabel> field on the login "
 "screen, then press <keycap>Return</keycap>."
 msgstr ""
-"로그인 화면의 <guilabel>암호</guilabel> 입력란에서 암호를 입력하고, <keycap>Enter</keycap>를 "
-"누르십시오."
+"로그인 화면에서 <guilabel>비밀번호</guilabel> 부분에서 비밀번호를 입력하고, "
+"이후에 <keycap>Return</keycap> 키를 누르세요."
 
 #. (itstool) path: section/para
 #: C/gosstartsession.xml:76
@@ -18633,8 +18655,9 @@ msgid ""
 "To unlock the screen, move your mouse or press any key, enter your password "
 "in the locked screen dialog, then press <keycap>Return</keycap>."
 msgstr ""
-"화면 잠금을 풀려면, 마우스를 움직이거나 아무 키나 누른 다음, 잠금 화면 대화 창에서 암호를 입력하고, "
-"<keycap>Enter</keycap> 키를 누르십시오."
+"화면 잠금을 해제하려면, 자신의 마우스를 움직이거나 아무 키나 누르고, 잠금된 "
+"화면 대화상자에서 자신의 비밀번호를 입력하고, 이후에 <keycap>Enter</keycap> "
+"키를 누르세요."
 
 #. (itstool) path: section/para
 #: C/gosstartsession.xml:173
@@ -20347,8 +20370,9 @@ msgid ""
 "desktop.org/dev-doc:doc-team-"
 "guide?s[]=users[]=guide#mate_documentation_team</uri>"
 msgstr ""
-"MATE 프로젝트의 문서화 제작 및 업데이트에 관심이 있는 경우 문서화 프로젝트 홈페이지를 방문하십시오: <uri "
-"xlink:href=\"http://wiki.mate-desktop.org/dev-doc:doc-team-"
+"만약 당신이 메이트 프로젝트의 문서 제작 및 최신화를 돕고자 하는 경우에, 문서 "
+"프로젝트 홈페이지를 방문하세요: <uri xlink:href=\"http://wiki.mate-"
+"desktop.org/dev-doc:doc-team-"
 "guide?s[]=users[]=guide#mate_documentation_team\">http://wiki.mate-"
 "desktop.org/dev-doc:doc-team-"
 "guide?s[]=users[]=guide#mate_documentation_team</uri>"
@@ -22635,7 +22659,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:112
 msgid "mount"
-msgstr "마운트"
+msgstr "적재"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:114
@@ -22644,8 +22668,9 @@ msgid ""
 "file system, the file system is attached as a subdirectory to your file "
 "system."
 msgstr ""
-"마운트는 어떤 파일 시스템에 접근할 수 있게 만드는 작업입니다. 어떤 파일 시스템을 마운트하면, 그 파일 시스템은 현재 파일 시스템의 "
-"아래 디렉토리로 붙습니다."
+"적재하기는 접근을 위해 사용 가능한 파일 시스템으로 만드는 것입니다. 당신이 "
+"파일 시스템을 적재하면, 파일 시스템은 자신의 파일 시스템의 하위디렉토리로 "
+"부착됩니다."
 
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:120
