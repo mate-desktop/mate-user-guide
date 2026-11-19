@@ -1,26 +1,27 @@
-# 
+#
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2019
 # Martin Wimpress <code@flexion.org>, 2019
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2023
-# 
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2023, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
-"PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2023\n"
-"Language-Team: Georgian (https://app.transifex.com/mate/teams/13566/ka/)\n"
+"PO-Revision-Date: 2026-07-10 05:17+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/mate-"
+"desktop/help-documentation/mate-user-guide-content/ka/>\n"
+"Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ka\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.7.1.dev0\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Vladimer Sichinava ვლადიმერ სიჭინავა <vsichi@gnome.org>"
+msgstr "თემური დოღონაძე"
 
 #. (itstool) path: book/title
 #: C/index.docbook:7
@@ -178,7 +179,7 @@ msgstr ""
 #. (itstool) path: revdescription/para
 #: C/index.docbook:179
 msgid "Karderio"
-msgstr ""
+msgstr "Karderio"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:180 C/index.docbook:188 C/index.docbook:195
@@ -344,7 +345,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/legal.xml:77 C/gosfeedback.xml:7
 msgid "Feedback"
-msgstr ""
+msgstr "უკუკავშირი"
 
 #. (itstool) path: formalpara/para
 #: C/legal.xml:78
@@ -407,7 +408,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosbasic.xml:50 C/gospanel.xml:974
 msgid "Buttons"
-msgstr ""
+msgstr "ღილაკები"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:55
@@ -503,7 +504,7 @@ msgstr ""
 #. (itstool) path: info/titleabbrev
 #: C/gosbasic.xml:103
 msgid "Actions"
-msgstr "მოქმედებები"
+msgstr "ქმედებები"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:109
@@ -526,17 +527,17 @@ msgstr ""
 #: C/gosbasic.xml:129 C/gosbasic.xml:855 C/gosbasic.xml:948 C/goscaja.xml:759
 #: C/goscaja.xml:1483 C/goscaja.xml:1604 C/gospanel.xml:870 C/gospanel.xml:921
 msgid "Action"
-msgstr "მოქმედება"
+msgstr "ქმედება"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:132
 msgid "Definition"
-msgstr ""
+msgstr "აღწერილობა"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:139
 msgid "Click"
-msgstr ""
+msgstr "წკაპი"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:142
@@ -547,7 +548,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:148 C/gospanel.xml:409
 msgid "Left-click"
-msgstr ""
+msgstr "მარცხენა წკაპი"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:151
@@ -560,7 +561,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:158 C/gospanel.xml:415
 msgid "Middle-click"
-msgstr ""
+msgstr "შუა წკაპი"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:161
@@ -571,7 +572,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:167 C/gospanel.xml:422
 msgid "Right-click"
-msgstr ""
+msgstr "მარჯვენა-წკაპი"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:170
@@ -581,7 +582,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:176
 msgid "Double-click"
-msgstr ""
+msgstr "ორმაგი წკაპი"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:179
@@ -595,7 +596,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:188
 msgid "Click-and-drag"
-msgstr ""
+msgstr "დაწკაპინება-და-გადათრება"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:191
@@ -633,7 +634,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:219
 msgid "Click-and-hold"
-msgstr ""
+msgstr "წკაპი და გაჩერება"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:222
@@ -730,7 +731,7 @@ msgstr ""
 #. (itstool) path: info/titleabbrev
 #: C/gosbasic.xml:294
 msgid "Pointers"
-msgstr ""
+msgstr "მაჩვენებლები"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:299
@@ -1211,7 +1212,7 @@ msgstr ""
 #: C/gosbasic.xml:586 C/gosbasic.xml:714 C/gospanel.xml:1075 C/gostools.xml:98
 #: C/gostools.xml:153
 msgid "Function"
-msgstr ""
+msgstr "ფუნქცია"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:593
@@ -1507,7 +1508,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:923
 msgid "<keycap>F1</keycap>"
-msgstr ""
+msgstr "<keycap>F1</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:926
@@ -1526,7 +1527,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:945
 msgid "Keys"
-msgstr ""
+msgstr "ღილაკები"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:955
@@ -1551,7 +1552,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:972
 msgid "<keycap>F10</keycap>"
-msgstr ""
+msgstr "<keycap>F10</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:975
@@ -1571,7 +1572,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:990
 msgid "<keycap>Esc</keycap>"
-msgstr ""
+msgstr "<keycap>Esc</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:993
@@ -1688,7 +1689,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:32
 msgid "Personal"
-msgstr ""
+msgstr "პირადი"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:37
@@ -1917,7 +1918,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:140
 msgid "Accessibility"
-msgstr "_დამხმარე საშუალებები"
+msgstr "წვდომადობა"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:141
@@ -2050,7 +2051,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:209
 msgid "Look and Feel"
-msgstr ""
+msgstr "გარეგნობა"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:211
@@ -2067,7 +2068,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:216
 msgid "Theme,"
-msgstr ""
+msgstr "თემა,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:219
@@ -2077,12 +2078,12 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:222
 msgid "Fonts,"
-msgstr ""
+msgstr "ფონტები,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:225
 msgid "User Interface."
-msgstr ""
+msgstr "მომხმარებლის ინტერფეისი."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:229
@@ -2140,7 +2141,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:263
 msgid "Controls"
-msgstr "მმართველები"
+msgstr "მართვის ელემენტები"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:265
@@ -2170,7 +2171,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:276
 msgid "Colors"
-msgstr "ფერი"
+msgstr "ფერები"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:278
@@ -2538,7 +2539,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:517
 msgid "<guilabel>Style</guilabel>"
-msgstr ""
+msgstr "<guilabel>სტილი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:522
@@ -2586,7 +2587,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:550
 msgid "<guilabel>Add</guilabel>"
-msgstr ""
+msgstr "<guilabel>დამატება</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:556
@@ -2599,7 +2600,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:563
 msgid "<guilabel>Remove</guilabel>"
-msgstr ""
+msgstr "<guilabel>წაშლა</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:568
@@ -2613,7 +2614,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:574
 msgid "<guilabel>Colors</guilabel>"
-msgstr ""
+msgstr "<guilabel>ფერები</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:579
@@ -2834,7 +2835,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:692
 msgid "<guilabel>Rendering</guilabel>"
-msgstr ""
+msgstr "<guilabel>რენდერი</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:694
@@ -2879,7 +2880,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:723
 msgid "<guibutton>Details</guibutton>"
-msgstr ""
+msgstr "<guibutton>დეტალები</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:725
@@ -3308,7 +3309,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1020
 msgid "Internet and Network"
-msgstr ""
+msgstr "ინტერნეტი და ქსელი"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1022
@@ -3345,7 +3346,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1030
 msgid "<guilabel>Connections</guilabel>"
-msgstr ""
+msgstr "<guilabel>კავშირები</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1032
@@ -3356,7 +3357,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1037
 msgid "<guilabel>General</guilabel>"
-msgstr ""
+msgstr "<guilabel>ზოგადი</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1039
@@ -3366,7 +3367,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1044
 msgid "<guilabel>DNS</guilabel>"
-msgstr ""
+msgstr "<guilabel>DNS</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1046
@@ -3380,7 +3381,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1051
 msgid "<guilabel>Hosts</guilabel>"
-msgstr ""
+msgstr "<guilabel>ჰოსტები</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1053
@@ -3390,7 +3391,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1059 C/gospanel.xml:1605
 msgid "Usage"
-msgstr ""
+msgstr "გამოყენება"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1061
@@ -3876,7 +3877,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1322
 msgid "<guilabel>Password</guilabel>"
-msgstr ""
+msgstr "<guilabel>პაროლი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1327
@@ -3888,7 +3889,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1337
 msgid "Hardware"
-msgstr ""
+msgstr "აპარატურა"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1339 C/goscustdesk.xml:1381 C/goscustdesk.xml:1387
@@ -3954,7 +3955,7 @@ msgstr ""
 #: C/goscustdesk.xml:1418 C/goscustdesk.xml:1692 C/goscustdesk.xml:1719
 #: C/goscustdesk.xml:1903
 msgid "<guilabel>Delay</guilabel>"
-msgstr ""
+msgstr "<guilabel>დაყოვნება</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1423
@@ -3966,7 +3967,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1429 C/goscustdesk.xml:1450 C/goscustdesk.xml:1891
 msgid "<guilabel>Speed</guilabel>"
-msgstr ""
+msgstr "<guilabel>სიჩქარე</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1434
@@ -4600,7 +4601,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1881 C/goscustdesk.xml:2078
 msgid "<guilabel>Acceleration</guilabel>"
-msgstr ""
+msgstr "<guilabel>აჩქარება</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1886
@@ -4751,7 +4752,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2039
 msgid "<guilabel>Right-handed</guilabel>"
-msgstr ""
+msgstr "<guilabel>მარჯვენახელიანი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2044
@@ -4764,7 +4765,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2049
 msgid "<guilabel>Left-handed</guilabel>"
-msgstr ""
+msgstr "<guilabel>ცაცია</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2054
@@ -4807,7 +4808,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2089
 msgid "<guilabel>Sensitivity</guilabel>"
-msgstr ""
+msgstr "<guilabel>მგრძნობელობა</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2094
@@ -4819,7 +4820,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2100
 msgid "<guilabel>Threshold</guilabel>"
-msgstr ""
+msgstr "<guilabel>ზღვარი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2105
@@ -4831,7 +4832,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2112
 msgid "<guilabel>Timeout</guilabel>"
-msgstr ""
+msgstr "<guilabel>მოლოდინის ვადა</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2117
@@ -5084,7 +5085,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2333
 msgid "Monitors"
-msgstr ""
+msgstr "მონიტორები"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2334
@@ -5144,7 +5145,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2363
 msgid "<guilabel>Detect monitors</guilabel>"
-msgstr ""
+msgstr "<guilabel>ეკრანების აღმოჩენა</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2364
@@ -5190,7 +5191,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2387
 msgid "<guilabel>Resolution</guilabel>"
-msgstr ""
+msgstr "<guilabel>გარჩევადობა</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2388
@@ -5219,7 +5220,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2406
 msgid "<guilabel>Rotation</guilabel>"
-msgstr ""
+msgstr "<guilabel>ბრუნვა</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2407
@@ -5258,7 +5259,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2430
 msgid "<primary>volume</primary>"
-msgstr ""
+msgstr "<primary>ხმის დონე</primary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2433
@@ -5283,12 +5284,12 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2445
 msgid "<guilabel>Input</guilabel>"
-msgstr ""
+msgstr "<guilabel>შეყვანა</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2450
 msgid "<guilabel>Output</guilabel>"
-msgstr ""
+msgstr "<guilabel>გამოტანა</guilabel>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2455
@@ -6510,13 +6511,13 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:206 C/goscaja.xml:392
 msgid "Component"
-msgstr ""
+msgstr "კომპონენტი"
 
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
 #: C/goscaja.xml:216 C/goscaja.xml:402 C/gostools.xml:319
 msgid "Menubar"
-msgstr ""
+msgstr "მენიუს ზოლი"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:219 C/goscaja.xml:405
@@ -6547,7 +6548,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:237 C/goscaja.xml:535 C/goscaja.xml:2448
 msgid "Folders"
-msgstr ""
+msgstr "საქაღალდეები"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:240 C/goscaja.xml:538
@@ -6572,7 +6573,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:256 C/goscaja.xml:554
 msgid "Statusbar"
-msgstr ""
+msgstr "სტატუსის ზოლი"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:259 C/goscaja.xml:557
@@ -6845,7 +6846,7 @@ msgstr ""
 #: C/goscaja.xml:416 C/gostools.xml:378 C/gostools.xml:636 C/gostools.xml:660
 #: C/gostools.xml:684
 msgid "Toolbar"
-msgstr ""
+msgstr "ხელსაწყოების ზოლი"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:419
@@ -6957,7 +6958,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:483
 msgid "<guilabel>Places</guilabel>"
-msgstr ""
+msgstr "<guilabel>ადგილები</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:486
@@ -6967,7 +6968,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:489
 msgid "<guilabel>Information</guilabel>"
-msgstr ""
+msgstr "<guilabel>ინფორმაცია</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:492
@@ -6980,7 +6981,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:496
 msgid "<guilabel>Tree</guilabel>"
-msgstr ""
+msgstr "<guilabel>ხე</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:499
@@ -6992,7 +6993,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:503
 msgid "<guilabel>History</guilabel>"
-msgstr ""
+msgstr "<guilabel>ისტორია</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:506
@@ -7004,7 +7005,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:510
 msgid "<guilabel>Notes</guilabel>"
-msgstr ""
+msgstr "<guilabel>შენიშვნები</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:513
@@ -7014,7 +7015,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:516
 msgid "<guilabel>Emblems</guilabel>"
-msgstr ""
+msgstr "<guilabel>ემბლემები</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:519
@@ -7426,7 +7427,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:756 C/goscaja.xml:1480 C/goscaja.xml:1601
 msgid "Task"
-msgstr ""
+msgstr "ამოცანა"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:766
@@ -8276,12 +8277,12 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1216 C/goscaja.xml:3862 C/goscaja.xml:4001 C/gostools.xml:150
 msgid "Option"
-msgstr ""
+msgstr "პარამეტრი"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1226
 msgid "<guilabel>Manually</guilabel>"
-msgstr ""
+msgstr "<guilabel>ხელით</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1231
@@ -8486,7 +8487,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1377
 msgid "Button"
-msgstr ""
+msgstr "ღილაკი"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1380
@@ -8718,7 +8719,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1551
 msgid "note.*"
-msgstr ""
+msgstr "შენიშვნა.*"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1554
@@ -8728,7 +8729,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1559
 msgid "*.ogg"
-msgstr ""
+msgstr "*.ogg"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1562
@@ -8738,7 +8739,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1567
 msgid "*memo*"
-msgstr ""
+msgstr "*მემო*"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1570
@@ -8902,7 +8903,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1709
 msgid "<guimenuitem>Cancel</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>გაუქმება</guimenuitem>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1712
@@ -9518,7 +9519,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2044
 msgid "Property"
-msgstr ""
+msgstr "თვისება"
 
 #. (itstool) path: entry/para
 #. (itstool) path: varlistentry/term
@@ -9548,7 +9549,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2070 C/gospanel.xml:812 C/gospanel.xml:835
 msgid "Location"
-msgstr "ადგილმდებარეობა"
+msgstr "მდებარეობა"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2073
@@ -9560,7 +9561,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2078
 msgid "Volume"
-msgstr "ნაწილი"
+msgstr "ხმის დონე"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2081
@@ -9595,7 +9596,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2102
 msgid "Modified"
-msgstr ""
+msgstr "ცვლილების დრო"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2105
@@ -9605,7 +9606,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2110
 msgid "Accessed"
-msgstr ""
+msgstr "წვდომის დრო"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2113
@@ -9652,7 +9653,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2132
 msgid "Group"
-msgstr "ჯგუპი"
+msgstr "ჯგუფი"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2134
@@ -9679,7 +9680,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2146
 msgid "read"
-msgstr "კითხვა"
+msgstr "წაკითხვა"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2148
@@ -9709,7 +9710,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2158
 msgid "execute"
-msgstr ""
+msgstr "შესრულება"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2160
@@ -9789,7 +9790,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2199 C/goscaja.xml:2242
 msgid "None"
-msgstr "არა"
+msgstr "არცერთი"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2201
@@ -9967,7 +9968,7 @@ msgstr ""
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:2312
 msgid "<primary>notes</primary><secondary>deleting</secondary>"
-msgstr ""
+msgstr "<primary>შენიშვნები</primary><secondary>იშლება</secondary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:2312
@@ -10131,7 +10132,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2390 C/goscaja.xml:3735
 msgid "<guilabel>Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>სახელი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2395
@@ -10143,7 +10144,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2401
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>მდებარეობა</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2406
@@ -11442,7 +11443,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3130
 msgid "<guilabel>Port</guilabel>"
-msgstr ""
+msgstr "<guilabel>პორტი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3135
@@ -11454,7 +11455,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3141
 msgid "<guilabel>Folder</guilabel>"
-msgstr ""
+msgstr "<guilabel>საქაღალდე</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3146
@@ -11488,7 +11489,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3173
 msgid "<guilabel>Share</guilabel>"
-msgstr ""
+msgstr "<guilabel>გაზიარება</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3178
@@ -11639,7 +11640,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3264
 msgid "<command>burn:///</command>"
-msgstr ""
+msgstr "<command>burn:///</command>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3269
@@ -11652,7 +11653,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3275
 msgid "<command>network:///</command>"
-msgstr ""
+msgstr "<command>network:///</command>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3280
@@ -12091,7 +12092,7 @@ msgstr "ინფორმაცია"
 #: C/goscaja.xml:3595 C/goscaja.xml:3745 C/gospanel.xml:189
 #: C/gospanel.xml:1420
 msgid "<guilabel>Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>ზომა</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3600 C/goscaja.xml:3750
@@ -12101,7 +12102,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3605 C/goscaja.xml:3755
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>ტიპი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3610
@@ -12133,7 +12134,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3635 C/goscaja.xml:3818
 msgid "<guilabel>Owner</guilabel>"
-msgstr ""
+msgstr "<guilabel>მფლობელი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3640 C/goscaja.xml:3823
@@ -12143,7 +12144,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3645 C/goscaja.xml:3787
 msgid "<guilabel>Group</guilabel>"
-msgstr ""
+msgstr "<guilabel>ჯგუფი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3650 C/goscaja.xml:3792
@@ -12153,7 +12154,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3655 C/goscaja.xml:3828
 msgid "<guilabel>Permissions</guilabel>"
-msgstr ""
+msgstr "<guilabel>წვდომები</guilabel>"
 
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:3660 C/goscaja.xml:3833
@@ -12202,7 +12203,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3688
 msgid "<guilabel>None</guilabel>"
-msgstr ""
+msgstr "<guilabel>არცერთი</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3693
@@ -12309,7 +12310,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3872
 msgid "<guilabel>Always</guilabel>"
-msgstr ""
+msgstr "<guilabel>ყოველთვის</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3877
@@ -12330,7 +12331,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3893
 msgid "<guilabel>Never</guilabel>"
-msgstr ""
+msgstr "<guilabel>არასდროს</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3898
@@ -12653,7 +12654,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4159
 msgid "<guilabel>CAJA_SCRIPT_SELECTED_FILE_PATHS</guilabel>"
-msgstr ""
+msgstr "<guilabel>CAJA_SCRIPT_SELECTED_FILE_PATHS</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4164
@@ -12663,7 +12664,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4169
 msgid "<guilabel>CAJA_SCRIPT_SELECTED_URIS</guilabel>"
-msgstr ""
+msgstr "<guilabel>CAJA_SCRIPT_SELECTED_URIS</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4174
@@ -12673,7 +12674,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4179
 msgid "<guilabel>CAJA_SCRIPT_CURRENT_URI</guilabel>"
-msgstr ""
+msgstr "<guilabel>CAJA_SCRIPT_CURRENT_URI</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4184
@@ -12683,7 +12684,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4189
 msgid "<guilabel>CAJA_SCRIPT_WINDOW_GEOMETRY</guilabel>"
-msgstr ""
+msgstr "<guilabel>CAJA_SCRIPT_WINDOW_GEOMETRY</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4194
@@ -12708,7 +12709,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:4208
 msgid "caja-actions"
-msgstr ""
+msgstr "caja-actions"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:4209
@@ -12718,7 +12719,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:4212
 msgid "caja-send-to"
-msgstr ""
+msgstr "caja-send-to"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:4213
@@ -12730,7 +12731,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:4216
 msgid "caja-open-terminal."
-msgstr ""
+msgstr "caja-open-terminal."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:4217
@@ -12850,7 +12851,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:76 C/gosoverview.xml:327
 msgid "Workspaces"
-msgstr ""
+msgstr "სამუშაო სივრცეები"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:77
@@ -12949,7 +12950,7 @@ msgstr ""
 #. (itstool) path: para/interface
 #: C/gosoverview.xml:119
 msgid "Trash"
-msgstr "სანაგვე ყუთი"
+msgstr "ნაგავი"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:119
@@ -13773,7 +13774,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:446
 msgid "Drag-and-drop"
-msgstr ""
+msgstr "გადათრევა-დაგდება"
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:447
@@ -13921,7 +13922,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:488
 msgid "Find-as-you-type"
-msgstr ""
+msgstr "ძებნა-კრეფის-მიმდინარეობისას"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:489
@@ -14475,7 +14476,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:178
 msgid "<guilabel>Orientation</guilabel>"
-msgstr ""
+msgstr "<guilabel>ორიენტაცია</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:183
@@ -14492,7 +14493,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:199
 msgid "<guilabel>Expand</guilabel>"
-msgstr ""
+msgstr "<guilabel>გაფართოება</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:204
@@ -14505,7 +14506,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:209
 msgid "<guilabel>Autohide</guilabel>"
-msgstr ""
+msgstr "<guilabel>დამალვა</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:214
@@ -15178,7 +15179,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:654
 msgid "Applets"
-msgstr ""
+msgstr "აპლეტები"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:655
@@ -15244,7 +15245,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:692
 msgid "Launchers"
-msgstr ""
+msgstr "გამშვებები"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:695
@@ -15470,7 +15471,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:802
 msgid "Application"
-msgstr "პროგრამები"
+msgstr "აპლიკაცია"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:804
@@ -15577,7 +15578,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:877
 msgid "<command>pluma</command>"
-msgstr ""
+msgstr "<command>pluma</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:882
@@ -15611,7 +15612,7 @@ msgstr ""
 #. (itstool) path: para/indexterm
 #: C/gospanel.xml:910
 msgid "<primary>special URIs</primary><secondary>launchers</secondary>"
-msgstr ""
+msgstr "<primary>სპეციალური URI-ები</primary><secondary>გამშვებები</secondary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:908
@@ -15631,7 +15632,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:928
 msgid "<command>file:///home/user/loremipsum.txt</command>"
-msgstr ""
+msgstr "<command>file:///home/user/loremipsum.txt</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:933
@@ -15643,12 +15644,12 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:939
 msgid "<command>file:///home/user/Projects</command>"
-msgstr ""
+msgstr "<command>file:///home/user/Projects</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:949
 msgid "<command>https://mate-desktop.org</command>"
-msgstr ""
+msgstr "<command>https://mate-desktop.org</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:954
@@ -15658,7 +15659,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:959
 msgid "<command>ftp://ftp.mate-desktop.org</command>"
-msgstr ""
+msgstr "<command>ftp://ftp.mate-desktop.org</command>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:964
@@ -15872,7 +15873,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1105
 msgid "<guimenuitem>Properties</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>თვისებები</guimenuitem>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1110
@@ -16155,7 +16156,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1254
 msgid "Menus"
-msgstr ""
+msgstr "მენიუები"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1259
@@ -16227,7 +16228,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1298
 msgid "Drawers"
-msgstr ""
+msgstr "უჯრები"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1299
@@ -16423,7 +16424,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1430
 msgid "<guilabel>Icon</guilabel>"
-msgstr ""
+msgstr "<guilabel>ხატულა</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1435
@@ -16648,12 +16649,12 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1579
 msgid "State"
-msgstr ""
+msgstr "მდგომარეობა"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1580
 msgid "Indicates..."
-msgstr ""
+msgstr "მიუთითებს..."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1585
@@ -16749,7 +16750,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gospanel.xml:1626
 msgid "Preferences"
-msgstr "პარამეტრები"
+msgstr "მორგება"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1627
@@ -17329,12 +17330,12 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:288
 msgid "<primary>quit</primary>"
-msgstr ""
+msgstr "<primary>გასვლა</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:291
 msgid "<primary>shutdown</primary>"
-msgstr ""
+msgstr "<primary>გათიშვა</primary>"
 
 #. (itstool) path: section/para
 #: C/gosstartsession.xml:307
@@ -17620,7 +17621,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:160
 msgid "<command>--window</command>"
-msgstr ""
+msgstr "<command>--window</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:165
@@ -17630,7 +17631,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:170
 msgid "<command>--delay=<replaceable>seconds</replaceable></command>"
-msgstr ""
+msgstr "<command>--delay=<replaceable>წამი</replaceable></command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:175
@@ -17643,7 +17644,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:185
 msgid "<command>--include-border</command>"
-msgstr ""
+msgstr "<command>--include-border</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:190
@@ -17653,7 +17654,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:195
 msgid "<command>--remove-border</command>"
-msgstr ""
+msgstr "<command>--remove-border</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:200
@@ -17663,7 +17664,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:205
 msgid "<command>--border-effect=shadow</command>"
-msgstr ""
+msgstr "<command>--border-effect=shadow</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:210
@@ -17673,7 +17674,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:215
 msgid "<command>--border-effect=border</command>"
-msgstr ""
+msgstr "<command>--border-effect=border</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:220
@@ -17683,7 +17684,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:225
 msgid "<command>--interactive</command>"
-msgstr ""
+msgstr "<command>--interactive</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:230
@@ -17693,7 +17694,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gostools.xml:235
 msgid "<command>--help</command>"
-msgstr ""
+msgstr "<command>--help</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:240
@@ -17719,7 +17720,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gostools.xml:259
 msgid "<primary>Yelp</primary>"
-msgstr ""
+msgstr "<primary>Yelp</primary>"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:265
@@ -17817,7 +17818,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:324
 msgid "<guimenu>File</guimenu>"
-msgstr ""
+msgstr "<guimenu>ფაილი</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:327
@@ -17829,7 +17830,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:334
 msgid "<guimenu>Edit</guimenu>"
-msgstr ""
+msgstr "<guimenu>ჩასწორება</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:337
@@ -17840,7 +17841,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:343
 msgid "<guimenu>Go</guimenu>"
-msgstr ""
+msgstr "<guimenu>გადასვლა</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:346
@@ -17853,7 +17854,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:354
 msgid "<guimenu>Bookmarks</guimenu>"
-msgstr ""
+msgstr "<guimenu>სანიშნეები</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:357
@@ -17863,7 +17864,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:363
 msgid "<guimenu>Help</guimenu>"
-msgstr ""
+msgstr "<guimenu>დახმარება</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:366
@@ -17877,7 +17878,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:383
 msgid "<guibutton>Back</guibutton>"
-msgstr ""
+msgstr "<guibutton>უკან</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:386
@@ -17887,7 +17888,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:392
 msgid "<guibutton>Forward</guibutton>"
-msgstr ""
+msgstr "<guibutton>წინ</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:395
@@ -18463,7 +18464,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:814
 msgid "<guibutton>Open</guibutton>"
-msgstr ""
+msgstr "<guibutton>გახსნა</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:817
@@ -18473,7 +18474,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:823
 msgid "<guibutton>Rename</guibutton>"
-msgstr ""
+msgstr "<guibutton>სახელის გადარქმევა</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:826
@@ -18483,7 +18484,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:832
 msgid "<guibutton>Remove</guibutton>"
-msgstr ""
+msgstr "<guibutton>წაშლა</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:835
@@ -18556,7 +18557,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:878
 msgid "<option>file:</option>"
-msgstr ""
+msgstr "<option>ფაილი:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:881
@@ -18574,7 +18575,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:890
 msgid "<option>help:</option>"
-msgstr ""
+msgstr "<option>დახმარება:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:893
@@ -18605,7 +18606,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:906
 msgid "<option>man:</option>"
-msgstr ""
+msgstr "<option>სახელმძღვანელო:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:909
@@ -18626,7 +18627,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gostools.xml:918
 msgid "or"
-msgstr ""
+msgstr "ან"
 
 #. (itstool) path: listitem/screen
 #: C/gostools.xml:920
@@ -18639,7 +18640,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:926
 msgid "<option>info:</option>"
-msgstr ""
+msgstr "<option>ინფორმაცია:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:929
@@ -18682,7 +18683,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:952
 msgid "Scrollkeeper"
-msgstr ""
+msgstr "Scrollkeeper"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:953
@@ -18888,7 +18889,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:78 C/gosdconf.xml:182
 msgid "/org/mate/desktop/background/picture-filename"
-msgstr ""
+msgstr "/org/mate/desktop/background/picture-filename"
 
 #. (itstool) path: section/para
 #: C/gosdconf.xml:82 C/gosdconf.xml:186
@@ -18901,7 +18902,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:88 C/gosdconf.xml:191
 msgid "/org/mate/desktop/background/"
-msgstr ""
+msgstr "/org/mate/desktop/background/"
 
 #. (itstool) path: info/title
 #: C/gosdconf.xml:92 C/gosdconf.xml:195
@@ -19011,7 +19012,7 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/gosdconf.xml:144 C/gosdconf.xml:161 C/gosdconf.xml:254 C/gosdconf.xml:270
 msgid "Synopsis:"
-msgstr ""
+msgstr "მოკლე აღწერა:"
 
 #. (itstool) path: section/synopsis
 #: C/gosdconf.xml:147
@@ -19336,7 +19337,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:21
 msgid "enable"
-msgstr ""
+msgstr "enable"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:23 C/gosdconfkeys.xml:33 C/gosdconfkeys.xml:43
@@ -19347,38 +19348,38 @@ msgstr ""
 #: C/gosdconfkeys.xml:653 C/gosdconfkeys.xml:663 C/gosdconfkeys.xml:1205
 #: C/gosdconfkeys.xml:1215
 msgid "(b)"
-msgstr ""
+msgstr "(b)"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:31
 msgid "feature-state-change-beep"
-msgstr ""
+msgstr "feature-state-change-beep"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:41
 msgid "timeout-enable"
-msgstr ""
+msgstr "timeout-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:51
 msgid "timeout"
-msgstr ""
+msgstr "timeout"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:53 C/gosdconfkeys.xml:1225 C/gosdconfkeys.xml:1235
 #: C/gosdconfkeys.xml:1245 C/gosdconfkeys.xml:1265 C/gosdconfkeys.xml:1275
 msgid "(i)"
-msgstr ""
+msgstr "(i)"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:61
 msgid "bouncekeys-enable"
-msgstr ""
+msgstr "bouncekeys-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:71
 msgid "bouncekeys-delay"
-msgstr ""
+msgstr "bouncekeys-delay"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:73
@@ -19389,17 +19390,17 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:81
 msgid "bouncekeys-beep-reject"
-msgstr ""
+msgstr "bouncekeys-beep-reject"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:91
 msgid "mousekeys-enable"
-msgstr ""
+msgstr "mousekeys-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:101
 msgid "mousekeys-max-speed"
-msgstr ""
+msgstr "mousekeys-max-speed"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:103
@@ -19409,7 +19410,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:111
 msgid "mousekeys-accel-time"
-msgstr ""
+msgstr "mousekeys-accel-time"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:113
@@ -19419,7 +19420,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:121
 msgid "mousekeys-init-delay"
-msgstr ""
+msgstr "mousekeys-init-delay"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:123
@@ -19431,12 +19432,12 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:131
 msgid "slowkeys-enable"
-msgstr ""
+msgstr "slowkeys-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:141
 msgid "slowkeys-delay"
-msgstr ""
+msgstr "slowkeys-delay"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:143
@@ -19448,27 +19449,27 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:151
 msgid "slowkeys-beep-press"
-msgstr ""
+msgstr "slowkeys-beep-press"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:161
 msgid "slowkeys-beep-accept"
-msgstr ""
+msgstr "slowkeys-beep-accept"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:171
 msgid "slowkeys-beep-reject"
-msgstr ""
+msgstr "slowkeys-beep-reject"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:181
 msgid "stickykeys-enable"
-msgstr ""
+msgstr "stickykeys-enable"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:191
 msgid "stickykeys-latch-to-lock"
-msgstr ""
+msgstr "stickykeys-latch-to-lock"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:193
@@ -19480,7 +19481,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:201
 msgid "stickykeys-two-key-off"
-msgstr ""
+msgstr "stickykeys-two-key-off"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:203
@@ -19490,7 +19491,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:211
 msgid "stickykeys-modifier-beep"
-msgstr ""
+msgstr "stickykeys-modifier-beep"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:213
@@ -19500,7 +19501,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:221
 msgid "togglekeys-enable"
-msgstr ""
+msgstr "togglekeys-enable"
 
 #. (itstool) path: section/title
 #: C/gosdconfkeys.xml:233
@@ -19510,7 +19511,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:246
 msgid "exec-ats"
-msgstr ""
+msgstr "exec-ats"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:248
@@ -19529,7 +19530,7 @@ msgstr ""
 #: C/gosdconfkeys.xml:386 C/gosdconfkeys.xml:411 C/gosdconfkeys.xml:446
 #: C/gosdconfkeys.xml:481
 msgid "exec"
-msgstr ""
+msgstr "exec"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:273
@@ -19541,7 +19542,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:281 C/gosdconfkeys.xml:316
 msgid "startup"
-msgstr ""
+msgstr "startup"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:283
@@ -19582,7 +19583,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:351 C/gosdconfkeys.xml:421 C/gosdconfkeys.xml:456
 msgid "needs-term"
-msgstr ""
+msgstr "needs-term"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:353
@@ -19592,7 +19593,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:361
 msgid "nremote"
-msgstr ""
+msgstr "nremote"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:363
@@ -19654,7 +19655,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:491
 msgid "exec-arg"
-msgstr ""
+msgstr "exec-arg"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:493
@@ -19671,7 +19672,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:516
 msgid "draw-background"
-msgstr ""
+msgstr "draw-background"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:518
@@ -19681,7 +19682,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:526
 msgid "show-desktop-icons"
-msgstr ""
+msgstr "show-desktop-icons"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:528
@@ -19691,7 +19692,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:536
 msgid "background-fade"
-msgstr ""
+msgstr "background-fade"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:538
@@ -19703,7 +19704,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:546
 msgid "picture-options"
-msgstr ""
+msgstr "picture-options"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:548
@@ -19716,7 +19717,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:556
 msgid "picture-filename"
-msgstr ""
+msgstr "picture-filename"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:558
@@ -19726,7 +19727,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:566
 msgid "picture-opacity"
-msgstr ""
+msgstr "picture-opacity"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:568
@@ -19736,7 +19737,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:576
 msgid "primary-color"
-msgstr ""
+msgstr "primary-color"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:578
@@ -19746,7 +19747,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:586
 msgid "secondary-color"
-msgstr ""
+msgstr "secondary-color"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:588
@@ -19757,7 +19758,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:596
 msgid "color-shading-type"
-msgstr ""
+msgstr "color-shading-type"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:598
@@ -19774,27 +19775,27 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:621
 msgid "caja"
-msgstr ""
+msgstr "caja"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:631
 msgid "marco"
-msgstr ""
+msgstr "marco"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:641
 msgid "mate-session"
-msgstr ""
+msgstr "mate-session"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:651
 msgid "mate-settings-daemon"
-msgstr ""
+msgstr "mate-settings-daemon"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:661
 msgid "mate-panel"
-msgstr ""
+msgstr "mate-panel"
 
 #. (itstool) path: section/title
 #: C/gosdconfkeys.xml:673
@@ -19804,7 +19805,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:686 C/gosdconfkeys.xml:821
 msgid "icon-theme"
-msgstr ""
+msgstr "icon-theme"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:688
@@ -19819,7 +19820,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:711
 msgid "accessibility"
-msgstr ""
+msgstr "accessibility"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:713
@@ -19829,7 +19830,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:721
 msgid "enable-animations"
-msgstr ""
+msgstr "enable-animations"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:723
@@ -19841,7 +19842,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:731
 msgid "menus-have-tearoff"
-msgstr ""
+msgstr "menus-have-tearoff"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:733
@@ -19851,7 +19852,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:741
 msgid "toolbar-style"
-msgstr ""
+msgstr "toolbar-style"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:743
@@ -19861,7 +19862,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:751
 msgid "menus-have-icons"
-msgstr ""
+msgstr "menus-have-icons"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:753
@@ -19871,7 +19872,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:761
 msgid "buttons-have-icons"
-msgstr ""
+msgstr "buttons-have-icons"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:763
@@ -19882,7 +19883,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:771
 msgid "menubar-detachable"
-msgstr ""
+msgstr "menubar-detachable"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:773
@@ -19892,7 +19893,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:781
 msgid "toolbar-detachable"
-msgstr ""
+msgstr "toolbar-detachable"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:783
@@ -19902,7 +19903,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:791
 msgid "toolbar-icons-size"
-msgstr ""
+msgstr "toolbar-icons-size"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:793
@@ -19912,7 +19913,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:801
 msgid "cursor-blink"
-msgstr ""
+msgstr "cursor-blink"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:803
@@ -19922,7 +19923,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:811
 msgid "cursor-blink-time"
-msgstr ""
+msgstr "cursor-blink-time"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:813
@@ -19937,7 +19938,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:831
 msgid "gtk-theme"
-msgstr ""
+msgstr "gtk-theme"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:833 C/gosdconfkeys.xml:843
@@ -19947,12 +19948,12 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:841
 msgid "gtk-key-theme"
-msgstr ""
+msgstr "gtk-key-theme"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:851
 msgid "gtk-color-scheme"
-msgstr ""
+msgstr "gtk-color-scheme"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:853
@@ -19964,7 +19965,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:861
 msgid "font-name"
-msgstr ""
+msgstr "font-name"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:863
@@ -19974,7 +19975,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:871
 msgid "gtk-im-preedit-style"
-msgstr ""
+msgstr "gtk-im-preedit-style"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:873
@@ -19984,7 +19985,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:881
 msgid "gtk-im-status-style"
-msgstr ""
+msgstr "gtk-im-status-style"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:883
@@ -19994,7 +19995,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:891
 msgid "gtk-im-module"
-msgstr ""
+msgstr "gtk-im-module"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:893
@@ -20004,7 +20005,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:901
 msgid "gtk-dialogs-use-header"
-msgstr ""
+msgstr "gtk-dialogs-use-header"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:903
@@ -20018,7 +20019,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:911
 msgid "gtk-overlay-scrolling"
-msgstr ""
+msgstr "gtk-overlay-scrolling"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:913
@@ -20031,7 +20032,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:921
 msgid "gtk-enable-animations"
-msgstr ""
+msgstr "gtk-enable-animations"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:923
@@ -20041,7 +20042,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:931
 msgid "document-font-name"
-msgstr ""
+msgstr "document-font-name"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:933
@@ -20051,7 +20052,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:941
 msgid "monospace-font-name"
-msgstr ""
+msgstr "monospace-font-name"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:943
@@ -20063,7 +20064,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:951
 msgid "use-custom-font"
-msgstr ""
+msgstr "use-custom-font"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:953
@@ -20073,7 +20074,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:961
 msgid "status-bar-meter-on-right"
-msgstr ""
+msgstr "status-bar-meter-on-right"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:963
@@ -20083,7 +20084,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:971
 msgid "file-chooser-backend"
-msgstr ""
+msgstr "file-chooser-backend"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:973
@@ -20095,7 +20096,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:981
 msgid "menubar-accel"
-msgstr ""
+msgstr "menubar-accel"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:983
@@ -20105,7 +20106,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:991
 msgid "show-input-method-menu"
-msgstr ""
+msgstr "show-input-method-menu"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:993
@@ -20117,7 +20118,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1001
 msgid "show-unicode-menu"
-msgstr ""
+msgstr "show-unicode-menu"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1003
@@ -20129,7 +20130,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1011
 msgid "gtk-decoration-layout"
-msgstr ""
+msgstr "gtk-decoration-layout"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1013
@@ -20144,7 +20145,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1021
 msgid "gtk-shell-shows-app-menu"
-msgstr ""
+msgstr "gtk-shell-shows-app-menu"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1023
@@ -20158,7 +20159,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1031
 msgid "gtk-shell-shows-menubar"
-msgstr ""
+msgstr "gtk-shell-shows-menubar"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1033
@@ -20172,7 +20173,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1041
 msgid "automatic-mnemonics"
-msgstr ""
+msgstr "automatic-mnemonics"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1043
@@ -20184,7 +20185,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1051
 msgid "window-scaling-factor"
-msgstr ""
+msgstr "window-scaling-factor"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1053
@@ -20198,7 +20199,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1061
 msgid "window-scaling-factor-qt-sync"
-msgstr ""
+msgstr "window-scaling-factor-qt-sync"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1063
@@ -20212,7 +20213,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1071
 msgid "gtk-enable-primary-paste"
-msgstr ""
+msgstr "gtk-enable-primary-paste"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1073
@@ -20229,7 +20230,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1098
 msgid "disable-command-line"
-msgstr ""
+msgstr "disable-command-line"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1100
@@ -20242,7 +20243,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1108
 msgid "disable-save-to-disk"
-msgstr ""
+msgstr "disable-save-to-disk"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1110
@@ -20254,7 +20255,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1118
 msgid "disable-printing"
-msgstr ""
+msgstr "disable-printing"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1120
@@ -20266,7 +20267,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1128
 msgid "disable-print-setup"
-msgstr ""
+msgstr "disable-print-setup"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1130
@@ -20278,7 +20279,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1138
 msgid "disable-user-switching"
-msgstr ""
+msgstr "disable-user-switching"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1140
@@ -20290,7 +20291,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1148
 msgid "disable-lock-screen"
-msgstr ""
+msgstr "disable-lock-screen"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1150
@@ -20300,7 +20301,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1158
 msgid "disable-application-handlers"
-msgstr ""
+msgstr "disable-application-handlers"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1160
@@ -20310,7 +20311,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1168
 msgid "disable-theme-settings"
-msgstr ""
+msgstr "disable-theme-settings"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1170
@@ -20320,7 +20321,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1178
 msgid "disable-log-out"
-msgstr ""
+msgstr "disable-log-out"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1180
@@ -20335,32 +20336,32 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1203
 msgid "repeat"
-msgstr ""
+msgstr "repeat"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1213
 msgid "click"
-msgstr ""
+msgstr "click"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1223
 msgid "rate"
-msgstr ""
+msgstr "rate"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1233
 msgid "delay"
-msgstr ""
+msgstr "delay"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1243
 msgid "click-volume"
-msgstr ""
+msgstr "click-volume"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1253
 msgid "bell-mode"
-msgstr ""
+msgstr "bell-mode"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1255
@@ -20370,17 +20371,17 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1263
 msgid "bell-pitch"
-msgstr ""
+msgstr "bell-pitch"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1273
 msgid "bell-duration"
-msgstr ""
+msgstr "bell-duration"
 
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1283
 msgid "bell-custom-file"
-msgstr ""
+msgstr "bell-custom-file"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1285
@@ -20390,7 +20391,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1293
 msgid "remember-numlock-state"
-msgstr ""
+msgstr "remember-numlock-state"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1295
@@ -20402,7 +20403,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1303
 msgid "numlock-state"
-msgstr ""
+msgstr "numlock-state"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1305
@@ -20417,7 +20418,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1328
 msgid "left-handed"
-msgstr ""
+msgstr "left-handed"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1330
@@ -20427,7 +20428,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1338
 msgid "motion-acceleration"
-msgstr ""
+msgstr "motion-acceleration"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1340
@@ -20439,7 +20440,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1348
 msgid "motion-threshold"
-msgstr ""
+msgstr "motion-threshold"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1350
@@ -20451,7 +20452,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1358
 msgid "drag-threshold"
-msgstr ""
+msgstr "drag-threshold"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1360
@@ -20461,7 +20462,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1368
 msgid "double-click"
-msgstr ""
+msgstr "double-click"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1370
@@ -20471,7 +20472,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1378
 msgid "middle-button-enabled"
-msgstr ""
+msgstr "middle-button-enabled"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1380
@@ -20483,7 +20484,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1388
 msgid "locate-pointer"
-msgstr ""
+msgstr "locate-pointer"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1390
@@ -20495,7 +20496,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1398
 msgid "cursor-theme"
-msgstr ""
+msgstr "cursor-theme"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1400
@@ -20505,7 +20506,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1408
 msgid "cursor-size"
-msgstr ""
+msgstr "cursor-size"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1410
@@ -20520,7 +20521,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1433
 msgid "default-mixer-device"
-msgstr ""
+msgstr "default-mixer-device"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1435
@@ -20530,7 +20531,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1443
 msgid "default-mixer-tracks"
-msgstr ""
+msgstr "default-mixer-tracks"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1445
@@ -20540,7 +20541,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1453
 msgid "enable-esd"
-msgstr ""
+msgstr "enable-esd"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1455
@@ -20550,7 +20551,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1463
 msgid "event-sounds"
-msgstr ""
+msgstr "event-sounds"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1465
@@ -20560,7 +20561,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1473
 msgid "theme-name"
-msgstr ""
+msgstr "theme-name"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1475
@@ -20570,7 +20571,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1483
 msgid "input-feedback-sounds"
-msgstr ""
+msgstr "input-feedback-sounds"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1485
@@ -20585,7 +20586,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1508
 msgid "maximum-age"
-msgstr ""
+msgstr "maximum-age"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1510
@@ -20597,7 +20598,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1518
 msgid "maximum-size"
-msgstr ""
+msgstr "maximum-size"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1520
@@ -20614,7 +20615,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1543
 msgid "disable-all"
-msgstr ""
+msgstr "disable-all"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1545
@@ -20626,7 +20627,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1553
 msgid "disable"
-msgstr ""
+msgstr "disable"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1555
@@ -20643,7 +20644,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1578
 msgid "type-time"
-msgstr ""
+msgstr "type-time"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1580
@@ -20653,7 +20654,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1588
 msgid "break-time"
-msgstr ""
+msgstr "break-time"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1590
@@ -20663,7 +20664,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1598
 msgid "allow-postpone"
-msgstr ""
+msgstr "allow-postpone"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1600
@@ -20673,7 +20674,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosdconfkeys.xml:1608
 msgid "enabled"
-msgstr ""
+msgstr "enabled"
 
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:1610
@@ -20816,7 +20817,7 @@ msgstr "ლექსიკონი"
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:9
 msgid "applet"
-msgstr ""
+msgstr "აპლეტი"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:11
@@ -20829,7 +20830,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:18
 msgid "desktop"
-msgstr ""
+msgstr "სამუშაო მაგიდა"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:20
@@ -20874,7 +20875,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:45
 msgid "drawer"
-msgstr ""
+msgstr "უჯრა"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:47
@@ -20908,7 +20909,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:59
 msgid "format"
-msgstr ""
+msgstr "დაფორმატება"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:61
@@ -20957,7 +20958,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:88
 msgid "launcher"
-msgstr ""
+msgstr "გამშვები"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:90
@@ -20969,7 +20970,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:95
 msgid "menubar"
-msgstr ""
+msgstr "მენიუს ზოლი"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:97
@@ -20995,7 +20996,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:112
 msgid "mount"
-msgstr ""
+msgstr "მიმაგრება"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:114
@@ -21008,7 +21009,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:120
 msgid "pane"
-msgstr ""
+msgstr "პანელი"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:122
@@ -21055,7 +21056,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:147
 msgid "statusbar"
-msgstr ""
+msgstr "სტატუსის ზოლი"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:149
@@ -21080,7 +21081,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:162
 msgid "toolbar"
-msgstr ""
+msgstr "ხელსაწყოების ზოლი"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:164
@@ -21117,7 +21118,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:184
 msgid "view"
-msgstr ""
+msgstr "ხედი"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:186
@@ -21132,7 +21133,7 @@ msgstr ""
 #. (itstool) path: glossentry/glossterm
 #: C/glossary.xml:193
 msgid "workspace"
-msgstr ""
+msgstr "სამუშაო სივრცე"
 
 #. (itstool) path: glossdef/para
 #: C/glossary.xml:195
