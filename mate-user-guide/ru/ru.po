@@ -15,19 +15,23 @@
 # Sergej A. <Ser82-png@yandex.ru>, 2022
 # Olesya Gerasimenko <gammaray@basealt.ru>, 2022
 # Andrei Stepanov, 2023
-# 
+# "Sergey A." <Ser82-png@yandex.ru>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
-"PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Andrei Stepanov, 2023\n"
-"Language-Team: Russian (https://app.transifex.com/mate/teams/13566/ru/)\n"
+"PO-Revision-Date: 2026-06-21 14:10+0000\n"
+"Last-Translator: \"Sergey A.\" <Ser82-png@yandex.ru>\n"
+"Language-Team: Russian <https://translate.fedoraproject.org/projects/mate-"
+"desktop/help-documentation/mate-user-guide-content/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -50,6 +54,7 @@ msgstr ""
 "Влад Орлов <monsta@inbox.ru>\n"
 "Глеб Мехренин <mehrenin@gmail.com>\n"
 "Денис Арефьев <arefevdns@mail.ru>\n"
+"Дмитрий Астанков <mornie@basealt.ru>\n"
 "Дмитрий Мандрык <dmandryk@gmail.com>\n"
 "Дмитрий Мастрюков <dmitry@taurussoft.org>\n"
 "Дмитрий Михирев <mikhirev@gmail.com>\n"
@@ -58,7 +63,6 @@ msgstr ""
 "Константин Гусев <kilolife@gmail.com>\n"
 "Леонид Кантер <leon@asplinux.ru>\n"
 "Макс Валянский <max.valjanski@gmail.com>\n"
-"Олеся Герасименко <gammaray@basealt.ru>\n"
 "Павел Жовнер <zhovner@ukr.net>\n"
 "Сергей Колосов <m17.admin@gmail.com>\n"
 "Сергей Панов <sipan@mit.edu>\n"
@@ -2966,8 +2970,8 @@ msgid ""
 "dialog is displayed."
 msgstr ""
 "В инструменте настройки <application>Внешний вид</application> нажмите "
-"кнопку <guibutton>Сохранить как</guibutton>.  Появится диалог "
-"<guilabel>Сохранить тему как</guilabel>."
+"кнопку <guibutton>Сохранить как</guibutton>. Появится диалог <guilabel>"
+"Сохранить тему как</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:353
@@ -3182,9 +3186,8 @@ msgid ""
 "Choose an image from the list. Alternately, you can use the "
 "<guibutton>Add</guibutton> button to choose any image on your computer."
 msgstr ""
-"Выберите изображение из списка или воспользуйтесь кнопкой  "
-"<guibutton>Добавить</guibutton> для выбора любого изображения с вашего "
-"компьютера."
+"Выберите изображение из списка или воспользуйтесь кнопкой <guibutton>"
+"Добавить</guibutton> для выбора любого изображения с вашего компьютера."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:517
@@ -4553,13 +4556,13 @@ msgid ""
 "network. An <firstterm>IP address</firstterm> is a unique numeric identifier"
 " for a computer on a network."
 msgstr ""
-"Можно  настроить подключение к <firstterm>прокси-серверу</firstterm> в среде"
-" MATE и установить параметры прокси-сервера. Прокси-сервер — сервер, "
+"Можно настроить подключение к <firstterm>прокси-серверу</firstterm> в среде "
+"MATE и установить параметры прокси-сервера. Прокси-сервер — сервер, "
 "перехватывающий запрос к другому серверу и выполняющий его самостоятельно "
 "(при возможности). Можно ввести доменное имя или IP-адрес прокси-сервера. "
 "<firstterm>Доменное имя</firstterm> — уникальный буквенный идентификатор "
 "компьютера в сети. <firstterm>IP-адрес</firstterm> — уникальный цифровой "
-"идентификатор компьютера в сети. "
+"идентификатор компьютера в сети."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1176
@@ -4676,9 +4679,8 @@ msgid ""
 " number for the Socks protocol on the proxy server in the "
 "<guilabel>Port</guilabel> field."
 msgstr ""
-"Введите доменное имя или IP-адрес для использования при подключении к  "
-"Socks. Введите номер порта Socks на прокси-сервере в поле "
-"<guilabel>Порт</guilabel>."
+"Введите доменное имя или IP-адрес для использования при подключении к Socks. "
+"Введите номер порта Socks на прокси-сервере в поле <guilabel>Порт</guilabel>."
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1223
@@ -4833,7 +4835,7 @@ msgid ""
 "option provides an extra level of security."
 msgstr ""
 "<guilabel>Требовать от пользователя ввести следующий пароль</guilabel> — "
-"выберите этот параметр, чтобы  удалённым пользователям приходилось вводить "
+"выберите этот параметр, чтобы удалённым пользователям приходилось вводить "
 "пароль, если используется идентификация. Этот параметр позволяет повысить "
 "безопасность."
 
@@ -6108,7 +6110,7 @@ msgstr "Однократный щелчок основной кнопкой мы
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2151
 msgid "Double click"
-msgstr "Двойной щелчок:"
+msgstr "Двойной щелчок"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2153
@@ -6369,8 +6371,8 @@ msgid ""
 msgstr ""
 "На большинстве клавиатур ноутбука можно использовать комбинацию клавиш "
 "<keycombo><keycap>Fn</keycap><keycap>F7</keycap></keycombo>, чтобы "
-"переключаться между между несколькими типичными конфигурациями монитора без "
-"открытия окна<application>Параметры монитора</application>."
+"переключаться между несколькими типичными конфигурациями монитора без "
+"открытия окна <application>Параметры монитора</application>."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2344
@@ -6571,7 +6573,7 @@ msgid ""
 "devices and volume for sound input and output. You can also specify which "
 "sounds to play when particular events occur."
 msgstr ""
-"Инструмент настройки <application>Звук</application> позволяет управлять  "
+"Инструмент настройки <application>Звук</application> позволяет управлять "
 "устройствами, звуковыми входами и выходами. Также можно выбрать звуки, "
 "которые следует воспроизводить при определённых событиях."
 
@@ -7033,10 +7035,10 @@ msgid ""
 "session, the applications start automatically, with the saved settings."
 msgstr ""
 "Выберите этот параметр, если требуется, чтобы диспетчер сеансов сохранял "
-"состояние состояние сеанса при выходе из системы. Диспетчер сеансов "
-"сохраняет открытые приложения сеанса и связанные с ними параметры при выходе"
-" из системы. В следующий раз при входе в сеанс эти приложения будут запущены"
-" автоматически и их состояние будет восстановлено."
+"состояние сеанса при выходе из системы. Диспетчер сеансов сохраняет открытые "
+"приложения сеанса и связанные с ними параметры при выходе из системы. В "
+"следующий раз при входе в сеанс эти приложения будут запущены автоматически "
+"и их состояние будет восстановлено."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2746
@@ -7141,9 +7143,9 @@ msgstr ""
 "Чтобы добавить автоматически запускаемое приложение, нажмите кнопку "
 "<guibutton>Добавить</guibutton>. Откроется диалоговое окно <guilabel>Новая "
 "автоматически запускаемая программа</guilabel>. Введите название приложения "
-"в поле <guilabel>Имя</guilabel>.Затем введите команду для запуска приложения"
-" в поле <guilabel>Команда</guilabel>. Также можно ввести дополнительную "
-"информацию в поле <guilabel>Комментарий</guilabel>."
+"в поле <guilabel>Имя</guilabel>.Затем введите команду для запуска приложения "
+"в поле <guilabel>Команда</guilabel>. Также можно ввести дополнительную "
+"информацию в поле <guilabel>Комментарий</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2813
@@ -7877,7 +7879,7 @@ msgstr ""
 "открытых окон. С другой стороны, некоторые пользователи считают, что с "
 "файлами и папками легче работать, когда они представлены как реальные "
 "объекты с собственными расположениями. Подробнее об использовании "
-"пространственного режима смотрите <xref linkend=\"caja-spatial-mode\"/>."
+"пространственного режима смотрите <xref linkend=\"caja-spatial-mode\"/>"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:118 C/goscaja.xml:179
@@ -7990,8 +7992,8 @@ msgid ""
 "Select the folder, and press <keycombo><keycap>Alt</keycap><keycap>down "
 "arrow</keycap></keycombo>"
 msgstr ""
-"Выделите папку и нажмите <keycombo><keycap>Alt</keycap><keycap>стрелка "
-"вниз</keycap></keycombo>."
+"Выделите папку и нажмите <keycombo><keycap>Alt</keycap><keycap>стрелка вниз</"
+"keycap></keycombo>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:157
@@ -9589,9 +9591,9 @@ msgid ""
 "to execute the default action. For more information, see <xref "
 "linkend=\"goscaja-56\"/>."
 msgstr ""
-"Можно установить параметры диспетчера файлов таким образом, чтобы выполнять"
-"  действие по умолчанию однократным щелчком по файлу. Более подробные "
-"сведения доступны по ссылке <xref linkend=\"goscaja-56\"/>."
+"Можно установить параметры диспетчера файлов таким образом, чтобы выполнять "
+"действие по умолчанию однократным щелчком по файлу. Более подробные сведения "
+"доступны по ссылке <xref linkend=\"goscaja-56\"/>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:906
@@ -10019,8 +10021,8 @@ msgid ""
 "<filename>/etc</filename> - configuration files, startup scripts, "
 "<emphasis>etc</emphasis>..."
 msgstr ""
-"<filename>/etc</filename> — конфигурационные файлы, сценарии загрузки и тому"
-" подобное"
+"<filename>/etc</filename> — конфигурационные файлы, сценарии загрузки "
+"<emphasis>и тому подобное</emphasis>..."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1076
@@ -10527,9 +10529,8 @@ msgid ""
 "<menuchoice><guimenu>View</guimenu><guisubmenu>Visible "
 "Columns</guisubmenu></menuchoice>"
 msgstr ""
-"Чтобы добавить или удалить столбцы из списка, выберите "
-"<menuchoice><guimenu>Вид</guimenu><guisubmenu>Изменить видимые "
-"столбцы</guisubmenu></menuchoice>."
+"Чтобы добавить или удалить столбцы из списка, выберите <menuchoice><guimenu>"
+"Вид</guimenu><guisubmenu>Изменить видимые столбцы</guisubmenu></menuchoice>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1339
@@ -10750,12 +10751,12 @@ msgid ""
 "View to Defaults</guimenuitem></menuchoice>."
 msgstr ""
 "Диспетчер файлов запоминает размер объектов в каждой папке. В следующий раз "
-"при показе папки объекты будут иметь тот размер, который вы выбрали. Другими"
-" словами, когда вы изменяете размер объектов в папке, вы настраиваете эту "
+"при показе папки объекты будут иметь тот размер, который вы выбрали. Другими "
+"словами, когда вы изменяете размер объектов в папке, вы настраиваете эту "
 "папку на отображение объектов в выбранном размере. Чтобы вернуть объектам "
-"размер по умолчанию, указанный в ваших параметрах, выберите "
-"<menuchoice><guimenu>Вид</guimenu><guimenuitem>Сбросить параметры "
-"просмотра</guimenuitem></menuchoice>. "
+"размер по умолчанию, указанный в ваших параметрах, выберите <menuchoice>"
+"<guimenu>Вид</guimenu><guimenuitem>Сбросить параметры просмотра</guimenuitem>"
+"</menuchoice>."
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1463
@@ -10922,7 +10923,7 @@ msgstr "*.ogg"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1562
 msgid "This pattern would match all files with the .ogg extension"
-msgstr "Этому шаблону соответствуют все файлы с расширением «.ogg»."
+msgstr "Этому шаблону соответствуют все файлы с расширением «.ogg»"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1567
@@ -12164,9 +12165,9 @@ msgid ""
 "<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
 " The <xref linkend=\"caja-properties\"/> for the item is displayed."
 msgstr ""
-"Выберите <menuchoice><guimenu>Файл</guimenu> "
-"<guimenuitem>Свойства</guimenuitem></menuchoice>.  Для  этого объекта будет "
-"показано <xref linkend=\"caja-properties\"/>."
+"Выберите <menuchoice><guimenu>Файл</guimenu> <guimenuitem>Свойства</"
+"guimenuitem></menuchoice>. Для этого объекта будет показано <xref "
+"linkend=\"caja-properties\"/>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2191 C/goscaja.xml:2234
@@ -12853,7 +12854,7 @@ msgstr "скрытые файлы, чьи имена начинаются с т�
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2517
 msgid "Backup files, whose filename ends with a tilde (~)"
-msgstr "резервные файлы, чьи имена оканичваются тильдой (~);"
+msgstr "резервные файлы, чьи имена оканчиваются тильдой (~);"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2518
@@ -13019,7 +13020,8 @@ msgid ""
 "Choose <menuchoice> "
 "<guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
 msgstr ""
-"Выберите<menuchoice><guimenu>Файл</guimenu><guimenuitem>Свойства</guimenuitem></menuchoice>"
+"Выберите<menuchoice><guimenu>Файл</guimenu><guimenuitem>Свойства</"
+"guimenuitem></menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2568
@@ -13755,11 +13757,10 @@ msgid ""
 "eject the media manually."
 msgstr ""
 "Для извлечения носителя щёлкните правой кнопкой мыши по значку в виде "
-"носителя на рабочем столе, затем выберите "
-"<guimenuitem>Извлечь</guimenuitem>. Если устройство чтения носителя "
-"моторизовано, носитель будет извлечен из устройства. Если устройство не "
-"моторизовано, подождите, пока не исчезнет значок носителя с рабочего стола, "
-"затем извлеките носитель. "
+"носителя на рабочем столе, затем выберите <guimenuitem>Извлечь</guimenuitem>"
+". Если устройство чтения носителя моторизовано, носитель будет извлечен из "
+"устройства. Если устройство не моторизовано, подождите, пока не исчезнет "
+"значок носителя с рабочего стола, затем извлеките носитель."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2924
@@ -15118,8 +15119,8 @@ msgid ""
 "<computeroutput>-rwxrw-r--</computeroutput>."
 msgstr ""
 "<_:indexterm-1/>Выберите этот параметр для отображения разрешений на объект "
-"в виде трёх набора из трёх символов, например "
-"<computeroutput>-rwxrw-r--</computeroutput>"
+"в виде трёх набора из трёх символов, например <computeroutput>-rwxrw-r--</"
+"computeroutput>."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3667 C/goscaja.xml:3807
@@ -15510,7 +15511,7 @@ msgid ""
 msgstr ""
 "Для настройки обработки других форматов медиа, сначала выберите формат из "
 "раскрывающегося списка <guilabel>Тип</guilabel>, затем выберите способ "
-"обработки этого формата из списка <guilabel>Действие</guilabel>. "
+"обработки этого формата из списка <guilabel>Действие</guilabel>."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:4059
@@ -15672,13 +15673,12 @@ msgid ""
 "Files</guimenuitem></menuchoice>"
 msgstr ""
 "Чтобы просмотреть содержимое вашей папки сценариев, если у вас уже есть "
-"установленные сценарии, выберите "
-"<menuchoice><guimenu>Файл</guimenu><guisubmenu>Сценарии</guisubmenu><guimenuitem>Открыть"
-" папку сценариев</guimenuitem></menuchoice>. Если же у вас ещё нет "
-"сценариев, вам придётся вручную перейти к этой папке с помощью диспетчера "
-"файлов. Для этого вам может понадобиться увидеть скрытые файлы; используйте "
-"<menuchoice><guimenu>Вид</guimenu><guimenuitem>Показывать скрытые "
-"файлы</guimenuitem></menuchoice>."
+"установленные сценарии, выберите <menuchoice><guimenu>Файл</guimenu>"
+"<guisubmenu>Сценарии</guisubmenu><guimenuitem>Открыть папку сценариев</"
+"guimenuitem></menuchoice>. Если же у вас ещё нет сценариев, вам придётся "
+"вручную перейти к этой папке с помощью диспетчера файлов. Для этого вам "
+"может понадобиться увидеть скрытые файлы; используйте <menuchoice><guimenu>"
+"Вид</guimenu><guimenuitem>Показывать скрытые файлы</guimenuitem></menuchoice>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:4135
@@ -15916,10 +15916,10 @@ msgid ""
 "and the bottom panel shows you the list of open windows and the workspace "
 "switcher."
 msgstr ""
-"Панели — две полоски, одна в  самом верху и одна в самом низу экрана. По "
-"умолчанию кнопка классического меню MATE находится на верхней панели, там же"
-" отображается дата, время и кнопки запуска приложений, на нижней панели "
-"находится список открытых окон и переключатель рабочих мест."
+"<firstterm>Панели</firstterm> — две полоски, одна в самом верху и одна в "
+"самом низу экрана. По умолчанию кнопка классического меню MATE находится на "
+"верхней панели, там же отображается дата, время и кнопки запуска приложений, "
+"на нижней панели находится список открытых окон и переключатель рабочих мест."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:58
@@ -17130,11 +17130,11 @@ msgid ""
 msgstr ""
 "Приложения, поставляемые с окружением MATE имеют много похожих функций, "
 "таких как похожие диалоги открытия и сохранения, значки выглядящие похожим "
-"образом. Это обусловлено тем, что они разработаны с использованием платформы"
-" разработки MATE.  Приложение разработанное с использованием этой платформы "
+"образом. Это обусловлено тем, что они разработаны с использованием платформы "
+"разработки MATE. Приложение разработанное с использованием этой платформы "
 "называется <firstterm>MATE-совместимое приложение</firstterm>. Например, "
-"<application>Caja</application> и текстовый редактор "
-"<application>Pluma</application> — MATE-совместимые приложения."
+"<application>Caja</application> и текстовый редактор <application>Pluma</"
+"application> — MATE-совместимые приложения."
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:426
@@ -17458,11 +17458,11 @@ msgid ""
 "<guilabel>Location</guilabel> field."
 msgstr ""
 "Вы можете ввести полный или относительны путь к файлу, который хотите "
-"открыть. Нажмите <keycombo><keycap>Ctrl</keycap> <keycap>L</keycap> "
-"</keycombo> или нажмите кнопку вверху слева в окне для отображения (или "
+"открыть. Нажмите <keycombo><keycap>Ctrl</keycap> <keycap>L</keycap> </"
+"keycombo> или нажмите кнопку вверху слева в окне для отображения (или "
 "скрытия) поля <guilabel>Расположение</guilabel>. Либо Вы можете начать "
 "печатать полный путь начав с <filename>/</filename> для появления поля "
-"<guilabel>Расположение</guilabel>. "
+"<guilabel>Расположение</guilabel>."
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:499
@@ -17517,8 +17517,8 @@ msgid ""
 "<guilabel>Location</guilabel> field."
 msgstr ""
 "Вы можете открыть файлы, находящиеся в разных расположениях, выбрав "
-"расположение на левой панели, или вписав путь к расположению в "
-"поле<guilabel>Расположение</guilabel>. "
+"расположение на левой панели, или вписав путь к расположению в поле<guilabel>"
+"Расположение</guilabel>."
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:508
@@ -18150,7 +18150,7 @@ msgstr ""
 "Выберите этот параметр, чтобы панель была полностью видна только при "
 "наведении указателя мыши. Панель прячется за экран вдоль широкой стороны "
 "экрана, оставляя узкую часть видимой на краю рабочего стола. Наведите "
-"указатель мыши на видимую часть панели, чтобы она выдвинулась. "
+"указатель мыши на видимую часть панели, чтобы она выдвинулась."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:219 C/gospanel.xml:1442
@@ -19116,9 +19116,9 @@ msgid ""
 " MATE Desktop contains special URIs that enable you to access particular "
 "functions from the file manager. <_:indexterm-1/>"
 msgstr ""
-"Откройте специальные <firstterm>универсальные идентификаторы "
-"ресурсов</firstterm> (URI). В среде MATE есть специальные URI, позволяющие "
-"получить доступ к определённым функциям из диспетчера файлов."
+"Откройте специальные <firstterm>универсальные идентификаторы ресурсов</"
+"firstterm> (URI). В среде MATE есть специальные URI, позволяющие получить "
+"доступ к определённым функциям из диспетчера файлов. <_:indexterm-1/>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:724
@@ -19393,8 +19393,8 @@ msgid ""
 msgstr ""
 "Для кнопки запуска, открывающей расположение, укажите расположение, которое "
 "будет открыто. Нажмите <guibutton>Обзор</guibutton> для выбора расположения "
-"на Вашем компьютере или введите веб-адрес для открытия веб-страницы. Примеры"
-" расположений см. <xref linkend=\"launchers-properties-commands\"/>."
+"на Вашем компьютере или введите веб-адрес для открытия веб-страницы. Примеры "
+"расположений см. <xref linkend=\"launchers-properties-commands\"/>"
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:843
@@ -19408,7 +19408,7 @@ msgid ""
 "panel."
 msgstr ""
 "Это то, что будет показано во всплывающей подсказке при наведении указателя "
-"мыши на  кнопку запуска на панели."
+"мыши на кнопку запуска на панели."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:851
@@ -19444,7 +19444,7 @@ msgid ""
 msgstr ""
 "Если вы выберете <guilabel>Приложение</guilabel> или <guilabel>Приложение в "
 "терминале</guilabel> из раскрывающегося списка <guilabel>Тип</guilabel>, "
-"<guilabel>Команда</guilabel>  будет отображена в поле ввода. В следующей "
+"<guilabel>Команда</guilabel> будет отображена в поле ввода. В следующей "
 "таблице приведены примеры команд и действий, которые выполняют команды:"
 
 #. (itstool) path: entry/para
@@ -19506,10 +19506,9 @@ msgid ""
 "launcher:<_:indexterm-1/>"
 msgstr ""
 "Если выберете <guilabel>Расположение</guilabel> из раскрывающегося списка "
-"<guilabel>Тип</guilabel>, появится поле ввода "
-"<guilabel>Расположение</guilabel>. Следующая таблица показывает некоторые "
-"примеры расположений и действий, которые произойдут при нажатии кнопки "
-"запуска:"
+"<guilabel>Тип</guilabel>, появится поле ввода <guilabel>Расположение</"
+"guilabel>. Следующая таблица показывает некоторые примеры расположений и "
+"действий, которые произойдут при нажатии кнопки запуска:<_:indexterm-1/>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:918
@@ -19729,8 +19728,8 @@ msgid ""
 "activates your screensaver when you click on it. To access your session "
 "again, you must enter your password."
 msgstr ""
-"Кнопка <guibutton>Блокировка экрана</guibutton> блокирует экран и активирует"
-" скринсейвер. Для получения доступа к системе потребуется ввести  пароль."
+"Кнопка <guibutton>Блокировка экрана</guibutton> блокирует экран и активирует "
+"скринсейвер. Для получения доступа к системе потребуется ввести пароль."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1060
@@ -20501,10 +20500,9 @@ msgid ""
 "Choose an icon from the dialog and click <guibutton>OK</guibutton> to "
 "confirm your choice."
 msgstr ""
-"Выберите значок для отображения ящика. Нажмите кнопку  "
-"<guibutton>Значок</guibutton> для отображения диалога выбора значка. "
-"Выберите значок из диалога и нажмите <guibutton>ОК</guibutton> для "
-"подтверждения выбора."
+"Выберите значок для отображения ящика. Нажмите кнопку <guibutton>Значок</"
+"guibutton> для отображения диалога выбора значка. Выберите значок из диалога "
+"и нажмите <guibutton>ОК</guibutton> для подтверждения выбора."
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:1447
@@ -21564,10 +21562,10 @@ msgid ""
 "available in this dialog."
 msgstr ""
 "Для редактирования существующей автозапускаемой программы, выберите ее из "
-"списка автозапускаемых программ и нажмите "
-"<guibutton>Редактировать</guibutton>. Появится диалог, позволяющий изменить "
-"свойства программы. Для более подробной информации о настройках, доступных в"
-" диалоге см. <xref linkend=\"gosstartsession-212\"/>"
+"списка автозапускаемых программ и нажмите <guibutton>Редактировать</"
+"guibutton>. Появится диалог, позволяющий изменить свойства программы. Для "
+"более подробной информации о настройках, доступных в диалоге см. <xref "
+"linkend=\"gosstartsession-212\"/>."
 
 #. (itstool) path: info/title
 #: C/gosstartsession.xml:260
@@ -22035,7 +22033,7 @@ msgstr "<command>--border-effect=shadow</command>"
 #. (itstool) path: entry/para
 #: C/gostools.xml:210
 msgid "Takes a screenshot and adds a shadow bevel effect around it."
-msgstr "Делает снимок экрана  и добавляет эффект теневого скоса вокруг него."
+msgstr "Делает снимок экрана и добавляет эффект теневого скоса вокруг него."
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:215
@@ -22082,9 +22080,9 @@ msgstr ""
 "При получении снимка экрана открывается диалог <guilabel>Сохранить снимок "
 "экрана</guilabel>. Для сохранения снимка в виде изображения введите имя "
 "файла снимка, выберите расположение из раскрывающегося списка и нажмите "
-"кнопку <guilabel>Сохранить</guilabel>. Также можно нажать кнопку "
-"<guilabel>Копировать в буфер обмена</guilabel>, чтобы скопировать "
-"изображение, или передать его в другое приложение путём перетаскивания. "
+"кнопку <guilabel>Сохранить</guilabel>. Также можно нажать кнопку <guilabel>"
+"Копировать в буфер обмена</guilabel>, чтобы скопировать изображение, или "
+"передать его в другое приложение путём перетаскивания."
 
 #. (itstool) path: info/title
 #: C/gostools.xml:258
@@ -22358,8 +22356,7 @@ msgstr "Используйте содержание для поиска нужн
 #: C/gostools.xml:445
 msgid ""
 "You can drag a Docbook XML file from Caja to the Yelp window or launcher."
-msgstr ""
-"Вы можете перетянуть  Docbook XML файл из Caja в окно Yelp или в ланчер."
+msgstr "Вы можете перетянуть Docbook XML файл из Caja в окно Yelp или в ланчер."
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:448
@@ -22940,7 +22937,9 @@ msgstr ""
 msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref "
 "linkend=\"yelp-edit-bookmarks\"/>."
-msgstr "<_:itemizedlist-1/>Появится окно, которое выглядит следующим образом"
+msgstr ""
+"<_:itemizedlist-1/>Появится окно, которое выглядит следующим образом <xref "
+"linkend=\"yelp-edit-bookmarks\"/>."
 
 #. (itstool) path: info/title
 #. (itstool) path: para/interface
@@ -22968,7 +22967,7 @@ msgid ""
 "<_:figure-1/>You can manage your bookmarks using this window in the "
 "following ways:"
 msgstr ""
-"<_:figure-1/>Вы можете управлять закладками используя это окно следующими  "
+"<_:figure-1/>Вы можете управлять закладками используя это окно следующими "
 "способами:"
 
 #. (itstool) path: varlistentry/term
@@ -23023,8 +23022,8 @@ msgid ""
 "To get help to use <application>Yelp Help Browser</application> (and see "
 "this document):"
 msgstr ""
-"Сведения об использовании программы можно получить, используя "
-"<application>Yelp</application> (и посмотреть в этом документе): "
+"Сведения об использовании программы можно получить, используя <application>"
+"Yelp</application> (и посмотреть в этом документе):"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:850
@@ -23243,7 +23242,7 @@ msgid ""
 "the table of contents for DocBook and HTML documentation, and also keep "
 "track of translations for each document."
 msgstr ""
-"<application>Программа просмотра справки  Yelp</application> использует "
+"<application>Программа просмотра справки Yelp</application> использует "
 "Scrollkeeper, чтобы создавать перечень документации в форматах DocBook и "
 "HTML, а также для отслеживания переводов каждого документа на различные "
 "языки."
@@ -23651,7 +23650,7 @@ msgid ""
 "line tool, run the following command:"
 msgstr ""
 "Чтобы прочитать значение ключа dconf с помощью утилиты командной строки "
-"<command>dconf</command>, выполните следующую команду: "
+"<command>dconf</command>, выполните следующую команду:"
 
 #. (itstool) path: section/screen
 #: C/gosdconf.xml:142
@@ -24371,7 +24370,7 @@ msgstr "(s) Приложение календаря по умолчанию"
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:423
 msgid "(b) Whether the default calendar application needs a terminal to run"
-msgstr "(b) Требуется ли приложению календаря по умолчанию терминал."
+msgstr "(b) Требуется ли приложению календаря по умолчанию терминал"
 
 #. (itstool) path: section/title
 #: C/gosdconfkeys.xml:433
@@ -24386,7 +24385,7 @@ msgstr "(s) Диспетчер задач по умолчанию"
 #. (itstool) path: listitem/para
 #: C/gosdconfkeys.xml:458
 msgid "(b) Whether the default tasks application needs a terminal to run"
-msgstr "(b) Требуется ли диспетчеру задач по умолчанию терминал."
+msgstr "(b) Требуется ли диспетчеру задач по умолчанию терминал"
 
 #. (itstool) path: section/title
 #: C/gosdconfkeys.xml:468
@@ -25698,7 +25697,7 @@ msgid ""
 msgstr ""
 "Если вы захотите создать pull request в наш репозиторий <link "
 "xlink:href=\"https://github.com/mate-desktop\">GitHub</link>, то это всегда "
-"приветствуется!"
+"приветствуется."
 
 #. (itstool) path: section/para
 #: C/gosfeedback.xml:75
